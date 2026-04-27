@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reactor-mcp": {
+      "type": "http",
+      "url": "https://switchboard.sure-bear-21.vetra.io/mcp"
+    }
+  }
+}

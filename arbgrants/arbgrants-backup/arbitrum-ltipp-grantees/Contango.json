@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no change",
+        "lessons": "No lesson learnt :)",
+        "avgDailyTVL": 35000000,
+        "avgDailyTXNS": 145,
+        "avgDailyUniqueUsers": 35
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Nothing happened this two weeks.",
+        "incentives": "",
+        "arbReceived": 220000,
+        "arbUtilized": 0,
+        "disclosures": "Nothing happened this two weeks.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "35519a1b-3c55-4894-8d0a-6a53b2f45fa3",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "This is the first biweekly period of the LTIPP campaign and given the delay with which it started, no ARB was disbursed (we marked \"1 ARB\" above because \"0\" was not an option).",
+        "expectations": "We expect to launch on the 20th of June.",
+        "arbToBeDistributed": 1,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Number of ADUU increased by 79% compared to the baseline. Number of ADT increased 73%",
+        "lessons": "Nothing relevant.",
+        "avgDailyTVL": 40000000,
+        "avgDailyTXNS": 141,
+        "avgDailyUniqueUsers": 64
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "These two weeks the OI on Arbitrum stayed around the same levels, as the new LTIPP rewards led to more open positions that were however offset by the closure of existing PT positions (which constituted a decent chunk of OI on Arbitrum). Number of unique users increased by 79% over the past 2 weeks.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 44000,
+        "disclosures": "None",
+        "arbRemaining": -220000,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "These are the first two weeks where rewards were accrued to users. It's 22000 ARB per week so 44000 every two weeks.",
+        "expectations": "We expect to start seeing an uptick in activity over the next period, altought Arbitrum was already our top L2 in terms of OI and Volumes.",
+        "arbToBeDistributed": 44000,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "ADUU numbers dropped a bit (-19%), but OI and Volumes kept growing. ADT numbers remained constant (-3%).",
+        "lessons": "Nothing relevant",
+        "avgDailyTVL": 55000000,
+        "avgDailyTXNS": 137,
+        "avgDailyUniqueUsers": 52
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "These two weeks the OI on Arbitrum grew substantially, as the new LTIPP rewards led to more open positions. The number of unique users decreased by 19%.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 44000,
+        "disclosures": "None",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "This is the second distribution period where rewards were accrued to users. It's 22000 ARB per week so 44000 every two weeks.",
+        "expectations": "We expect the uptick in activity to keep occurring over the next period, thought other L2s (Optimism and Base) are currently being incentivized on Contango",
+        "arbToBeDistributed": 44000,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "ADUU numbers grew by 31%. ADT numbers spiked by 456% due to a bot influx.",
+        "lessons": "None",
+        "avgDailyTVL": 85000000,
+        "avgDailyTXNS": 884,
+        "avgDailyUniqueUsers": 68
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "These two weeks the OI on Arbitrum kept growing. We experienced an influx of bots, which made the n. of daily tx spike, although this didn't really have an impact on OI and volume, meaning these bots were likely trying to farm Contango points. These txns stopped a few days later, probably after realising the uselessness of their endeavour. The number of unique users grew by 31% compared to the previous 2 weeks.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 44000,
+        "disclosures": "None",
+        "arbRemaining": -440000,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "This is the third distribution period where rewards were accrued to users. It's 22000 ARB per week so 44000 every two weeks.",
+        "expectations": "We expect OI and Volumes to keep growing.",
+        "arbToBeDistributed": 44000,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The previous week saw an influx of bots so the average daily txns stat got skewed and is now going back to more normal values. ADUU numbers decreased by 24%, while ADT came back to normal levels (no bots) by decreasing 74%.",
+        "lessons": "None",
+        "avgDailyTVL": 86000000,
+        "avgDailyTXNS": 303,
+        "avgDailyUniqueUsers": 51
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Markets crashed and so did the OI across all chains and markets on Contago, although it quickly regained momentum. The previous week saw an influx of bots but average daily txns values are back to normal again. All in all, OI remained unchanged compared to the previous 2 weeks and daily users decreased by 22%.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 44000,
+        "disclosures": "None",
+        "arbRemaining": 146666,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "We expect stats to normalize a bit, after the previous influx of bots.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "ADUU increased by 15%, ADT decreased by 12%.",
+        "lessons": "None",
+        "avgDailyTVL": 100000000,
+        "avgDailyTXNS": 207,
+        "avgDailyUniqueUsers": 59
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL kept growing and reached ATH.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 44000,
+        "disclosures": "None",
+        "arbRemaining": 146666,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL remained constant on average compared to the previous week, but went down in absolute terms as the market crashed. ADUU decreased by 15%, and ADT decreased by 31%.",
+        "lessons": "None.",
+        "avgDailyTVL": 95000000,
+        "avgDailyTXNS": 142,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL remained constant on average compared to the previous week, but went down in absolute terms as the market crashed.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 44000,
+        "disclosures": "None",
+        "arbRemaining": 146666,
+        "contractsIncentivized": [
+          {
+            "contractId": "07213475-0323-41c2-a0c1-a084bb2016fb",
+            "contractLabel": "ContangoProxy",
+            "contractAddress": "0x6Cae28b3D09D8f8Fc74ccD496AC986FC84C0C24E"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 220000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Contango",
+  "grantSummary": "The grant is geared towards incentivizing Contango's arbitrum markets. It will benefit all lending markets integrated by Contango: Aave, Compound, Silo, Dolomite, Lodestar, Radiant. More info on: https://forum.arbitrum.foundation/t/contango-xyz-ltipp-application-draft/21689",
+  "fundingAddress": "0x672E032290CB20c72CBCaB9721cb530704C6cB12",
+  "editorAddresses": [],
+  "matchingGrantSize": 220000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x672E032290CB20c72CBCaB9721cb530704C6cB12"
+}

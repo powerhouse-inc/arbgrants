@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "APR matters and the competition from the LTIPP actually hurt most of our pools",
+        "avgDailyTVL": 218602158,
+        "avgDailyTXNS": 4163,
+        "avgDailyUniqueUsers": 788
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "LP amounts have picked up.",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 114361,
+        "disclosures": "n/a",
+        "arbRemaining": 510639,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "The incentives will initially be spread out among a diverse set of AMMs paired with wETH and LRTs to improve liquidity.",
+        "expectations": "We expect a significant increase in LPs to be attracted.",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "focused on lending markets",
+        "lessons": "Focus and concentration are important",
+        "avgDailyTVL": 246019902,
+        "avgDailyTXNS": 6650,
+        "avgDailyUniqueUsers": 1046
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "continued variability in TVL, potentially more to do with ETH price correlation than anything else",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 114361,
+        "disclosures": "N/A",
+        "arbRemaining": 500000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "adding increased focus to lending markets like fluid",
+        "expectations": "expecting all metrics to dramatically increase with the focused attention",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "focused on fluid",
+        "lessons": "continue to focus incentives",
+        "avgDailyTVL": 287314241,
+        "avgDailyTXNS": 7936,
+        "avgDailyUniqueUsers": 898
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Working on new markets like fluid",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 135638,
+        "disclosures": "N/A",
+        "arbRemaining": 375000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "increased amount towards lending markets",
+        "expectations": "expecting continued increase in TVL, DAU and txs.",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes. continued campaign",
+        "lessons": "ETH price correlation surged and drove a lot of unique users",
+        "avgDailyTVL": 319644104,
+        "avgDailyTXNS": 6393,
+        "avgDailyUniqueUsers": 1053
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "continued from last period, focus on LRTs and lending markets",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 135638,
+        "disclosures": "N/A",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "None, continued to push towards liquidity in LRTs and lendind markets",
+        "expectations": "tx count and DAU continues to rise",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no meaningful changes made",
+        "lessons": "consistency may be the most impactful factor not considered to date",
+        "avgDailyTVL": 339814064,
+        "avgDailyTXNS": 10379,
+        "avgDailyUniqueUsers": 1007
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "seeing large increase in tx count",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 125002,
+        "disclosures": "n/a",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "no meaningful changes expected",
+        "expectations": "increase in TVL and DAU",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no meaningful changes were applied",
+        "lessons": " consistency seems to keep users returning",
+        "avgDailyTVL": 360651969,
+        "avgDailyTXNS": 6813,
+        "avgDailyUniqueUsers": 1397
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Sharp increase in users noticed across pools",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 125000,
+        "disclosures": "NA",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "no meaningful changes planned",
+        "expectations": "continued growth in TVL, DAU and txs",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no meaningful changes",
+        "lessons": "overall, consistency and focus seemed to have had the most impacts overall. but tough macro conditions may have ultimately been more impactful and detracting from the incentives campaign in the final weeks. we should work to assess our efforts net of macro (good and bad) effects",
+        "avgDailyTVL": 362970839,
+        "avgDailyTXNS": 5455,
+        "avgDailyUniqueUsers": 877
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "bad global macro environment seems to have potentially slowed impacts across the board, despite consistent incentives",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 125000,
+        "disclosures": "na",
+        "arbRemaining": -125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "no meaningful changes ",
+        "expectations": "continued growth in TVL and DAU",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 750000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Lido",
+  "grantSummary": "The grant will largely be focused on expanding liquidity of LRTs and stETH across Arbitrum. ",
+  "fundingAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16",
+  "editorAddresses": [],
+  "matchingGrantSize": 750000,
+  "metricsDashboardLink": "https://dune.com/pipistrella/lido-arbitrum-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16"
+}

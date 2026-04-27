@@ -1,0 +1,828 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "there is some changes we have monitors, meaningful changes will be implemented.",
+        "lessons": "we will adjust the numbers between different LRT LPs to ensure the maximization of incentive effects",
+        "avgDailyTVL": 26000000,
+        "avgDailyTXNS": 264,
+        "avgDailyUniqueUsers": 127
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "the incentives seems working now, will keep monitoring and do the meaningful changes.",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 12500,
+        "disclosures": "no disclosure need to add right now.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fd1cfce7-2f47-44df-a9fc-29305b2695cf",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "e1130239-2a57-4a73-aed5-ec9437f9fac2",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "4eb2ffef-a4b5-41ab-909b-27ddc3b02f84",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "75374815-a307-4482-890a-754f6cd3b618",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "40153545-30b0-49a1-aa4b-a6a49b6117bd",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "4b11b3ca-570b-41e9-b2a6-8b62e7878a9e",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "need to keep monitoring will do the changes if needed.",
+        "expectations": "expectations for the next bi-weekly period",
+        "arbToBeDistributed": 6250,
+        "contractsIncentivized": [
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "e1130239-2a57-4a73-aed5-ec9437f9fac2",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "4eb2ffef-a4b5-41ab-909b-27ddc3b02f84",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "75374815-a307-4482-890a-754f6cd3b618",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "40153545-30b0-49a1-aa4b-a6a49b6117bd",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "4b11b3ca-570b-41e9-b2a6-8b62e7878a9e",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "fd1cfce7-2f47-44df-a9fc-29305b2695cf",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There is no changes.",
+        "lessons": "Average daily transactions and unique users have increased compared to the previous period. We anticipate further growth in the coming weeks.",
+        "avgDailyTVL": 24900000,
+        "avgDailyTXNS": 276,
+        "avgDailyUniqueUsers": 134
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "With the TVL of all incentivsed LRT pools experiencing a notable increase. We will proceed with our incentive plan as planned.",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 35000,
+        "disclosures": "no disclosures",
+        "arbRemaining": 333333,
+        "contractsIncentivized": [
+          {
+            "contractId": "d919d73f-5e3d-4f60-9e02-8c52812b7b79",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "e1b841de-8ad6-44be-bd66-1b9e92e05cbb",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "cc16f7c4-388b-492f-92ec-4b506c5f50c5",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "f6a9b597-f66c-4367-9a92-f5a1999edc0d",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "0f9586af-4a7d-4bda-9814-874415509374",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "98b4422a-c330-4a90-a5fb-459ab66aab96",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "dcdf91ae-cd2d-43ac-9c21-fc916a6af001",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "f04d340f-ecba-4334-b6ca-d6f3833f5a2c",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes - plans are proceeding as expected. Additionally, we have successfully completed the first Pendle convert campaign and will proceed with launching the second campaign. LRT pools and ePENDLE/ARB LP rewards are distributed weekly, while Pendle convert rewards are distributed after each campaign concludes.",
+        "expectations": "Continue incentivising the current pools, expecting to maintain current performance and attract more users.",
+        "arbToBeDistributed": 66667,
+        "contractsIncentivized": [
+          {
+            "contractId": "d7898d8e-55c9-4a36-aeb7-2e9ecc243ee4",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "0f9b475b-1907-464e-b240-4a15ec075503",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "aa1339a5-f0e1-4909-bda0-8821a8850dcd",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "07f663de-3b81-48b0-9c25-99fcbd283ea8",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "896ff53f-6cf7-4581-b872-6a41aea38196",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "2a7491ff-914b-47a7-bc75-3e9c555aceca",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "fdf81a54-471f-4055-a5d7-977b44046529",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There is no changes.",
+        "lessons": "Average daily transactions and unique users have slightly drop compared to the previous period due to the market volatility. We anticipate further growth in the coming weeks.",
+        "avgDailyTVL": 18181959,
+        "avgDailyTXNS": 237,
+        "avgDailyUniqueUsers": 127
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No changes - plans are proceeding as expected. Pendle convert campaign launch once per week so far, the incentive has increase to 20,000 ARB / campaign, total pendle converted 5408 in this period. LRT pools and ePENDLE/ARB LP rewards are distributed weekly, while Pendle convert rewards are distributed after each campaign concludes.",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 65000,
+        "disclosures": "no-disclosures",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "fd1cfce7-2f47-44df-a9fc-29305b2695cf",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "e1130239-2a57-4a73-aed5-ec9437f9fac2",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "4eb2ffef-a4b5-41ab-909b-27ddc3b02f84",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "75374815-a307-4482-890a-754f6cd3b618",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "40153545-30b0-49a1-aa4b-a6a49b6117bd",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "4b11b3ca-570b-41e9-b2a6-8b62e7878a9e",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "There is no changes, we will keep the incetivize these pools on weekly basis.",
+        "expectations": "Average daily transactions and unique users we anticipate further growth in the coming weeks.",
+        "arbToBeDistributed": 66667,
+        "contractsIncentivized": [
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "fd1cfce7-2f47-44df-a9fc-29305b2695cf",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "e1130239-2a57-4a73-aed5-ec9437f9fac2",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "4eb2ffef-a4b5-41ab-909b-27ddc3b02f84",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "75374815-a307-4482-890a-754f6cd3b618",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "40153545-30b0-49a1-aa4b-a6a49b6117bd",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "4b11b3ca-570b-41e9-b2a6-8b62e7878a9e",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There is no big changes.",
+        "lessons": "Average Daily TVL is slightly increase, while due to the market volatility, the average daily transactions and unique users have slightly drop compared to the previous period. We anticipate further growth in the coming weeks.",
+        "avgDailyTVL": 18592441,
+        "avgDailyTXNS": 223,
+        "avgDailyUniqueUsers": 117
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have slightly adjusted the LRT pool, shifting ezETH_0926 (LRT) to uniETH_1226 (LRT) in the week of July 25th. The total amount of incentives remains unchanged. With 40k ARB provided in the last two Pendle conversion campaigns, we have converted 7,617 Pendle, achieving a better conversion rate than the previous campaign.",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 65000,
+        "disclosures": "no disclosures",
+        "arbRemaining": 133332,
+        "contractsIncentivized": [
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "16e012d7-890e-45aa-b73f-1e6706357c60",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "a6183fce-50aa-4aca-9b3d-794b35710752",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "c8661237-3fc1-4b15-9f3a-ca9660d26dab",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "cbab5cc9-1017-4c9e-a13f-be60437d0480",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "07625b9f-a6d1-4425-a78f-3d26c036c174",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "2a01cb08-f498-4d60-ac98-6333e24cafb2",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "we will keep the plans as previous to continues the incentivize these pools and campaign. Adjusted LRT pool on weekly 25th July, from ezETH_0926 (LRT) to uniETH_1226(LRT), the total incentives to LRT pools doesn't change.",
+        "expectations": "We expect to see an increase not only in TVL but also in transaction volumes, in line with the upward trend in the market.",
+        "arbToBeDistributed": 66667,
+        "contractsIncentivized": [
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "16e012d7-890e-45aa-b73f-1e6706357c60",
+            "contractLabel": "ezETH_0926 (LRT)",
+            "contractAddress": "0x96DB998c5C6C82f6aB3999661A425454eF002202"
+          },
+          {
+            "contractId": "a6183fce-50aa-4aca-9b3d-794b35710752",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "c8661237-3fc1-4b15-9f3a-ca9660d26dab",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "cbab5cc9-1017-4c9e-a13f-be60437d0480",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "07625b9f-a6d1-4425-a78f-3d26c036c174",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "2a01cb08-f498-4d60-ac98-6333e24cafb2",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There is no changes.",
+        "lessons": "The average daily transactions and unique users have slightly drop compared to the previous period. We anticipate further growth in the coming weeks.",
+        "avgDailyTVL": 16233934,
+        "avgDailyTXNS": 209,
+        "avgDailyUniqueUsers": 114
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We keep the incentive of pools and schedule are the same, while slightly adjusted the pendle convert campaign reward, with 62.5k ARB provided in the last two Pendle conversion campaigns, we have converted 8,921 Pendle;",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 87500,
+        "disclosures": "no disclosures",
+        "arbRemaining": 66665,
+        "contractsIncentivized": [
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "1e343fae-ecc6-44fe-905e-008034cdd4d4",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "ebbbe0f7-adb2-4df9-bf0f-349304a33d7b",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "da32d524-bca2-41eb-83f4-e7e641441d89",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "81433c1a-0fc0-470f-850b-a22f35583308",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "e632b787-6d85-4f1f-8d9f-2d6278fe02e6",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes, keep the incentive pools no change, will slightly increase the inventive on Pendle convert.",
+        "expectations": "From the current market condition, we expect to see a slightly increase of the TVL, and bring in more users.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "1e343fae-ecc6-44fe-905e-008034cdd4d4",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "ebbbe0f7-adb2-4df9-bf0f-349304a33d7b",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "da32d524-bca2-41eb-83f4-e7e641441d89",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "81433c1a-0fc0-470f-850b-a22f35583308",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "e632b787-6d85-4f1f-8d9f-2d6278fe02e6",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes",
+        "lessons": "Although the current market remains highly volatile, our performance data reflects consistent stability. We anticipate further growth in the coming weeks as we maintain a steady trajectory.",
+        "avgDailyTVL": 15863845,
+        "avgDailyTXNS": 220,
+        "avgDailyUniqueUsers": 120
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No changes: The Pendle conversion campaign has concluded successfully, with a total of 12,264 Pendle converted alongside ARB incentives of 97,500 ARB. Incentives for the ePendle/ARB LP and LRT pools remain on schedule with the allocated amounts unchanged. The final distribution for these incentives is set for next week.",
+        "incentives": "",
+        "arbReceived": 66665,
+        "arbUtilized": 122500,
+        "disclosures": "no disclosure",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          },
+          {
+            "contractId": "fee2ef64-dede-4a9b-a7db-085c1094a248",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "99d87818-b951-44c5-b55c-66aa58d4badc",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "e7411285-d523-4b64-bd33-51f25417368d",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "16f41565-1a78-4441-808c-cbed05cc9f28",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "5e644372-ecb2-4b0c-9fea-0ee804179c06",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We plan to further increase the pendle convert campaign to draw more Pendle deposit and more users. The rest of LRT and LP incentives keep the same.",
+        "expectations": "We anticipate an increase not only in TVL but also in transaction volumes, aligning with the broader upward trend in the market.",
+        "arbToBeDistributed": 122500,
+        "contractsIncentivized": [
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          },
+          {
+            "contractId": "fee2ef64-dede-4a9b-a7db-085c1094a248",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "99d87818-b951-44c5-b55c-66aa58d4badc",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "e7411285-d523-4b64-bd33-51f25417368d",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "16f41565-1a78-4441-808c-cbed05cc9f28",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "5e644372-ecb2-4b0c-9fea-0ee804179c06",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          },
+          {
+            "contractId": "39778ecc-a15d-4978-8317-8096b63ded82",
+            "contractLabel": "PENDLE convert",
+            "contractAddress": "0x4c960b0dC60873d7f01bC393FF2d5443285362eF"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Incentives for the ePendle/ARB LP and LRT pools remain on schedule with the allocated amounts unchanged with a 6250ARB Per week. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 12500,
+        "disclosures": "no disclosures",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          },
+          {
+            "contractId": "d7533f9d-188e-4ec3-898f-838d14748e39",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "a5bb01ba-f629-4e1a-ada5-09feac83e54c",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "5bdd81b8-e51c-45b0-a6d9-939d3103ae28",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "1834e8f3-fa25-4aaf-9786-50b3b446a25b",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "80116c5c-8edc-4377-98b8-cd179b38314a",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "The final batch incentives to distribute, expecting to see steady market performance data.",
+        "arbToBeDistributed": 66665,
+        "contractsIncentivized": [
+          {
+            "contractId": "27e44fd7-ee39-4779-95fb-b51aeebd2e29",
+            "contractLabel": "uniETH_1226(LRT)",
+            "contractAddress": "0x54a64A549b52024Fd913ecb3cF872583215618fB"
+          },
+          {
+            "contractId": "d7533f9d-188e-4ec3-898f-838d14748e39",
+            "contractLabel": "eETH_0926(LRT)",
+            "contractAddress": "0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f"
+          },
+          {
+            "contractId": "a5bb01ba-f629-4e1a-ada5-09feac83e54c",
+            "contractLabel": "rsETH_0926(LRT)",
+            "contractAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5"
+          },
+          {
+            "contractId": "5bdd81b8-e51c-45b0-a6d9-939d3103ae28",
+            "contractLabel": "sETH (PT-rsETHSilo)_0926(LRT)",
+            "contractAddress": "0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB"
+          },
+          {
+            "contractId": "1834e8f3-fa25-4aaf-9786-50b3b446a25b",
+            "contractLabel": "sETH (PT-eETHSilo)_0926(LRT)",
+            "contractAddress": "0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575"
+          },
+          {
+            "contractId": "80116c5c-8edc-4377-98b8-cd179b38314a",
+            "contractLabel": "sETH (PT-ezETHSilo)_0926(LRT)",
+            "contractAddress": "0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe"
+          },
+          {
+            "contractId": "e27016b1-bde8-4df8-a29f-483dfba5545b",
+            "contractLabel": "ePENDLE/ARB LP",
+            "contractAddress": "0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 400000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Equilibria Finance",
+  "grantSummary": "Equilibria Finance is receiving 400K ARB to incentivise the protocol growth and bring in more users, increase transaction interactions, and attract a substantial influx of TVL to Arbitrum.",
+  "fundingAddress": "0x501CfF5dF8A307ACa27C916d6E1720D41fDF64a5,0x198Ddb596a080215F0e15caeABca7eAB6b2d7A8f,0x96DB998c5C6C82f6aB3999661A425454eF002202,0x6fDF80071499b46Bb53AfBA7bAFf9D91A21133AB,0xcB7212d19D52b53e44625Dc1A9d4B1f1d4833575,0x20Dc8e720Fd78a790C9b644C1fb2f900fC5921Fe,0x4c960b0dC60873d7f01bC393FF2d5443285362eF,0x7e2C4005A752c2eB4772d06C7adb4aCe75f20c6B,0x54a64A549b52024Fd913ecb3cF872583215618fB",
+  "editorAddresses": [],
+  "matchingGrantSize": 400000,
+  "metricsDashboardLink": "https://dune.com/danding/ltipp-track-data",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6Bc27bE639DF9eAe4D3EFFB0159f03C54255eb89"
+}

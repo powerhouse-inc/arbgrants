@@ -1,0 +1,1520 @@
+{
+  "id": "arbitrum-ltipp-grantees",
+  "icon": "https://ipfs.io/ipfs/bafybeihrnutsfwwrfwere74cwilx2eusmaop6rq6ojcr5jl7vsta627eam/arbitrum-arb-logo.png",
+  "name": "Arbitrum LTIPP",
+  "slug": null,
+  "nodes": [
+    {
+      "id": "8ezyai7P1P5rR6YrSV/xJP/0Pc4=",
+      "kind": "file",
+      "name": "Verified USD",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "114c2bdb-8bd0-459f-9754-21f853f03948"
+        }
+      ]
+    },
+    {
+      "id": "X8oLuZMOxq/h1T5GVnaSZnW8emc=",
+      "kind": "file",
+      "name": "Synthetix",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "b1e0f0ca-fa8e-46ca-9246-bfc958825001"
+        }
+      ]
+    },
+    {
+      "id": "xP2I8msWdbehk0xAqKj0NByXNJ0=",
+      "kind": "file",
+      "name": "DODO",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "a5a491c3-18b4-4499-aaca-1648be61d901"
+        }
+      ]
+    },
+    {
+      "id": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "kind": "folder",
+      "name": "Grants A-F",
+      "parentFolder": null
+    },
+    {
+      "id": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "kind": "folder",
+      "name": "Grants G-L",
+      "parentFolder": null
+    },
+    {
+      "id": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "kind": "folder",
+      "name": "Grants M-R",
+      "parentFolder": null
+    },
+    {
+      "id": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "kind": "folder",
+      "name": "Grants S-Z",
+      "parentFolder": null
+    },
+    {
+      "id": "3f01e7bb-9702-4203-a798-7b94dfabcac5",
+      "kind": "file",
+      "name": "Aark",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "a3c0460f-ae8f-4b0a-8922-9db9eb7c3b0a"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "9b58728d-37e8-4d9b-8559-9a0fd9b17116"
+        }
+      ]
+    },
+    {
+      "id": "057c40de-63af-44aa-a782-8c0ac9aa3404",
+      "kind": "file",
+      "name": "Aave DAO",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "088df940-ad73-4bb2-bf45-908f19427b86"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "d3ee642a-a947-40f0-b090-a37def391ec8"
+        }
+      ]
+    },
+    {
+      "id": "f4cffacc-c1f3-4a46-993e-67a4d1e4e291",
+      "kind": "file",
+      "name": "Alchemix",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "79d5e718-15b7-44b8-9ad9-305eb5a4f104"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "b3734c17-6e6b-42cc-93fd-67cb01fb4491"
+        }
+      ]
+    },
+    {
+      "id": "3e90e2b9-1a60-4cb4-a30f-45c0adfe3aa1",
+      "kind": "file",
+      "name": "APX Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "5a0935ed-e5d1-454e-adc1-eaa81c0f0c54"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "311e8fa9-23e5-473a-b43e-f568c72dff18"
+        }
+      ]
+    },
+    {
+      "id": "195be09e-119c-43da-82bc-48facb9e5c17",
+      "kind": "file",
+      "name": "Bebop",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "c6a17588-dad3-4a48-8659-67eb642fd1fa"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "955f6363-01b5-496f-bc96-9127ba7cb3ce"
+        }
+      ]
+    },
+    {
+      "id": "e16ef7fc-2f1f-4e11-b503-7fe809fe7a38",
+      "kind": "file",
+      "name": "Bedrock",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "18048b04-634e-4c6e-8cfe-e4a2f5e664b9"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "84e73bed-9c5a-4056-bc96-19fdc10b6084"
+        }
+      ]
+    },
+    {
+      "id": "12a4cb5a-156e-458a-930e-8476dadd4089",
+      "kind": "file",
+      "name": "Beefy",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "f937036d-499a-4dea-92aa-fec7248ce9b4"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "d04da57e-0009-4652-9e7c-9ad8585da809"
+        }
+      ]
+    },
+    {
+      "id": "9ec9c33f-fbdb-421b-be42-81ed12b4b4e7",
+      "kind": "file",
+      "name": "Bond Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "2aeac475-2539-4163-9273-82cc62970ab6"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "49a0fa68-8056-4a21-b537-d7c9f99c09f5"
+        }
+      ]
+    },
+    {
+      "id": "cce83f78-81bd-4300-92ab-071086c91dcd",
+      "kind": "file",
+      "name": "Brahma",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "0128b55e-0267-4b7a-af8a-1a413618be4f"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "9ae1557a-c49e-42fb-b147-69c005187bd9"
+        }
+      ]
+    },
+    {
+      "id": "680aca6f-a01f-420a-b8ed-7a11f216b05e",
+      "kind": "file",
+      "name": "Buffer Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "e79524a7-a12a-4c03-ab7c-1e9f7f412b5c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "a58a583a-1a1d-494a-9592-efa53fa576b1"
+        }
+      ]
+    },
+    {
+      "id": "3000db10-fb13-4755-a577-39b575cbc9f9",
+      "kind": "file",
+      "name": "Bunni",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "47cb6426-a96a-4bf7-96e7-f220444f6f86"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "e646d9f7-2100-40d1-a2b6-f7fe11fdac1b"
+        }
+      ]
+    },
+    {
+      "id": "ef474b8b-4240-4b62-94d7-f9abb68a9e89",
+      "kind": "file",
+      "name": "CIAN Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "66348868-258a-40c0-90a6-5034c9b5f94c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "fecd8512-15d8-4701-8481-eedb87b252a8"
+        }
+      ]
+    },
+    {
+      "id": "123f348b-91bd-4eb8-8071-c019d9521178",
+      "kind": "file",
+      "name": "Compound Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "301cca34-51c3-4b7a-8c29-185ca5cfd55d"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "e7868d6a-edcd-4c99-a932-5fbd98ec5b8e"
+        }
+      ]
+    },
+    {
+      "id": "ba8a68bd-5fce-453a-993e-91322c8f2ca1",
+      "kind": "file",
+      "name": "Connext",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "5a2c971c-f00c-4437-b007-e6a3b4c5deb2"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "c4e44071-a7d8-47fd-9c77-fc2148212d54"
+        }
+      ]
+    },
+    {
+      "id": "2f9f3afd-5ee9-4d3e-baa6-7478dd659045",
+      "kind": "file",
+      "name": "Contango",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "20ba92d7-26b7-423f-9d4e-7427f0fa8372"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "d73402b4-c285-42db-a238-2d27219fdde2"
+        }
+      ]
+    },
+    {
+      "id": "24d36f0b-4836-4f87-89c2-37a9e964eff9",
+      "kind": "file",
+      "name": "Contrax",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "88e22436-e5d9-47f3-993e-d1c3abc75a1d"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "cfb6471e-41a4-4be6-86c2-3bf661c15649"
+        }
+      ]
+    },
+    {
+      "id": "7c056ba7-d817-4da6-8c24-0eca97c40c3f",
+      "kind": "file",
+      "name": "Covenant",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "2b51e269-ee07-4aab-ab20-f4febf7ef371"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "832084fb-94cc-4b26-92ee-37b79ba82fc4"
+        }
+      ]
+    },
+    {
+      "id": "d7ee3250-f505-44d9-bf20-f97b0a85b74d",
+      "kind": "file",
+      "name": "CVI.finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "17996988-dcad-4103-bfb3-bbd281662f03"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "a50af4e9-19da-465d-bef0-1bdf1b9c02cb"
+        }
+      ]
+    },
+    {
+      "id": "c7c6ac8e-50c9-4022-9835-08e6a547834b",
+      "kind": "file",
+      "name": "D2 Finance ",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "dc5b911d-21ca-41c8-9a60-a970b1d1d300"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "da14f0b3-e60b-450d-bd2d-33c2b56fbc08"
+        }
+      ]
+    },
+    {
+      "id": "b035e3b6-ca48-4305-a995-9972e110b7cd",
+      "kind": "file",
+      "name": "dappOS",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "706273b4-b0b7-4ca2-9f6e-2e695621e485"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "88130cde-afc8-45e1-8ec3-a0deec8f4cb0"
+        }
+      ]
+    },
+    {
+      "id": "c1f97a6b-f105-49d0-a131-45b800d23330",
+      "kind": "file",
+      "name": "deBridge",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "7e36fe21-02ef-433c-90bd-2df4654cbec7"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "b196ecf8-ed25-4cd2-91d2-be9dacdc1a38"
+        }
+      ]
+    },
+    {
+      "id": "c2556928-82f2-41e8-8b6e-6a2c9dcde7b9",
+      "kind": "file",
+      "name": "DeltaPrime",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "e7ab2dd4-1971-4752-8004-884b6637adc8"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "8fadc178-75a5-473e-8440-43305732f639"
+        }
+      ]
+    },
+    {
+      "id": "4c4cc950-1f4d-4886-8ae9-be95a461260b",
+      "kind": "file",
+      "name": "DoG Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "015616b5-f617-4a3b-9028-460540321c57"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "37e97e85-f9d7-448d-801c-8a377fefde9b"
+        }
+      ]
+    },
+    {
+      "id": "4d15a515-ae2d-4cc4-9412-49c1ced681da",
+      "kind": "file",
+      "name": "Equilibria Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "6c344251-d90d-49cc-88dd-b930e0cdf54a"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "a602deca-dad9-4401-9954-6c7371b93fa8"
+        }
+      ]
+    },
+    {
+      "id": "3cd38d2d-1065-4026-aa4f-68455b515ba7",
+      "kind": "file",
+      "name": "Fiat24",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "ba542ed3-56f3-41c0-b980-3b1ab795fdf6"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "7f76a3cb-150c-47ef-9a4d-0a6b9eea0759"
+        }
+      ]
+    },
+    {
+      "id": "cc835169-2951-47b6-a6da-74326caff03a",
+      "kind": "file",
+      "name": "GammaSwap",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "22664e43-5ab1-4580-bef1-58f1a85f0f02"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "25da6932-f7ff-43bf-9e35-c2ba8d43bb6c"
+        }
+      ]
+    },
+    {
+      "id": "8fd91b97-1e2d-4bb3-98d0-0ed6b622d369",
+      "kind": "file",
+      "name": "Gearbox Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "10c48ad8-c0b2-45c6-aa18-edb7f5a1985c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "3b5c3112-12af-468d-8766-f4191c16187c"
+        }
+      ]
+    },
+    {
+      "id": "550e0065-1f7a-42dd-8179-dc831cd7095c",
+      "kind": "file",
+      "name": "Gravita Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "f8efd245-2a97-4659-93cc-c6bbcce9f2ed"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "61479baa-3ed7-4a25-88ed-1b7ad3ca85a6"
+        }
+      ]
+    },
+    {
+      "id": "4063d91a-a88f-410d-8383-313c85e25b1b",
+      "kind": "file",
+      "name": "Gyroscope",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "940cf350-bf05-4a9a-a2d8-37dafbf6c92c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "f1ad7d06-4edf-4630-8a5c-30a2690f7f4f"
+        }
+      ]
+    },
+    {
+      "id": "82302eb2-6eed-4a19-8d7b-636c7fe1790d",
+      "kind": "file",
+      "name": "HOP Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "65fbc228-c9c1-44d8-9992-9b3c6c827563"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "bb89dee2-44b3-42a1-87fe-f0288f65640a"
+        }
+      ]
+    },
+    {
+      "id": "ab1ee590-a977-4c80-af6f-24d1fc1557c2",
+      "kind": "file",
+      "name": "Index Coop",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "af631db1-a9a9-438e-b3e8-c570a9d29f60"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "b02eb801-63db-4758-82a0-54f005e07b0e"
+        }
+      ]
+    },
+    {
+      "id": "b84c8a34-6738-4b57-9bdd-950d7001af4b",
+      "kind": "file",
+      "name": "Integral",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "23ea1417-662f-4264-b5ec-50f2b5a7b284"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "90d93850-8070-43d3-a248-081119f5edb0"
+        }
+      ]
+    },
+    {
+      "id": "f4eb494d-d9bc-4aff-a3c5-9f86b9cb8b2d",
+      "kind": "file",
+      "name": "IPOR",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "6b1f2040-e379-403f-a03e-8dbda1617348"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "02aa3b49-e595-4721-aedf-1dd684e71feb"
+        }
+      ]
+    },
+    {
+      "id": "43a5cea7-f42d-4adf-8735-428b969af104",
+      "kind": "file",
+      "name": "KelpDAO",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "aa441108-0437-4434-aeee-aecaef85ec9d"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "9d717e8a-e76f-4786-a9ed-4d9b73ef3ac2"
+        }
+      ]
+    },
+    {
+      "id": "4539f505-7b07-4de2-8322-1fcc26a3ee7e",
+      "kind": "file",
+      "name": "Knights of the Ether",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "db955249-f2c9-4927-b1f0-c09d9181254c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "3c059504-635c-4079-b389-0ef66b199274"
+        }
+      ]
+    },
+    {
+      "id": "b370b35e-5d62-439f-9ad3-c944c6e5660b",
+      "kind": "file",
+      "name": "Layer3",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "e9b4610e-cd0d-497e-b5af-5b6ef8f66964"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "d457be49-3a7b-4380-a798-690f957a70fe"
+        }
+      ]
+    },
+    {
+      "id": "ffac794d-b7cc-49ba-bd6e-22f8d1aece3b",
+      "kind": "file",
+      "name": "Lido",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "22ab1c67-be95-461d-aa6d-70590215d21c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "126c25fb-332b-4181-9189-82429a6d79ad"
+        }
+      ]
+    },
+    {
+      "id": "47cf07ab-68cf-4a5f-ba5b-a2d184205d08",
+      "kind": "file",
+      "name": "LogX",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "8c023a24-85d1-4c2d-8dfc-84c1925eda40"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "17f44652-6dde-41e2-ad9f-6b42f208997f"
+        }
+      ]
+    },
+    {
+      "id": "5dfadb3f-c8c4-4fb9-bfa8-2127023e82b7",
+      "kind": "file",
+      "name": "Lumin Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "f0a9cec9-98de-4acb-b37d-176c39549934"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "9e2b8f08-9ae9-4e86-bd2d-5294e6b9b8b5"
+        }
+      ]
+    },
+    {
+      "id": "a7894eb2-e8fc-4ea1-989e-4f796f403063",
+      "kind": "file",
+      "name": "Mountain Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "96999fd7-9a78-479c-b342-963cb2037f59"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "083bc258-a2cc-4f29-a5db-5bb423f183a0"
+        }
+      ]
+    },
+    {
+      "id": "af4df516-7c0c-484d-bf9a-9d90f501e190",
+      "kind": "file",
+      "name": "Myso Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "55d9c547-47db-4a97-9ed6-168d56479260"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "76435240-a225-468c-8d58-a5fcfc1e7a55"
+        }
+      ]
+    },
+    {
+      "id": "29a655fd-288a-4d6a-969e-499a9f520f48",
+      "kind": "file",
+      "name": "Orange Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "c9a7bdab-8a9c-4847-b38d-1b62299d265f"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "24650e89-0c44-46f3-924a-2ef58d19917d"
+        }
+      ]
+    },
+    {
+      "id": "dd7992e6-bc98-48e9-8606-7feca389e0e0",
+      "kind": "file",
+      "name": "Origin Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "748eddde-e235-429f-b96b-3be595be3fde"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "ad833f3d-5923-4aa8-9136-65123b4379e3"
+        }
+      ]
+    },
+    {
+      "id": "e2fb0d04-a4a4-4bf7-90b3-fc0be396310e",
+      "kind": "file",
+      "name": "PancakeSwap",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "98e4d95c-ddaf-4d06-ab68-5c2c754ddd2f"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "d875c8cb-070b-4952-bf91-503172aeb8b6"
+        }
+      ]
+    },
+    {
+      "id": "89ee43bb-6a9e-4878-b07a-ab5f5427df53",
+      "kind": "file",
+      "name": "Perpie",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "9a4f8aa5-409b-4c8f-84c8-7eb2c2cef063"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "bdd946e2-23cb-4548-8861-a44d7238dd7c"
+        }
+      ]
+    },
+    {
+      "id": "8342384e-d135-4e0e-a4d9-9d8455daef9c",
+      "kind": "file",
+      "name": "Perpy",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "b1db487a-42a7-4d23-a4c5-b7a4146b6664"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "c0991c30-4522-4627-82f1-aaf7f9ba0f7d"
+        }
+      ]
+    },
+    {
+      "id": "9dacaec9-24b7-4585-bc68-156bf2bbc174",
+      "kind": "file",
+      "name": "Primex Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "d95ba9c0-d40a-4d92-b2f8-cc8d9231e960"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "200e2aba-4a96-4934-8a14-c5296804d4df"
+        }
+      ]
+    },
+    {
+      "id": "7fa5bc30-6acd-45bf-8bb9-95b96e7ddcfd",
+      "kind": "file",
+      "name": "Pyth Network",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "c712529f-5f2f-483b-a20c-b20bca10a052"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "52309c24-c989-4d60-87c4-1313c52f4af3"
+        }
+      ]
+    },
+    {
+      "id": "8250d639-87e4-4a49-9ac5-f2895ddac902",
+      "kind": "file",
+      "name": "Rage Trade ",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "9544e0c0-1936-43dd-aa01-2710f6351a1a"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "46adf3cc-6b9c-4a0d-84dd-d29afe022b49"
+        }
+      ]
+    },
+    {
+      "id": "92ccabdb-5751-4b65-bdc0-e675d729fcd8",
+      "kind": "file",
+      "name": "Reserve Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "35433ea0-6f96-4a2d-979a-62fe27c116c4"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "bf38c7ee-fef9-4145-9076-1a9227a3400a"
+        }
+      ]
+    },
+    {
+      "id": "5fd4780a-010c-487e-b4eb-db87ae78c3a7",
+      "kind": "file",
+      "name": "Revest Labs",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "fd3356cc-07e8-4042-b2a3-72b1b3410f20"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "4be27742-ea5a-4df3-b8ed-c984cc8ecf50"
+        }
+      ]
+    },
+    {
+      "id": "4b6b4be2-05d1-4e38-80f1-6f8c665ea333",
+      "kind": "file",
+      "name": "SafePal",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "8eed4f36-6f0f-4ca2-9f62-81460048a7f4"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "ae34a1d5-a3af-4a12-97aa-92e8c2fbc9d2"
+        }
+      ]
+    },
+    {
+      "id": "766391a2-8f5c-4e94-9bcd-b64e7177e173",
+      "kind": "file",
+      "name": "Smilee Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "8063150a-332d-4426-bb92-9b198155a5f6"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "de2a2a40-0ede-47a1-a376-e1fc4881fd99"
+        }
+      ]
+    },
+    {
+      "id": "e396586c-af6e-474c-80df-7f9fde7d88b2",
+      "kind": "file",
+      "name": "Sperax",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "88aed82c-9f20-4ee1-aedc-36a82085ea11"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "a195c202-65a2-44fa-af11-35741735043f"
+        }
+      ]
+    },
+    {
+      "id": "9dc557c7-214f-48e6-99c0-5ba7c0a62335",
+      "kind": "file",
+      "name": "Stablelab",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "3323b46c-3c49-4b80-bc91-065fa709c10c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "2be311f0-d54d-41c2-8f52-b8bf270eea06"
+        }
+      ]
+    },
+    {
+      "id": "d474fddc-aa2f-48cb-bde5-57cc35643dbb",
+      "kind": "file",
+      "name": "Staderlabs",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "2358732b-ebc5-413b-a41b-3d1167c0028c"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "b4239ea1-54f8-4d2e-ae63-64c1fdca91b5"
+        }
+      ]
+    },
+    {
+      "id": "df197d9e-8cef-4c35-ad70-77a3d65aac11",
+      "kind": "file",
+      "name": "StakeWise",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "e9c63bfd-af0d-425e-8d1f-88e1be7fc322"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "8a644c4b-9e42-4f5d-a405-32493245b315"
+        }
+      ]
+    },
+    {
+      "id": "a4d993ae-8e74-433f-b6d6-2e9666262f8c",
+      "kind": "file",
+      "name": "Steadefi",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "28ce325d-1e29-4285-89ef-c348e4bcd1b7"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "87d42b37-76a6-4e7f-a11a-aa386fbd186d"
+        }
+      ]
+    },
+    {
+      "id": "af06cbd6-2740-41ba-94b3-25c788f9ae39",
+      "kind": "file",
+      "name": "Steer Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "4b791775-b9c6-44ed-a896-4d8f67590476"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "ef296fcc-45f1-4471-951f-800b7ed376dc"
+        }
+      ]
+    },
+    {
+      "id": "1946b509-9a00-4399-ac67-f75741eb7045",
+      "kind": "file",
+      "name": "STFX",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "92150bd5-b35b-4b2e-a7cf-82dcf92b60ec"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "0e78522a-dc26-4763-b026-cd2278e24c42"
+        }
+      ]
+    },
+    {
+      "id": "4ec1ea1d-7056-440e-9a92-f6b35b42b165",
+      "kind": "file",
+      "name": "SX Network",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "516fd3b1-a67e-42e3-ba44-f5bb033f07e0"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "a0b45c34-9e29-46b3-9478-46548cd7fd28"
+        }
+      ]
+    },
+    {
+      "id": "3ce76465-89d6-43cb-b55b-46d9bde47abd",
+      "kind": "file",
+      "name": "Symbiosis ",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "4198ab14-aee9-4868-aa82-97016ab1e303"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "c87ad934-6da4-49ff-b5e3-e55374c089d9"
+        }
+      ]
+    },
+    {
+      "id": "41029d1f-f685-46c2-b6da-216ace0b245f",
+      "kind": "file",
+      "name": "Synonym Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "d7511ff2-bb13-4536-9be2-1596afd89fa0"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "7d5cca30-e588-4948-baf9-8b01abd3bfc6"
+        }
+      ]
+    },
+    {
+      "id": "2c46ed51-1450-47f1-ade5-984c2ae144c3",
+      "kind": "file",
+      "name": "The Beacon",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "8796cecb-ae19-4c34-ab24-9dc7626a004d"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "8e0b14d5-dead-4e75-be69-ee161a428267"
+        }
+      ]
+    },
+    {
+      "id": "d84bb69e-a518-4a12-8eb3-c7c8585a6bc3",
+      "kind": "file",
+      "name": "Threshold Network",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "983a811b-a164-4b34-a0b4-083157cd1151"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "2f387918-df8a-4485-9a5e-3b897e64d376"
+        }
+      ]
+    },
+    {
+      "id": "dea968bc-12a0-4752-8c59-a4b47f5a6dfe",
+      "kind": "file",
+      "name": "Uniswap",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "98d30dec-8188-4783-9e88-eab3adb27a04"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "5ff9bdcb-f0d8-43e8-8ff2-7a82646c7c74"
+        }
+      ]
+    },
+    {
+      "id": "52272cd9-c16c-4261-b620-aab11acc51fb",
+      "kind": "file",
+      "name": "Vaultka",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "310c25e2-0884-4247-897b-df0601735b20"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "97422719-910d-4103-bbbf-f2a6af119c21"
+        }
+      ]
+    },
+    {
+      "id": "b7252dbf-3bb2-425a-9ce1-ab5126495e16",
+      "kind": "file",
+      "name": "Yield Yak",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "e10b3c07-1467-41ac-bc24-49f86cc92f82"
+        },
+        {
+          "scope": "local",
+          "branch": "main",
+          "syncId": "79cf3ab8-11cc-49ef-a6e3-cc2d4bea3087"
+        }
+      ]
+    },
+    {
+      "id": "EXkMMGVFnkjZCGfh/PGdfPQjZRE=",
+      "kind": "file",
+      "name": "Clipper",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "488ac2e9-8571-4f70-93ba-079de2cfc5f4"
+        }
+      ]
+    },
+    {
+      "id": "hc+HNY1ifLUp4oWwH0aM27ynxN4=",
+      "kind": "file",
+      "name": "Copra",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "812905b2-e4a5-47ca-892d-9f5a12be1abb"
+        }
+      ]
+    },
+    {
+      "id": "RWYmEq4+smBP3fz0d0e+RHOGHuY=",
+      "kind": "file",
+      "name": "Pear Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "b21bd2e0-97fa-439f-bdb8-e0b5fe257bb8"
+        }
+      ]
+    },
+    {
+      "id": "4H3b1//+bMO5oNqTzg8LhKtwzac=",
+      "kind": "file",
+      "name": "Peapods Finance",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "1b30dfb5-ed86-4dec-8d6b-da0762357b20"
+        }
+      ]
+    },
+    {
+      "id": "FVSrDKswSIDgoPHSeZqBhX/r9HA=",
+      "kind": "file",
+      "name": "Across Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "a6a1c295-348d-46be-832b-3d04a218ff65",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "4eacbeea-4d88-4447-a5e3-bb608bd896a5"
+        }
+      ]
+    },
+    {
+      "id": "JwsJfBocUkcDJQ1ppQP1LLtfzg8=",
+      "kind": "file",
+      "name": "Sommelier",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "2a482877-9b16-4a21-b864-5d153910e818"
+        }
+      ]
+    },
+    {
+      "id": "+8F1qhfmx3r/wHixGBUGIfJgok8=",
+      "kind": "file",
+      "name": "Okto Mobile Wallet",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "66a68ad0-7e68-4a44-9aa1-53c36062bbf0",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "984b8561-1825-4773-9ddc-53c65da8d3b9"
+        }
+      ]
+    },
+    {
+      "id": "708q5248tR41DsEWLUl1QINAL/4=",
+      "kind": "file",
+      "name": "Limitless",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1e9f933b-4f3f-4a1a-a7b1-05bd0f87835b",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "e7f8b7d4-dce2-4b33-afe9-66efcc63082e"
+        }
+      ]
+    },
+    {
+      "id": "hckIkn7RwD2JxL0pXa1aBJ8JHig=",
+      "kind": "file",
+      "name": "Yearn",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "600111d8-56e7-499e-a284-cff81bf22a2a"
+        }
+      ]
+    },
+    {
+      "id": "M9FqQ5ugOWkQe/xNIGzQHILMHLM=",
+      "kind": "file",
+      "name": "SushiSwap",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "0b25a89d-94a5-4dee-9a0c-dbfe6e91f0cd"
+        }
+      ]
+    },
+    {
+      "id": "Jbc46eSVnomZfvKXNKFIX9ij/bs=",
+      "kind": "file",
+      "name": "Tradao Protocol",
+      "documentType": "arbitrum/ltip-grantee",
+      "parentFolder": "1a5ef1b3-ab99-441f-b68c-2dc87b9537a6",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "fe42fb4a-3f52-4ddc-b9d4-1d7984989fa6"
+        }
+      ]
+    }
+  ]
+}

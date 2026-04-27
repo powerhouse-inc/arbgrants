@@ -1,0 +1,455 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "We can increase volumes and trades by 10X at the current TVL - so the milestones for TVL were set a little high we would focus more on growing trading volumes and number of traders",
+        "avgDailyTVL": 350000,
+        "avgDailyTXNS": 140,
+        "avgDailyUniqueUsers": 5
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "A total of 4404 ARB were distributed - into three buckets 1. LP boost where ARB is streamed for LPs who lock USDC from 7-90 day period total spend here is 2092 ARB weekly\n1534 is for competitions divided among multiple leagues that are based on volumes \n778 is kept as Jackpot - randomly awarded to traders to increase number of trades",
+        "incentives": "",
+        "arbReceived": 9438,
+        "arbUtilized": 9438,
+        "disclosures": "NA",
+        "arbRemaining": -6302,
+        "contractsIncentivized": [
+          {
+            "contractId": "e99791ff-2f34-4822-8d06-47ca161611ae",
+            "contractLabel": "LP boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "673a59eb-8231-4ff2-b2e6-d07c246c6abc",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          },
+          {
+            "contractId": "ad94815c-9ce1-4a25-89d5-d9cd587cfa23",
+            "contractLabel": "Jackpot",
+            "contractAddress": "0xEa0b956A04b265A7E2A6d00A4bD65a48C430cE16"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "The incentive distribution was started on 12th of June - 1 week after we received the grat that is 5th of June",
+        "expectations": "About 50K TVL shifted from old BLP pool to the new BLP pool, Trading volume jumped from 10K weekly to 30k Weekly",
+        "arbToBeDistributed": 9834,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          },
+          {
+            "contractId": "dfa9d8e2-d4a0-4796-8fb1-d36f41638035",
+            "contractLabel": "Jackpot",
+            "contractAddress": "0xEa0b956A04b265A7E2A6d00A4bD65a48C430cE16"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Jackpot is not that effective in growing trades and bringing in new traders - we might stop it in the next weekly epoch",
+        "avgDailyTVL": 350000,
+        "avgDailyTXNS": 140,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The total distribution is divided into 3 parts\nLPs via yield boost for locking for an extended period\nCompetition total 1534 ARB distributed to winners - leftover ARB rolled over to next round\nJackpot pool keeps growing with 778 ARB added it on every weekly epoch",
+        "incentives": "",
+        "arbReceived": 9438,
+        "arbUtilized": 9438,
+        "disclosures": "NA",
+        "arbRemaining": 50146,
+        "contractsIncentivized": [
+          {
+            "contractId": "53a5b9c0-e5e1-481e-8f90-a304bc0f8274",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "9bf8d994-1d6e-49c6-acfa-f5d940f55d1f",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          },
+          {
+            "contractId": "60e5e3bf-f8a8-449e-8128-bf4bcf80afa5",
+            "contractLabel": "Jackpot",
+            "contractAddress": "0xEa0b956A04b265A7E2A6d00A4bD65a48C430cE16"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes this week",
+        "expectations": "Trading volume to increase to 180,000 USD per week and TVL to increase to 200,000",
+        "arbToBeDistributed": 9438,
+        "contractsIncentivized": [
+          {
+            "contractId": "de8623f4-5ed2-42d3-adb2-f29e9a1be458",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "8eea3b63-8d10-4c4a-8580-a05733e6fe41",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          },
+          {
+            "contractId": "8a61c118-0628-41ed-af5a-db0d7c338a04",
+            "contractLabel": "Jackpot",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We started a new Jackpot contract with a lower probability but a higher reward to incentivize trading",
+        "lessons": "Our TVL target was way too high then we needed specially for the up/down trading where we received maximum interest of traders",
+        "avgDailyTVL": 250000,
+        "avgDailyTXNS": 100,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "9438 ARB were distributed among 3 contracts - LP boost; competitions and Jackpot",
+        "incentives": "",
+        "arbReceived": 9438,
+        "arbUtilized": 9438,
+        "disclosures": "NA",
+        "arbRemaining": 31270,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          },
+          {
+            "contractId": "047bffc1-6939-47cc-9a1c-79af0d58d6f1",
+            "contractLabel": "Jackpot new",
+            "contractAddress": "0xe34cd1D40733B991fea9ea8545Fa1F490200d6e8"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We started a new Jackpot contract with a lower probability but a higher reward to incentivize trading",
+        "expectations": "Volume - 330k \nTraders - 40\n",
+        "arbToBeDistributed": 9438,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          },
+          {
+            "contractId": "e5ace9f7-62ca-48c6-8152-d0bb49444093",
+            "contractLabel": "Jackpot new",
+            "contractAddress": "0xe34cd1D40733B991fea9ea8545Fa1F490200d6e8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Discontinued jackpot and diverted the ARB to LP incentives",
+        "lessons": "We don't need jackpot and increasing payout for Traders increased the interest and 2xed the trading volumes resulting into higher txs per trader - we were still not able to increase unique users or add new traders",
+        "avgDailyTVL": 200000,
+        "avgDailyTXNS": 150,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "A total of 9348 ARB was distributed among two categories 1. competitions - 3288 and 2. LP boost (Additional reward for locking liquidity) - 6150 ARB",
+        "incentives": "",
+        "arbReceived": 9348,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 21922,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Discontinued Jackpot and added the ARB used for Jackpot to the LP boost contract",
+        "expectations": "Volume expected is 343k since we have established the LTIP and increased payouts for traders by 5%, this was the original target for each period but we missed this because of lack of interest from traders",
+        "arbToBeDistributed": 9348,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes were made",
+        "lessons": "We are consistently able to generate more fee then the amount of value we are distributing but still cannot scale the volume to the target volume - partial reason is LPs not being consistently profitable",
+        "avgDailyTVL": 250000,
+        "avgDailyTXNS": 100,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We distributed tokens in 2 buckets LP boost for locking liquidity and trader competition.",
+        "incentives": "",
+        "arbReceived": 9438,
+        "arbUtilized": 9438,
+        "disclosures": "NA",
+        "arbRemaining": 12484,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "Expected volume 300k+",
+        "arbToBeDistributed": 9438,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "The ARB incentive is majorly used for covering losses of LPs so we got a proposal out to increase fee share of LPs to 95% of the fee generated so we don't need ARB emissions to cover up the losses - we also relaised we can work with LOW tvl so we need limited LPs who can take longer term and informed risk ",
+        "avgDailyTVL": 200000,
+        "avgDailyTXNS": 120,
+        "avgDailyUniqueUsers": 12
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Everything is same with no change in distribution",
+        "incentives": "",
+        "arbReceived": 9438,
+        "arbUtilized": 9438,
+        "disclosures": "NA",
+        "arbRemaining": 3046,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "expected volume to reach 330k",
+        "arbToBeDistributed": 9438,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "Volume is the only metric we need to focus on TVL is not important since we can support high volumes with very low TVL",
+        "avgDailyTVL": 150000,
+        "avgDailyTXNS": 100,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Same 2 buckets where the ARB were distributed",
+        "incentives": "",
+        "arbReceived": 9348,
+        "arbUtilized": 9348,
+        "disclosures": "2 days were less in the final epoch so distribution was reduced as per the reduced ARB",
+        "arbRemaining": -6302,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "Volume 330k",
+        "arbToBeDistributed": 9438,
+        "contractsIncentivized": [
+          {
+            "contractId": "800578d5-2b8c-4955-8dfb-6b92e60d82a1",
+            "contractLabel": "LP Boost",
+            "contractAddress": "0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728"
+          },
+          {
+            "contractId": "cc07f493-56d6-4894-9de3-e05101a6dd80",
+            "contractLabel": "Competitions",
+            "contractAddress": "0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 59584,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Buffer Finance",
+  "grantSummary": "",
+  "fundingAddress": "0xEa0b956A04b265A7E2A6d00A4bD65a48C430cE16, 0x9e53fF83b10B7531f0EeD7010b1bF847DaB88267, 0xa4fdE8a5e22671Fa43389C6d8d1B698Dcbcc6728",
+  "editorAddresses": [],
+  "matchingGrantSize": 56624,
+  "metricsDashboardLink": "https://app.hex.tech/acac0a16-2b41-465f-8525-a6e8aea2d6db/app/7cab5e4d-057e-4206-ba4c-4c4491e62b58/latest",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x5558CD6480A63601EC780D8f40FD7cD97dea48a7"
+}

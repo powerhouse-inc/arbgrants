@@ -1,0 +1,522 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 972,
+        "avgDailyUniqueUsers": 721
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Some metrics: \n\nTo Arbitrum One in the amount of $7,666,348\nNumber of swaps to Arbitrum One: 6557\n\nTo Arbitrum Nova in the amount of $13,229 \nNumer of swaps to Arbitrum Nova: 25\n\nARB distributed on incentives: 3916",
+        "incentives": "",
+        "arbReceived": 8333,
+        "arbUtilized": 4311,
+        "disclosures": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: 0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova 1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova 1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova 2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova 5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova One user can receive no more than 10 ARB",
+        "arbRemaining": 780,
+        "contractsIncentivized": [
+          {
+            "contractId": "1af2aae9-a332-485f-af3d-919afac7494e",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "5597f74b-73f9-417a-a85d-d07bb0b62cfb",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "4cc336f6-74c8-477e-ab0f-ba031f8d80da",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "b930d32f-fc9d-488a-a1ae-323303ebe789",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: \n0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova\n1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova\n1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova\n2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova\n5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova\n\nOne user can receive no more than 10 ARB ",
+        "expectations": "We're planning to use 90% of ARB tokens next week ",
+        "arbToBeDistributed": 3620,
+        "contractsIncentivized": [
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes",
+        "lessons": "-",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 931,
+        "avgDailyUniqueUsers": 781
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Some metrics: To Arbitrum One in the amount of $7,666,348 Number of swaps to Arbitrum One: 6557\n To Arbitrum Nova in the amount of $13,229 Numer of swaps to Arbitrum Nova: 25 ARB distributed on incentives: 3916",
+        "incentives": "",
+        "arbReceived": 8333,
+        "arbUtilized": 4578,
+        "disclosures": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: 0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova 1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova 1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova 2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova 5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova One user can receive no more than 10 ARB",
+        "arbRemaining": 780,
+        "contractsIncentivized": [
+          {
+            "contractId": "6906254b-c375-40c1-81e9-4d2bc5913395",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "ea341a4d-90cc-4e90-a6cb-790cd81d6182",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "cae5252e-4f95-4046-bdc3-86c2bc3f6979",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "19e16a59-f669-4e11-9fce-a279aefea961",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes ",
+        "expectations": "We're planning to distribute 100% of this week funds",
+        "arbToBeDistributed": 4000,
+        "contractsIncentivized": [
+          {
+            "contractId": "586db050-4d72-4bfd-991f-ceda9f581d0f",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "6454b3c0-99ec-481a-8a15-f27bc8616e85",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "ddac3ef6-5a31-4833-aa11-57735d65fbea",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "d7e467e0-06f7-4492-a68c-7f93ce1bd346",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 782,
+        "avgDailyUniqueUsers": 651
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Some metrics: To Arbitrum One in the amount of $7,826,231 Number of swaps to Arbitrum One: 4132 To Arbitrum Nova in the amount of $10,231 Numer of swaps to Arbitrum Nova: 19",
+        "incentives": "",
+        "arbReceived": 8333,
+        "arbUtilized": 2849,
+        "disclosures": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: 0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova 1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova 1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova 2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova 5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova One user can receive no more than 10 ARB",
+        "arbRemaining": 25001,
+        "contractsIncentivized": [
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "-",
+        "expectations": "-",
+        "arbToBeDistributed": 4401,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9, 0xca506793A420E901BbCa8066be5661E3C52c84c2, 0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Some metrics: To Arbitrum One in the amount of $8,090,120 Number of swaps to Arbitrum One: 6556\n To Arbitrum Nova in the amount of $46,980 Number of swaps to Arbitrum Nova: 28",
+        "incentives": "",
+        "arbReceived": 7555,
+        "arbUtilized": 5304,
+        "disclosures": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: 0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova 1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova 1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova 2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova 5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova One user can receive no more than 10 ARB",
+        "arbRemaining": 12172,
+        "contractsIncentivized": [
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "- ",
+        "arbToBeDistributed": 7555,
+        "contractsIncentivized": [
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Some metrics: To Arbitrum One in the amount of $9,274,149 Number of swaps to Arbitrum One: 8265 To Arbitrum Nova in the amount of $50,762 Number of swaps to Arbitrum Nova: 40",
+        "incentives": "",
+        "arbReceived": 8333,
+        "arbUtilized": 4821,
+        "disclosures": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: 0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova 1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova 1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova 2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova 5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova One user can receive no more than 10 ARB",
+        "arbRemaining": 780,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9, 0xca506793A420E901BbCa8066be5661E3C52c84c2, 0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "-",
+        "arbToBeDistributed": 5274,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9, 0xca506793A420E901BbCa8066be5661E3C52c84c2, 0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Some metrics: To Arbitrum One in the amount of $12,233,029 Number of swaps to Arbitrum One: 10556 To Arbitrum Nova in the amount of $23,980 Number of swaps to Arbitrum Nova: 21",
+        "incentives": "",
+        "arbReceived": 8333,
+        "arbUtilized": 4891,
+        "disclosures": "Current incentives model for cross-chain swaps to Arbitrum One or Nova: 0,5 ARB - Minimum $50 cross-chain swap to Arbitrum One or Arbitrum Nova 1 ARB - Minimum $250 cross-chain swap to Arbitrum One or Arbitrum Nova 1,5 ARB - Minimum $1,000 cross-chain swap to Arbitrum One or Arbitrum Nova 2,5 ARB - Minimum $2,500 cross-chain swap to Arbitrum One or Arbitrum Nova 5 ARB - Minimum $10,000 cross-chain swap to Arbitrum One or Arbitrum Nova One user can receive no more than 10 ARB",
+        "arbRemaining": 780,
+        "contractsIncentivized": [
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "-",
+        "arbToBeDistributed": 3637,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9, 0xca506793A420E901BbCa8066be5661E3C52c84c2, 0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          },
+          {
+            "contractId": "49fd79c4-a3a9-43d0-a216-adceb68989e6",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One ",
+            "contractAddress": "0xda8057acB94905eb6025120cB2c38415Fd81BfEB"
+          },
+          {
+            "contractId": "0ebf4a6a-de18-493a-bc15-64283f7e141a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum One #2",
+            "contractAddress": "0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9"
+          },
+          {
+            "contractId": "22b32959-a657-4c21-a29c-a43c868f8c91",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova",
+            "contractAddress": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E"
+          },
+          {
+            "contractId": "772f99af-4b28-4a68-882d-5bf3d8bb6f5a",
+            "contractLabel": "Symbiosis cross-chain contract to Arbitrum Nova #2",
+            "contractAddress": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "no distribution this week ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "no distribution this week ",
+        "arbRemaining": 780,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "no distribution this week ",
+        "expectations": "no distribution this week ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9, 0xca506793A420E901BbCa8066be5661E3C52c84c2, 0x292fC50e4eB66C3f6514b9E402dBc25961824D62"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 50000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Symbiosis ",
+  "grantSummary": "Symbiosis is distributing incentives for cross-chain swaps to Arbitrum One and Arbitrum Nova based on users amount that they bridge",
+  "fundingAddress": "0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0xf7e96217347667064DEE8f20DB747B1C7df45DDe, 0x01A3c8E513B758EBB011F7AFaf6C37616c9C24d9, 0xca506793A420E901BbCa8066be5661E3C52c84c2, 0x292fC50e4eB66C3f6514b9E402dBc25961824D62",
+  "editorAddresses": [],
+  "matchingGrantSize": 50000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6e3c4d4ce3d10b1736586BB9da145Cb0a1DC351D"
+}

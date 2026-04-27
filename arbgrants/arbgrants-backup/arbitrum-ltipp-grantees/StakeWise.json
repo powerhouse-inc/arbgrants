@@ -1,0 +1,408 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/A",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "N/A",
+        "arbRemaining": 500000,
+        "contractsIncentivized": [
+          {
+            "contractId": "959981aa-2a95-47fc-935a-1e8fb61b4303",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "None - start of incentives is just delayed due to technical blockers (now resolved)",
+        "expectations": "Incentives to commence as planned",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "No changes",
+        "avgDailyTVL": 2245732,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No changes",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "No changes",
+        "arbRemaining": 450000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "The same as this period",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "17f8a726-3950-46d7-b59c-ca79ea17c093",
+            "contractLabel": "Balancer Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Liquidity and usage remains stable",
+        "avgDailyTVL": 2650000,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As planned",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 0,
+        "disclosures": "As planned",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes - following the pre-approved distribution amounts",
+        "expectations": "Liquidity to increase",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "None",
+        "avgDailyTVL": 2750000,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Liquidity remains consistent and enabling osETH integrations to get kickstarted",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "Incentives distributed as initially stated in grant proposal",
+        "arbRemaining": 350000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "Maintain liquidity",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No change",
+        "lessons": "No lessons",
+        "avgDailyTVL": 2200000,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grant utilised as approved - liquidity remains strong",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 0,
+        "disclosures": "Grant utilised as approved",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "Maintain liquidity",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "Interactions remain low, but liquidity remains high",
+        "avgDailyTVL": 2250000,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grant distributed as approved ",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "Grant distributed as approved",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "Liquidity to be maintained",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No change",
+        "lessons": "No lessons",
+        "avgDailyTVL": 1850000,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grant distributed as approved/planned",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "None",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "Liquidity to be maintained",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9f414ef-e1e6-4a7a-b61e-8ca4167f877e",
+            "contractLabel": "Balancer Pool Gauge",
+            "contractAddress": "0x5DA32F4724373c91Fdc657E0AD7B1836c70A4E52"
+          },
+          {
+            "contractId": "e0e0d6e7-a814-4991-a757-fce4a7283d60",
+            "contractLabel": "Ramses Gauge",
+            "contractAddress": "0xbaaf26966697d3df061d80eb198179547c9f5c50"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 500000,
+  "fundingType": [
+    "TwoofThreeMultisig"
+  ],
+  "granteeName": "StakeWise",
+  "grantSummary": "",
+  "fundingAddress": "0x2685C0e39EEAAd383fB71ec3F493991d532A87ae",
+  "editorAddresses": [],
+  "matchingGrantSize": 500000,
+  "metricsDashboardLink": "https://dune.com/stakewise/oseth-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x2685C0e39EEAAd383fB71ec3F493991d532A87ae"
+}

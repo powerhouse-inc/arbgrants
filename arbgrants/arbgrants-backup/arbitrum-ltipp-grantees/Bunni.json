@@ -1,0 +1,431 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We switched from cobribes to direct to pool incentives.",
+        "lessons": "Cobribing did not work due to miscommunication and technical issues.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We plan to start soon. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We did not start yet.",
+        "arbRemaining": 30000,
+        "contractsIncentivized": [
+          {
+            "contractId": "d3a78344-b916-4acf-8807-f2bef6b143de",
+            "contractLabel": "We did not start yet",
+            "contractAddress": "0x5Ed29d75277085BceB11950B213dB1D5e766872C"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We did not start our program yet but need to move LP incentives from bribes to direct to pool. See https://forum.arbitrum.foundation/t/bunni-ltipp-application-final/21638",
+        "expectations": "During the next period we will start incentivizing 2 pools with aprox 766.88 ARB\n alUSD / USDC\n alUSD / DOLA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "069eaa50-b2a9-47db-92c1-03c333749146",
+            "contractLabel": "n/a (we did not start yet)",
+            "contractAddress": "0x5Ed29d75277085BceB11950B213dB1D5e766872C"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We saw a small increase in TVL after starting incentives.",
+        "lessons": "There was miscommunication between the wallet deployer and myself leading to incentives being sent 1 day late week 2. We lost lots of TVL because of that. Must do better. \n\nOur cobribing flow is also still broken. We are waiting on gelato. I added more pressure when I realized we were waiting on them. ",
+        "avgDailyTVL": 83220,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We finished up our first week of incentives supporting 3 pools. alUSD/DOLA & alUSD/USDC will be the same amount every week. This is due July 1 and we will do another MS transaction July 1 to send the next round of funds.",
+        "incentives": "",
+        "arbReceived": 10000,
+        "arbUtilized": 3266,
+        "disclosures": "GRAI/alUSD will be a 1 time transaction for 2500 ARB on Paladin with an date of Aug 21, 2024. https://arbiscan.io/tx/0x42c4e283f65814bae1eabe631962b305717830b55c6c7640385034d464971a58\n",
+        "arbRemaining": 20000,
+        "contractsIncentivized": [
+          {
+            "contractId": "19541344-88c2-4943-adc6-3bf23392ce15",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbC741537a30d11F0c330e89f4522d7A1f7D9fE22"
+          },
+          {
+            "contractId": "c8adb06e-787e-4b46-93fc-303c02dd67cb",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daF6010C3a85a80A64cCc621182E4BF6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We needed to adjust incentives to be direct to pool instead on bribe matching for alUSD/DOLA and alUSD/USDC. \n\nalUSD/DOLA will receive 600.30015/ARB/week and alUSD/USDC will receive 166.5832916/ARB/week\n\nWe are still planning on bribe matching alUSD/GRAI and sending the full 2500 ARB to the contract which expires Aug 21 but as of June 28th this is not ready. ",
+        "expectations": "We will not need to add anything to alUSD/GRAI but will bribe alUSD/DOLA and alUSD/USDC every week throughout the rest of the campaign. We also plan to add another large partner in the coming weeks that should bring volumes and be a great fit for Arbitrum long term. ",
+        "arbToBeDistributed": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We missed one weeks worth of incentives. We found a solution to our cobribes incentives problem. ",
+        "lessons": "We have asked the multisig controller to aim to send incentives a day or two earlier to try and avoid periods without incentives where we lose all of our TVL. ",
+        "avgDailyTVL": 77800,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "This 0x9a6157ef9627fe22a3ee9e12d040a2586c092514ab86b6378aaa8a0c18b9f9c8 was our only transaction to send incentives this period. It went to alUSD/USDC and alUSD/DOLA.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 766,
+        "disclosures": "We missed a week of incentives.",
+        "arbRemaining": 20770,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "I am not aware of any changes. It should be about 767 ARB deployed a week between the two pools. GRAI/alUSD is active but already deployed via Paladin.",
+        "expectations": "Our incentives flow for 7 days. The first week we got the multisig transaction signed on a Monday. This week it took until Tuesday. Hopefully we can get it through on Tuesday again. We are also working on adding an additional partner. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1f575c22-0350-40cb-889c-231468ac7bbc",
+            "contractLabel": "alUSD/DOLA ",
+            "contractAddress": "0xbC741537a30d11F0c330e89f4522d7A1f7D9fE22"
+          },
+          {
+            "contractId": "bc877dc4-b113-4031-83fb-69f84e3d3599",
+            "contractLabel": "alUSD/USDC ",
+            "contractAddress": "0x8908b062daF6010C3a85a80A64cCc621182E4BF6"
+          },
+          {
+            "contractId": "06063f11-f552-42c4-91c3-c7da4f33d911",
+            "contractLabel": "GRAI/alUSD Paladin ",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "about the same",
+        "lessons": "will lose LPs if there are no incentives",
+        "avgDailyTVL": 77853,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "If I recall we missed on being able to get the multisig signers to sign in time leading to a period with no incentives and lost momentum",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 1533,
+        "disclosures": "This periods report was done and it did not save. I keep my own notes on numbers but not related to things like \"expectations\" or summary.",
+        "arbRemaining": 10770,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "need to not miss a day on lp incenetives",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes made",
+        "lessons": "We must continue to push incentives on time. Saw improvements from that. ",
+        "avgDailyTVL": 398442,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "looks like the MS needs to get things signed for tomorrow but we were able to not miss any days this period. started with 75k ended with 669k TVL. its good not to miss any days. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 1533,
+        "disclosures": "no changes made",
+        "arbRemaining": 10770,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes made.",
+        "expectations": "Expectations are to not miss a day for incentives. Our incentives reset after 7 days and we must try to balance this with a multisig that needs signatures timed well.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We spent less than expected.",
+        "lessons": "In the future, we need someone else helping with the incentives deployment or need to automate. ",
+        "avgDailyTVL": 458957,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives deployed not on time. Thankfully our partners did. Swap fees stabilizing.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 766,
+        "disclosures": "Incentives were not deployed on time. Missed a full week and then we were late the following week. Incentives went out Aug 25th https://arbiscan.io/tx/0xeaeb34f1c8a317b6cb813d1a0785ed67fa2926c47aee1896d93f89723230ee92",
+        "arbRemaining": 10770,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes made. ",
+        "expectations": "Expectations are that incentives flow on time.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "dd63cc8e-6e97-4b82-bcbc-02f62ffceb8b",
+            "contractLabel": "alUSD/DOLA",
+            "contractAddress": "0xbc741537a30d11f0c330e89f4522d7a1f7d9fe22"
+          },
+          {
+            "contractId": "530f32f6-b889-412e-8739-da9588a79b50",
+            "contractLabel": "alUSD/USDC",
+            "contractAddress": "0x8908b062daf6010c3a85a80a64ccc621182e4bf6"
+          },
+          {
+            "contractId": "c6ccd533-a8f2-476f-999e-cbeb576a81d0",
+            "contractLabel": "GRAI/alUSD Paladin",
+            "contractAddress": "0x04C70Abaa9D3eB14F090094eDc72D5581Dc65A22"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We do not plan to add more incentives.",
+        "expectations": "We plan for usage to flat line. We do think we have established some momentum and expect to build on this in October with our v2. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 30000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Bunni",
+  "grantSummary": "Our grant is for bribe matching and volume incentives.",
+  "fundingAddress": "0x5Ed29d75277085BceB11950B213dB1D5e766872C",
+  "editorAddresses": [],
+  "matchingGrantSize": 30000,
+  "metricsDashboardLink": "Not ready yet (sorry)",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x5Ed29d75277085BceB11950B213dB1D5e766872C"
+}

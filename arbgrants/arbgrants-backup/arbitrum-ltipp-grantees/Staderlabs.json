@@ -1,0 +1,474 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are sticking to the same strategy",
+        "lessons": "We have factored in a 10% price fluctuation in ARB price but it has been way more drastic already. And we plan to factor that into the scenario analysis going forward",
+        "avgDailyTVL": 261871,
+        "avgDailyTXNS": 27,
+        "avgDailyUniqueUsers": 16
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Currently we're incentivizing the LPs. The longer-term incentives such as bridging and staking boosts will cumulatively kick in towards the fag end of the timeframe",
+        "incentives": "",
+        "arbReceived": 41666,
+        "arbUtilized": 5000,
+        "disclosures": "NA",
+        "arbRemaining": 166668,
+        "contractsIncentivized": [
+          {
+            "contractId": "bfdf5521-a78f-455c-869a-705a5560c31e",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931F22DCE32172EaAb543edD59AEde796B"
+          },
+          {
+            "contractId": "f4c15ff2-d303-4252-95b4-d91c131e288b",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We are proceeding as per the staggered reward structure. So no specific changes we foresee",
+        "expectations": "We're planning a similar spend level for the upcoming 2 week period. Once the TVL stabilizes we will consider doubling it",
+        "arbToBeDistributed": 41666,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d8ffec4-2c54-41e6-bee0-069da5eb83f5",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931f22dce32172eaab543edd59aede796b"
+          },
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are still proceeding as per the staggered reward structure. So no specific changes we foresee",
+        "lessons": "The TVL seems to have stabilized on Balancer & Ramses. So we will double the spends in those pockets",
+        "avgDailyTVL": 325460,
+        "avgDailyTXNS": 85,
+        "avgDailyUniqueUsers": 32
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Currently we're incentivizing the LPs. The longer-term incentives such as bridging and staking boosts will cumulatively kick in towards the fag end of the timeframe",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 3500,
+        "disclosures": "NA",
+        "arbRemaining": 51336,
+        "contractsIncentivized": [
+          {
+            "contractId": "11d86306-2772-47c5-bf2e-fc0f86e34ab4",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931F22DCE32172EaAb543edD59AEde796B"
+          },
+          {
+            "contractId": "f9eb596c-9fa8-489c-98d1-244ac8ac3bc5",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Will stick to the same strategy as last cycle",
+        "expectations": "We are planning on seeing if the current bribes will incentivise the users and increase the TVL",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "340ae5d2-b2d9-4d3e-8528-85ca6b8bf852",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931F22DCE32172EaAb543edD59AEde796B"
+          },
+          {
+            "contractId": "9e36f670-6927-4239-9bc6-e498b10e1136",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Our strategy to overindexing on balancer has paid off ",
+        "lessons": "The overall APR levels across the chain has shifted and will index accordingly ",
+        "avgDailyTVL": 600973,
+        "avgDailyTXNS": 66,
+        "avgDailyUniqueUsers": 31
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 14600,
+        "disclosures": "NA",
+        "arbRemaining": 93002,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d8ffec4-2c54-41e6-bee0-069da5eb83f5",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931f22dce32172eaab543edd59aede796b"
+          },
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "7002163c-a048-457b-b564-004d0ad11398",
+            "contractLabel": "Ramses - Gauge V2",
+            "contractAddress": "0x6a7fD88716022f847209C0468e957C2fDea8C130"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Will be overindexing the balancer pool since we have seen more traction",
+        "expectations": "We expect the balancer pool to be at $1M TVL",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d8ffec4-2c54-41e6-bee0-069da5eb83f5",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931f22dce32172eaab543edd59aede796b"
+          },
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "7002163c-a048-457b-b564-004d0ad11398",
+            "contractLabel": "Ramses - Gauge V2",
+            "contractAddress": "0x6a7fD88716022f847209C0468e957C2fDea8C130"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We will be sticking to the same plan as before",
+        "lessons": "We will continue incentivizing LPs since it brings more traction.",
+        "avgDailyTVL": 1182553,
+        "avgDailyTXNS": 54,
+        "avgDailyUniqueUsers": 29
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 125001,
+        "arbUtilized": 26000,
+        "disclosures": "NA",
+        "arbRemaining": 9667,
+        "contractsIncentivized": [
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "7002163c-a048-457b-b564-004d0ad11398",
+            "contractLabel": "Ramses - Gauge V2",
+            "contractAddress": "0x6a7fD88716022f847209C0468e957C2fDea8C130"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We will overindex on the balancer pool since that is where the majority of the traction has been",
+        "expectations": "We are planning to hit $3M TVL on the balancer pool",
+        "arbToBeDistributed": 125001,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d8ffec4-2c54-41e6-bee0-069da5eb83f5",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931f22dce32172eaab543edd59aede796b"
+          },
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "7002163c-a048-457b-b564-004d0ad11398",
+            "contractLabel": "Ramses - Gauge V2",
+            "contractAddress": "0x6a7fD88716022f847209C0468e957C2fDea8C130"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We will be sticking to the same plan as before",
+        "lessons": "ARB price action forced us to revise our estimates, we will keep that in mind for the next cycle",
+        "avgDailyTVL": 2020621,
+        "avgDailyTXNS": 77,
+        "avgDailyUniqueUsers": 30
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 34000,
+        "disclosures": "NA",
+        "arbRemaining": 51333,
+        "contractsIncentivized": [
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "7002163c-a048-457b-b564-004d0ad11398",
+            "contractLabel": "Ramses - Gauge V2",
+            "contractAddress": "0x6a7fD88716022f847209C0468e957C2fDea8C130"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes in strategy",
+        "expectations": "Launching new rsETH ETHx pool and will be directing some funds to it",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d8ffec4-2c54-41e6-bee0-069da5eb83f5",
+            "contractLabel": "Ramses exchange fee distributor",
+            "contractAddress": "0x605555931f22dce32172eaab543edd59aede796b"
+          },
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "7002163c-a048-457b-b564-004d0ad11398",
+            "contractLabel": "Ramses - Gauge V2",
+            "contractAddress": "0x6a7fD88716022f847209C0468e957C2fDea8C130"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "the Ramses pool saw a strong surge in traction and we will continue to scale it up",
+        "lessons": "while the concentrated liquidity pools are tricky for the end users to manage, the beefy vaults abstracted it out to an extent helping with traction",
+        "avgDailyTVL": 3950127,
+        "avgDailyTXNS": 85,
+        "avgDailyUniqueUsers": 43
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 83332,
+        "arbUtilized": 39500,
+        "disclosures": "NA",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "we are on track with the balancer strategy and trying out the ETHx rsETH Ramses pool",
+        "expectations": "we expect further increase in the Balancer TVL",
+        "arbToBeDistributed": 83332,
+        "contractsIncentivized": [
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We bumped up the Balancer allocation as per the plan but we fell a bit short of the $5M target and ended up at $4.4M",
+        "lessons": "LPs in general have a higher hurdle rate on Arbitrum vs mainnet but traction has been way better than mainnet. Whether it's just a function of goodwill from the grants remains to be seen",
+        "avgDailyTVL": 5123756,
+        "avgDailyTXNS": 54,
+        "avgDailyUniqueUsers": 37
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 1,
+        "arbUtilized": 127400,
+        "disclosures": "NA",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          },
+          {
+            "contractId": "28b893da-8939-447f-b86c-8294a1df74ec",
+            "contractLabel": "Beefy",
+            "contractAddress": "0xf2bf40360aa066353f3b42576799141fe80e0285"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We plan to hold the Ramses position while trying to scale the Balancer position to $5M+",
+        "expectations": "We expect the Balancer TVL to increase and will be planning on incentivizing the users who participated in the staking and bridging campaign",
+        "arbToBeDistributed": 1,
+        "contractsIncentivized": [
+          {
+            "contractId": "1583cdfb-630e-4190-93f4-e80d13b9cdf2",
+            "contractLabel": "CakePie Bribe reward distributor",
+            "contractAddress": "0xf83E4bd2765e1DD1Fe9552331A988E0F6A3Ec313"
+          },
+          {
+            "contractId": "0e9735ca-72dd-4246-a700-19e1e35b9f9a",
+            "contractLabel": "Aura stash",
+            "contractAddress": "0x8380499afe14bb988787fea41fb8aaf4c2df673d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 250000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Staderlabs",
+  "grantSummary": "",
+  "fundingAddress": "0x68258012DA3B933a81617FD08c9382a60B87cA98",
+  "editorAddresses": [],
+  "matchingGrantSize": 250000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xE0b2590a09d5Da40cB6D3D8d5436B5Cafe2B4b9F"
+}

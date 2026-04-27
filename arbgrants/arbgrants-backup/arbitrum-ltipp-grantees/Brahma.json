@@ -1,0 +1,318 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Focusing on TVL and quality token deposits",
+        "lessons": "Protocol specific campaigns are needed. ",
+        "avgDailyTVL": 2431834,
+        "avgDailyTXNS": 77,
+        "avgDailyUniqueUsers": 17
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributed incentives based on deposit size and quality",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 21604,
+        "disclosures": "Changed from 3 day epochs to 1week",
+        "arbRemaining": -256743089,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Incentivizing specific deposit tokens ",
+        "expectations": "Promoting deposits and increasing sign ups for the first phase",
+        "arbToBeDistributed": 25974,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "Harder to scale tvl fast due to change in ARB price and therefore steep reduction of expected APY",
+        "avgDailyTVL": 3011049,
+        "avgDailyTXNS": 120,
+        "avgDailyUniqueUsers": 29
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL, volume and txn count progressing",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25679,
+        "disclosures": "Epoch progressed as expected",
+        "arbRemaining": -256743089,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No direct changes. Incentivized top ARB protocols integrated deeply in Console (GMX, Aave, Pendle, Renzo) usage and tvl (with a lower factor)",
+        "expectations": "increase the TVL and the overall volume",
+        "arbToBeDistributed": 25679,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No large changes. multiple touch point with users, optimizing for volume. And expressing the campaign better to end users. ",
+        "lessons": "TVL still seems like the harder to scale. ",
+        "avgDailyTVL": 3430069,
+        "avgDailyTXNS": 110,
+        "avgDailyUniqueUsers": 29
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL still hard to scale. Number of users, transactions and volume scaling well",
+        "incentives": "",
+        "arbReceived": 25679,
+        "arbUtilized": 25679,
+        "disclosures": "NA",
+        "arbRemaining": 73642,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Introduced Bebop as incentivized protocol. Improved activity tracking and weighted volume higher than tvl ",
+        "expectations": "Scale tvl and txn volume",
+        "arbToBeDistributed": 25679,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "New protocols added, more marketing campaigns planned",
+        "lessons": "Need better reach to convey TVL incentives. Need more creative ways also as the resulting APY isn't as high as expected due to price ",
+        "avgDailyTVL": 3912192,
+        "avgDailyTXNS": 126,
+        "avgDailyUniqueUsers": 38
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL progress still challenging, but all metrics growing niceli, especially txn count, consoles, DAU",
+        "incentives": "",
+        "arbReceived": 25679,
+        "arbUtilized": 25679,
+        "disclosures": "NA",
+        "arbRemaining": 47963,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Added Aura, planning Equilibria addition to incentivized protocols. ",
+        "expectations": "Keep growing metrics, hit 4mio TVL",
+        "arbToBeDistributed": 25679,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Comarketing with Equilibria, adding Gearbox as well to incentivized protocol actions",
+        "lessons": "incentive size isn't enough to bring new liquidity in especially towards the end of distribution",
+        "avgDailyTVL": 3269343,
+        "avgDailyTXNS": 98,
+        "avgDailyUniqueUsers": 35
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Comarketing with Equilibria, adding Gearbox as well to incentivized protocol actions",
+        "incentives": "",
+        "arbReceived": 25679,
+        "arbUtilized": 12839,
+        "disclosures": "NA",
+        "arbRemaining": 10561,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Preparing for the launch of a referral program. Also working to onboard a DAO we have been working with as part of our LTIPP program",
+        "expectations": "Increase TVL to at least reach >50% expected before program end. Keep increasing the other metrics",
+        "arbToBeDistributed": 256791731,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 3258702,
+        "avgDailyTXNS": 105,
+        "avgDailyUniqueUsers": 40
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 12402,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": -256755491,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "try retain and keep scaling tvl and usage past end of rewards",
+        "arbToBeDistributed": 12402,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": -256755491,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "NA, Distribution already completed",
+        "expectations": "NA, Distribution already completed",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 150000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Brahma",
+  "grantSummary": "LTIPP",
+  "fundingAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF",
+  "editorAddresses": [],
+  "matchingGrantSize": 150000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xd94907d25f35b1f0ff18E1dA4B5c2fcD358214aF"
+}

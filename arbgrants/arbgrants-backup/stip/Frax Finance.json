@@ -1,0 +1,194 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-06-30T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-06-16T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-14T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-06-30T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-28T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-14T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-11T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-28T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-25T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-11T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-08T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-25T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 750000,
+  "fundingType": [
+    "ThreeofFiveMultisig"
+  ],
+  "granteeName": "Frax Finance",
+  "grantSummary": "",
+  "fundingAddress": "0xB854cF650F5492d23e52cb2A7a58B787fC25B0Bb, 0x05824d6d4de8a0ede4e12b98387a4f035a67ee68, 0xa2617a26f9f528fa7b0e47fc2e66fcc04c6682e9, 0x421Efd53FA0d90687db5ef370D5DCD7f89CbD9dE, 0x743d7683e67cF5719fad4149311CD7C24e3D1ffA, 0xdc16a1877e44ac80b6befdda5a6d8a89300cbff9, 0x4995f8a28f0E8d2920AE787e32d0f1013AEc29e1, 0x3f96c2110563f62900d6818dac4c32b6c996761b, 0xeb473a6a0bf7b4d820d8fed61d2ab1402d637994, 0xe3003b04fbb20a3a18497bc5106a0e45d601ac4f, 0x43DB1214e9c5d7d980267a2031b380fc80b88f86, 0xa9092a2cfd11f8e42cfd84c0217743f28b3c285c, 0x4b6052E271C1a1aF0eB62376fbba95Fa4A1E282B, 0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd, 0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd, 0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd, 0x45d19CAc4901983E02fb93D7579C247D5F89f38B, 0xe3c747896C76aEE3f4c18F34A36eE58b425B8E17, 0xFD0AF0B852e8937b2767C1a344E1fD9b34EC1b1A, 0xE4e6cA54324f6C456AfFc7c0875A3ECfDda85c3d, 0x0b5f23b68c07bbdedbb18d822d20b4f0e5b7594f, 0x24e927daC110Aab7189a4F864d41680e4F7865FB, 0x43DB1214e9c5d7d980267a2031b380fc80b88f86, 0xb69BB749bCc1cdD56861525fF9DADf5AF76Fc5f1, 0x99e0896d149c3d2a50a6aFd44fE41fb73448dBb5, 0x49894a90c15Fde52bAD37AC4a8cb54465FEc3a72, 0x364C80e9418B65110157Bc7681Ed761B3188F59E, 0x18728A905Ce936c155Fd0CC428181Ff8a7A73215, 0xcb81454ec05274640eD5129cC0363947B0B9d0ec, 0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd, 0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd, 0x96412caB79c3A4c5cACD8b6fbFbEa36F4cA3791a, 0x928b06229a3f4Bc7806d80Fe54e48E777BB74536",
+  "editorAddresses": [
+    "0x6e74053a3798e0fC9a9775F7995316b27f21c4D2"
+  ],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum/grantees/Frax%20Finance",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xe61D9ed1e5Dc261D1e90a99304fADCef2c76FD10"
+}

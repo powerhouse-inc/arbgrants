@@ -1,0 +1,263 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Last day of campaign: \nDAU 126\ntx_count 938\nFirst day:\nDAU 41\ntx_count 78",
+        "lessons": "Obvious growth in TVL and minor growth in volume.  Overall on the protocol lvl increases are TVL: 6m when it started, 13m now, Volume was around 3M before and now it's 7m.",
+        "avgDailyTVL": 4843160,
+        "avgDailyTXNS": 938,
+        "avgDailyUniqueUsers": 126
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives deployed via Merkel.  Pools were targets to bring users/tvl and target access to traders who need deeper liquidity for more efficient trades.",
+        "incentives": "",
+        "arbReceived": 650000,
+        "arbUtilized": 650000,
+        "disclosures": "No changes from proposal on pool targets.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "942cf495-89df-4f99-a7c7-b65aa59a179a",
+            "contractLabel": "SushiSwapV3 WETH-USDC",
+            "contractAddress": "0xf3eb87c1f6020982173c908e7eb31aa66c1f0296"
+          },
+          {
+            "contractId": "4771491f-acb8-473d-bbcf-5178d64eab5f",
+            "contractLabel": "SushiSwapV3 USDC-USDC.E",
+            "contractAddress": "0xcda3b7bec56dbb562453231f142f63d3b00f8eb3"
+          },
+          {
+            "contractId": "d18292b6-223a-47ac-9ce7-aca2a1ac2322",
+            "contractLabel": "SushiSwap v3 ETH/USDC",
+            "contractAddress": "0xb658ee5c63922d2852f24458effa2bfa2cba3574"
+          },
+          {
+            "contractId": "a24a9b24-a27d-4d57-95d0-6b7378eadbe3",
+            "contractLabel": "SushiSwap V3 ARB-USDC ",
+            "contractAddress": "0xfa1cC0caE7779B214B1112322A2d1Cf0B511C3bC"
+          },
+          {
+            "contractId": "122be9fb-e273-4887-b164-ac9352035a34",
+            "contractLabel": "SushiSwap V3 WBTC-USDC",
+            "contractAddress": "0x699f628A8A1DE0f28cf9181C1F8ED848eBB0BBdF"
+          },
+          {
+            "contractId": "13542165-2241-4e0b-a4dd-633640a6c42a",
+            "contractLabel": "SushiSwapV3 USDT-USDC.e",
+            "contractAddress": "0xd9e96f78b3c68ba79fd4dfad4ddf4f27bd1e2ecf"
+          },
+          {
+            "contractId": "c289cc73-28f0-4a14-ad66-ebc23720af56",
+            "contractLabel": "SushiSwap V3 ETH-ARB ",
+            "contractAddress": "0xb3942c9ffa04efbc1fa746e146be7565c76e3dc1"
+          },
+          {
+            "contractId": "b5846025-f663-4442-9037-b2582ed06118",
+            "contractLabel": "SushiSwap V3 ZRO - ETH",
+            "contractAddress": "0x1797538dd80c041cc2f0c5901d5700868186a9a8"
+          },
+          {
+            "contractId": "6d260f74-4f17-471c-9a62-2de1365874ba",
+            "contractLabel": "SushiSwap V3 WstETH - WETH",
+            "contractAddress": "0x8bd39fa8608fd949c253987767540c26a0d974cf"
+          },
+          {
+            "contractId": "ac943ba8-3b18-435b-85e4-63f26ae4241e",
+            "contractLabel": "SushiSwap V3 tBTC - WBTC ",
+            "contractAddress": "0x2a7b1e3089938c9284999048bf58ea358e4c85b7"
+          },
+          {
+            "contractId": "68c457fa-53c4-4e65-8b00-15d932c683c5",
+            "contractLabel": "SushiSwap V3 ETH-DONUT ",
+            "contractAddress": "0x65f7a98d87bc21a3748545047632fef4d3ff9a67"
+          },
+          {
+            "contractId": "a53ee9c2-6163-437e-839f-f0e5516cef6b",
+            "contractLabel": "SushiSwap V3 WBTC-SOLVBTC ",
+            "contractAddress": "0x622f5814882b920ca10131af616f7af1b5d0670b"
+          },
+          {
+            "contractId": "bc591e0a-d580-4a2c-bba3-0f44a9812237",
+            "contractLabel": "SushiSwap v3 SolvBTC-SolvBTC.BBN",
+            "contractAddress": "0x225cf5f3c2a958a151d86798e5ed4a4b8918f0b7"
+          },
+          {
+            "contractId": "e5ebecf4-9c53-47cc-a063-bded2a60eb42",
+            "contractLabel": "SushiSwap V3 SolvBTC-SolvBTC.ENA",
+            "contractAddress": "0x9eb7ed4d6ad1751f54f1d561e84eb6b4fb768695"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 650000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "SushiSwap",
+  "grantSummary": "",
+  "fundingAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x4bb4c1B0745ef7B4642fEECcd0740deC417ca0a0"
+}

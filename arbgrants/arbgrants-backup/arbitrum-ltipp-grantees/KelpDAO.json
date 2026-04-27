@@ -1,0 +1,743 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Addition of incentives to new pools ",
+        "lessons": "We plan to factor ARB price changes into the scenario analysis going forward.",
+        "avgDailyTVL": 62901342,
+        "avgDailyTXNS": 51,
+        "avgDailyUniqueUsers": 48
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expect addition of emissions to Lending protocols and a new DEX in the coming weeks",
+        "incentives": "",
+        "arbReceived": 9750,
+        "arbUtilized": 9750,
+        "disclosures": "We have added PancakeSwap and Camelot as DeXes to the list to explore incentivization efficiency across DeXes.\n",
+        "arbRemaining": 58250,
+        "contractsIncentivized": [
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "21e2bae0-2106-49c4-af0e-c0db5c8826a0",
+            "contractLabel": "Cakepie",
+            "contractAddress": "0xf83e4bd2765e1dd1fe9552331a988e0f6a3ec313"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We have added PancakeSwap and Camelot as DeXes to the list to explore incentivization efficiency across DeXes.\n\n",
+        "expectations": "Addition of new DEX to support rsETH on Arbitrum",
+        "arbToBeDistributed": 9750,
+        "contractsIncentivized": [
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "21e2bae0-2106-49c4-af0e-c0db5c8826a0",
+            "contractLabel": "Cakepie",
+            "contractAddress": "0xf83e4bd2765e1dd1fe9552331a988e0f6a3ec313"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added incentives for Magpie LP providers",
+        "lessons": "ARB spends have been helpful in getting additional TVL. We'll look to incentivize more protocols",
+        "avgDailyTVL": 57348650,
+        "avgDailyTXNS": 69,
+        "avgDailyUniqueUsers": 61
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The incentives structure remained the same from previous weeks with addition of new DEXs ",
+        "incentives": "",
+        "arbReceived": 8000,
+        "arbUtilized": 8000,
+        "disclosures": "Addition of incentives to users providing LP on Magpie.",
+        "arbRemaining": 58250,
+        "contractsIncentivized": [
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "21e2bae0-2106-49c4-af0e-c0db5c8826a0",
+            "contractLabel": "Cakepie",
+            "contractAddress": "0xf83e4bd2765e1dd1fe9552331a988e0f6a3ec313"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "ff488daa-83a9-4454-b7a2-32e949fdb84a",
+            "contractLabel": "Hidden Hand",
+            "contractAddress": "0xfaf57156cecce24b25c4492ce158cc27ca3ce73b"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Addition of incentives to users providing LP on Magpie.",
+        "expectations": "Addition of incentives to new DEXs, Lending protocols",
+        "arbToBeDistributed": 8000,
+        "contractsIncentivized": [
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "21e2bae0-2106-49c4-af0e-c0db5c8826a0",
+            "contractLabel": "Cakepie",
+            "contractAddress": "0xf83e4bd2765e1dd1fe9552331a988e0f6a3ec313"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "ff488daa-83a9-4454-b7a2-32e949fdb84a",
+            "contractLabel": "Hidden Hand",
+            "contractAddress": "0xfaf57156cecce24b25c4492ce158cc27ca3ce73b"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added incentives for new LP on Ramses",
+        "lessons": "We're increasing in terms of TVL but factoring the market downturn, USD values are down. We plan to give out more incentives for better performing LPs.",
+        "avgDailyTVL": 58143044,
+        "avgDailyTXNS": 42,
+        "avgDailyUniqueUsers": 35
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The incentives structure remained the same from previous weeks with addition of new DEXs ",
+        "incentives": "",
+        "arbReceived": 24750,
+        "arbUtilized": 24750,
+        "disclosures": "Added incentives for LP Providers on rsETH Pools on Ramses.",
+        "arbRemaining": 52750,
+        "contractsIncentivized": [
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "ff488daa-83a9-4454-b7a2-32e949fdb84a",
+            "contractLabel": "Hidden Hand",
+            "contractAddress": "0xfaf57156cecce24b25c4492ce158cc27ca3ce73b"
+          },
+          {
+            "contractId": "21e2bae0-2106-49c4-af0e-c0db5c8826a0",
+            "contractLabel": "Cakepie",
+            "contractAddress": "0xf83e4bd2765e1dd1fe9552331a988e0f6a3ec313"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "c13c7f68-bd34-4c2a-a61f-70d8629954b3",
+            "contractLabel": "Ramses",
+            "contractAddress": "0xe9626c3441c3235ffc96fb7108f050a330b0ba24"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Allocated more incentives to better performing pools. Added incentives to Ramses Pool",
+        "expectations": "We expect the TVL to grow, with the added incentives to new pools and increased allocation to better performing pools.",
+        "arbToBeDistributed": 19250,
+        "contractsIncentivized": [
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "ff488daa-83a9-4454-b7a2-32e949fdb84a",
+            "contractLabel": "Hidden Hand",
+            "contractAddress": "0xfaf57156cecce24b25c4492ce158cc27ca3ce73b"
+          },
+          {
+            "contractId": "21e2bae0-2106-49c4-af0e-c0db5c8826a0",
+            "contractLabel": "Cakepie",
+            "contractAddress": "0xf83e4bd2765e1dd1fe9552331a988e0f6a3ec313"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "c13c7f68-bd34-4c2a-a61f-70d8629954b3",
+            "contractLabel": "Ramses",
+            "contractAddress": "0xe9626c3441c3235ffc96fb7108f050a330b0ba24"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No Changes from planned stage",
+        "lessons": "Our DAU and transaction count increased significantly compared to the previous period as a result of incentivizing the new LPs. ",
+        "avgDailyTVL": 54212225,
+        "avgDailyTXNS": 1013,
+        "avgDailyUniqueUsers": 998
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributed slightly lesser than planned due to us removing incentives to non performing LPs",
+        "incentives": "",
+        "arbReceived": 21200,
+        "arbUtilized": 21200,
+        "disclosures": "NA",
+        "arbRemaining": 56300,
+        "contractsIncentivized": [
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "c13c7f68-bd34-4c2a-a61f-70d8629954b3",
+            "contractLabel": "Ramses",
+            "contractAddress": "0xe9626c3441c3235ffc96fb7108f050a330b0ba24"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No Changes",
+        "expectations": "Expectations are the TVL will rise due to incentives provided on new LPs.",
+        "arbToBeDistributed": 21200,
+        "contractsIncentivized": [
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "c13c7f68-bd34-4c2a-a61f-70d8629954b3",
+            "contractLabel": "Ramses",
+            "contractAddress": "0xe9626c3441c3235ffc96fb7108f050a330b0ba24"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Moved to Beefy for incentive distribution due to better capital efficiency of rewards",
+        "lessons": "Yield Optimizers help boost capital efficiency of rewards",
+        "avgDailyTVL": 44215667,
+        "avgDailyTXNS": 123,
+        "avgDailyUniqueUsers": 127
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Increased incentives for users will hopefully return us an increased TVL",
+        "incentives": "",
+        "arbReceived": 34622,
+        "arbUtilized": 34622,
+        "disclosures": "Migrated from Merkle to Beefy for incentives distribution. Will be adding Beefy Contracts instead of Merkle for this period.",
+        "arbRemaining": 51678,
+        "contractsIncentivized": [
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "c13c7f68-bd34-4c2a-a61f-70d8629954b3",
+            "contractLabel": "Ramses",
+            "contractAddress": "0xe9626c3441c3235ffc96fb7108f050a330b0ba24"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Migrated from Merkle to Beefy Finance to distribute the incentives. Beefy is matching the same amount of incentives to the users, hence the switch. ",
+        "expectations": "We expect this to increase TVL and our marketing output by partnering up with Beefy",
+        "arbToBeDistributed": 30000,
+        "contractsIncentivized": [
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "cb8debbd-2db3-4291-bcf4-bb05c67d032c",
+            "contractLabel": "Beefy Ramses rsETH-ETHx",
+            "contractAddress": "0xf2bf40360aa066353f3b42576799141fe80e0285"
+          },
+          {
+            "contractId": "5f54db7a-bb4a-48da-996d-f78f0d455364",
+            "contractLabel": "Beefy Ramses rsETH-ETH",
+            "contractAddress": "0x81F15F4FA4848F7D87ceF27975AE2953bf333D7b"
+          },
+          {
+            "contractId": "d5f28799-f8dc-41d1-a013-533c282c3df0",
+            "contractLabel": "Beefy Uniswap rsETH-ETH",
+            "contractAddress": "0x04D463bf08dF252Cb09a87D6d41a33c535942710"
+          },
+          {
+            "contractId": "95f96a0f-f65b-478b-ac16-fd032b77683b",
+            "contractLabel": "Beefy Uniswap rsETH-wstETH",
+            "contractAddress": "0x8B0345E218B84274154071614641a501821374A6"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No significant changes on DEX and Yield Optimizer front, added Dolomite to incentivize lending users",
+        "lessons": "Although we are incentivizing for Arbitrum pools, the TVL isn't growing significantly - mainly due to overall crypto price action",
+        "avgDailyTVL": 44734300,
+        "avgDailyTXNS": 65,
+        "avgDailyUniqueUsers": 63
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Overall incentives are going as planned. ",
+        "incentives": "",
+        "arbReceived": 53500,
+        "arbUtilized": 53500,
+        "disclosures": "Incentives have been added for Dolomite Lending Pool",
+        "arbRemaining": 48178,
+        "contractsIncentivized": [
+          {
+            "contractId": "cb8debbd-2db3-4291-bcf4-bb05c67d032c",
+            "contractLabel": "Beefy Ramses rsETH-ETHx",
+            "contractAddress": "0xf2bf40360aa066353f3b42576799141fe80e0285"
+          },
+          {
+            "contractId": "5f54db7a-bb4a-48da-996d-f78f0d455364",
+            "contractLabel": "Beefy Ramses rsETH-ETH",
+            "contractAddress": "0x81F15F4FA4848F7D87ceF27975AE2953bf333D7b"
+          },
+          {
+            "contractId": "d5f28799-f8dc-41d1-a013-533c282c3df0",
+            "contractLabel": "Beefy Uniswap rsETH-ETH",
+            "contractAddress": "0x04D463bf08dF252Cb09a87D6d41a33c535942710"
+          },
+          {
+            "contractId": "95f96a0f-f65b-478b-ac16-fd032b77683b",
+            "contractLabel": "Beefy Uniswap rsETH-wstETH",
+            "contractAddress": "0x8B0345E218B84274154071614641a501821374A6"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "523dcd47-82f5-45c0-ac94-52e7d952c859",
+            "contractLabel": "Dolomite Distributor",
+            "contractAddress": "0xa75c21c5be284122a87a37a76cc6c4dd3e55a1d4"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No Major Changes. Increased incentives on weekly",
+        "expectations": "Increased TVL due to Beefy incentives, hoping for better $ARB price action.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "cb8debbd-2db3-4291-bcf4-bb05c67d032c",
+            "contractLabel": "Beefy Ramses rsETH-ETHx",
+            "contractAddress": "0xf2bf40360aa066353f3b42576799141fe80e0285"
+          },
+          {
+            "contractId": "5f54db7a-bb4a-48da-996d-f78f0d455364",
+            "contractLabel": "Beefy Ramses rsETH-ETH",
+            "contractAddress": "0x81F15F4FA4848F7D87ceF27975AE2953bf333D7b"
+          },
+          {
+            "contractId": "d5f28799-f8dc-41d1-a013-533c282c3df0",
+            "contractLabel": "Beefy Uniswap rsETH-ETH",
+            "contractAddress": "0x04D463bf08dF252Cb09a87D6d41a33c535942710"
+          },
+          {
+            "contractId": "95f96a0f-f65b-478b-ac16-fd032b77683b",
+            "contractLabel": "Beefy Uniswap rsETH-wstETH",
+            "contractAddress": "0x8B0345E218B84274154071614641a501821374A6"
+          },
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Closure of Grants campaign with 100% utilization, paid out to incentivize users for DeFi and minting/bridging rsETH on Arbitrum. ",
+        "incentives": "",
+        "arbReceived": 98499,
+        "arbUtilized": 98499,
+        "disclosures": "rsETH minting & bridging Incentives were paid out to users as part of our campaign.",
+        "arbRemaining": -321,
+        "contractsIncentivized": [
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "cb8debbd-2db3-4291-bcf4-bb05c67d032c",
+            "contractLabel": "Beefy Ramses rsETH-ETHx",
+            "contractAddress": "0xf2bf40360aa066353f3b42576799141fe80e0285"
+          },
+          {
+            "contractId": "5f54db7a-bb4a-48da-996d-f78f0d455364",
+            "contractLabel": "Beefy Ramses rsETH-ETH",
+            "contractAddress": "0x81F15F4FA4848F7D87ceF27975AE2953bf333D7b"
+          },
+          {
+            "contractId": "d5f28799-f8dc-41d1-a013-533c282c3df0",
+            "contractLabel": "Beefy Uniswap rsETH-ETH",
+            "contractAddress": "0x04D463bf08dF252Cb09a87D6d41a33c535942710"
+          },
+          {
+            "contractId": "95f96a0f-f65b-478b-ac16-fd032b77683b",
+            "contractLabel": "Beefy Uniswap rsETH-wstETH",
+            "contractAddress": "0x8B0345E218B84274154071614641a501821374A6"
+          },
+          {
+            "contractId": "523dcd47-82f5-45c0-ac94-52e7d952c859",
+            "contractLabel": "Dolomite Distributor",
+            "contractAddress": "0xa75c21c5be284122a87a37a76cc6c4dd3e55a1d4"
+          },
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          },
+          {
+            "contractId": "c459d123-dd57-4dbf-aa68-0ae133cebc8a",
+            "contractLabel": "Distributor Address",
+            "contractAddress": "0x509e002Ef77E7Ed8205812267941fcF3823B0A1b"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We will add incentives to PancakeSwap LP, rest remains the same",
+        "expectations": "Markets will perform better",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "43182a49-d9c6-465f-8909-0f0380e9de58",
+            "contractLabel": "Equilibria",
+            "contractAddress": "0xca8428042d7da7b6d6bee526a23e9899adffab4c"
+          },
+          {
+            "contractId": "1a2dab84-4a31-4e53-be8c-229cd82d7b1b",
+            "contractLabel": "Hidden Hand distributor",
+            "contractAddress": "0x67bb8f98ddff504204b9af8e9c00e9c6926526e2"
+          },
+          {
+            "contractId": "7247c54d-2930-4db5-98a9-4726b91a28db",
+            "contractLabel": "Magpie",
+            "contractAddress": "0x8ce523cf1120d9b7703806c745b69663a2847504"
+          },
+          {
+            "contractId": "cb8debbd-2db3-4291-bcf4-bb05c67d032c",
+            "contractLabel": "Beefy Ramses rsETH-ETHx",
+            "contractAddress": "0xf2bf40360aa066353f3b42576799141fe80e0285"
+          },
+          {
+            "contractId": "5f54db7a-bb4a-48da-996d-f78f0d455364",
+            "contractLabel": "Beefy Ramses rsETH-ETH",
+            "contractAddress": "0x81F15F4FA4848F7D87ceF27975AE2953bf333D7b"
+          },
+          {
+            "contractId": "d5f28799-f8dc-41d1-a013-533c282c3df0",
+            "contractLabel": "Beefy Uniswap rsETH-ETH",
+            "contractAddress": "0x04D463bf08dF252Cb09a87D6d41a33c535942710"
+          },
+          {
+            "contractId": "95f96a0f-f65b-478b-ac16-fd032b77683b",
+            "contractLabel": "Beefy Uniswap rsETH-wstETH",
+            "contractAddress": "0x8B0345E218B84274154071614641a501821374A6"
+          },
+          {
+            "contractId": "523dcd47-82f5-45c0-ac94-52e7d952c859",
+            "contractLabel": "Dolomite Distributor",
+            "contractAddress": "0xa75c21c5be284122a87a37a76cc6c4dd3e55a1d4"
+          },
+          {
+            "contractId": "30b1fafd-925b-4ce8-91b3-6aa2151626f4",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+          },
+          {
+            "contractId": "62b5fe20-0696-4e15-bf43-abd445fcbda4",
+            "contractLabel": "Merkle Fees",
+            "contractAddress": "0x3350bef226f7bdca874c5561320ab7ef9dc89e70"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 250000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "KelpDAO",
+  "grantSummary": "",
+  "fundingAddress": "0x40FD112387743A6c00D698BeD9014e53db989769",
+  "editorAddresses": [],
+  "matchingGrantSize": 250000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x509e002Ef77E7Ed8205812267941fcF3823B0A1b"
+}

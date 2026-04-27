@@ -1,0 +1,359 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Contracts were not deployed",
+        "lessons": "Contracts were not deployed",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Contracts were not deployed",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Contracts were not deployed",
+        "arbRemaining": 250500,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xB0e50AbaEACE0715D5b84A9769750D3E48c4509E"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Contracts were not deployed",
+        "expectations": "Contracts were not deployed",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xB0e50AbaEACE0715D5b84A9769750D3E48c4509E"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Contracts were not deployed",
+        "lessons": "Contracts were not deployed",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Contracts were not deployed",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Contracts were not deployed",
+        "arbRemaining": 250500,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xB0e50AbaEACE0715D5b84A9769750D3E48c4509E"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Contracts were not deployed",
+        "expectations": "Contracts were not deployed",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xB0e50AbaEACE0715D5b84A9769750D3E48c4509E"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Started the Product on july 10th ",
+        "lessons": "TVL was down",
+        "avgDailyTVL": 5463,
+        "avgDailyTXNS": 16,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Contracts were deployed on the 13th of July",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 160,
+        "disclosures": "Contracts were deployed on the 13th of July",
+        "arbRemaining": 175500,
+        "contractsIncentivized": [
+          {
+            "contractId": "63b88249-8a90-4b27-b58e-826f40d8aafc",
+            "contractLabel": "WETH/USDs Farm",
+            "contractAddress": "0x6ed36BBDF9B868111f83Fb10Dacd311Fb2d5b55b"
+          },
+          {
+            "contractId": "e566d74a-d32c-4e1e-aeab-599a5176b3c8",
+            "contractLabel": "WBTC/USDs Farm",
+            "contractAddress": "0x18481eccEfCf3A366D8a60b47ADB396bc7D7606E"
+          },
+          {
+            "contractId": "a3d2b7f2-abe4-4945-9430-0b0f6960639f",
+            "contractLabel": "USDs/USDT Farm",
+            "contractAddress": "0x1E5eb0B0142dcc04f4f699A52C1b8B290Bf8bEE9"
+          },
+          {
+            "contractId": "a64bb686-9bd1-4005-a25b-32c5f77a6536",
+            "contractLabel": "USDC/USDs",
+            "contractAddress": "0xbe2F7C2b00B0AB248B5b91934F59E536E2412B8f"
+          },
+          {
+            "contractId": "8bc88730-b53b-4c5d-a276-606f5d72f86e",
+            "contractLabel": "ARB/USDs Farm",
+            "contractAddress": "0xD24b3de83415A99bFB214de639f90a6810dB217d"
+          },
+          {
+            "contractId": "252f96e1-ee9c-4ef9-bdb3-710f99eadb94",
+            "contractLabel": "USDC.e/USDs",
+            "contractAddress": "0x18A9fBB28652C214beBDAFdeFa96993e07B2Fac2"
+          },
+          {
+            "contractId": "cc5a3ed6-9116-498b-9890-adad4f719aa6",
+            "contractLabel": "SPA/USDs",
+            "contractAddress": "0xeCC7DCF862bFE601670413139926E01e6eEd2323"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Contracts were deployed",
+        "expectations": "Contracts were deployed",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xB0e50AbaEACE0715D5b84A9769750D3E48c4509E"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Need to market more the product",
+        "avgDailyTVL": 54006,
+        "avgDailyTXNS": 7,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We started to incitivize users",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 1724,
+        "disclosures": "None",
+        "arbRemaining": 175500,
+        "contractsIncentivized": [
+          {
+            "contractId": "63b88249-8a90-4b27-b58e-826f40d8aafc",
+            "contractLabel": "WETH/USDs Farm",
+            "contractAddress": "0x6ed36BBDF9B868111f83Fb10Dacd311Fb2d5b55b"
+          },
+          {
+            "contractId": "e566d74a-d32c-4e1e-aeab-599a5176b3c8",
+            "contractLabel": "WBTC/USDs Farm",
+            "contractAddress": "0x18481eccEfCf3A366D8a60b47ADB396bc7D7606E"
+          },
+          {
+            "contractId": "a3d2b7f2-abe4-4945-9430-0b0f6960639f",
+            "contractLabel": "USDs/USDT Farm",
+            "contractAddress": "0x1E5eb0B0142dcc04f4f699A52C1b8B290Bf8bEE9"
+          },
+          {
+            "contractId": "a64bb686-9bd1-4005-a25b-32c5f77a6536",
+            "contractLabel": "USDC/USDs",
+            "contractAddress": "0xbe2F7C2b00B0AB248B5b91934F59E536E2412B8f"
+          },
+          {
+            "contractId": "8bc88730-b53b-4c5d-a276-606f5d72f86e",
+            "contractLabel": "ARB/USDs Farm",
+            "contractAddress": "0xD24b3de83415A99bFB214de639f90a6810dB217d"
+          },
+          {
+            "contractId": "252f96e1-ee9c-4ef9-bdb3-710f99eadb94",
+            "contractLabel": "USDC.e/USDs",
+            "contractAddress": "0x18A9fBB28652C214beBDAFdeFa96993e07B2Fac2"
+          },
+          {
+            "contractId": "cc5a3ed6-9116-498b-9890-adad4f719aa6",
+            "contractLabel": "SPA/USDs",
+            "contractAddress": "0xeCC7DCF862bFE601670413139926E01e6eEd2323"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Nothing has changed",
+        "expectations": "We were expecting TVL Increase",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Started to put more content on socials",
+        "lessons": "The marketing period was not fit with our goals",
+        "avgDailyTVL": 151297,
+        "avgDailyTXNS": 5,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expected to increase Demeter V2 TVL but it wasn't the case",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 2418,
+        "disclosures": "Nothing",
+        "arbRemaining": 175500,
+        "contractsIncentivized": [
+          {
+            "contractId": "63b88249-8a90-4b27-b58e-826f40d8aafc",
+            "contractLabel": "WETH/USDs Farm",
+            "contractAddress": "0x6ed36BBDF9B868111f83Fb10Dacd311Fb2d5b55b"
+          },
+          {
+            "contractId": "e566d74a-d32c-4e1e-aeab-599a5176b3c8",
+            "contractLabel": "WBTC/USDs Farm",
+            "contractAddress": "0x18481eccEfCf3A366D8a60b47ADB396bc7D7606E"
+          },
+          {
+            "contractId": "a3d2b7f2-abe4-4945-9430-0b0f6960639f",
+            "contractLabel": "USDs/USDT Farm",
+            "contractAddress": "0x1E5eb0B0142dcc04f4f699A52C1b8B290Bf8bEE9"
+          },
+          {
+            "contractId": "a64bb686-9bd1-4005-a25b-32c5f77a6536",
+            "contractLabel": "USDC/USDs",
+            "contractAddress": "0xbe2F7C2b00B0AB248B5b91934F59E536E2412B8f"
+          },
+          {
+            "contractId": "8bc88730-b53b-4c5d-a276-606f5d72f86e",
+            "contractLabel": "ARB/USDs Farm",
+            "contractAddress": "0xD24b3de83415A99bFB214de639f90a6810dB217d"
+          },
+          {
+            "contractId": "252f96e1-ee9c-4ef9-bdb3-710f99eadb94",
+            "contractLabel": "USDC.e/USDs",
+            "contractAddress": "0x18A9fBB28652C214beBDAFdeFa96993e07B2Fac2"
+          },
+          {
+            "contractId": "cc5a3ed6-9116-498b-9890-adad4f719aa6",
+            "contractLabel": "SPA/USDs",
+            "contractAddress": "0xeCC7DCF862bFE601670413139926E01e6eEd2323"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Nothing has changed",
+        "expectations": "Increase TVL",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added Old Demeter Farm USDs/SPA Positions",
+        "lessons": "NA",
+        "avgDailyTVL": 335419,
+        "avgDailyTXNS": 4,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The price of ARB has fell, can't increase the TVL more",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 1447,
+        "disclosures": "NA",
+        "arbRemaining": 150500,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x68DEB50d2dB6272fc062d7758B86e272C3d590eE"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "None was changed",
+        "expectations": "Higher Adoption",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x68DEB50d2dB6272fc062d7758B86e272C3d590eE"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 250500,
+  "fundingType": [
+    "EOA",
+    "ThreeofFiveMultisig",
+    "Multisig"
+  ],
+  "granteeName": "Sperax",
+  "grantSummary": "We have not start the distribution yet. As submitted in the proposal, we will distribute the funds through the new Demeter 2.0. The new contract will be deployed next week.",
+  "fundingAddress": "0x68DEB50d2dB6272fc062d7758B86e272C3d590eE",
+  "editorAddresses": [
+    "0xB0e50AbaEACE0715D5b84A9769750D3E48c4509E",
+    "0x3Df47172BFA7E4FEE6af3CFcA50924B02aBf7BCE"
+  ],
+  "matchingGrantSize": 250500,
+  "metricsDashboardLink": "https://dune.com/sperax_dao/ltipp-dashboard",
+  "authorizedSignerAddress": "0x70C19Dc21A438DB757F560Edb9DAF3142Eb410c4",
+  "disbursementContractAddress": "0x8898A38Eb8E3104f7c98622b55260E014B3a0217"
+}

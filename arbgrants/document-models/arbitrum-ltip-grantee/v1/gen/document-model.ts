@@ -1,0 +1,156 @@
+import type { DocumentModelGlobalState } from "document-model";
+
+export const documentModel: DocumentModelGlobalState = {
+  id: "arbitrum/ltip-grantee",
+  name: "Arbitrum LTIP Grantee",
+  extension: "grantee",
+  description: "Arbitrum ltip grantee",
+  author: {
+    name: "Goldenmule Media",
+    website: "https://thegoldenmule.com",
+  },
+  specifications: [
+    {
+      version: 1,
+      changeLog: [],
+      state: {
+        global: {
+          schema:
+            "scalar DateTime\n\ntype ArbitrumLtipGranteeState {\n  id: ID!\n  granteeName: String\n  authorizedSignerAddress: String\n  editorAddresses: [String]\n  grantSize: Float\n  matchingGrantSize: Float\n  grantSummary: String\n  fundingAddress: String\n  fundingType: [FundingType]\n  disbursementContractAddress: String\n  metricsDashboardLink: String\n  phases: [Phase]\n  meta: [Meta]\n}\n\nenum FundingType {\n  EOA\n  Multisig\n  TwoofThreeMultisig\n  ThreeofFiveMultisig\n}\n\ntype Phase {\n  startDate: DateTime!\n  endDate: DateTime!\n  actuals: GranteeActuals\n  planned: GranteePlanned\n  stats: GranteeStats\n  status: Status\n}\n\nenum Status {\n  Uninitialized\n  NotStarted\n  InProgress\n  Finalized\n}\n\ntype GranteeActuals {\n  arbReceived: Float\n  arbUtilized: Float\n  arbRemaining: Float\n  contractsIncentivized: [Contract]\n  incentives: String\n  summary: String\n  disclosures: String\n}\n\ntype GranteePlanned {\n  arbToBeDistributed: Float\n  contractsIncentivized: [Contract]\n  distributionMechanism: [DistributionMechanism]\n  changes: String\n  expectations: String\n}\n\ntype GranteeStats {\n  avgDailyTVL: Float\n  avgDailyTXNS: Float\n  avgDailyUniqueUsers: Float\n  kpis: [NamedKpi]\n  changes: String\n  lessons: String\n}\n\ntype NamedKpi {\n  name: String\n  value: Float\n}\n\ntype Contract {\n  contractId: ID!\n  contractLabel: String\n  contractAddress: String\n}\n\nenum DistributionMechanism {\n  LPIncentives\n  Airdrop\n}\n\ntype Meta {\n  protocolVersion: String!\n  isAdmin: Boolean\n  value: String\n}\n\n",
+          initialValue:
+            '{"id":"","granteeName":"","authorizedSignerAddress":"","editorAddresses":[],"grantSize":0,"matchingGrantSize":0,"grantSummary":"","fundingAddress":"","fundingType":[],"disbursementContractAddress":"","metricsDashboardLink":"","phases":[],"meta":[]}',
+          examples: [],
+        },
+        local: {
+          schema: "",
+          initialValue: "",
+          examples: [],
+        },
+      },
+      modules: [
+        {
+          id: "+OseJKfo3DTT4N7ChWmdHuhS+t8=",
+          name: "General",
+          description: "",
+          operations: [
+            {
+              id: "lt7rMcfrl7bS7TdMVqa17mMDl+Q=",
+              name: "INIT_GRANTEE",
+              description: "",
+              schema:
+                "input InitGranteeInput {\n    granteeName: String!\n\tauthorizedSignerAddress: String!\n\tgrantSize: Float!\n\tmatchingGrantSize: Float!\n\tgrantSummary: String\n\tfundingAddress: String!\n\tfundingType: [FundingTypeInput!]!\n\tdisbursementContractAddress: String!\n\tmetricsDashboardLink: String\n\tstartDate: DateTime!\n\tphaseDuration: Int \n\tnumberOfPhases: Int\n}enum FundingTypeInput {\n\tEOA\n\tMultisig\n\tTwoofThreeMultisig\n\tThreeofFiveMultisig\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+            {
+              id: "mHTmz6XGHGWJHWxXy3Hii3jGDfw=",
+              name: "EDIT_GRANTEE",
+              description: "",
+              schema:
+                "input EditGranteeInput {\n    granteeName: String\n\tauthorizedSignerAddress: String\n\tgrantSize: Float\n\tmatchingGrantSize: Float\n\tgrantSummary: String\n\tfundingAddress: String\n\tfundingType: [FundingTypeInput!]\n\tdisbursementContractAddress: String\n\tmetricsDashboardLink: String\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+          ],
+        },
+        {
+          id: "3A4kkF6OxOHyGGgncwM6djzN8hs=",
+          name: "Metrics",
+          description: "",
+          operations: [
+            {
+              id: "QxUDrkdO+EokzuWG4TBmbgfpMwE=",
+              name: "EDIT_PHASE",
+              description: "",
+              schema:
+                "input EditPhaseInput {\n    phaseIndex: Int!\n\tactuals: GranteeActualsInput\n\tplanned: GranteePlannedInput\n\tstats: GranteeStatsInput\n\tstatus: Status\n}\n\ninput GranteeActualsInput {\n\tarbReceived: Float\n\tarbUtilized: Float\n\tarbRemaining: Float\n\tcontractsIncentivized: [ContractInput]\n\tincentives: String\n\tsummary: String\n\tdisclosures: String\n}\n\ninput GranteePlannedInput {\n\tarbToBeDistributed: Float\n\tcontractsIncentivized: [ContractInput]\n\tdistributionMechanism: [DistributionMechanism]\n\tchanges: String\n\texpectations: String\n}\n\ninput GranteeStatsInput {\n\tavgDailyTVL: Float\n\tavgDailyTXNS: Float\n\tavgDailyUniqueUsers: Float\n\tkpis: [NamedKpiInput]\n\tchanges: String\n\tlessons: String\n}\n\ninput NamedKpiInput {\n\tname: String\n\tvalue: Float\n}\n\ninput ContractInput {\n\tcontractId: ID!\n\tcontractLabel: String\n\tcontractAddress: String\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+          ],
+        },
+        {
+          id: "SP6Fw+p8QrAs4gOLV7cHDB8zxKs=",
+          name: "Admin",
+          description: "",
+          operations: [
+            {
+              id: "cKO7tnzqpRoSVGxEb+sghj1NwCc=",
+              name: "ADD_EDITOR",
+              description: "",
+              schema: "input AddEditorInput {\n    editorAddress: String!\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+            {
+              id: "u8tIvljGJXe3bot26xghuLcdWkM=",
+              name: "REMOVE_EDITOR",
+              description: "",
+              schema:
+                "input RemoveEditorInput {\n    editorAddress: String!\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+          ],
+        },
+        {
+          id: "w/G/JrpyTW8dftQ4FA80Kyo4V24=",
+          name: "Meta",
+          description: "",
+          operations: [
+            {
+              id: "FpNmPWTA5pgdFJcJRGektz+DmzE=",
+              name: "ADD_META",
+              description: "",
+              schema:
+                "input AddMetaInput {\n    protocolVersion: String!\n    isAdmin: Boolean\n    value: String\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+            {
+              id: "Ta6rZ37znhXxt1gD5wAOAIqy+RQ=",
+              name: "UPDATE_META",
+              description: "",
+              schema:
+                "input UpdateMetaInput {\n    index: Float\n    protocolVersion: String!\n    isAdmin: Boolean\n    value: String\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+            {
+              id: "h9YzEgDVqw/kFpTnqWqjiZm049w=",
+              name: "DELETE_META",
+              description: "",
+              schema: "input DeleteMetaInput {\n    index: Float\n}",
+              template: "",
+              reducer: "",
+              errors: [],
+              examples: [],
+              scope: "global",
+            },
+          ],
+        },
+      ],
+    },
+  ],
+};

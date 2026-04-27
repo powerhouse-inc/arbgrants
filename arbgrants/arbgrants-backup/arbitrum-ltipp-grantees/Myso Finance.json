@@ -1,0 +1,312 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "We had to make minor adjustments to the previously submitted application, emphasizing the need for adaptability when introducing novel concepts like convertible debt within DeFi.",
+        "avgDailyTVL": 134971,
+        "avgDailyTXNS": 7,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are pleased to provide an update on the LTIPP program, two weeks into its commencement on 5 June 2024, with the first two-week epoch of the MYSO LTIPP incentive campaign ending on 19 June. Originally, the proposal budgeted 6,000 ARB for rewards, which at the time of the proposal equated to around $12,000 USD. Given the current ARB price now, the incentive budget was adjusted to 11,219 ARB (see also changes on Arbitrum Forum)\n\nTo spur initial excitement, we implemented a frontloaded distribution schedule that allocated 11,219 ARB over the first two weeks across all user deposits, with the instantaneous APY applied to users based on their deposit time. This strategy allowed us to generate excitement and attract over $230,000 in user deposits at its peak.\n\nWe'll continue our efforts to attract more depositors and funnel users toward loan proposal subscriptions.\n",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 11219,
+        "disclosures": "n/a",
+        "arbRemaining": 49999,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "see latest update on arbitrum forum: https://forum.arbitrum.foundation/t/myso-ltipp-application-final/21907/9",
+        "expectations": "We are in close contact with several DAOs and protocols on Arbitrum and expect to announce some exciting convertible Debt deals soon, long with incentives for these DAOs/borrowers.",
+        "arbToBeDistributed": 11219,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "DAOs are generally open to the concept of convertible debt, but the feedback we often receive is that making a decision to proceed can take some time (usually requiring a DAO vote). This process may not align with the shorter time frame of the 12-week LTIPP program. Nevertheless, we are committed to doing our best to onboard DAO",
+        "avgDailyTVL": 153864,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "2,562 $ARB have been paid out to prospective lenders/depositors",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 2562,
+        "disclosures": "n/a",
+        "arbRemaining": 49999,
+        "contractsIncentivized": [
+          {
+            "contractId": "eb44f146-9fd3-41e9-9aac-13339a3f5cfb",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "In discussions w/ several potential lenders/DAOs - goal is to onboard these lenders over the next few weeks",
+        "arbToBeDistributed": 2500,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "The longer it takes to onboard borrowers/DAOs, the more challenging it becomes to sustain excitement among lenders and grow TVL",
+        "avgDailyTVL": 102505,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "676 $ARB have been paid out to prospective lenders/depositors",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 676,
+        "disclosures": "n/a",
+        "arbRemaining": 16665,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "Increasing TVL and attracting borrowers/DAOs to participate in a convertible debt deal",
+        "arbToBeDistributed": 2500,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "Lender liquidity has shown greater resilience than anticipated, even in the absence of DAO/borrowers, which we attribute to the ongoing incentives.",
+        "avgDailyTVL": 156193,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "416 $ARB have been paid out to prospective lenders/depositors",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 416,
+        "disclosures": "n/a",
+        "arbRemaining": 16665,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "Onboarding a DAO/borrower for a first convertible loan deal",
+        "arbToBeDistributed": 500,
+        "contractsIncentivized": [
+          {
+            "contractId": "0662a737-cb4d-4e20-8424-beb6fe575266",
+            "contractLabel": "FundingPool",
+            "contractAddress": "0xdCcD6819Db3d401FA14DC2C9200b9CAd01C4B72b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "\nIntroducing a new and intricate narrative around convertible debt has been particularly challenging, especially in the current market conditions. Due to the difficulties in engaging DAOs, we've made the decision to discontinue the LTIPP program, as the likelihood of onboarding a DAO within the next few weeks appears slim.\n\nHowever, we are proud of our achievements on the lender side, where we've successfully attracted lenders, raised awareness about convertible debt, and accumulated significant TVL. We are deeply appreciative of the Arbitrum community for allowing us the opportunity to innovate and reach these milestones.",
+        "avgDailyTVL": 170937,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "422 $ARB have been paid out to prospective lenders/depositors",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 422,
+        "disclosures": "n/a",
+        "arbRemaining": 16665,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "Onboarding DAOs/borrowers",
+        "arbToBeDistributed": 500,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "As stated in the previous Epoch, we have decided to terminate the LTIPP program and return approximately 85% of the remaining $ARB to the Arbitrum foundation/treasury due to the inability to attract DAOs for a convertible debt deal.",
+        "lessons": "n/a",
+        "avgDailyTVL": 175190,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 16665,
+        "arbUtilized": 0,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "As stated in the previous Epoch, we have decided to terminate the LTIPP program and return approximately 85% of the remaining $ARB to the Arbitrum foundation/treasury due to the inability to attract DAOs for a convertible debt deal.",
+        "lessons": "n/a",
+        "avgDailyTVL": 143236,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "n/a",
+        "arbRemaining": 16665,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 100000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Myso Finance",
+  "grantSummary": "",
+  "fundingAddress": "0xD6f15a797C78f598bcb840464151aC526dDD4A0f",
+  "editorAddresses": [],
+  "matchingGrantSize": 100000,
+  "metricsDashboardLink": "https://dune.com/myso_finance/ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xD6f15a797C78f598bcb840464151aC526dDD4A0f"
+}

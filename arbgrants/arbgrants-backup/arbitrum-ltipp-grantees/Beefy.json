@@ -1,0 +1,2115 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes. Note that incentives formally began on 12 June, so averages are taken for the period beginning of 12 June to the beginning of 17 June.",
+        "lessons": "Arbitrum users love Beefy CLM \u2764\ufe0f\n\ud83d\udc2e",
+        "avgDailyTVL": 3808407,
+        "avgDailyTXNS": 654,
+        "avgDailyUniqueUsers": 1345
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have utilized 92,000 ARB to date, and will aim to distribute the remaining 508,000 linearly over the remaining 10-11 weeks. Distribution is working well and has seen significant growth in activity and TVL on Arbitrum for Beefy. So far (as of 21 June), Beefy has amassed $11.3m TVL in Arbitrum CLM products and is well on its way to meeting the targeted $30m of TVL by the end of the LTIPP period.",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 92000,
+        "disclosures": "No disclosures!",
+        "arbRemaining": 600000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a14042c6-b257-4c04-8dee-6db5b1dad13a",
+            "contractLabel": "Beefy WETH-USDC CLM",
+            "contractAddress": "0x8db5940cEcE9364Ae73CE50E4BB225c6fE6Dcd75"
+          },
+          {
+            "contractId": "e93a1e5f-5ef3-4f75-8e07-c68e949c639d",
+            "contractLabel": "Beefy WETH-WBTC CLM",
+            "contractAddress": "0x12fB2E9cB3E5837891204F48806Dbf63E171828B"
+          },
+          {
+            "contractId": "74093df3-fa18-461e-86b2-0ab88da8a951",
+            "contractLabel": "Beefy USDCe-ARB CLM",
+            "contractAddress": "0x2c64742FFccAeC45b37399c5C92209A614975646"
+          },
+          {
+            "contractId": "a74d0257-10ad-468b-aee9-b7266da6f08b",
+            "contractLabel": "Beefy WETH-PENDLE CLM",
+            "contractAddress": "0x8807076dD2047A2857A0d1bf5137ac689B094a0f"
+          },
+          {
+            "contractId": "485b7de9-2ea0-45d0-850e-1fc867978c8e",
+            "contractLabel": "Beefy WETH-LINK CLM",
+            "contractAddress": "0xa84fb0A440C6073C467D52320C1Ff4fFfE02cF22"
+          },
+          {
+            "contractId": "ae3bf40e-b893-4c37-a54f-f86f3407e67d",
+            "contractLabel": "Beefy WETH-GRT CLM",
+            "contractAddress": "0x09D8A34C20C03B222711d14F52d13142f7A83547"
+          },
+          {
+            "contractId": "6419b5b2-42ba-47c0-94bd-04cb9decb342",
+            "contractLabel": "Beefy WETH-SILO CLM",
+            "contractAddress": "0xbC7F425B44E26A1B7E4E4f289DAD101F8c466F52"
+          },
+          {
+            "contractId": "4e979896-674d-4748-8c07-d9008c7ced95",
+            "contractLabel": "Beefy WETH-MAGIC CLM",
+            "contractAddress": "0xD65E85F0290a71d8d125e9DAf7739439257e3a82"
+          },
+          {
+            "contractId": "3556736e-aa8f-4bbf-8092-338be15f30d4",
+            "contractLabel": "Beefy WETH-ARB CLM",
+            "contractAddress": "0xC443a62c6E6410886aBd62ad7F4354B0429Ee6b5"
+          },
+          {
+            "contractId": "b194bc1b-c7fc-48df-8e85-8fc0135f7852",
+            "contractLabel": "Beefy WETH-ETH+ CLM",
+            "contractAddress": "0x1A89d1D06384fa9e2420EADF6319A81F5f381B29"
+          },
+          {
+            "contractId": "3c4a116c-a7bb-4fda-b5ae-0d77b438ed48",
+            "contractLabel": "Beefy KNOX-eUSD CLM",
+            "contractAddress": "0xe963bf80037BbF1865259a21d2157dB937E8384f"
+          },
+          {
+            "contractId": "9a5dceef-1a5b-4699-83e4-a7c26fa185e0",
+            "contractLabel": "Beefy eUSD-USDC CLM",
+            "contractAddress": "0x893c831dE3e58682A0fB4dB667381a56790BBD60"
+          },
+          {
+            "contractId": "4cb174f8-a432-4344-9e08-bf19b0aed1e9",
+            "contractLabel": "Beefy WETH-wstETH CLM",
+            "contractAddress": "0xB13F133527022C543C12ab23db4a07a1a23b18D2"
+          },
+          {
+            "contractId": "b76274c9-943c-44e8-88bb-d1cf1ba4b28c",
+            "contractLabel": "Beefy WBTC-USDT CLM",
+            "contractAddress": "0xC2CB18a99aA41bb0CE9c5cB0a7D8a08C10b4579d"
+          },
+          {
+            "contractId": "c4dd8501-3553-4754-ba41-09a7bb5579b8",
+            "contractLabel": "Beefy WETH-UNI CLM",
+            "contractAddress": "0xd949415630C96f9E5E4528f38A3bB3284b8af739"
+          },
+          {
+            "contractId": "9d60d05b-1d65-4a4e-b931-91e84b8788cf",
+            "contractLabel": "Beefy WETH-USDT CLM",
+            "contractAddress": "0x4c966576Ce6737F032E93006b8B7a679751A92ab"
+          },
+          {
+            "contractId": "ff29501e-31c3-4fc9-80e6-f40484afe4e6",
+            "contractLabel": "Beefy WBTC-USDCe CLM",
+            "contractAddress": "0xd151BBD1C4557747A566f24dA3e51ceCcb10A7Ee"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes - plans are progressing well as expected. The team have deployed dozens of new Arbitrum products since launch and will rotate incentives to cover as many Arbitrum projects, protocols and tokens as we reasonably can. 17 products were boosted in the first two-week period. For the time being, all rewards are being distributed via Merkl, but other distribution mechanisms for different CLM product types are being prepared.",
+        "expectations": "Carry on targeting a broad range of different products for incentivisation, and developing new CLM product types and incentivization mechanisms. ",
+        "arbToBeDistributed": 92000,
+        "contractsIncentivized": [
+          {
+            "contractId": "80fb9306-4ae3-48d4-a0b2-d8eafd80f849",
+            "contractLabel": "Beefy WETH-USDC CLM",
+            "contractAddress": "0x8db5940cEcE9364Ae73CE50E4BB225c6fE6Dcd75"
+          },
+          {
+            "contractId": "8fb16d8c-f76b-4fd4-897a-ebcdc6eb9aab",
+            "contractLabel": "Beefy WETH-WBTC CLM",
+            "contractAddress": "0x12fB2E9cB3E5837891204F48806Dbf63E171828B"
+          },
+          {
+            "contractId": "1639ea1c-22b6-434b-a638-7a6fc96391dc",
+            "contractLabel": "Beefy WETH-PENDLE CLM",
+            "contractAddress": "0x8807076dD2047A2857A0d1bf5137ac689B094a0f"
+          },
+          {
+            "contractId": "5907c656-5dc2-4d5f-bfec-bb20c3c25cae",
+            "contractLabel": "Beefy WETH-LINK CLM",
+            "contractAddress": "0xa84fb0A440C6073C467D52320C1Ff4fFfE02cF22"
+          },
+          {
+            "contractId": "cedef1e3-55ec-4504-92a4-48c62f5882fa",
+            "contractLabel": "Beefy WETH-GRT CLM",
+            "contractAddress": "0x09D8A34C20C03B222711d14F52d13142f7A83547"
+          },
+          {
+            "contractId": "3b5e3068-c327-44fd-9572-03bf12f7e629",
+            "contractLabel": "Beefy WETH-SILO CLM",
+            "contractAddress": "0xbC7F425B44E26A1B7E4E4f289DAD101F8c466F52"
+          },
+          {
+            "contractId": "9aa1eacd-4a10-4e0f-849c-dea791040bf2",
+            "contractLabel": "Beefy WETH-MAGIC CLM",
+            "contractAddress": "0xD65E85F0290a71d8d125e9DAf7739439257e3a82"
+          },
+          {
+            "contractId": "eb06a887-6f66-4c52-8d8f-905b30d25b70",
+            "contractLabel": "Beefy WETH-ARB CLM",
+            "contractAddress": "0xC443a62c6E6410886aBd62ad7F4354B0429Ee6b5"
+          },
+          {
+            "contractId": "999fff4b-1e7d-46f4-a0ed-3258ecf385d9",
+            "contractLabel": "Beefy WETH-ETH+ CLM",
+            "contractAddress": "0x1A89d1D06384fa9e2420EADF6319A81F5f381B29"
+          },
+          {
+            "contractId": "783fcdf4-f97f-41bb-9968-27dc24055b9a",
+            "contractLabel": "Beefy KNOX-eUSD CLM",
+            "contractAddress": "0xe963bf80037BbF1865259a21d2157dB937E8384f"
+          },
+          {
+            "contractId": "ba35d3a3-79de-47b3-be03-090b0bc9f013",
+            "contractLabel": "Beefy USDCe-ARB CLM",
+            "contractAddress": "0x2c64742FFccAeC45b37399c5C92209A614975646"
+          },
+          {
+            "contractId": "c6bb3bc8-7851-46ca-a0ce-de22023c71d9",
+            "contractLabel": "Beefy eUSD-USDC CLM",
+            "contractAddress": "0x893c831dE3e58682A0fB4dB667381a56790BBD60"
+          },
+          {
+            "contractId": "6ee0c352-9f13-4a2a-af7a-1d0138657cae",
+            "contractLabel": "Beefy WETH-wstETH CLM",
+            "contractAddress": "0xB13F133527022C543C12ab23db4a07a1a23b18D2"
+          },
+          {
+            "contractId": "0cb5676f-2375-4d45-8f97-5409923de864",
+            "contractLabel": "Beefy WBTC-USDT CLM",
+            "contractAddress": "0xC2CB18a99aA41bb0CE9c5cB0a7D8a08C10b4579d"
+          },
+          {
+            "contractId": "81b3daaa-2401-47e2-a688-6f39128462a1",
+            "contractLabel": "Beefy WETH-UNI CLM",
+            "contractAddress": "0xd949415630C96f9E5E4528f38A3bB3284b8af739"
+          },
+          {
+            "contractId": "18e2b11a-4d3d-49a5-b962-e8a48408cbbe",
+            "contractLabel": "Beefy WETH-USDT CLM",
+            "contractAddress": "0x4c966576Ce6737F032E93006b8B7a679751A92ab"
+          },
+          {
+            "contractId": "0f5391ad-11fa-42ff-9cf7-1e94579a67b4",
+            "contractLabel": "Beefy WBTC-USDCe CLM",
+            "contractAddress": "0xd151BBD1C4557747A566f24dA3e51ceCcb10A7Ee"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes planned. The precise products for incentivization remain under consideration, but distribution is planned via the core Arbitrum Merkl Distribution Contract, which has been provided. ",
+        "lessons": "As our processes have improved, the distribution of rewards in a more granular fashion, across more products, with more variety and for differing periods is allowing us to more effectively capture TVL and offer attractive yields to support particular ecosystem projects and products.",
+        "avgDailyTVL": 10652670,
+        "avgDailyTXNS": 744,
+        "avgDailyUniqueUsers": 2617
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We utilized 136,000 ARB to date, holding back some quantity due to the gradual release of new products coming in the following weeks. Distribution continues to work effectively, allowing us to increase the range and frequency of distributions across more pools and more limited periods. As of 1 July, we have reached $13.8 million of TVL, against our target increase of $30 million over the entire period (c. 46% of total target).",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 44000,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "80fb9306-4ae3-48d4-a0b2-d8eafd80f849",
+            "contractLabel": "Beefy WETH-USDC CLM",
+            "contractAddress": "0x8db5940cEcE9364Ae73CE50E4BB225c6fE6Dcd75"
+          },
+          {
+            "contractId": "8fb16d8c-f76b-4fd4-897a-ebcdc6eb9aab",
+            "contractLabel": "Beefy WETH-WBTC CLM",
+            "contractAddress": "0x12fB2E9cB3E5837891204F48806Dbf63E171828B"
+          },
+          {
+            "contractId": "98e0c899-4cdf-45c3-b66f-7ad75bb9b57b",
+            "contractLabel": "Beefy USDCe-ARB CLM",
+            "contractAddress": "0x2c64742FFccAeC45b37399c5C92209A614975646"
+          },
+          {
+            "contractId": "1639ea1c-22b6-434b-a638-7a6fc96391dc",
+            "contractLabel": "Beefy WETH-PENDLE CLM",
+            "contractAddress": "0x8807076dD2047A2857A0d1bf5137ac689B094a0f"
+          },
+          {
+            "contractId": "5907c656-5dc2-4d5f-bfec-bb20c3c25cae",
+            "contractLabel": "Beefy WETH-LINK CLM",
+            "contractAddress": "0xa84fb0A440C6073C467D52320C1Ff4fFfE02cF22"
+          },
+          {
+            "contractId": "cedef1e3-55ec-4504-92a4-48c62f5882fa",
+            "contractLabel": "Beefy WETH-GRT CLM",
+            "contractAddress": "0x09D8A34C20C03B222711d14F52d13142f7A83547"
+          },
+          {
+            "contractId": "3b5e3068-c327-44fd-9572-03bf12f7e629",
+            "contractLabel": "Beefy WETH-SILO CLM",
+            "contractAddress": "0xbC7F425B44E26A1B7E4E4f289DAD101F8c466F52"
+          },
+          {
+            "contractId": "eb06a887-6f66-4c52-8d8f-905b30d25b70",
+            "contractLabel": "Beefy WETH-ARB CLM",
+            "contractAddress": "0xC443a62c6E6410886aBd62ad7F4354B0429Ee6b5"
+          },
+          {
+            "contractId": "999fff4b-1e7d-46f4-a0ed-3258ecf385d9",
+            "contractLabel": "Beefy WETH-ETH+ CLM",
+            "contractAddress": "0x1A89d1D06384fa9e2420EADF6319A81F5f381B29"
+          },
+          {
+            "contractId": "783fcdf4-f97f-41bb-9968-27dc24055b9a",
+            "contractLabel": "Beefy KNOX-eUSD CLM",
+            "contractAddress": "0xe963bf80037BbF1865259a21d2157dB937E8384f"
+          },
+          {
+            "contractId": "c6bb3bc8-7851-46ca-a0ce-de22023c71d9",
+            "contractLabel": "Beefy eUSD-USDC CLM",
+            "contractAddress": "0x893c831dE3e58682A0fB4dB667381a56790BBD60"
+          },
+          {
+            "contractId": "6ee0c352-9f13-4a2a-af7a-1d0138657cae",
+            "contractLabel": "Beefy WETH-wstETH CLM",
+            "contractAddress": "0xB13F133527022C543C12ab23db4a07a1a23b18D2"
+          },
+          {
+            "contractId": "18e2b11a-4d3d-49a5-b962-e8a48408cbbe",
+            "contractLabel": "Beefy WETH-USDT CLM",
+            "contractAddress": "0x4c966576Ce6737F032E93006b8B7a679751A92ab"
+          },
+          {
+            "contractId": "da25a448-0a8a-433b-8756-e74c7c104960",
+            "contractLabel": "Beefy WETH-DAI CLM",
+            "contractAddress": "0x5B5E2B911a35173A03B15A9B7bd653c6a96359B3"
+          },
+          {
+            "contractId": "0cb5676f-2375-4d45-8f97-5409923de864",
+            "contractLabel": "Beefy WBTC-USDT CLM",
+            "contractAddress": "0xC2CB18a99aA41bb0CE9c5cB0a7D8a08C10b4579d"
+          },
+          {
+            "contractId": "81b3daaa-2401-47e2-a688-6f39128462a1",
+            "contractLabel": "Beefy WETH-UNI CLM",
+            "contractAddress": "0xd949415630C96f9E5E4528f38A3bB3284b8af739"
+          },
+          {
+            "contractId": "413873bd-384c-4b43-b973-af04e7863125",
+            "contractLabel": "Beefy WETH-USDCe CLM",
+            "contractAddress": "0x676A855BF8655E82291e0055B32E93E73D35CE0d"
+          },
+          {
+            "contractId": "1486591c-dec2-49ce-89b9-3491239ab5e5",
+            "contractLabel": "Beefy USDCe-wstETH CLM",
+            "contractAddress": "0x018bad50117870a8EC6362085FfC798a3Ff0B93D"
+          },
+          {
+            "contractId": "17e90b39-81da-45fc-a2ad-cfa25f3652d2",
+            "contractLabel": "Beefy USDT-ARB CLM",
+            "contractAddress": "0x5F5330BADA662608c75aa181Ff2B89cF5107edd6"
+          },
+          {
+            "contractId": "317c90d0-840a-4c1b-aa2a-ec4495ab54ad",
+            "contractLabel": "Beefy WETH-GMX CLM",
+            "contractAddress": "0xda3f8142cC49cAA43A0e44909A2238F36c1F8766"
+          },
+          {
+            "contractId": "5dc25e72-79a3-4d04-88be-809b7e739bc9",
+            "contractLabel": "Beefy WETH-RDNT CLM",
+            "contractAddress": "0x36cF1F28cB21dB4BCea9E74b8bD7C85E4627fDF5"
+          },
+          {
+            "contractId": "9871e2aa-3c9b-413e-93ec-c8501691d5b3",
+            "contractLabel": "Beefy WETH-LIDO CLM",
+            "contractAddress": "0x7c5817313169d62f3484E77eC4f8B7Ad4cb971b8"
+          },
+          {
+            "contractId": "35a48038-6023-4cc0-a30d-770ad111d886",
+            "contractLabel": "Beefy WETH-NEXT CLM",
+            "contractAddress": "0xF7046140e5B88B9457c8c5D2E34F8A3A39DC9F5F"
+          },
+          {
+            "contractId": "f2e3e5c5-fd2b-4b7f-9d0e-4ef40c5bdba9",
+            "contractLabel": "Beefy USDT-LINK CLM",
+            "contractAddress": "0x4BFF92a448CBb9a2B7D5AAb11f4a525D4ab8E61a"
+          },
+          {
+            "contractId": "4ce8eb7d-e6af-4dd5-8905-4afa24e12863",
+            "contractLabel": "Beefy WETH-CRV CLM",
+            "contractAddress": "0x437F6B9f2F886072A65D0d8b0c7487B55Be5543B"
+          },
+          {
+            "contractId": "9e56ef7d-e56e-47cc-8508-5b1988f3a00b",
+            "contractLabel": "Beefy WETH-PEPE CLM",
+            "contractAddress": "0xd58bF861C181dc63E8a08e649E56F06a717A5D7f"
+          },
+          {
+            "contractId": "0e2a5fdf-9ea4-4913-996a-481442995c03",
+            "contractLabel": "Beefy ZRO-WETH CLM",
+            "contractAddress": "0xb683123DC034c75ce5e7C67DC5Dac153613ac250"
+          },
+          {
+            "contractId": "d5f9b9a2-d848-48a7-b95e-f0c9ec50d389",
+            "contractLabel": "Beefy ZRO-USDT CLM",
+            "contractAddress": "0xa8bB2f31A2b6dF1e9765b13d60dfb82b5123A627"
+          },
+          {
+            "contractId": "d082788b-4684-4293-9b40-20bfcdf89526",
+            "contractLabel": "Beefy WETH-USDC CLM",
+            "contractAddress": "0x3C63B4357b2b8e1dd4F014100d8B9dF5C5f31f16"
+          },
+          {
+            "contractId": "90fc85ac-b0fa-44f3-b5ac-21788ee38b33",
+            "contractLabel": "Beefy WETH-PENDLE CLM",
+            "contractAddress": "0xa0E19D86B9aDD283D201233C130d00Bfebe7FFAa"
+          },
+          {
+            "contractId": "f42191f3-698b-40a2-9ea5-5b736ca32c09",
+            "contractLabel": "Beefy WETH-WBTC CLM",
+            "contractAddress": "0x1aD37a03b3b58534Fef9c80f4Fa4018a473ba4C7"
+          },
+          {
+            "contractId": "5eb20aac-0ca5-48a1-a355-eddfe3abae70",
+            "contractLabel": "Beefy ARB-USDC CLM",
+            "contractAddress": "0xfa5C780103Ffe7AE4977E7e15ffb272Bb61F1002"
+          },
+          {
+            "contractId": "d2a2921e-f316-44f7-b949-11b3ec6edcbf",
+            "contractLabel": "Beefy WETH-LINK CLM",
+            "contractAddress": "0xE9D2aB10BD4D896b4D537cd54d8f794838131370"
+          },
+          {
+            "contractId": "fa6174a9-de88-4ad2-81f6-069b4e73247a",
+            "contractLabel": "Beefy WETH-ARB CLM",
+            "contractAddress": "0xAca4378FE0E1c2bFc56eaCAA2acA7ffe3d2487B0"
+          },
+          {
+            "contractId": "e7285f5a-8a2e-42c8-b8d6-fc88c2212c2b",
+            "contractLabel": "Beefy WETH-USDT CLM",
+            "contractAddress": "0x9479d9d4BEd7eE7B6E386c9AAf8aba50f700A19e"
+          },
+          {
+            "contractId": "813d8c91-27e1-4d81-a8af-fae46313a46f",
+            "contractLabel": "Beefy WETH-GMX CLM",
+            "contractAddress": "0xD592bfCaf200A60044A2307CCdBa16cB9A8340Cb"
+          },
+          {
+            "contractId": "5f736136-9c69-4e12-a529-10ce41de8b0a",
+            "contractLabel": "Beefy SOL-USDC CLM",
+            "contractAddress": "0xA487f396384E84EFe9431879Ed6eeE25Fe4ad505"
+          },
+          {
+            "contractId": "529c50aa-959d-4586-bfef-3ea5ff885e32",
+            "contractLabel": "Beefy weETH-ETH CLM",
+            "contractAddress": "0xf249B3318E3183714EA9514A2CF173913dbD6878"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes planned. The precise products for incentivization remain under consideration, but distribution is planned via the core Arbitrum Merkl Distribution Contract, which has been provided. ",
+        "expectations": "To continue shipping large quantities of Arbitrum CLM products and incentivizing a full range of products to cover the ecosystems many projects, protocols and tokens. We will also continue to develop new forms of CLM products and new forms of distribution for incentives, ideally all for use during the LTIPP period.",
+        "arbToBeDistributed": 44000,
+        "contractsIncentivized": [
+          {
+            "contractId": "81ec48f7-b876-48b5-9b80-0218dc7cfca0",
+            "contractLabel": "Merkl Distribution Contract",
+            "contractAddress": "0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Moved from using Merkl Distribution to targetting individual Beefy CLM Pools, which have been designed to distribute incentives directly and without charging any fees to maximize utilization.",
+        "lessons": "In-house distribution contracts work very well and improve performance and utilisation. Further iterations will follow in the coming weeks.",
+        "avgDailyTVL": 14387520,
+        "avgDailyTXNS": 865,
+        "avgDailyUniqueUsers": 3987
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have used 184,500 ARB to date, again retaining some additional quantity for new product releases expected imminently. Distribution continued to improve in efficacy, with more granular rewards. In particular, the move to Beefy CLM Pools has worked extremely well, offering an end-to-end solution that works best for the CLM products. As of 15 July, we reached $17.9 million in TVL (just under 60% of target), indicating that we remain ahead of target.",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 48500,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c81ca47e-6471-4916-922b-653038fa2868",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xE0E0bE96FF15BD3dc7d4de458Eae5b0160b443a1"
+          },
+          {
+            "contractId": "15754cba-8b1a-4dc9-83be-e8f3a50c1c1b",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0x525f11f2648e69EE1dF8Ce72685ee9865439eAa4"
+          },
+          {
+            "contractId": "0753accb-7b31-48fa-97b5-3d73fbd766fb",
+            "contractLabel": "Beefy USDCe-ARB CLM Pool",
+            "contractAddress": "0x24cD1EfDF958d4466c200c41D5AbF2B57316ac76"
+          },
+          {
+            "contractId": "fdf6876f-e704-4e9b-acf7-8bf414e2df99",
+            "contractLabel": "Beefy wstETH-USDe CLM Pool",
+            "contractAddress": "0x86B79cd04ca903398311936c777B86dB6dA7b07a"
+          },
+          {
+            "contractId": "5b4027f9-271c-43b4-9d0d-aaa3f7cd5fa0",
+            "contractLabel": "Beefy WBTC-USDC CLM Pool",
+            "contractAddress": "0xB0F279175C0B4950ffD8F465d5B21902aC6D5Ae8"
+          },
+          {
+            "contractId": "1bf0b145-42b5-414f-b303-e05e2f1bff7f",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xF9C39C3342d441811121a40b0CDCB0ab3696C815"
+          },
+          {
+            "contractId": "daa705d8-b0c2-4649-ba8f-3373f77d1288",
+            "contractLabel": "Beefy WETH-PENDLE CLM Pool",
+            "contractAddress": "0xd52370d9fa4EAB482BD8ff4201B8D0995e12798D"
+          },
+          {
+            "contractId": "82fc247b-a16b-4c42-928c-ed4a510c2417",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0xE878e4F75F65A6A4448Bb5292B1823793e09d82C"
+          },
+          {
+            "contractId": "67587dad-bc3c-4e9d-9aa4-122c69a938e9",
+            "contractLabel": "Beefy ARB-USDC CLM Pool",
+            "contractAddress": "0xf8062a8bE1dAbB36B5cF614ab0FCDE67Cb602279"
+          },
+          {
+            "contractId": "86cc9ef9-38e9-47f9-b71a-5f91c41131f0",
+            "contractLabel": "Beefy WETH-ARB CLM Pool",
+            "contractAddress": "0xE5424fD7d8D4C6B98876199ee4bB021E8517307e"
+          },
+          {
+            "contractId": "5edb72ed-17e2-4573-a23f-5c6828a93e07",
+            "contractLabel": "Beefy WETH-USDT CLM Pool",
+            "contractAddress": "0xF0a7cB3A2999f85De0D56B57C616B0aE59ff7D28"
+          },
+          {
+            "contractId": "d7cc964e-2c56-4f9d-88df-51f259a2fbc6",
+            "contractLabel": "Beefy WETH-GMX CLM Pool",
+            "contractAddress": "0x1813E5f64e26c7DdA07c8c3cC4b272628fa8121A"
+          },
+          {
+            "contractId": "3be3f40d-c4ad-4f26-a6b7-474a53bcc94e",
+            "contractLabel": "Beefy RDNT-WETH CLM Pool",
+            "contractAddress": "0xFd2fAe3d3C66874d5993c6d0D117b1538089bdb3"
+          },
+          {
+            "contractId": "30958bd9-c0e2-4961-93ac-979da64f6ac0",
+            "contractLabel": "Beefy USDe-USDC CLM Pool",
+            "contractAddress": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647"
+          },
+          {
+            "contractId": "bc218081-6203-4d3c-8fbd-76c6d9d01d58",
+            "contractLabel": "Beefy SOL-USDC CLM Pool",
+            "contractAddress": "0x638e3c3707ae6719F80b01deB2ee8474e85D7f62"
+          },
+          {
+            "contractId": "ffc0d546-ab9a-4882-85a2-4c2f216b1ab6",
+            "contractLabel": "Beefy weETH-WETH CLM Pool",
+            "contractAddress": "0xa1B1fa6E66E2d6ed85b1cB94B90663E56CB6Ea49"
+          },
+          {
+            "contractId": "b6248fd9-aa61-4480-b5b2-4279acb4d4d2",
+            "contractLabel": "Beefy wstETH-WETH CLM Pool",
+            "contractAddress": "0xe41b5B539a74D3203692f47f33E269Cdd14aA451"
+          },
+          {
+            "contractId": "77dd63eb-54d6-46b8-b691-1c9321032e07",
+            "contractLabel": "Beefy WETH-MAGIC CLM Pool",
+            "contractAddress": "0x53c5381b5e60e2939cc68D5Dc1B6055D6F36a456"
+          },
+          {
+            "contractId": "1ba0fc18-b96b-4a28-8d74-05f534d01ecb",
+            "contractLabel": "Beefy WETH-ezETH CLM Pool",
+            "contractAddress": "0xf1ff0F8793DbA18dF40E8b8aff66CE6f7a9DF945"
+          },
+          {
+            "contractId": "c5f43d1e-b56f-43d3-b087-14ab929ae70f",
+            "contractLabel": "Beefy ZRO-WETH CLM Pool",
+            "contractAddress": "0x1Df1E0A5082Cc89d3C49813875d705FF9f036c67"
+          },
+          {
+            "contractId": "c9f04164-9c2e-4e7c-ae69-9952f2041178",
+            "contractLabel": "Beefy GNS-WETH CLM Pool",
+            "contractAddress": "0x36c9787faea981b43cb8Ef31232150f166F1c40d"
+          },
+          {
+            "contractId": "5d291295-cdb8-41bf-8bf3-2046747724e8",
+            "contractLabel": "Beefy WETH-PENDLE CLM Pool",
+            "contractAddress": "0x447c970202D8B3B81001707B6425D92DF1436F41"
+          },
+          {
+            "contractId": "bae892bb-e410-4936-aec0-85dbfa777b08",
+            "contractLabel": "Beefy WETH-LINK CLM Pool",
+            "contractAddress": "0xae209676A7E9188349B0aC5A23bdC39388A26D79"
+          },
+          {
+            "contractId": "b9d328ec-9d25-4b89-902f-f9783cd7425c",
+            "contractLabel": "Beefy WETH-MAGIC CLM Pool",
+            "contractAddress": "0x68403691f9fAF78deCC1B6C1c094b1A8AAEcBE55"
+          },
+          {
+            "contractId": "9f525e0d-fa18-4478-89b7-bbdcd41be912",
+            "contractLabel": "Beefy WETH-ETH+ CLM Pool",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "d8f8a0fc-afd6-4791-8a8b-b0ede63a6c84",
+            "contractLabel": "Beefy KNOX-eUSD CLM Pool",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          },
+          {
+            "contractId": "22a609b1-f184-445a-8681-2d9054fd5127",
+            "contractLabel": "Beefy eUSD-USDC CLM Pool",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "f39ded28-76df-47f9-9186-56d83abb31d6",
+            "contractLabel": "Beefy wstETH-WETH CLM Pool",
+            "contractAddress": "0xd908F2d8b52E011554371834A94C971D2b784885"
+          },
+          {
+            "contractId": "1e256979-3aee-462a-b029-8463ae56957f",
+            "contractLabel": "Beefy WETH-USDT CLM Pool",
+            "contractAddress": "0xF1C53dC1884F9aC5423E8F3F74029A4c888F8b50"
+          },
+          {
+            "contractId": "2c09b92e-bbbe-4134-b171-574de8d0f332",
+            "contractLabel": "Beefy WETH-DAI CLM Pool",
+            "contractAddress": "0x37Bd05aFc1a502dC9B603fA9da9E6c193F949902"
+          },
+          {
+            "contractId": "c6a0c59a-83d5-47aa-af99-a219c63e581b",
+            "contractLabel": "Beefy WBTC-USDCe CLM Pool",
+            "contractAddress": "0x1e933E5ec7418F9140c2Cf9Fc7Ed27017Cf15D77"
+          },
+          {
+            "contractId": "2a25c9c9-0f6c-479d-b2f3-04d55d8b2af4",
+            "contractLabel": "Beefy WBTC-USDT CLM Pool",
+            "contractAddress": "0xB18206b74Ac05229B7c44bEc808371F5095dB12B"
+          },
+          {
+            "contractId": "0d0574c2-2a63-4dfa-ac73-fc083f0b3ebe",
+            "contractLabel": "Beefy WETH-UNI CLM Pool",
+            "contractAddress": "0x645438A0361DeeEd79571727909bd56cDedd022E"
+          },
+          {
+            "contractId": "d67334a4-462d-495d-ae32-2b04bc682fc2",
+            "contractLabel": "Beefy WETH-USDCe CLM Pool",
+            "contractAddress": "0x1f02a1D292aeADbbE0Fd83052Fc96536002C5893"
+          },
+          {
+            "contractId": "cdab3ab8-69a5-4983-9e99-b02f59b70b64",
+            "contractLabel": "Beefy USDCe-wstETH CLM Pool",
+            "contractAddress": "0xd3235dF6C11d7e34A5cAaCc809c9f668164E1Cb6"
+          },
+          {
+            "contractId": "04f966a6-9fa2-4998-a75c-68f22ed5e2e4",
+            "contractLabel": "Beefy USDT-ARB CLM Pool",
+            "contractAddress": "0x48185c7A3D74C5cA12d79C53f8e7D8C5B5B6345d"
+          },
+          {
+            "contractId": "8149f7fd-8d77-40d7-95b5-16dc8063e112",
+            "contractLabel": "Beefy WETH-GMX CLM Pool",
+            "contractAddress": "0xb936900CEF5C45b2c921e958D75Dc3659980ae0B"
+          },
+          {
+            "contractId": "1a4cbd58-324f-4c84-9d36-cebfd9a800f8",
+            "contractLabel": "Beefy WETH-RDNT CLM Pool",
+            "contractAddress": "0x97765541a15cd11b01079d02CB19E7930B9EC4F5"
+          },
+          {
+            "contractId": "aa31b5dc-6139-4dc1-ba2c-13c69422c629",
+            "contractLabel": "Beefy WETH-GNS CLM Pool",
+            "contractAddress": "0xADd874B53485b27F28Cce45C62044C7838d82A71"
+          },
+          {
+            "contractId": "734bb26e-e653-49f7-916f-b9fd199e6028",
+            "contractLabel": "Beefy WETH-LDO CLM Pool",
+            "contractAddress": "0xbEa72E2cAC26113cA69d96cA8b556E1Cbe73D98d"
+          },
+          {
+            "contractId": "bb66e21c-562b-4bf5-a8bc-8db3245451e7",
+            "contractLabel": "Beefy WETH-NEXT CLM Pool",
+            "contractAddress": "0x256B0F69C4Ca902FD1C5f5F9ebbe8e201Ee2EE3A"
+          },
+          {
+            "contractId": "5d8fd22a-21ab-4d26-9aea-025eb93df0a7",
+            "contractLabel": "Beefy USDT-LINK CLM Pool",
+            "contractAddress": "0xE9D4a80b60E4212F21a41e0B9490023752e434a1"
+          },
+          {
+            "contractId": "9947226a-7971-4562-b629-5f9179d7ff4b",
+            "contractLabel": "Beefy WETH-CRV CLM Pool",
+            "contractAddress": "0x20a0774B8f2600B3815F9C5c9519D987B3eE12d1"
+          },
+          {
+            "contractId": "6d564a83-7be5-41d7-9ab5-5de5a95cf751",
+            "contractLabel": "Beefy WETH-rETH CLM Pool",
+            "contractAddress": "0x56B27DcBaFdD05Bf043b2990806f3283515Ea03d"
+          },
+          {
+            "contractId": "7368f460-0e4e-4822-a5fb-84097fd0cd1a",
+            "contractLabel": "Beefy WETH-PEPE CLM Pool",
+            "contractAddress": "0x875140B0ed66f35e696cBBC8dFdB002377A6fec7"
+          },
+          {
+            "contractId": "f05f429e-28a2-43e4-9cd5-380c28c75966",
+            "contractLabel": "Beefy wstETH-USDC CLM Pool",
+            "contractAddress": "0xde05F28Cb643240cF30c308F968566487AB43183"
+          },
+          {
+            "contractId": "f645e3ce-d35e-44ab-a392-86d44ae25762",
+            "contractLabel": "Beefy ZRO-USDT CLM Pool",
+            "contractAddress": "0xc82764746855370F6369A83C91E44c3D373e4ce1"
+          },
+          {
+            "contractId": "8628cbc6-96dc-4f87-b809-795b905dceb9",
+            "contractLabel": "Beefy ZRO-ETH CLM Pool",
+            "contractAddress": "0x7Ff5dfCA85C45f817826AD3c45Ab31757E0d37D7"
+          },
+          {
+            "contractId": "77c589ed-a8fc-481a-9b46-20d1b5f59148",
+            "contractLabel": "Beefy wUSDM-wstETH CLM Pool",
+            "contractAddress": "0x8E136e09DeE2076D0451ae7F5713F64fE5d2B77C"
+          },
+          {
+            "contractId": "0ae30ef5-cf93-45d6-bcc5-aee344790bd6",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xfB8D2f93A8bbbEbD9ed701386c802705f42Be1B1"
+          },
+          {
+            "contractId": "9fc25a72-dcc2-400d-8f1f-66c035225538",
+            "contractLabel": "Beefy WETH-USDT CLM Pool",
+            "contractAddress": "0x6F44D8D7c3b1b4e1B6f11017148a4d2D7fA00AE2"
+          },
+          {
+            "contractId": "8b10ae1e-e458-44cd-bc53-91fac92f874c",
+            "contractLabel": "Beefy WETH-LINK CLM Pool",
+            "contractAddress": "0xf6D1113052720c7c6C71c707ABda7e868bb5e759"
+          },
+          {
+            "contractId": "b2238ea5-190a-4f36-9443-bc271d58f4db",
+            "contractLabel": "Beefy tBTC-WBTC CLM Pool",
+            "contractAddress": "0x5110aE319B475c2c8216B9058620d3f934513627"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Moved from using Merkl Distribution to targetting individual Beefy CLM Pools, which have been designed to distribute incentives directly and without charging any fees to maximize utilization.",
+        "expectations": "To effectively switch to in-house distribution contracts and continue increasing the scale, pace and dexterity of distribution techniques.",
+        "arbToBeDistributed": 48500,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added CLM Vaults in addition to CLM Pools, to compound external incentives and minimise the amount of manual labour required from users to manage and profit from their positions.",
+        "lessons": "Varied product line of basic managed positions and complex vaults are successful at attracting a range of users and retaining separate types of users in each. Vaults are creating considerable excitement, leading to sharp TVL increases.",
+        "avgDailyTVL": 27554376,
+        "avgDailyTXNS": 1137,
+        "avgDailyUniqueUsers": 5334
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have used 268,750 ARB to date, again retaining some additional quantity for new product releases. The scope of distribution continued to expand with the addition of the first CLM Vaults, providing a complete solution to handling all rewards at every layer of the liquidity stack. As new products have gained attention, previously incentivized products have been effective at retaining yield. As of 29 July, we reached $34.9 million in TVL, easily exceeding our target for the entire 12-week campaign period. We now look forward to seeing how much further we can stretch beyond our realistic estimate for the grant, to demonstrate the value that CLM brings to the ecosystem.",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 84250,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c81ca47e-6471-4916-922b-653038fa2868",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xE0E0bE96FF15BD3dc7d4de458Eae5b0160b443a1"
+          },
+          {
+            "contractId": "15754cba-8b1a-4dc9-83be-e8f3a50c1c1b",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0x525f11f2648e69EE1dF8Ce72685ee9865439eAa4"
+          },
+          {
+            "contractId": "1e256979-3aee-462a-b029-8463ae56957f",
+            "contractLabel": "Beefy WETH-USDT CLM Pool",
+            "contractAddress": "0xF1C53dC1884F9aC5423E8F3F74029A4c888F8b50"
+          },
+          {
+            "contractId": "c6a0c59a-83d5-47aa-af99-a219c63e581b",
+            "contractLabel": "Beefy WBTC-USDCe CLM Pool",
+            "contractAddress": "0x1e933E5ec7418F9140c2Cf9Fc7Ed27017Cf15D77"
+          },
+          {
+            "contractId": "d67334a4-462d-495d-ae32-2b04bc682fc2",
+            "contractLabel": "Beefy WETH-USDCe CLM Pool",
+            "contractAddress": "0x1f02a1D292aeADbbE0Fd83052Fc96536002C5893"
+          },
+          {
+            "contractId": "cdab3ab8-69a5-4983-9e99-b02f59b70b64",
+            "contractLabel": "Beefy USDCe-wstETH CLM Pool",
+            "contractAddress": "0xd3235dF6C11d7e34A5cAaCc809c9f668164E1Cb6"
+          },
+          {
+            "contractId": "8628cbc6-96dc-4f87-b809-795b905dceb9",
+            "contractLabel": "Beefy ZRO-ETH CLM Pool",
+            "contractAddress": "0x7Ff5dfCA85C45f817826AD3c45Ab31757E0d37D7"
+          },
+          {
+            "contractId": "f645e3ce-d35e-44ab-a392-86d44ae25762",
+            "contractLabel": "Beefy ZRO-USDT CLM Pool",
+            "contractAddress": "0xc82764746855370F6369A83C91E44c3D373e4ce1"
+          },
+          {
+            "contractId": "e6928d96-2ebe-496f-9a4b-347f8ab00a54",
+            "contractLabel": "Beefy ETHFI-WETH CLM Pool",
+            "contractAddress": "0xDf83814d107de998843FAAF587a9862b3860c56f"
+          },
+          {
+            "contractId": "1bf0b145-42b5-414f-b303-e05e2f1bff7f",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xF9C39C3342d441811121a40b0CDCB0ab3696C815"
+          },
+          {
+            "contractId": "daa705d8-b0c2-4649-ba8f-3373f77d1288",
+            "contractLabel": "Beefy WETH-PENDLE CLM Pool",
+            "contractAddress": "0xd52370d9fa4EAB482BD8ff4201B8D0995e12798D"
+          },
+          {
+            "contractId": "82fc247b-a16b-4c42-928c-ed4a510c2417",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0xE878e4F75F65A6A4448Bb5292B1823793e09d82C"
+          },
+          {
+            "contractId": "67587dad-bc3c-4e9d-9aa4-122c69a938e9",
+            "contractLabel": "Beefy ARB-USDC CLM Pool",
+            "contractAddress": "0xf8062a8bE1dAbB36B5cF614ab0FCDE67Cb602279"
+          },
+          {
+            "contractId": "86cc9ef9-38e9-47f9-b71a-5f91c41131f0",
+            "contractLabel": "Beefy WETH-ARB CLM Pool",
+            "contractAddress": "0xE5424fD7d8D4C6B98876199ee4bB021E8517307e"
+          },
+          {
+            "contractId": "5edb72ed-17e2-4573-a23f-5c6828a93e07",
+            "contractLabel": "Beefy WETH-USDT CLM Pool",
+            "contractAddress": "0xF0a7cB3A2999f85De0D56B57C616B0aE59ff7D28"
+          },
+          {
+            "contractId": "3be3f40d-c4ad-4f26-a6b7-474a53bcc94e",
+            "contractLabel": "Beefy RDNT-WETH CLM Pool",
+            "contractAddress": "0xFd2fAe3d3C66874d5993c6d0D117b1538089bdb3"
+          },
+          {
+            "contractId": "4e16696f-96ee-4f7f-b9a0-91ed01df8b72",
+            "contractLabel": "Beefy USDC-USDT CLM Pool",
+            "contractAddress": "0xF95E2854a3F6eB9d92eD599D76F84ceCb5968f1B"
+          },
+          {
+            "contractId": "80f7ca83-885f-4b90-9e4f-f285d709d5f4",
+            "contractLabel": "Beefy USDe USDC CLM Pool",
+            "contractAddress": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647"
+          },
+          {
+            "contractId": "bc218081-6203-4d3c-8fbd-76c6d9d01d58",
+            "contractLabel": "Beefy SOL-USDC CLM Pool",
+            "contractAddress": "0x638e3c3707ae6719F80b01deB2ee8474e85D7f62"
+          },
+          {
+            "contractId": "b6248fd9-aa61-4480-b5b2-4279acb4d4d2",
+            "contractLabel": "Beefy wstETH-WETH CLM Pool",
+            "contractAddress": "0xe41b5B539a74D3203692f47f33E269Cdd14aA451"
+          },
+          {
+            "contractId": "1ba0fc18-b96b-4a28-8d74-05f534d01ecb",
+            "contractLabel": "Beefy WETH-ezETH CLM Pool",
+            "contractAddress": "0xf1ff0F8793DbA18dF40E8b8aff66CE6f7a9DF945"
+          },
+          {
+            "contractId": "c9f04164-9c2e-4e7c-ae69-9952f2041178",
+            "contractLabel": "Beefy GNS-WETH CLM Pool",
+            "contractAddress": "0x36c9787faea981b43cb8Ef31232150f166F1c40d"
+          },
+          {
+            "contractId": "df77a3d2-6386-4c4d-84cc-9aadf88dd36b",
+            "contractLabel": "Beefy WETH-rsETH CLM Pool",
+            "contractAddress": "0xD9001574E23fb909657A25494f540A9B3804b16e"
+          },
+          {
+            "contractId": "1516fbee-25b1-4280-8d25-40a023113ee1",
+            "contractLabel": "Beefy WETH-LINK CLM Vault",
+            "contractAddress": "0xff8249cF5B9B7F724d73F54e4D342d4f29504c0C"
+          },
+          {
+            "contractId": "da2f00ff-d875-4f65-a7f6-b65bd882f3d4",
+            "contractLabel": "Beefy rsETH-wstETH CLM Vault",
+            "contractAddress": "0x3Cfb81925e69650127b0cA3d9869027a94C01aC4"
+          },
+          {
+            "contractId": "6909ee27-c763-4818-b0e9-6f7914ee2182",
+            "contractLabel": "Beefy WETH-ETH+ CLM Vault",
+            "contractAddress": "0x0188Fc5DEDfc8004841ceFbD098f5B72b3DE7532"
+          },
+          {
+            "contractId": "6d9e7d12-e2ca-46c1-a6a0-ddea2250fda6",
+            "contractLabel": "Beefy KNOX-eUSD CLM Vault",
+            "contractAddress": "0xd7cD8bBe700BD0a154Dab09B3155C9E5a053da3D"
+          },
+          {
+            "contractId": "a5bc891f-78b0-4b83-9675-d444394a962e",
+            "contractLabel": "Beefy eUSD-USDC CLM Vault",
+            "contractAddress": "0xB4C93E5DB96d28680373a9984225e78B03a15338"
+          },
+          {
+            "contractId": "fa0438cd-ab38-4668-a2ff-b2931ae21db1",
+            "contractLabel": "Beefy wstETH-WETH CLM Vault",
+            "contractAddress": "0xe2362bFfA5b00d16ddd4D751F735481E95740ac6"
+          },
+          {
+            "contractId": "02199d9a-c02a-4097-8161-96ad4ba77e32",
+            "contractLabel": "Beefy WETH-DAI CLM Vault",
+            "contractAddress": "0x107B276ADa1A012f69587Ba5a7fE94219cAabBb0"
+          },
+          {
+            "contractId": "542f2107-d0b0-4bde-ab7b-c889346600f8",
+            "contractLabel": "Beefy WETH-UNI CLM Vault",
+            "contractAddress": "0xcF0841923B1a9F95bEc83a4057715cefA6b15A60"
+          },
+          {
+            "contractId": "72154eda-a10a-41b8-9114-964b9e1ee325",
+            "contractLabel": "Beefy USDC-USDT CLM Vault",
+            "contractAddress": "0x9cbB28eE98699aB491afE05653804B7aa426880b"
+          },
+          {
+            "contractId": "a933c34f-6a43-4f8d-90f2-154fd3792265",
+            "contractLabel": "Beefy USDV-USDC CLM Vault",
+            "contractAddress": "0x5582625d651DB5290Ae751beDD172042f4bb2539"
+          },
+          {
+            "contractId": "4bce0d1c-4ce6-4b8e-aabf-de20e0e59bc6",
+            "contractLabel": "Beefy WETH-COMP CLM Vault",
+            "contractAddress": "0x6bEc888b438d9aEAA28cF99aE2F73c51df3351f4"
+          },
+          {
+            "contractId": "beefe381-d7a9-4f77-a2c4-5fd8b9c839c4",
+            "contractLabel": "Beefy USDC-AAVE CLM Vault",
+            "contractAddress": "0x003774c2Eda7Aaa2f88469F9dcf005cb63146fcb"
+          },
+          {
+            "contractId": "7438c7ae-3f98-455a-9201-a51f6b11d5de",
+            "contractLabel": "Beefy USDC-LDO CLM Vault",
+            "contractAddress": "0x6c69b6146536467525894527a1c47141A5D9A128"
+          },
+          {
+            "contractId": "8fe737c2-ab9f-4750-924c-49fd6bdbd270",
+            "contractLabel": "Beefy USDT-UNI CLM Vault",
+            "contractAddress": "0xC104d3d4B435B4888eCF362B587FE4B407120184"
+          },
+          {
+            "contractId": "4bceaf45-7308-4012-b3ab-32409e2514fa",
+            "contractLabel": "Beefy USDC-UNI CLM Vault",
+            "contractAddress": "0xa1f71C3395107ED7B1588ED2b12b1080f4Dffe4c"
+          },
+          {
+            "contractId": "21f39cf4-b59a-43af-8986-f6e2ad1b822a",
+            "contractLabel": "Beefy WBTC-LINK CLM Vault",
+            "contractAddress": "0x83C2540B9f3a74beCD9c0Df5f879247FA19bE0A9"
+          },
+          {
+            "contractId": "69a8db3e-0e02-49b8-947f-441e9ef46c82",
+            "contractLabel": "Beefy USDT-LINK CLM Vault",
+            "contractAddress": "0x69Bc09460519DCE01a9008AA52a74e7c911CAe24"
+          },
+          {
+            "contractId": "f3735598-babd-4ab7-aea6-12e4f0591f5a",
+            "contractLabel": "Beefy USDe-USDT CLM Vault",
+            "contractAddress": "0x4Bf7b1Be5c10b4BdA826F0048Ad8bc44D7Bf2ca7"
+          },
+          {
+            "contractId": "752f4cbd-9f91-42be-b420-2a66a935b7b5",
+            "contractLabel": "Beefy FRAX-USDT CLM Vault",
+            "contractAddress": "0x3390a5Ae22828c17e0556dd29d1dfF5528F28Ea4"
+          },
+          {
+            "contractId": "505f240f-9033-4036-82d6-f52bee6a976b",
+            "contractLabel": "Beefy ETH-CRV CLM Vault",
+            "contractAddress": "0x72A1bcB6f5751F676ddD248D61263a8CE953c54a"
+          },
+          {
+            "contractId": "6077b472-172b-467d-92a9-12701753a5b5",
+            "contractLabel": "Beefy WETH-cbETH CLM Vault",
+            "contractAddress": "0xc89c67dc90cC626145062351Cc0512Eab8Ec9c0D"
+          },
+          {
+            "contractId": "959d15d3-ec8d-411e-9756-3cfc6996a816",
+            "contractLabel": "Beefy WETH-RPL CLM Vault",
+            "contractAddress": "0x1D05A29ea5AD345D4569F53Bc4152fAf7c790D2f"
+          },
+          {
+            "contractId": "16b13161-824e-422a-bf46-3921f7ef76c2",
+            "contractLabel": "Beefy ETH-rETH CLM Vault",
+            "contractAddress": "0x8797cA7D776638720bE4A6ECa3398E27b622c0c4"
+          },
+          {
+            "contractId": "324583b2-db78-4ba5-8dfe-f0162e7b455f",
+            "contractLabel": "Beefy WETH-PEPE CLM Vault",
+            "contractAddress": "0x6BfEC4E5BCf4dE8b5Ba5be1422663218f425A242"
+          },
+          {
+            "contractId": "df7c7936-f237-411c-a8b7-39925a81dda8",
+            "contractLabel": "Beefy wstETH-USD CLM Vault",
+            "contractAddress": "0xb6BdEf20E867D181614fB49eD2dd93e465cc5db1"
+          },
+          {
+            "contractId": "4fc2e3f9-b2de-42f0-b765-a93cc0feaf8e",
+            "contractLabel": "Beefy WETH-tBTC CLM Vault",
+            "contractAddress": "0x2Da8956087A383fF944a970c2E6875C4Cec22449"
+          },
+          {
+            "contractId": "f1480899-35d4-4518-8063-7d3d18ece9b9",
+            "contractLabel": "Beefy WBTC-tBTC CLM Vault",
+            "contractAddress": "0x3cB4431D21De3a7DB320f848393d75997f79d2AB"
+          },
+          {
+            "contractId": "1d13312a-0049-4175-9b25-cb34cbf132a6",
+            "contractLabel": "Beefy wUSDM-wstETH CLM Vault",
+            "contractAddress": "0x9b237e46CC354F7A50D9770FDe8e92FEC2aefe0A"
+          },
+          {
+            "contractId": "7cb874bf-be3b-4e2c-bd32-40f509c5ee07",
+            "contractLabel": "Beefy ZRO-WETH CLM Vault",
+            "contractAddress": "0xD1a6F5b936e92e72565aA9185507219CB4645A47"
+          },
+          {
+            "contractId": "563e5724-d80d-44e8-9c38-f554a3de982f",
+            "contractLabel": "Beefy ETHFI-WETH CLM Vault",
+            "contractAddress": "0xba0F0f0eE2410B7647678A570122E9B07c6E8a28"
+          },
+          {
+            "contractId": "3b28e7f2-c981-41db-9232-8581cedf83d9",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0xC48822E6B1a6A5BfB23fCE08e431ed27b765AEBa"
+          },
+          {
+            "contractId": "77abd002-98a4-4d8e-9453-82f56cd52ca9",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0xeD37a23c162d44Cd3E65645f25Aa789C2317C071"
+          },
+          {
+            "contractId": "48c244a7-f087-4714-9739-ec1376b341dd",
+            "contractLabel": "Beefy WBTC-WETH CLM Vault",
+            "contractAddress": "0xF1847CDC7092FaC39F422F37A611fbf6a2d18220"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Adding CLM Vaults, built upon standard CLM products to compound external rewards (but not Beefy LTIPP incentives). Vaults offer more functionality and flexibility to users, so will be incentivised alongside and in some instances in place of the underlying CLM products.",
+        "expectations": "To effectively adopt vaults and continue the expansion of our incentive distribution techniques. To continue the trajectory of exceeding target TVL gains.",
+        "arbToBeDistributed": 110000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No substantive changes. Migrated some incentives from existing CLM Pools to new CLM Vaults to encourage greater uptake and more flexible products.",
+        "lessons": "Vaults are proving extremely effective at attracting and migrating TVL, so further iteration and deployments on this front may help to further expand our efficacy. ",
+        "avgDailyTVL": 35639643,
+        "avgDailyTXNS": 1068,
+        "avgDailyUniqueUsers": 6422
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have used 393,500 ARB so far, which closes the gap of retained ARB in previous weeks to ensure the full balance is used during the program period. Following the introduction of CLM Vaults in the previous period, we have doubled down on the deployment of these new products, issuing dozens more and migrating various of the existing CLM Pool incentives into Vaults instead. As of 12 August 2024, our LTIPP dashboard shows total TVL at $39.2m, now far exceeding our total goal for the campaign period by around 30%. We're thrilled to be delivering outsized return for the Arbitrum ecosystem, and look forward to finishing the campaign in style. \ud83d\ude0e",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 124750,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "1516fbee-25b1-4280-8d25-40a023113ee1",
+            "contractLabel": "Beefy WETH-LINK CLM Vault",
+            "contractAddress": "0xff8249cF5B9B7F724d73F54e4D342d4f29504c0C"
+          },
+          {
+            "contractId": "6909ee27-c763-4818-b0e9-6f7914ee2182",
+            "contractLabel": "Beefy WETH-ETH+ CLM Vault",
+            "contractAddress": "0x0188Fc5DEDfc8004841ceFbD098f5B72b3DE7532"
+          },
+          {
+            "contractId": "6d9e7d12-e2ca-46c1-a6a0-ddea2250fda6",
+            "contractLabel": "Beefy KNOX-eUSD CLM Vault",
+            "contractAddress": "0xd7cD8bBe700BD0a154Dab09B3155C9E5a053da3D"
+          },
+          {
+            "contractId": "a5bc891f-78b0-4b83-9675-d444394a962e",
+            "contractLabel": "Beefy eUSD-USDC CLM Vault",
+            "contractAddress": "0xB4C93E5DB96d28680373a9984225e78B03a15338"
+          },
+          {
+            "contractId": "fa0438cd-ab38-4668-a2ff-b2931ae21db1",
+            "contractLabel": "Beefy wstETH-WETH CLM Vault",
+            "contractAddress": "0xe2362bFfA5b00d16ddd4D751F735481E95740ac6"
+          },
+          {
+            "contractId": "02199d9a-c02a-4097-8161-96ad4ba77e32",
+            "contractLabel": "Beefy WETH-DAI CLM Vault",
+            "contractAddress": "0x107B276ADa1A012f69587Ba5a7fE94219cAabBb0"
+          },
+          {
+            "contractId": "542f2107-d0b0-4bde-ab7b-c889346600f8",
+            "contractLabel": "Beefy WETH-UNI CLM Vault",
+            "contractAddress": "0xcF0841923B1a9F95bEc83a4057715cefA6b15A60"
+          },
+          {
+            "contractId": "4bceaf45-7308-4012-b3ab-32409e2514fa",
+            "contractLabel": "Beefy USDC-UNI CLM Vault",
+            "contractAddress": "0xa1f71C3395107ED7B1588ED2b12b1080f4Dffe4c"
+          },
+          {
+            "contractId": "72154eda-a10a-41b8-9114-964b9e1ee325",
+            "contractLabel": "Beefy USDC-USDT CLM Vault",
+            "contractAddress": "0x9cbB28eE98699aB491afE05653804B7aa426880b"
+          },
+          {
+            "contractId": "a933c34f-6a43-4f8d-90f2-154fd3792265",
+            "contractLabel": "Beefy USDV-USDC CLM Vault",
+            "contractAddress": "0x5582625d651DB5290Ae751beDD172042f4bb2539"
+          },
+          {
+            "contractId": "4bce0d1c-4ce6-4b8e-aabf-de20e0e59bc6",
+            "contractLabel": "Beefy WETH-COMP CLM Vault",
+            "contractAddress": "0x6bEc888b438d9aEAA28cF99aE2F73c51df3351f4"
+          },
+          {
+            "contractId": "beefe381-d7a9-4f77-a2c4-5fd8b9c839c4",
+            "contractLabel": "Beefy USDC-AAVE CLM Vault",
+            "contractAddress": "0x003774c2Eda7Aaa2f88469F9dcf005cb63146fcb"
+          },
+          {
+            "contractId": "7438c7ae-3f98-455a-9201-a51f6b11d5de",
+            "contractLabel": "Beefy USDC-LDO CLM Vault",
+            "contractAddress": "0x6c69b6146536467525894527a1c47141A5D9A128"
+          },
+          {
+            "contractId": "8fe737c2-ab9f-4750-924c-49fd6bdbd270",
+            "contractLabel": "Beefy USDT-UNI CLM Vault",
+            "contractAddress": "0xC104d3d4B435B4888eCF362B587FE4B407120184"
+          },
+          {
+            "contractId": "21f39cf4-b59a-43af-8986-f6e2ad1b822a",
+            "contractLabel": "Beefy WBTC-LINK CLM Vault",
+            "contractAddress": "0x83C2540B9f3a74beCD9c0Df5f879247FA19bE0A9"
+          },
+          {
+            "contractId": "69a8db3e-0e02-49b8-947f-441e9ef46c82",
+            "contractLabel": "Beefy USDT-LINK CLM Vault",
+            "contractAddress": "0x69Bc09460519DCE01a9008AA52a74e7c911CAe24"
+          },
+          {
+            "contractId": "f3735598-babd-4ab7-aea6-12e4f0591f5a",
+            "contractLabel": "Beefy USDe-USDT CLM Vault",
+            "contractAddress": "0x4Bf7b1Be5c10b4BdA826F0048Ad8bc44D7Bf2ca7"
+          },
+          {
+            "contractId": "752f4cbd-9f91-42be-b420-2a66a935b7b5",
+            "contractLabel": "Beefy FRAX-USDT CLM Vault",
+            "contractAddress": "0x3390a5Ae22828c17e0556dd29d1dfF5528F28Ea4"
+          },
+          {
+            "contractId": "505f240f-9033-4036-82d6-f52bee6a976b",
+            "contractLabel": "Beefy ETH-CRV CLM Vault",
+            "contractAddress": "0x72A1bcB6f5751F676ddD248D61263a8CE953c54a"
+          },
+          {
+            "contractId": "6077b472-172b-467d-92a9-12701753a5b5",
+            "contractLabel": "Beefy WETH-cbETH CLM Vault",
+            "contractAddress": "0xc89c67dc90cC626145062351Cc0512Eab8Ec9c0D"
+          },
+          {
+            "contractId": "959d15d3-ec8d-411e-9756-3cfc6996a816",
+            "contractLabel": "Beefy WETH-RPL CLM Vault",
+            "contractAddress": "0x1D05A29ea5AD345D4569F53Bc4152fAf7c790D2f"
+          },
+          {
+            "contractId": "16b13161-824e-422a-bf46-3921f7ef76c2",
+            "contractLabel": "Beefy ETH-rETH CLM Vault",
+            "contractAddress": "0x8797cA7D776638720bE4A6ECa3398E27b622c0c4"
+          },
+          {
+            "contractId": "324583b2-db78-4ba5-8dfe-f0162e7b455f",
+            "contractLabel": "Beefy WETH-PEPE CLM Vault",
+            "contractAddress": "0x6BfEC4E5BCf4dE8b5Ba5be1422663218f425A242"
+          },
+          {
+            "contractId": "df7c7936-f237-411c-a8b7-39925a81dda8",
+            "contractLabel": "Beefy wstETH-USD CLM Vault",
+            "contractAddress": "0xb6BdEf20E867D181614fB49eD2dd93e465cc5db1"
+          },
+          {
+            "contractId": "4fc2e3f9-b2de-42f0-b765-a93cc0feaf8e",
+            "contractLabel": "Beefy WETH-tBTC CLM Vault",
+            "contractAddress": "0x2Da8956087A383fF944a970c2E6875C4Cec22449"
+          },
+          {
+            "contractId": "f1480899-35d4-4518-8063-7d3d18ece9b9",
+            "contractLabel": "Beefy WBTC-tBTC CLM Vault",
+            "contractAddress": "0x3cB4431D21De3a7DB320f848393d75997f79d2AB"
+          },
+          {
+            "contractId": "1d13312a-0049-4175-9b25-cb34cbf132a6",
+            "contractLabel": "Beefy wUSDM-wstETH CLM Vault",
+            "contractAddress": "0x9b237e46CC354F7A50D9770FDe8e92FEC2aefe0A"
+          },
+          {
+            "contractId": "7cb874bf-be3b-4e2c-bd32-40f509c5ee07",
+            "contractLabel": "Beefy ZRO-WETH CLM Vault",
+            "contractAddress": "0xD1a6F5b936e92e72565aA9185507219CB4645A47"
+          },
+          {
+            "contractId": "563e5724-d80d-44e8-9c38-f554a3de982f",
+            "contractLabel": "Beefy ETHFI-WETH CLM Vault",
+            "contractAddress": "0xba0F0f0eE2410B7647678A570122E9B07c6E8a28"
+          },
+          {
+            "contractId": "3b28e7f2-c981-41db-9232-8581cedf83d9",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0xC48822E6B1a6A5BfB23fCE08e431ed27b765AEBa"
+          },
+          {
+            "contractId": "77abd002-98a4-4d8e-9453-82f56cd52ca9",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0xeD37a23c162d44Cd3E65645f25Aa789C2317C071"
+          },
+          {
+            "contractId": "48c244a7-f087-4714-9739-ec1376b341dd",
+            "contractLabel": "Beefy WBTC-WETH CLM Vault",
+            "contractAddress": "0xF1847CDC7092FaC39F422F37A611fbf6a2d18220"
+          },
+          {
+            "contractId": "fe45cebb-4162-47ef-8c3c-60737205654e",
+            "contractLabel": "Beefy weETH-WETH CLM Vault",
+            "contractAddress": "0xB88416Cd55F2fff15845656B30d747A0d40Eca4C"
+          },
+          {
+            "contractId": "69d22e00-7843-4135-979f-c646e0a1051e",
+            "contractLabel": "Beefy rsETH-wstETH CLM Vault",
+            "contractAddress": "0x3Cfb81925e69650127b0cA3d9869027a94C01aC4"
+          },
+          {
+            "contractId": "80845687-ea39-4eb4-8a43-77d04574c873",
+            "contractLabel": "Beefy WETH-rsETH CLM Vault",
+            "contractAddress": "0x7f3e9f5EFFE06169Db679658392e4Ca79fd5E594"
+          },
+          {
+            "contractId": "15a1546e-06f9-47b4-9e73-3f8276b11ef2",
+            "contractLabel": "Beefy WETH-rsETH CLM Vault",
+            "contractAddress": "0x338Fb7e54f4875c76cA77AA9653eB08e856e1FcD"
+          },
+          {
+            "contractId": "c81ca47e-6471-4916-922b-653038fa2868",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xE0E0bE96FF15BD3dc7d4de458Eae5b0160b443a1"
+          },
+          {
+            "contractId": "15754cba-8b1a-4dc9-83be-e8f3a50c1c1b",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0x525f11f2648e69EE1dF8Ce72685ee9865439eAa4"
+          },
+          {
+            "contractId": "0753accb-7b31-48fa-97b5-3d73fbd766fb",
+            "contractLabel": "Beefy USDCe-ARB CLM Pool",
+            "contractAddress": "0x24cD1EfDF958d4466c200c41D5AbF2B57316ac76"
+          },
+          {
+            "contractId": "8628cbc6-96dc-4f87-b809-795b905dceb9",
+            "contractLabel": "Beefy ZRO-ETH CLM Pool",
+            "contractAddress": "0x7Ff5dfCA85C45f817826AD3c45Ab31757E0d37D7"
+          },
+          {
+            "contractId": "f645e3ce-d35e-44ab-a392-86d44ae25762",
+            "contractLabel": "Beefy ZRO-USDT CLM Pool",
+            "contractAddress": "0xc82764746855370F6369A83C91E44c3D373e4ce1"
+          },
+          {
+            "contractId": "5d291295-cdb8-41bf-8bf3-2046747724e8",
+            "contractLabel": "Beefy WETH-PENDLE CLM Pool",
+            "contractAddress": "0x447c970202D8B3B81001707B6425D92DF1436F41"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Firming up approach to CLM Vaults. Increased automation of reward distribution transaction data to increase the speed, versatility and flexibility of our distribution approaches. Launch further co-incentives with new partners.",
+        "expectations": "To continue the rapid rollout of CLM Vaults and CLM Pools, with granular incentives cleverly allocated across the two to push far beyond our target TVL (which has already been achieved).",
+        "arbToBeDistributed": 110000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "The overall strategy of focusing on lots of small, short-term distributions across the ecosystem continues to pay dividends, reflecting the sophistication of the campaign and the significant potential in the new CLM products.",
+        "avgDailyTVL": 41430395,
+        "avgDailyTXNS": 1303,
+        "avgDailyUniqueUsers": 9373
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have used 481,000 ARB so far, leaving a manageable amount remaining for use in the final period. Our strategy of executing massive quantities of boosts (more than can be inputted in this form!) in small and short-term doses across the ecosystem continues to pay dividends. As of 26 August 2024, our LTIPP dashboard shows total TVL at $48.8m, again far exceeding our total goal for the campaign period (now by around 60%).",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 87500,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD80e5884C1E2771D4d2A6b3b7C240f10EfA0c766"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No substantive changes. Continued to migrate incentives from CLM Pools to CLM Vaults to encourage greater uptake and more flexible products.",
+        "expectations": "Push TVL attainment to higher heights by focusing on targeted boosts and liquidity migration to optimal earning opportunities.",
+        "arbToBeDistributed": 103250,
+        "contractsIncentivized": [
+          {
+            "contractId": "15754cba-8b1a-4dc9-83be-e8f3a50c1c1b",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0x525f11f2648e69EE1dF8Ce72685ee9865439eAa4"
+          },
+          {
+            "contractId": "8149f7fd-8d77-40d7-95b5-16dc8063e112",
+            "contractLabel": "Beefy WETH-GMX CLM Pool",
+            "contractAddress": "0xb936900CEF5C45b2c921e958D75Dc3659980ae0B"
+          },
+          {
+            "contractId": "4e16696f-96ee-4f7f-b9a0-91ed01df8b72",
+            "contractLabel": "Beefy USDC-USDT CLM Pool",
+            "contractAddress": "0xF95E2854a3F6eB9d92eD599D76F84ceCb5968f1B"
+          },
+          {
+            "contractId": "30958bd9-c0e2-4961-93ac-979da64f6ac0",
+            "contractLabel": "Beefy USDe-USDC CLM Pool",
+            "contractAddress": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647"
+          },
+          {
+            "contractId": "ffc0d546-ab9a-4882-85a2-4c2f216b1ab6",
+            "contractLabel": "Beefy weETH-WETH CLM Pool",
+            "contractAddress": "0xa1B1fa6E66E2d6ed85b1cB94B90663E56CB6Ea49"
+          },
+          {
+            "contractId": "1ba0fc18-b96b-4a28-8d74-05f534d01ecb",
+            "contractLabel": "Beefy WETH-ezETH CLM Pool",
+            "contractAddress": "0xf1ff0F8793DbA18dF40E8b8aff66CE6f7a9DF945"
+          },
+          {
+            "contractId": "c6a0c59a-83d5-47aa-af99-a219c63e581b",
+            "contractLabel": "Beefy WBTC-USDCe CLM Pool",
+            "contractAddress": "0x1e933E5ec7418F9140c2Cf9Fc7Ed27017Cf15D77"
+          },
+          {
+            "contractId": "2a25c9c9-0f6c-479d-b2f3-04d55d8b2af4",
+            "contractLabel": "Beefy WBTC-USDT CLM Pool",
+            "contractAddress": "0xB18206b74Ac05229B7c44bEc808371F5095dB12B"
+          },
+          {
+            "contractId": "cdab3ab8-69a5-4983-9e99-b02f59b70b64",
+            "contractLabel": "Beefy USDCe-wstETH CLM Pool",
+            "contractAddress": "0xd3235dF6C11d7e34A5cAaCc809c9f668164E1Cb6"
+          },
+          {
+            "contractId": "1a4cbd58-324f-4c84-9d36-cebfd9a800f8",
+            "contractLabel": "Beefy WETH-RDNT CLM Pool",
+            "contractAddress": "0x97765541a15cd11b01079d02CB19E7930B9EC4F5"
+          },
+          {
+            "contractId": "aa31b5dc-6139-4dc1-ba2c-13c69422c629",
+            "contractLabel": "Beefy WETH-GNS CLM Pool",
+            "contractAddress": "0xADd874B53485b27F28Cce45C62044C7838d82A71"
+          },
+          {
+            "contractId": "734bb26e-e653-49f7-916f-b9fd199e6028",
+            "contractLabel": "Beefy WETH-LDO CLM Pool",
+            "contractAddress": "0xbEa72E2cAC26113cA69d96cA8b556E1Cbe73D98d"
+          },
+          {
+            "contractId": "5b4027f9-271c-43b4-9d0d-aaa3f7cd5fa0",
+            "contractLabel": "Beefy WBTC-USDC CLM Pool",
+            "contractAddress": "0xB0F279175C0B4950ffD8F465d5B21902aC6D5Ae8"
+          },
+          {
+            "contractId": "06dc1cbb-2895-4ee4-950a-3facf0716eda",
+            "contractLabel": "Beefy WETH-USD+ CLM Pool",
+            "contractAddress": "0xbebb04f1c6E29f888C64fccf2CAD979BF98c4A3c"
+          },
+          {
+            "contractId": "0753accb-7b31-48fa-97b5-3d73fbd766fb",
+            "contractLabel": "Beefy USDCe-ARB CLM Pool",
+            "contractAddress": "0x24cD1EfDF958d4466c200c41D5AbF2B57316ac76"
+          },
+          {
+            "contractId": "2f0f70fb-8727-46c0-a867-a7232f1fd517",
+            "contractLabel": "Beefy WETH-ARB CLM Pool",
+            "contractAddress": "0x18FD7c8085433E90f80162906d59AD793e196bCE"
+          },
+          {
+            "contractId": "df804641-ef36-490b-bd6e-b3b8c277e2ca",
+            "contractLabel": "Beefy USDT-ARB CLM Pool",
+            "contractAddress": "0x48185c7A3D74C5cA12d79C53f8e7D8C5B5B6345d"
+          },
+          {
+            "contractId": "2b283046-8c86-43c8-824d-a77c97e34ad2",
+            "contractLabel": "Beefy AAVE-WETH CLM Pool",
+            "contractAddress": "0x1814AFF1A05B2790F080E09efC1F8049ab6dBEfC"
+          },
+          {
+            "contractId": "bd302f18-2200-4eb4-8119-85e1e5563377",
+            "contractLabel": "Beefy WETH-ARB CLM Pool",
+            "contractAddress": "0xE5424fD7d8D4C6B98876199ee4bB021E8517307e"
+          },
+          {
+            "contractId": "6909ee27-c763-4818-b0e9-6f7914ee2182",
+            "contractLabel": "Beefy WETH-ETH+ CLM Vault",
+            "contractAddress": "0x0188Fc5DEDfc8004841ceFbD098f5B72b3DE7532"
+          },
+          {
+            "contractId": "6d9e7d12-e2ca-46c1-a6a0-ddea2250fda6",
+            "contractLabel": "Beefy KNOX-eUSD CLM Vault",
+            "contractAddress": "0xd7cD8bBe700BD0a154Dab09B3155C9E5a053da3D"
+          },
+          {
+            "contractId": "a5bc891f-78b0-4b83-9675-d444394a962e",
+            "contractLabel": "Beefy eUSD-USDC CLM Vault",
+            "contractAddress": "0xB4C93E5DB96d28680373a9984225e78B03a15338"
+          },
+          {
+            "contractId": "fa0438cd-ab38-4668-a2ff-b2931ae21db1",
+            "contractLabel": "Beefy wstETH-WETH CLM Vault",
+            "contractAddress": "0xe2362bFfA5b00d16ddd4D751F735481E95740ac6"
+          },
+          {
+            "contractId": "02199d9a-c02a-4097-8161-96ad4ba77e32",
+            "contractLabel": "Beefy WETH-DAI CLM Vault",
+            "contractAddress": "0x107B276ADa1A012f69587Ba5a7fE94219cAabBb0"
+          },
+          {
+            "contractId": "fe9bdc7a-6068-4ee0-990f-f7f1520e5dc1",
+            "contractLabel": "Beefy rsETH-wstETH CLM pool",
+            "contractAddress": "0x3Cfb81925e69650127b0cA3d9869027a94C01aC4"
+          },
+          {
+            "contractId": "542f2107-d0b0-4bde-ab7b-c889346600f8",
+            "contractLabel": "Beefy WETH-UNI CLM Vault",
+            "contractAddress": "0xcF0841923B1a9F95bEc83a4057715cefA6b15A60"
+          },
+          {
+            "contractId": "72154eda-a10a-41b8-9114-964b9e1ee325",
+            "contractLabel": "Beefy USDC-USDT CLM Vault",
+            "contractAddress": "0x9cbB28eE98699aB491afE05653804B7aa426880b"
+          },
+          {
+            "contractId": "a933c34f-6a43-4f8d-90f2-154fd3792265",
+            "contractLabel": "Beefy USDV-USDC CLM Vault",
+            "contractAddress": "0x5582625d651DB5290Ae751beDD172042f4bb2539"
+          },
+          {
+            "contractId": "beefe381-d7a9-4f77-a2c4-5fd8b9c839c4",
+            "contractLabel": "Beefy USDC-AAVE CLM Vault",
+            "contractAddress": "0x003774c2Eda7Aaa2f88469F9dcf005cb63146fcb"
+          },
+          {
+            "contractId": "7438c7ae-3f98-455a-9201-a51f6b11d5de",
+            "contractLabel": "Beefy USDC-LDO CLM Vault",
+            "contractAddress": "0x6c69b6146536467525894527a1c47141A5D9A128"
+          },
+          {
+            "contractId": "8fe737c2-ab9f-4750-924c-49fd6bdbd270",
+            "contractLabel": "Beefy USDT-UNI CLM Vault",
+            "contractAddress": "0xC104d3d4B435B4888eCF362B587FE4B407120184"
+          },
+          {
+            "contractId": "4bceaf45-7308-4012-b3ab-32409e2514fa",
+            "contractLabel": "Beefy USDC-UNI CLM Vault",
+            "contractAddress": "0xa1f71C3395107ED7B1588ED2b12b1080f4Dffe4c"
+          },
+          {
+            "contractId": "69a8db3e-0e02-49b8-947f-441e9ef46c82",
+            "contractLabel": "Beefy USDT-LINK CLM Vault",
+            "contractAddress": "0x69Bc09460519DCE01a9008AA52a74e7c911CAe24"
+          },
+          {
+            "contractId": "f3735598-babd-4ab7-aea6-12e4f0591f5a",
+            "contractLabel": "Beefy USDe-USDT CLM Vault",
+            "contractAddress": "0x4Bf7b1Be5c10b4BdA826F0048Ad8bc44D7Bf2ca7"
+          },
+          {
+            "contractId": "752f4cbd-9f91-42be-b420-2a66a935b7b5",
+            "contractLabel": "Beefy FRAX-USDT CLM Vault",
+            "contractAddress": "0x3390a5Ae22828c17e0556dd29d1dfF5528F28Ea4"
+          },
+          {
+            "contractId": "505f240f-9033-4036-82d6-f52bee6a976b",
+            "contractLabel": "Beefy ETH-CRV CLM Vault",
+            "contractAddress": "0x72A1bcB6f5751F676ddD248D61263a8CE953c54a"
+          },
+          {
+            "contractId": "6077b472-172b-467d-92a9-12701753a5b5",
+            "contractLabel": "Beefy WETH-cbETH CLM Vault",
+            "contractAddress": "0xc89c67dc90cC626145062351Cc0512Eab8Ec9c0D"
+          },
+          {
+            "contractId": "16b13161-824e-422a-bf46-3921f7ef76c2",
+            "contractLabel": "Beefy ETH-rETH CLM Vault",
+            "contractAddress": "0x8797cA7D776638720bE4A6ECa3398E27b622c0c4"
+          },
+          {
+            "contractId": "df7c7936-f237-411c-a8b7-39925a81dda8",
+            "contractLabel": "Beefy wstETH-USD CLM Vault",
+            "contractAddress": "0xb6BdEf20E867D181614fB49eD2dd93e465cc5db1"
+          },
+          {
+            "contractId": "f1480899-35d4-4518-8063-7d3d18ece9b9",
+            "contractLabel": "Beefy WBTC-tBTC CLM Vault",
+            "contractAddress": "0x3cB4431D21De3a7DB320f848393d75997f79d2AB"
+          },
+          {
+            "contractId": "1d13312a-0049-4175-9b25-cb34cbf132a6",
+            "contractLabel": "Beefy wUSDM-wstETH CLM Vault",
+            "contractAddress": "0x9b237e46CC354F7A50D9770FDe8e92FEC2aefe0A"
+          },
+          {
+            "contractId": "b2dd2c62-8fbf-46a6-b1b6-282c83cb900e",
+            "contractLabel": "Beefy WETH-rsETH CLM Vault",
+            "contractAddress": "0x7f3e9f5EFFE06169Db679658392e4Ca79fd5E594"
+          },
+          {
+            "contractId": "45c291d0-8155-4b3d-ba13-adb340da63e4",
+            "contractLabel": "Beefy WBTC-USDC CLM Vault",
+            "contractAddress": "0x8Ff63Fac412f627b6f608383785A018439489B15"
+          },
+          {
+            "contractId": "68759b9a-f6f1-4e1f-81d0-f1192fd755f4",
+            "contractLabel": "Beefy WETH-USD+ CLM Vault",
+            "contractAddress": "0xc425Ea6804a0c9A0Dc82E82F6D3F2eb1Cb9383b0"
+          },
+          {
+            "contractId": "46cb8764-8a17-47cc-b027-fb5dcc8da2cf",
+            "contractLabel": "Beefy WBTC-WETH CLM Vault",
+            "contractAddress": "0xb6e5c44b555391ccaE4Fa6F16dAf2B49772ED20c"
+          },
+          {
+            "contractId": "55f822c2-8400-4f9a-aa7d-00d6118b2edc",
+            "contractLabel": "Beefy ZRO-WETH CLM Vault",
+            "contractAddress": "0xC48822E6B1a6A5BfB23fCE08e431ed27b765AEBa"
+          },
+          {
+            "contractId": "512b1cac-4c58-4cf7-a66f-fbd781e14ecc",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0x3E798d20deB96D5C2F3A1a75308a279683504e7E"
+          },
+          {
+            "contractId": "fe21015f-868b-44c5-8c40-996375bc8a71",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0xeD37a23c162d44Cd3E65645f25Aa789C2317C071"
+          },
+          {
+            "contractId": "91ec5f87-e2c5-48d1-ab3c-bc1e7ea8e054",
+            "contractLabel": "Beefy WBTC-WETH CLM Vault",
+            "contractAddress": "0xe701dc23a60134dfa6fb4d60a97804569d40f8ee"
+          },
+          {
+            "contractId": "01be6a03-ec7d-4bb2-aa48-66429897776b",
+            "contractLabel": "Beefy weETH-WETH CLM Vault",
+            "contractAddress": "0xB88416Cd55F2fff15845656B30d747A0d40Eca4C"
+          },
+          {
+            "contractId": "470702f5-64c7-4ab6-a843-82884a04ea81",
+            "contractLabel": "Beefy rsETH-WETH CLM Vault",
+            "contractAddress": "0x338Fb7e54f4875c76cA77AA9653eB08e856e1FcD"
+          },
+          {
+            "contractId": "c9e4f75f-7404-4704-83fa-ce67c6d3ddc4",
+            "contractLabel": "Beefy rsETH-ETHx CLM Vault",
+            "contractAddress": "0x1f84daf589c0b9dea8c9a1b7463099e2db2f589a"
+          },
+          {
+            "contractId": "4fc2e3f9-b2de-42f0-b765-a93cc0feaf8e",
+            "contractLabel": "Beefy WETH-tBTC CLM Vault",
+            "contractAddress": "0x2Da8956087A383fF944a970c2E6875C4Cec22449"
+          },
+          {
+            "contractId": "bf2f12a2-1e58-4098-9786-e11bc27dc7d1",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0x65D449dC1f69D1c82fDFD8F3d79D2a685fa19068"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "This campaign has been a phenomenal experience, and demonstrated the value of (i) ecosystem-wide programs such as this, (ii) frequent, minor, short-term incentive distribution, and (iii) Beefy's new concentrated liquidity products. We are honoured to have taken part and far exceeded our goal. We hope that all participants have enjoyed the process, and that we can return for similar exercises in the future. Thank you to Arbitrum DAO, Offchain Labs, and all those who helped to facilitate this fantastic program!",
+        "avgDailyTVL": 45139781,
+        "avgDailyTXNS": 744,
+        "avgDailyUniqueUsers": 10826
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have now completed our distribution of all 600,000 ARB so far. As our process developed, the distribution has become increasingly extensive, specific and efficient, with 133 boosts issued in the final period. As of 2 September 2024 (the final date of our incentive period), our LTIPP dashboard shows total TVL at $46m, again far exceeding our total goal for the campaign period around 53%.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 119000,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "63f92f2c-1a57-464b-8db8-ae35eebe7787",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0x525f11f2648e69EE1dF8Ce72685ee9865439eAa4"
+          },
+          {
+            "contractId": "ceaac9ce-833f-4123-bdd5-5ce2cdc3cc7e",
+            "contractLabel": "Beefy USDCe-ARB CLM Pool",
+            "contractAddress": "0x24cD1EfDF958d4466c200c41D5AbF2B57316ac76"
+          },
+          {
+            "contractId": "9a27e26d-7284-453b-b51b-a6db196f19ad",
+            "contractLabel": "Beefy WETH-PENDLE CLM Pool",
+            "contractAddress": "0x447c970202D8B3B81001707B6425D92DF1436F41"
+          },
+          {
+            "contractId": "eb1cebb7-6dcc-4f55-a820-f4cdcd3a7687",
+            "contractLabel": "Beefy WETH-GMX CLM Pool",
+            "contractAddress": "0xb936900CEF5C45b2c921e958D75Dc3659980ae0B"
+          },
+          {
+            "contractId": "102fa96f-7fbb-428d-9ea8-f46b039361e2",
+            "contractLabel": "Beefy WETH-PENDLE CLM Pool",
+            "contractAddress": "0xd52370d9fa4EAB482BD8ff4201B8D0995e12798D"
+          },
+          {
+            "contractId": "5abcc036-6084-483c-9ef7-f427cb4b1b04",
+            "contractLabel": "Beefy WETH-WBTC CLM Pool",
+            "contractAddress": "0xE878e4F75F65A6A4448Bb5292B1823793e09d82C"
+          },
+          {
+            "contractId": "6ae142cb-0f53-4bde-bc39-1be0a8559e8c",
+            "contractLabel": "Beefy WETH-GMX CLM Pool",
+            "contractAddress": "0x1813E5f64e26c7DdA07c8c3cC4b272628fa8121A"
+          },
+          {
+            "contractId": "f17e3fce-faf1-4c76-878c-09285c5c6852",
+            "contractLabel": "Beefy USDC-USDT CLM Pool",
+            "contractAddress": "0xF95E2854a3F6eB9d92eD599D76F84ceCb5968f1B"
+          },
+          {
+            "contractId": "1789d56e-d6a7-4fab-9ee0-d77c264d5d19",
+            "contractLabel": "Beefy USDe-USDC CLM Pool",
+            "contractAddress": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647"
+          },
+          {
+            "contractId": "de2237bb-d269-44c3-8d38-a9a75d44d149",
+            "contractLabel": "Beefy SOL-USDC CLM Pool",
+            "contractAddress": "0x638e3c3707ae6719F80b01deB2ee8474e85D7f62"
+          },
+          {
+            "contractId": "637688cf-3b48-4758-b18b-1768c4f403ff",
+            "contractLabel": "Beefy weETH-WETH CLM Pool",
+            "contractAddress": "0xa1B1fa6E66E2d6ed85b1cB94B90663E56CB6Ea49"
+          },
+          {
+            "contractId": "3d4666a7-dab7-4699-956e-5e62450d8bbf",
+            "contractLabel": "Beefy WETH-ezETH CLM Pool",
+            "contractAddress": "0xf1ff0F8793DbA18dF40E8b8aff66CE6f7a9DF945"
+          },
+          {
+            "contractId": "487d950d-fa75-4d58-aee5-d46bc26f1cc5",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xE0E0bE96FF15BD3dc7d4de458Eae5b0160b443a1"
+          },
+          {
+            "contractId": "1f03a655-d404-42fc-9c1a-73c799e15a34",
+            "contractLabel": "Beefy WBTC-USDCe CLM Pool",
+            "contractAddress": "0x1e933E5ec7418F9140c2Cf9Fc7Ed27017Cf15D77"
+          },
+          {
+            "contractId": "d59f7005-d657-4943-bc63-afb623fb4a12",
+            "contractLabel": "Beefy WBTC-USDT CLM Pool",
+            "contractAddress": "0xB18206b74Ac05229B7c44bEc808371F5095dB12B"
+          },
+          {
+            "contractId": "e1d9b829-7b31-4308-a720-c2452e33d694",
+            "contractLabel": "Beefy WETH-USDCe CLM Pool",
+            "contractAddress": "0x1f02a1D292aeADbbE0Fd83052Fc96536002C5893"
+          },
+          {
+            "contractId": "979e0a41-0583-428d-a44e-66b0b883e42a",
+            "contractLabel": "Beefy USDCe-wstETH CLM Pool",
+            "contractAddress": "0xd3235dF6C11d7e34A5cAaCc809c9f668164E1Cb6"
+          },
+          {
+            "contractId": "e83e2747-5d45-41d1-add6-77dc3f6a36e7",
+            "contractLabel": "Beefy WETH-RDNT CLM Pool",
+            "contractAddress": "0x97765541a15cd11b01079d02CB19E7930B9EC4F5"
+          },
+          {
+            "contractId": "59f49c0b-8e8e-4816-8c05-a63a81ed0099",
+            "contractLabel": "Beefy WETH-GNS CLM Pool",
+            "contractAddress": "0xADd874B53485b27F28Cce45C62044C7838d82A71"
+          },
+          {
+            "contractId": "f99eab78-2bfe-49c0-92e8-45f0b1648ba4",
+            "contractLabel": "Beefy WETH-LDO CLM Pool",
+            "contractAddress": "0xbEa72E2cAC26113cA69d96cA8b556E1Cbe73D98d"
+          },
+          {
+            "contractId": "2af4c41f-6675-41a8-b032-602f90e38bed",
+            "contractLabel": "Beefy WBTC-USDC CLM Pool",
+            "contractAddress": "0xB0F279175C0B4950ffD8F465d5B21902aC6D5Ae8"
+          },
+          {
+            "contractId": "94a58a33-5d46-4a97-beec-b0f23cea5f7c",
+            "contractLabel": "Beefy WETH-USDC CLM Pool",
+            "contractAddress": "0xF9C39C3342d441811121a40b0CDCB0ab3696C815"
+          },
+          {
+            "contractId": "d9d17660-ca4b-4082-9392-5c3f336d2379",
+            "contractLabel": "Beefy ARB-USDC CLM Pool",
+            "contractAddress": "0xf8062a8bE1dAbB36B5cF614ab0FCDE67Cb602279"
+          },
+          {
+            "contractId": "caba0e01-ba91-4721-b3fa-fdf81fcc89fc",
+            "contractLabel": "Beefy WETH-ARB CLM Pool",
+            "contractAddress": "0xE5424fD7d8D4C6B98876199ee4bB021E8517307e"
+          },
+          {
+            "contractId": "d5954f33-2b36-4483-9b3c-eb49d10364f2",
+            "contractLabel": "Beefy WETH-USDT CLM Pool",
+            "contractAddress": "0xF0a7cB3A2999f85De0D56B57C616B0aE59ff7D28"
+          },
+          {
+            "contractId": "cfd9cda2-edfb-46e1-8f4a-6e2997dca8ff",
+            "contractLabel": "Beefy RDNT-WETH CLM Pool",
+            "contractAddress": "0xFd2fAe3d3C66874d5993c6d0D117b1538089bdb3"
+          },
+          {
+            "contractId": "76adf6b4-8dab-4471-83de-534dbe591ecc",
+            "contractLabel": "Beefy WETH-MAGIC CLM Pool",
+            "contractAddress": "0x53c5381b5e60e2939cc68D5Dc1B6055D6F36a456"
+          },
+          {
+            "contractId": "a2e9f595-fcaa-4bfd-8918-964088d75d12",
+            "contractLabel": "Beefy ZRO-WETH CLM Pool",
+            "contractAddress": "0x1Df1E0A5082Cc89d3C49813875d705FF9f036c67"
+          },
+          {
+            "contractId": "e6a7ea18-d3d5-4b27-9b5d-d6f5a414943a",
+            "contractLabel": "Beefy GNS-WETH CLM Pool",
+            "contractAddress": "0x36c9787faea981b43cb8Ef31232150f166F1c40d"
+          },
+          {
+            "contractId": "87fa455e-3a0f-4d15-a2a1-feac91c15d02",
+            "contractLabel": "Beefy wUSDM-wstETH CLM Pool",
+            "contractAddress": "0x8E136e09DeE2076D0451ae7F5713F64fE5d2B77C"
+          },
+          {
+            "contractId": "48f0def2-7acd-41d0-aa0c-9955cd05b7fb",
+            "contractLabel": "Beefy wstETH-USDC CLM Pool",
+            "contractAddress": "0xde05F28Cb643240cF30c308F968566487AB43183"
+          },
+          {
+            "contractId": "422f5abf-ef04-44a5-9e5e-c0e740a6328d",
+            "contractLabel": "Beefy wstETH-ETH CLM Pool",
+            "contractAddress": "0xd908F2d8b52E011554371834A94C971D2b784885"
+          },
+          {
+            "contractId": "d3d51890-deb4-4fb5-b0c7-79821592c590",
+            "contractLabel": "Beefy wstETH-WETH CLM Pool",
+            "contractAddress": "0xe41b5B539a74D3203692f47f33E269Cdd14aA451"
+          },
+          {
+            "contractId": "eb3b19f6-8ed2-42ef-a208-ef990886822b",
+            "contractLabel": "Beefy USDC-AAVE CLM Vault",
+            "contractAddress": "0x003774c2Eda7Aaa2f88469F9dcf005cb63146fcb"
+          },
+          {
+            "contractId": "b453522c-89da-4ab9-be73-ca79a5be94b9",
+            "contractLabel": "Beefy ETH-ETH+ CLM Vault",
+            "contractAddress": "0x0188Fc5DEDfc8004841ceFbD098f5B72b3DE7532"
+          },
+          {
+            "contractId": "35d12d0d-2673-435a-a2ba-439013322cd0",
+            "contractLabel": "Beefy WETH-DAI CLM Vault",
+            "contractAddress": "0x107B276ADa1A012f69587Ba5a7fE94219cAabBb0"
+          },
+          {
+            "contractId": "866cb15a-4621-4df0-91d5-7fabc9b5c346",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0x16c2b704bd087719e5a30e13d818b8f40d20c88c"
+          },
+          {
+            "contractId": "40fa86ef-3b9c-4cab-ac0a-efa142a7182a",
+            "contractLabel": "Beefy ETHx-WETH CLM Vault",
+            "contractAddress": "0x1f3a99E4fD15F2821F9bc3A0C2942504b046D927"
+          },
+          {
+            "contractId": "79f7a6ea-10b5-4146-9df6-827e81475c5e",
+            "contractLabel": "Beefy rsETH-ETHx CLM Vault",
+            "contractAddress": "0x1f84daf589c0b9dea8c9a1b7463099e2db2f589a"
+          },
+          {
+            "contractId": "b77c73f7-22cc-476e-be2b-4c47197aa05b",
+            "contractLabel": "Beefy ETH-USDT CLM Vault",
+            "contractAddress": "0x2c211394765134e7088d3A5F8706c8904FD9d1F0"
+          },
+          {
+            "contractId": "662506cd-35bf-4973-95fe-b5e7b85153d8",
+            "contractLabel": "Beefy WETH-tBTC CLM Vault",
+            "contractAddress": "0x2Da8956087A383fF944a970c2E6875C4Cec22449"
+          },
+          {
+            "contractId": "87284133-d397-44d0-aedd-d87e09d67940",
+            "contractLabel": "Beefy rsETH-WETH CLM Vault",
+            "contractAddress": "0x338Fb7e54f4875c76cA77AA9653eB08e856e1FcD"
+          },
+          {
+            "contractId": "60709ad3-d8e5-4994-aa58-ddab539e7727",
+            "contractLabel": "Beefy FRAX-USDT CLM Vault",
+            "contractAddress": "0x3390a5Ae22828c17e0556dd29d1dfF5528F28Ea4"
+          },
+          {
+            "contractId": "f4f036ca-e4dc-49c8-834f-6f60d1646cb8",
+            "contractLabel": "Beefy WBTC-tBTC CLM Vault",
+            "contractAddress": "0x3cB4431D21De3a7DB320f848393d75997f79d2AB"
+          },
+          {
+            "contractId": "40b45b04-95f8-4d8c-80ec-4b2cedfdf676",
+            "contractLabel": "Beefy rsETH-wstETH CLM Vault",
+            "contractAddress": "0x3Cfb81925e69650127b0cA3d9869027a94C01aC4"
+          },
+          {
+            "contractId": "44bb5e1e-ceef-402b-bc03-2b963cc70513",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0x3E798d20deB96D5C2F3A1a75308a279683504e7E"
+          },
+          {
+            "contractId": "7be8be57-cccf-4fa8-a6ec-14be4d977075",
+            "contractLabel": "Beefy tBTC-WBTC CLM Vault",
+            "contractAddress": "0x499B0476F0b8F46D3B797682F59fAac58E117010"
+          },
+          {
+            "contractId": "12afb607-7c5b-4f36-a559-b52b642535b6",
+            "contractLabel": "Beefy USDe-USDT CLM Vault",
+            "contractAddress": "0x4Bf7b1Be5c10b4BdA826F0048Ad8bc44D7Bf2ca7"
+          },
+          {
+            "contractId": "dd0ca5dd-f0ff-47c1-b1b4-c6e5fd1c6e9b",
+            "contractLabel": "Beefy USDC-USDC CLM Vault",
+            "contractAddress": "0x5582625d651DB5290Ae751beDD172042f4bb2539"
+          },
+          {
+            "contractId": "2f45b30c-633c-4cec-abdf-7f514f0b3cfc",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0x65D449dC1f69D1c82fDFD8F3d79D2a685fa19068"
+          },
+          {
+            "contractId": "a8127ce6-a8b0-4fdf-a496-29e7e2bde181",
+            "contractLabel": "Beefy USDT-LINK CLM Vault",
+            "contractAddress": "0x69Bc09460519DCE01a9008AA52a74e7c911CAe24"
+          },
+          {
+            "contractId": "fe273e5d-1fa3-43fc-88f3-7f332b726ddb",
+            "contractLabel": "Beefy USDC-LDO CLM Vault",
+            "contractAddress": "0x6c69b6146536467525894527a1c47141A5D9A128"
+          },
+          {
+            "contractId": "0d17874d-9e49-40d5-873f-8fce1e628b1d",
+            "contractLabel": "Beefy USDC-USDCe CLM Vault",
+            "contractAddress": "0x6cbd32536329fb5f3bd8c3135ca9c3af98887fb1"
+          },
+          {
+            "contractId": "41dc2829-3ca3-470b-bd86-5531b5991dbb",
+            "contractLabel": "Beefy MIM-USDC CLM Vault",
+            "contractAddress": "0x6d153eb7f1d7795bb8e0fa308442e40291304452"
+          },
+          {
+            "contractId": "2c7e222c-b438-4d59-82c4-e86b719d2f36",
+            "contractLabel": "Beefy WETH-rsETH CLM Vault",
+            "contractAddress": "0x7f3e9f5EFFE06169Db679658392e4Ca79fd5E594"
+          },
+          {
+            "contractId": "d68ba1b6-6ee2-4154-909d-574563b5f225",
+            "contractLabel": "Beefy WETH-USDC+ CLM Vault",
+            "contractAddress": "0x8109315AA279662A3395024Fe043A527b5585241"
+          },
+          {
+            "contractId": "7eda8ed0-7836-4637-bd48-aa445dec3b5e",
+            "contractLabel": "Beefy WBTC-LINK CLM Vault",
+            "contractAddress": "0x83C2540B9f3a74beCD9c0Df5f879247FA19bE0A9"
+          },
+          {
+            "contractId": "df709965-800a-4fd0-9d2b-d3f81389aec8",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0x86f77B5aC938f733F0a185272CC3Ee20B4AAdf60"
+          },
+          {
+            "contractId": "0666d8c6-6496-44a5-a449-728006214c5a",
+            "contractLabel": "Beefy WETH-rETH CLM Vault",
+            "contractAddress": "0x8797cA7D776638720bE4A6ECa3398E27b622c0c4"
+          },
+          {
+            "contractId": "ac91d163-13fd-4653-9606-efe60c559431",
+            "contractLabel": "Beefy wstETH-WETH CLM Vault",
+            "contractAddress": "0x8f89da2b4d8b23ba14ff18be17873657784e23fa"
+          },
+          {
+            "contractId": "01ad5c52-d370-482b-8c3b-1b617511cb31",
+            "contractLabel": "Beefy WBTC-USDC CLM Vault",
+            "contractAddress": "0x8Ff63Fac412f627b6f608383785A018439489B15"
+          },
+          {
+            "contractId": "23240a04-cc23-47b4-8bcc-16a0da7ee3b9",
+            "contractLabel": "Beefy wUSDM-wstETH CLM Vault",
+            "contractAddress": "0x9b237e46CC354F7A50D9770FDe8e92FEC2aefe0A"
+          },
+          {
+            "contractId": "2aa8b8ca-0692-4647-bd04-615af4f5118d",
+            "contractLabel": "Beefy USDC-USDT CLM Vault",
+            "contractAddress": "0x9cbB28eE98699aB491afE05653804B7aa426880b"
+          },
+          {
+            "contractId": "85ea13f1-c6d4-4f26-88c9-31f85d172ca0",
+            "contractLabel": "Beefy USDC-UNI CLM Vault",
+            "contractAddress": "0xa1f71C3395107ED7B1588ED2b12b1080f4Dffe4c"
+          },
+          {
+            "contractId": "5f319f9e-bc12-4b86-a9cb-7e924221a845",
+            "contractLabel": "Beefy USD+-USDT+ CLM Vault",
+            "contractAddress": "0xa7e093ae7c7edb3fd39bba45d9471c575f2cf81a"
+          },
+          {
+            "contractId": "beceb641-6f3f-4658-92e3-a2283bc0d1c0",
+            "contractLabel": "Beefy WBTC-USDC CLM Vault",
+            "contractAddress": "0xb1da84f8e61a608d0af0a4a4adfa70b2044162b8"
+          },
+          {
+            "contractId": "f3a58d57-58e5-4bd3-8dc9-b032f99a9405",
+            "contractLabel": "Beefy eUSD-USDC CLM Vault",
+            "contractAddress": "0xB4C93E5DB96d28680373a9984225e78B03a15338"
+          },
+          {
+            "contractId": "39057727-3951-4b6f-8af5-1914aab2d66d",
+            "contractLabel": "Beefy WETH-USDC CLM Vault",
+            "contractAddress": "0xb54426b02d6ffdc5fc566c442c50391320fde5da"
+          },
+          {
+            "contractId": "87002381-706c-4240-92fe-0a57f4188c1e",
+            "contractLabel": "Beefy wstETH-USDC CLM Vault",
+            "contractAddress": "0xb6BdEf20E867D181614fB49eD2dd93e465cc5db1"
+          },
+          {
+            "contractId": "3ff01ca0-7c31-48dc-b2cc-0aad4a026b07",
+            "contractLabel": "Beefy WBTC-WETH CLM Vault",
+            "contractAddress": "0xb6e5c44b555391ccaE4Fa6F16dAf2B49772ED20c"
+          },
+          {
+            "contractId": "a68b6d8f-372b-4601-8557-425e3bc21f41",
+            "contractLabel": "Beefy weETH-WETH CLM Vault",
+            "contractAddress": "0xB88416Cd55F2fff15845656B30d747A0d40Eca4C"
+          },
+          {
+            "contractId": "f956903b-4f41-4d0c-9dd7-8fcd2c0329b8",
+            "contractLabel": "Beefy USDT-UNI CLM Vault",
+            "contractAddress": "0xC104d3d4B435B4888eCF362B587FE4B407120184"
+          },
+          {
+            "contractId": "17a8ecab-d93b-4629-bfd6-dec206034458",
+            "contractLabel": "Beefy USDT-USDC CLM Vault",
+            "contractAddress": "0xc2fca425dfc22aa9da86157aedf1b86645650f81"
+          },
+          {
+            "contractId": "08f4d67c-b17e-4760-aa45-1790104dd44b",
+            "contractLabel": "Beefy WETH-USD+ CLM Vault",
+            "contractAddress": "0xc425Ea6804a0c9A0Dc82E82F6D3F2eb1Cb9383b0"
+          },
+          {
+            "contractId": "a45959e3-8d1e-492b-824e-93f087dc5841",
+            "contractLabel": "Beefy WETH-cbETH CLM Vault",
+            "contractAddress": "0xc89c67dc90cC626145062351Cc0512Eab8Ec9c0D"
+          },
+          {
+            "contractId": "826bcd9f-349a-4db2-a9a0-a0278f827c86",
+            "contractLabel": "Beefy WETH-UNI CLM Vault",
+            "contractAddress": "0xcF0841923B1a9F95bEc83a4057715cefA6b15A60"
+          },
+          {
+            "contractId": "e94098f4-3cdd-45da-aca3-81d1d711a2d3",
+            "contractLabel": "Beefy USDC-USD+ CLM Vault",
+            "contractAddress": "0xD7B1912fc125C69a47F5Adc07D44c12379C08aA7"
+          },
+          {
+            "contractId": "140152c7-b401-47bf-b45f-369933b9aa80",
+            "contractLabel": "Beefy KNOX-eUSD CLM Vault",
+            "contractAddress": "0xd7cD8bBe700BD0a154Dab09B3155C9E5a053da3D"
+          },
+          {
+            "contractId": "91122d75-bcec-4ecc-a8a7-d0cc111b0889",
+            "contractLabel": "Beefy ZRO-WETH CLM Vault",
+            "contractAddress": "0xdb219520eBBcBb399910D83DBa0E9A0C4d4b492A"
+          },
+          {
+            "contractId": "ee95842b-d4c1-4372-bd13-e8550c872b41",
+            "contractLabel": "Beefy WETH-USD+ CLM Vault",
+            "contractAddress": "0xe092831Bf4C96BA4fbd1007874057b9a143A9cAc"
+          },
+          {
+            "contractId": "b9110a88-c8ee-4487-92ad-a996515d4858",
+            "contractLabel": "Beefy ZRO-WETH CLM Vault",
+            "contractAddress": "0xe127e1b797257bbafb057ca7be9fac2b8c4d0557"
+          },
+          {
+            "contractId": "1f1ce178-5be8-4466-99e6-e1421de6f62a",
+            "contractLabel": "Beefy wstETH-WETH CLM Vault",
+            "contractAddress": "0xe2362bFfA5b00d16ddd4D751F735481E95740ac6"
+          },
+          {
+            "contractId": "360e6fc2-5dae-4673-8fc7-990bba9d1d37",
+            "contractLabel": "Beefy USDT-USDCe CLM Vault",
+            "contractAddress": "0xe3c5261025f0c0429a9830d89af5ba36490bb9f9"
+          },
+          {
+            "contractId": "a03893e9-fe1a-43d0-97f1-cc4b9c22d66f",
+            "contractLabel": "Beefy WBTC-WETH CLM Vault",
+            "contractAddress": "0xe701dc23a60134dfa6fb4d60a97804569d40f8ee"
+          },
+          {
+            "contractId": "19ac75b3-bb74-453a-92c8-953805a165e6",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0xeD37a23c162d44Cd3E65645f25Aa789C2317C071"
+          },
+          {
+            "contractId": "8b63f9b3-1c5c-4899-b681-da41364b9e02",
+            "contractLabel": "Beefy ARB-WETH CLM Vault",
+            "contractAddress": "0xEDcFE8448bc77e5A48B475b17736B6Ff32Ca9088"
+          },
+          {
+            "contractId": "f4c725d6-9489-4cad-b90a-0d252eabf867",
+            "contractLabel": "Beefy USD+-USDT CLM Vault",
+            "contractAddress": "0xf57E88E72883B186272CC1EFe1bB546B86eE82Cf"
+          },
+          {
+            "contractId": "86c126ba-981b-4192-9ad4-17eb286ff936",
+            "contractLabel": "Beefy ARB-USDC CLM Vault",
+            "contractAddress": "0xfaccea76b9d568e082a231b2f4a6868f50771c40"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes. Continue to deliver as planned and done to date, and get over the finish line with the same momentum.",
+        "expectations": "Distribute all remaining incentives and sustain (or grow) TVL as far as possible in the final period.",
+        "arbToBeDistributed": 119000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD80e5884C1E2771D4d2A6b3b7C240f10EfA0c766"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 600000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Beefy",
+  "grantSummary": "With this application, Beefy is proposing to deliver a completely novel product first and foremost on the Arbitrum ecosystem, that being our automated liquidity management (\u201cALM\u201d) product for concentrated liquidity pools. Our ALM product will allow users to gain the benefits of concentrated liquidity, without the cost and risk of managing your own position. With automated rebalancing, Beefy ALM will securely balance each user\u2019s position whilst automatically investing trading fees, giving users certainty of exposure and gain. And unlike many other autocompounding products, our ALM products do not need to sell earned tokens to compound returns. We believe that actively-managed concentrated liquidity is by far the superior form of liquidity for a given ecosystem, and that a push to migrate liquidity on Arbitrum into ALM products will help the chain to become as efficient, liquid and high-yielding as any other major blockchain. We also hope that an effective incentive campaign and launch on Arbitrum will help to attract TVL from our crosschain audience to explore the amazing opportunities available on Arbitrum; win-win-win.\n\nSee full application for more details: https://forum.arbitrum.foundation/t/beefy-ltipp-application-draft/21331",
+  "fundingAddress": "0xD80e5884C1E2771D4d2A6b3b7C240f10EfA0c766",
+  "editorAddresses": [],
+  "matchingGrantSize": 600000,
+  "metricsDashboardLink": "https://dune.com/beefy_data_nerds/beefy-arbitrum-ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xD80e5884C1E2771D4d2A6b3b7C240f10EfA0c766"
+}

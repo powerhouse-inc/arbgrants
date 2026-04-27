@@ -1,0 +1,333 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We adjusted the distribution to maximize TVL and Activity. Due to unforeseen circumstances, we also shifted from one DEX to another over the weekend. ",
+        "lessons": "Majority of TVL is coming in from DeFi activity, therefore we will continue to push strong incentive plans towards DeFi activities vs. simply holding uniETH.",
+        "avgDailyTVL": 93000,
+        "avgDailyTXNS": 151,
+        "avgDailyUniqueUsers": 30
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have had a slow start but things are still looking strong. TVL in week 1 has grown to ~$650k (Target of $1m after week 2). DeFi TVL is at $570k ($1m after week 4).",
+        "incentives": "",
+        "arbReceived": 43667,
+        "arbUtilized": 29000,
+        "disclosures": "Camelot address should be added shortly. Curve address will be added later this week. \n\nBreakdown of ARB distribution is as follows:\n\nWeek 1 & 2: \n\nHolding uniETH - 5,000 per week\nRamses - 4,000 per week\nCamelot - 2,500 for week 2\nCurve - 2,000 - 3,000 for week 2",
+        "arbRemaining": 262000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a6ade08f-272a-4bd9-a0db-54078bfae2bf",
+            "contractLabel": "Ramses",
+            "contractAddress": "0x4EE25B11389532790ED8aF6AD7eF29FFeA01009b"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "More ARB were added to DeFi activities like LP Incentives instead of simply holding uniETH tokens. i.e. 4,000 ARB were sent to Ramses Incentive Pool per week. Ramses incentives started on 20th June. Some minor delays due to time for alignment of stakeholders once grant was received. Poolside has been delayed due to Audit issues, as such, we have shifted and will be incentivizing a Curve pool in lieu. Camelot pool is due to launch on 24th June. \n\nTimeswap pool is in the process of being launched, although no ARB incentives are currently allocated for it. The first distribution to uniETH holders is in the final stages and will be distributed through Hedgey App. ",
+        "expectations": "After the next two weeks, we expect to have 3 DEX pools launched and running with incentives, we also anticipate 1-2 other DeFi integrations to go live. We also anticipate that the second distribution of ARB to uniETH holders will have been initiated. ",
+        "arbToBeDistributed": 29000,
+        "contractsIncentivized": [
+          {
+            "contractId": "6ed362b2-06bb-4ae1-9cef-0319d8e39797",
+            "contractLabel": "Ramses Pool",
+            "contractAddress": "0x4EE25B11389532790ED8aF6AD7eF29FFeA01009b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We have just recently started incentivizing the second DEX pool which has started to increase activity. We will further increase incentives to match TVL",
+        "lessons": "We need to start looking to incentivize activity as well as LP in the coming weeks",
+        "avgDailyTVL": 26000,
+        "avgDailyTXNS": 125,
+        "avgDailyUniqueUsers": 11
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "This second period was a little slower than previously, however, I have strong confidence as we are still seeing lots of on-chain activity. We are still well ahead of almost all our KPIs.",
+        "incentives": "",
+        "arbReceived": 43667,
+        "arbUtilized": 20863,
+        "disclosures": "N/A",
+        "arbRemaining": 218333,
+        "contractsIncentivized": [
+          {
+            "contractId": "f382bdeb-386a-4ecc-8ffd-2428f0aba6a4",
+            "contractLabel": "Camelot via Merkl",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "624b0431-c80d-4321-9f21-764fd33864f4",
+            "contractLabel": "Ramses multisig",
+            "contractAddress": "0x20d630cf1f5628285bfb91dfac8c89eb9087be1a"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "For Camelot Rewards, we needed to send the tokens via an individual wallet for simplicity purposes. We used one of the signatory's wallet address for this. We ran into a couple of issues working with Ramses API to distribute the ARB tokens for uniETH holders. ETA for this first period of distribution (10th July-27th July) is expected to be completed in the next 24-48 hours. After this, we will do bi-weekly distributions via Hedgey. ",
+        "expectations": "We expect to have Camelot and Ramses fully integrated and aim to have Pendle pool in the final stages of preparation. Then we will launch on Curve",
+        "arbToBeDistributed": 4863,
+        "contractsIncentivized": [
+          {
+            "contractId": "5fb344d5-fbff-4f3a-93af-6476997d6b08",
+            "contractLabel": "Merkl rewards for Camelot",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "788dd071-b1e1-4424-b3b4-499e8531e197",
+            "contractLabel": "Merkl Fees",
+            "contractAddress": "0x435046800Fb9149eE65159721A92cB7d50a7534b"
+          },
+          {
+            "contractId": "54173ccb-0329-48c6-abdf-12a6b9913272",
+            "contractLabel": "Ramses LP Rewards",
+            "contractAddress": "0x20d630cf1f5628285bfb91dfac8c89eb9087be1a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Increased Camelot incentives",
+        "lessons": "Providing ARB incentives to all uniETH holders makes integrations very painful and slow. Will not incentive this particular activity again.",
+        "avgDailyTVL": 200000,
+        "avgDailyTXNS": 500,
+        "avgDailyUniqueUsers": 30
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "growth to more than $5m is showing strong traction after a slow start. onchain activity is still super strong with more than 10k transactions. Organizing some new partnerships over the coming couple of weeks which will drive growth further",
+        "incentives": "",
+        "arbReceived": 43667,
+        "arbUtilized": 28000,
+        "disclosures": "Nil",
+        "arbRemaining": 146666,
+        "contractsIncentivized": [
+          {
+            "contractId": "5fb344d5-fbff-4f3a-93af-6476997d6b08",
+            "contractLabel": "Merkl rewards for Camelot",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "788dd071-b1e1-4424-b3b4-499e8531e197",
+            "contractLabel": "Merkl Fees",
+            "contractAddress": "0x435046800Fb9149eE65159721A92cB7d50a7534b"
+          },
+          {
+            "contractId": "54173ccb-0329-48c6-abdf-12a6b9913272",
+            "contractLabel": "Ramses LP Rewards",
+            "contractAddress": "0x20d630cf1f5628285bfb91dfac8c89eb9087be1a"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We have continued to increase the amount of Incentives going to DEXs and planning new integrations that have proven results vs. simply holding uniETH",
+        "expectations": "Our TVL is slightly behind target (1 week) but all other stats are on track and we expect this growth to continue steadily.",
+        "arbToBeDistributed": 28000,
+        "contractsIncentivized": [
+          {
+            "contractId": "5fb344d5-fbff-4f3a-93af-6476997d6b08",
+            "contractLabel": "Merkl rewards for Camelot",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "788dd071-b1e1-4424-b3b4-499e8531e197",
+            "contractLabel": "Merkl Fees",
+            "contractAddress": "0x435046800Fb9149eE65159721A92cB7d50a7534b"
+          },
+          {
+            "contractId": "54173ccb-0329-48c6-abdf-12a6b9913272",
+            "contractLabel": "Ramses LP Rewards",
+            "contractAddress": "0x20d630cf1f5628285bfb91dfac8c89eb9087be1a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 262000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Bedrock",
+  "grantSummary": "",
+  "fundingAddress": "0x14B7bC2404E9a91eEaCafE477BbF0542e015a789",
+  "editorAddresses": [
+    "0xBCC66eBD45C5E58F1932e76AE57f058851711C23",
+    "0x0a41D9043D71403A97582E1cABb43615bAFE4A27",
+    "0x09610d4239c8f3413509202DCcC7e27C6B0a47A3"
+  ],
+  "matchingGrantSize": 262000,
+  "metricsDashboardLink": "https://dune.com/rockx-internal/bedrock-arbitrum-ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x14B7bC2404E9a91eEaCafE477BbF0542e015a789"
+}

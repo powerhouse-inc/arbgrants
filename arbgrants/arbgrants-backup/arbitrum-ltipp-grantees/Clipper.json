@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We changed the minimum deposit from $20 to $50.",
+        "lessons": "Too soon to say! We will evaluate after week 2, once the results of week 1 are publicized and bring in more people.",
+        "avgDailyTVL": 1081224,
+        "avgDailyTXNS": 309,
+        "avgDailyUniqueUsers": 69
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have completed the first week of incentive distributions as outlined in the application. We noticed and implemented protections for some sybilling. We will reassess the program efficacy after the second week of incentives.",
+        "incentives": "",
+        "arbReceived": 20054,
+        "arbUtilized": 14502,
+        "disclosures": "No disclosures",
+        "arbRemaining": 174308,
+        "contractsIncentivized": [
+          {
+            "contractId": "7c07b107-f67e-43ed-b113-257c86bad601",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "For the next period, we are implementing a minimum deposit amount to counteract Sybilling.",
+        "expectations": "We expect liquidity to flow in more during week 2, now that the very high week 1 APYs are public.",
+        "arbToBeDistributed": 14550,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Given the smaller number of participants, we capped the amount that a new user can earn. We also adjusted the copy and explanation of our program to be clearer to users.",
+        "lessons": "We\u2019ve learned that users keep the program a secret to get a higher proportion of each week\u2019s rewards. To counter this, we are introducing a referral program so some of the rewards that were going to new users are reallocated to people who refer new LPs.",
+        "avgDailyTVL": 1159501,
+        "avgDailyTXNS": 599,
+        "avgDailyUniqueUsers": 170
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve noticed uptake isn\u2019t as strong as expected, despite LPs being very excited about their rewards. We\u2019re looking into why more people aren\u2019t participating by interviewing current participants.",
+        "incentives": "",
+        "arbReceived": 58104,
+        "arbUtilized": 29052,
+        "disclosures": "No disclosures",
+        "arbRemaining": 154254,
+        "contractsIncentivized": [
+          {
+            "contractId": "351f2031-8e7c-4420-9cda-b9d67ada128d",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "No changes, we are only 1 week from starting. We are letting more data collect.",
+        "expectations": "We will see an increase in liquidity, new users, and new LPs as projected in our initial proposal.",
+        "arbToBeDistributed": 29052,
+        "contractsIncentivized": [
+          {
+            "contractId": "e9cc7c0b-e8f7-42a5-813c-bc360402c39d",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We implemented a referral infrastructure to incentivize LPs to bring new LPs to our ARB incentives program.",
+        "lessons": "Based on the results, we will promote our program more to increase referrals. We will also audit our referral incentives through Fuul and assess if they're sufficient to bring more unique LPs.",
+        "avgDailyTVL": 1380373,
+        "avgDailyTXNS": 591,
+        "avgDailyUniqueUsers": 104
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We've implemented a referral infrastructure to incentivize LPs to bring new LPs to our ARB incentives program. We will see how this plays out over time.",
+        "incentives": "",
+        "arbReceived": 29052,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 67098,
+        "contractsIncentivized": [
+          {
+            "contractId": "36f53df7-f1a2-4de6-903c-8e89522f44d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "We\u2019ve learned that users are intentionally keeping the program secret from their friends so they get a higher proportion of each week\u2019s rewards. To counter this, we are introducing a referral program so some of the rewards that were going to new users are reallocated to people who refer new LPs.",
+        "expectations": "We expect new referral links to drive virality, an increase in liquidity, and growth of our incentives program.",
+        "arbToBeDistributed": 29052,
+        "contractsIncentivized": [
+          {
+            "contractId": "36f53df7-f1a2-4de6-903c-8e89522f44d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We promoted our incentive rewards. We've received constructive feedback from the community for our incentive rewards.",
+        "lessons": "We will synthesize the feedback from our community members and create a more compelling incentive structure.",
+        "avgDailyTVL": 1475043,
+        "avgDailyTXNS": 417,
+        "avgDailyUniqueUsers": 63
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve been noticing an uptick since promotion and referral incentives. We have also received feedback from the community on restructuring our incentives.",
+        "incentives": "",
+        "arbReceived": 116208,
+        "arbUtilized": 22669,
+        "disclosures": "No disclosures",
+        "arbRemaining": -49110,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "Based on the results from our referral incentives, we will promote our program more to increase referrals. We will also audit our referral incentives through Fuul and assess if they're sufficient to bring more unique LPs.",
+        "expectations": "We expect new referral links to drive virality, an increase in liquidity, and growth of our incentives program.",
+        "arbToBeDistributed": 29052,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We kept referral rewards up so that we would incentivize more unique users to provide liquidity",
+        "lessons": "We will slightly balance the rewards allocated to referrers and LPers.",
+        "avgDailyTVL": 1452486,
+        "avgDailyTXNS": 991,
+        "avgDailyUniqueUsers": 36
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "There have been steady improvements in user sentiment. However, some were concerned that referrals were rewarded disproportionally higher than LPers.",
+        "incentives": "",
+        "arbReceived": 29052,
+        "arbUtilized": 29052,
+        "disclosures": "None",
+        "arbRemaining": -78162,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "We've restructured our program to allocate funds more evenly among LPs and referrals.",
+        "expectations": "We will see better retention and outcomes.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We had a more even ARB distribution between referrals and LPers.",
+        "lessons": "We've learned that people appreciated the changes.",
+        "avgDailyTVL": 1452486,
+        "avgDailyTXNS": 991,
+        "avgDailyUniqueUsers": 36
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We've continued with a more even disbursement of ARB between LPers and referrers. We will see how it plays out.",
+        "incentives": "",
+        "arbReceived": 29052,
+        "arbUtilized": 29052,
+        "disclosures": "None",
+        "arbRemaining": -107214,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "We've balanced the ARB rewards between LPers and referrers.",
+        "expectations": "That LPers will be happier and they will be incentivized to provide even more liquidity.",
+        "arbToBeDistributed": 29052,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We lowered the weekly incentives.",
+        "lessons": "We learned we can still retain the same average daily TVL, Average daily unique users, and transactions with less incentives",
+        "avgDailyTVL": 1484956,
+        "avgDailyTXNS": 1373,
+        "avgDailyUniqueUsers": 31
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have continued with the reduced incentives, people seem to be staying with the program.",
+        "incentives": "",
+        "arbReceived": 29052,
+        "arbUtilized": 29052,
+        "disclosures": "None",
+        "arbRemaining": -136266,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "We're adjusting the ARB distribution to be less to see how long LPers will be retained",
+        "expectations": "There may or may not be a drop in TVL, but we're interested to see if people are still incentivized to stay as LPs.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "53dd8e26-f402-4802-af88-9f38473262d7",
+            "contractLabel": "Clipper ARB Pool",
+            "contractAddress": "0x769728b5298445ba2828c0f3f5384227fbf590c5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 174308,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Clipper",
+  "grantSummary": "75k ARB is being distributed as liquidity mining rewards. 125k ARB is being distributed to ClipperLPs from other chains who become ClipperLPs on Arbitrum.",
+  "fundingAddress": "0x4122E5aA4A998526D146235d6DDc067eCd0E11FF",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://dune.com/temo_shipyard/clipper-arbitrum-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x4122E5aA4A998526D146235d6DDc067eCd0E11FF"
+}

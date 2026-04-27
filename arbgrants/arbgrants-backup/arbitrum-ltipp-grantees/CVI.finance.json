@@ -1,0 +1,352 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The campaign started on the 10th instead of the 3rd",
+        "lessons": "We learned how to work with the distribution process",
+        "avgDailyTVL": 652005,
+        "avgDailyTXNS": 29,
+        "avgDailyUniqueUsers": 7
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The campaign started on the 10th and actual distribution on the 17th",
+        "incentives": "",
+        "arbReceived": 20384,
+        "arbUtilized": 5000,
+        "disclosures": "The campaign started on the 10th and actual distribution on the 17th",
+        "arbRemaining": 104616,
+        "contractsIncentivized": [
+          {
+            "contractId": "946c7331-c151-410d-b3dc-525a7b3c59f9",
+            "contractLabel": "WeeklyRebates",
+            "contractAddress": "0x2e46f5df98e4122f261a8f7bdc4c63ea38996f89"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "The campaign started on the 10th, with initial distribution on the end of the  17th (the end of the bi-weekly period)",
+        "expectations": "In the next period the trading competition and raffles distribution starts",
+        "arbToBeDistributed": 20834,
+        "contractsIncentivized": [
+          {
+            "contractId": "bba37a2b-7763-43cd-96a3-be68c040a3b0",
+            "contractLabel": "WeeklyRebates",
+            "contractAddress": "0x2e46f5df98e4122f261a8f7bdc4c63ea38996f89"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "We should push the marketing efforts the competitions on all social platforms. \nWe reached out to KOLs, held spaces, had marketing collaborations with other projects (Revelo etc), maximizing exposure ",
+        "avgDailyTVL": 733269,
+        "avgDailyTXNS": 31,
+        "avgDailyUniqueUsers": 8
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The first trading competition was concluded, for the period started on the 10th, the first raffle and the weekly rebates continued",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 7000,
+        "disclosures": "The first trading competition was concluded, for the period started on the 10th, the first raffle and the weekly rebates continued",
+        "arbRemaining": 104616,
+        "contractsIncentivized": [
+          {
+            "contractId": "8e230fc8-85a6-43f4-9083-05fe1df928a8",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "The first trading competition was concluded, for the period started on the 10th, and the first raffle",
+        "expectations": "to hold the second competition and the second raffle",
+        "arbToBeDistributed": 7000,
+        "contractsIncentivized": [
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The second trading competition was concluded and also the second raffle",
+        "lessons": "Although no big whales arrived, we see an increase in usage",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 35,
+        "avgDailyUniqueUsers": 9
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The second trading competition was concluded",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "The second trading competition was concluded",
+        "arbRemaining": 104616,
+        "contractsIncentivized": [
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We're adding another 10K ARB of the CVI Treasury (on top of the amount received from the LTIP) , sent out from the amount we received on the original ARB airdrop, in order to incentivize lps",
+        "expectations": "Send out the lp incentives for the first month",
+        "arbToBeDistributed": 20834,
+        "contractsIncentivized": [
+          {
+            "contractId": "a3f226c1-df04-4351-837d-e7b9918406e5",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes",
+        "lessons": "as volatility trading demand changes during volatile times and during stagnation, we should consider a more dynamic incentive structure, to greatly incentivize lps during volatility and traders during stagnation",
+        "avgDailyTVL": 917627,
+        "avgDailyTXNS": 61,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We raised the cap on our vault due to hitting our 1M milestone!",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We raised the cap on our vault due to hitting our 1M milestone!",
+        "arbRemaining": 87616,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We raised the cap on our vault due to hitting our 1M milestone!",
+        "expectations": "To continue to see increased usage and tvl",
+        "arbToBeDistributed": 17000,
+        "contractsIncentivized": [
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "we increased the incentives for lps in order to reduce their risk during this highly volatile time",
+        "lessons": "we increased the incentives for lps in order to reduce their risk during this highly volatile time",
+        "avgDailyTVL": 1021044,
+        "avgDailyTXNS": 60,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "trading competitions, raffles as planned. As per previous lessons we're considering increasing the incentives for lps, taking a bit from the rebates pool, in order to have higher liquidity which will decrease the risk for lps",
+        "incentives": "",
+        "arbReceived": 24500,
+        "arbUtilized": 0,
+        "disclosures": "trading competitions, raffles as planned. As per previous lessons we're considering increasing the incentives for lps, taking a bit from the rebates pool, in order to have higher liquidity which will decrease the risk for lps",
+        "arbRemaining": 80116,
+        "contractsIncentivized": [
+          {
+            "contractId": "bba37a2b-7763-43cd-96a3-be68c040a3b0",
+            "contractLabel": "WeeklyRebates",
+            "contractAddress": "0x2e46f5df98e4122f261a8f7bdc4c63ea38996f89"
+          },
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "trading competitions, raffles as planned. As per previous lessons we're considering increasing the incentives for lps, taking a bit from the rebates pool, in order to have higher liquidity which will decrease the risk for lps",
+        "expectations": "to see continued growth",
+        "arbToBeDistributed": 24500,
+        "contractsIncentivized": [
+          {
+            "contractId": "bba37a2b-7763-43cd-96a3-be68c040a3b0",
+            "contractLabel": "WeeklyRebates",
+            "contractAddress": "0x2e46f5df98e4122f261a8f7bdc4c63ea38996f89"
+          },
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "we increased the incentives for lps in order to reduce their risk during this highly volatile time",
+        "incentives": "",
+        "arbReceived": 22500,
+        "arbUtilized": 22500,
+        "disclosures": "we increased the incentives for lps in order to reduce their risk during this highly volatile time",
+        "arbRemaining": 57616,
+        "contractsIncentivized": [
+          {
+            "contractId": "bba37a2b-7763-43cd-96a3-be68c040a3b0",
+            "contractLabel": "WeeklyRebates",
+            "contractAddress": "0x2e46f5df98e4122f261a8f7bdc4c63ea38996f89"
+          },
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "we increased the incentives for lps in order to reduce their risk during this highly volatile time",
+        "expectations": "we also have the many raffles and competitions coming up, expecting to see good numbres and activity",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "bba37a2b-7763-43cd-96a3-be68c040a3b0",
+            "contractLabel": "WeeklyRebates",
+            "contractAddress": "0x2e46f5df98e4122f261a8f7bdc4c63ea38996f89"
+          },
+          {
+            "contractId": "bd5752f7-7d97-4507-94ac-fc33ebe599ea",
+            "contractLabel": "CVIIncentivesARBAirdrop",
+            "contractAddress": "0x71a159620593c8d1f6c2de4bb5c28fb8a82fb088"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 125000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "CVI.finance",
+  "grantSummary": "",
+  "fundingAddress": "0x7F4b135782C4A3B1c78c93f23f2016Cb5CD96cC8",
+  "editorAddresses": [],
+  "matchingGrantSize": 125000,
+  "metricsDashboardLink": "https://dune.com/dbustos20/cvi-ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x7F4b135782C4A3B1c78c93f23f2016Cb5CD96cC8"
+}

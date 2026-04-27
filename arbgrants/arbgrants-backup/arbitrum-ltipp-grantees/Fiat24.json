@@ -1,0 +1,334 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The airdrop plan and contract design have been successfully completed. This marks a crucial milestone in our project, ensuring a seamless and efficient token distribution process. With these foundational elements in place, we are poised to move forward confidently, engaging our community and achieving our campaign goals.",
+        "lessons": "We underestimated the effort required to design a mechanism preventing multiple claims from a single user. This oversight has highlighted the complexity of ensuring fairness and security in our airdrop campaign. Our team is now focused on addressing this challenge to maintain the integrity of the distribution process.",
+        "avgDailyTVL": 1200000,
+        "avgDailyTXNS": 268,
+        "avgDailyUniqueUsers": 279
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Our team is working diligently to integrate these wallets seamlessly, ensuring user-friendly experiences and secure transactions. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No contract detail can be disclosed in this stage",
+        "arbRemaining": 490000,
+        "contractsIncentivized": [
+          {
+            "contractId": "063018d4-8ca7-439e-b868-abae44d27fa9",
+            "contractLabel": "Treasury Wallet",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We are in the process of preparing the airdrop campaign, focusing on the coordination of crypto wallets, which serve as our front-end channels. This involves meticulous planning and organization to ensure a smooth and efficient distribution of tokens. By aligning our wallet infrastructure with our campaign objectives, we aim to maximize reach and engagement.",
+        "expectations": "The airdrop plan is defined, clearly planned.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "be4c2b19-8ce0-4978-bd33-6449dba8fa76",
+            "contractLabel": "Treasury Wallet",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We have created the Dune reporting query using a standardized format to collect claim events from various contracts deployed by wallets. This ensures comprehensive data aggregation and accurate reporting, facilitating effective monitoring and analysis of our airdrop campaign's performance across multiple platforms. The first contract has been successfully deployed.",
+        "lessons": "We still face challenges in designing an effective airdrop incentive logic. Addressing this issue is crucial to ensure participant engagement and the overall success of our distribution campaign.",
+        "avgDailyTVL": 970000,
+        "avgDailyTXNS": 352,
+        "avgDailyUniqueUsers": 297
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have successfully tested the first airdrop contract and its logic, ensuring its functionality and security. With this milestone achieved, we are now ready to launch the campaign, confident in our ability to execute a seamless and effective token distribution to our community.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "First airdrop contract is deployed\nhttps://arbiscan.io/address/0xe75ac371fc5922f03ba98136d96f9ae8fdff978f#code",
+        "arbRemaining": 490000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a3f2522c-4065-46ac-b4b8-8b19621a2da8",
+            "contractLabel": "Treasury Wallet",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We have created the Dune reporting query using a standardized format to collect claim events from various contracts deployed by wallets. This ensures comprehensive data aggregation and accurate reporting, facilitating effective monitoring and analysis of our airdrop campaign's performance across multiple platforms.",
+        "expectations": "At least first wallet channel is deployed.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "18a70507-463f-4bb2-8cc6-e4c94dc0aabd",
+            "contractLabel": "Treasury Wallet",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Slight changes from last period",
+        "lessons": "No special for this period",
+        "avgDailyTVL": 3250000,
+        "avgDailyTXNS": 62500,
+        "avgDailyUniqueUsers": 275
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We now face an unexpected problem: the ARB price has dropped significantly. Our original airdrop plan of 20 ARB per new user may need adjustment to maintain campaign effectiveness.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Halo Wallet's contract is ready.\nhttps://arbiscan.io/address/0xb469236faE250A69cc4B2de7Ed585656c17F7975#code",
+        "arbRemaining": 490000,
+        "contractsIncentivized": [
+          {
+            "contractId": "28d3be7e-b9c4-4f3e-9ec3-f83b2aebb517",
+            "contractLabel": "Treasury Wallet",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "The second and third contracts from two additional crypto wallets are now online and ready to send ARB. This ensures a broader reach and efficient distribution in our campaign.",
+        "expectations": "At least 10% ARB should be given in this period.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "7b6fc9f6-2989-4d5a-b850-035c647f4098",
+            "contractLabel": "Treasury Wallet",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No big change from this period.",
+        "lessons": "Crypto community now has a higher airdrop expectation for altcoin projects. ",
+        "avgDailyTVL": 2860000,
+        "avgDailyTXNS": 52000,
+        "avgDailyUniqueUsers": 260
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The new airdrop mechanism will be applied together with the TokenPocket project.",
+        "incentives": "",
+        "arbReceived": 81666,
+        "arbUtilized": 0,
+        "disclosures": "We may have to change the airdrop strategy, our community's feedback is quite passive.",
+        "arbRemaining": 478000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We are preparing the integration with one of the major wallet TokenPocket. We may airdrop when the project live on middle of August.",
+        "expectations": "We may have to change the airdrop strategy, our community's feedback is quite passive.",
+        "arbToBeDistributed": 12000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Still wait for the TokenPocket integration project and postpone the airdrop.",
+        "lessons": "Nothing to share.",
+        "avgDailyTVL": 2300000,
+        "avgDailyTXNS": 53000,
+        "avgDailyUniqueUsers": 175
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Still wait for the TokenPocket integration project and postpone the airdrop.",
+        "incentives": "",
+        "arbReceived": 81666,
+        "arbUtilized": 1920,
+        "disclosures": "Still wait for the TokenPocket integration project and postpone the airdrop.",
+        "arbRemaining": 326668,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "2 weeks before the TokenPocket project live, all of us are busy with this project.",
+        "expectations": "We expect the TokenPocket's 5m user will get more exposure for our airdrop.",
+        "arbToBeDistributed": 2500,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 81665,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 245003,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "TokenPocket cooperation is well planned, ready to launch.",
+        "expectations": "TokenPocket will bring us much more clients, especially in Asian focus.",
+        "arbToBeDistributed": 81665,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 490000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Fiat24",
+  "grantSummary": "Fiat24 is a Swiss regulated financial institution supervised by the Swiss bank regulator. We are likely the first bank that is operating in a truly Web3 way, with all client ledgers booked on public blockchain, and with an NFT used to represent client identification. Holding the Fiat24 NFT in any non-custodial crypto wallet (e.g.: MetaMask) enables clients to operate their account and access their e-banking portal directly from that wallet. In this way, we connect the crypto world to the real world payment network.",
+  "fundingAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9",
+  "editorAddresses": [],
+  "matchingGrantSize": 490000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x5245d4b5B5FA5cC8E11E30eE1f05c541b965f0c9"
+}

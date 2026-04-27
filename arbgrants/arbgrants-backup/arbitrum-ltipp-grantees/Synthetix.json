@@ -1,0 +1,458 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Rewards & Release of LP app did not take place until the 17/18th of June.",
+        "lessons": "Rewards & Release of LP app did not take place until the 17/18th of June.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributions not planned to begin until June 18th - Learn more https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Distributions not planned to begin until June 18th - Learn more https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "arbRemaining": 2000000,
+        "contractsIncentivized": [
+          {
+            "contractId": "486e9191-b4b8-43ea-b2bf-37675e4c2d36",
+            "contractLabel": "N/A",
+            "contractAddress": "0xffffffaEff0B96Ea8e4f94b2253f31abdD875847"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "Distribution not planned to begin until June 18th, information published here regarding proposed (and in action) distribution plan - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "expectations": "Distribution not planned to begin until June 18th, information published here regarding proposed (and in action) distribution plan - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "410961e4-f4f0-47c8-a0a1-956575b65364",
+            "contractLabel": "N/A",
+            "contractAddress": "0xffffffaEff0B96Ea8e4f94b2253f31abdD875847"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Incentive program has begun, as per https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/ - Prior to this, no incentives had been distributed. When it comes to reviewing TVL/transactions/users, these look a bit low atm due to the initial start.",
+        "lessons": "Users have reacted positively to our launch, with large amounts of TVL coming in, USDx being minted, and users interested in the launch of Perps on Arbitrum.",
+        "avgDailyTVL": 8258886,
+        "avgDailyTXNS": 176,
+        "avgDailyUniqueUsers": 75
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives have focused on depositors & stablecoin liquidity (via Ramses LP incentives) to support the launch of Synthetix Perps on Arbitrum.",
+        "incentives": "",
+        "arbReceived": 333334,
+        "arbUtilized": 115000,
+        "disclosures": "Distribution plan is being followed from this official blog post - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "arbRemaining": 1666666,
+        "contractsIncentivized": [
+          {
+            "contractId": "b0790bba-f7b0-4a5d-9440-bd4cc4840571",
+            "contractLabel": "Synthetix V3 LP",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "We've implemented Week 1 & Week 2 of the distributions to target depositors into the Synthetix V3 system & USDx stablecoin liquidity.",
+        "expectations": "We anticipate the growth of depositors into the system, stablecoin minting, and initial seeding of DEX pools to support USDx liquidity.\n\nOur overall goal is to support 10-20m in liquidity which will then be used to bootstrap Synthetix Perps.",
+        "arbToBeDistributed": 115000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Changes noted in here - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "lessons": "Synthetix is seeing growth in non-USDC assets, and will begin to focus more on growth of yield-generating assets.",
+        "avgDailyTVL": 23778891,
+        "avgDailyTXNS": 162,
+        "avgDailyUniqueUsers": 76
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "See here - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "incentives": "",
+        "arbReceived": 240000,
+        "arbUtilized": 215000,
+        "disclosures": "See here - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "arbRemaining": 1211666,
+        "contractsIncentivized": [
+          {
+            "contractId": "942f95f7-5c3b-4c54-821a-017533420b9a",
+            "contractLabel": "Synthetix V3 LP",
+            "contractAddress": "0xffffffaEff0B96Ea8e4f94b2253f31abdD875847"
+          },
+          {
+            "contractId": "6c11fd21-7f13-4fb8-b00f-c015e2c5c692",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "bcc5f95e-e7c6-44b8-a2f3-462ae547f0f9",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "During this time, Synthetix will increase incentives to LPs depositing USDe, ARB, USDC, and ETH, and will also increase stablecoin incentives, as per https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "expectations": "Due to larger ARB incentives, we anticipate a larger amount of capital flowing in through USDe (which has only just launched, and will be shown on the Ethena page soon), ARB, USDC, and ETH.",
+        "arbToBeDistributed": 240000,
+        "contractsIncentivized": [
+          {
+            "contractId": "942f95f7-5c3b-4c54-821a-017533420b9a",
+            "contractLabel": "Synthetix V3 LP",
+            "contractAddress": "0xffffffaEff0B96Ea8e4f94b2253f31abdD875847"
+          },
+          {
+            "contractId": "6c11fd21-7f13-4fb8-b00f-c015e2c5c692",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "bcc5f95e-e7c6-44b8-a2f3-462ae547f0f9",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes made, introduction of additional rewards for USDe/USD pool",
+        "lessons": "No changes made, introduction of additional rewards for USDe/USD pool",
+        "avgDailyTVL": 29660866,
+        "avgDailyTXNS": 68,
+        "avgDailyUniqueUsers": 120
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "See here - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "incentives": "",
+        "arbReceived": 215000,
+        "arbUtilized": 0,
+        "disclosures": "See here - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "arbRemaining": 1211666,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "No changes from prior week, follows the original distribution info from our blog post.\n",
+        "expectations": "We've begun increasing marketing/comms efforts into Ethena USDe, and expect to also add additional, non incentivized collateral types to test user behavior during this time.",
+        "arbToBeDistributed": 215000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes made, the introduction of additional rewards for USDe/USD pool",
+        "lessons": "No changes made, the introduction of additional rewards for USDe/USD pool",
+        "avgDailyTVL": 28089294,
+        "avgDailyTXNS": 75,
+        "avgDailyUniqueUsers": 146
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "See here + distribution info https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 215000,
+        "disclosures": "Still following this original distribution - https://blog.synthetix.io/synthetix-ltip-2-000-00-arb-distribution-plan/ - though one update is required, as Synthetix does not expect to launch Perps during the distribution period. Currently working with governance LTIP Council + Matt from StableLabs on a plan to move forward.",
+        "arbRemaining": 996666,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "Synthetix has altered its distribution of USDx rewards, instead focusing on a strategy of moving rewards to a pool with USDe/USDx (from ethena) to distribute rewards + sats to those who provide liquidity on Curve (non-incentivezed) and Ramses (incentivized",
+        "expectations": "We're expecting to see users move to the USDx pool on Curve/Ramses with USDe to earn both sats and ARB rewards.",
+        "arbToBeDistributed": 215000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 29880000,
+        "avgDailyTXNS": 130,
+        "avgDailyUniqueUsers": 62
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Haven't begun trading fee rebates, seeking out extension for this",
+        "incentives": "",
+        "arbReceived": 245000,
+        "arbUtilized": 215000,
+        "disclosures": "Haven't begun trading fee rebates, seeking out extension for this",
+        "arbRemaining": 966666,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "We haven't begun distribution of trading fee rewards, as we're in the midst of asking for an extension of this portion of our grant -https://forum.arbitrum.foundation/t/synthetix-ltipp-application-final/22023/20?u=mattl",
+        "expectations": "Focus on driving more yield-generating collateral through USDe + Curve pool setup for USDe/USDx to drive liquidity to prepare for Perps launch",
+        "arbToBeDistributed": 245000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Rewards have stopped at this point, and LP is beginning to leave for USDC, though others (USDe) have stayed relatively stable",
+        "lessons": "Rewards have stopped at this point, and LP is beginning to leave for USDC, though others (USDe) have stayed relatively stable",
+        "avgDailyTVL": 20000000,
+        "avgDailyTXNS": 138,
+        "avgDailyUniqueUsers": 75
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/A - Distribution plan followed the original guidance, as said before minus the usage of trading fee rebates, as these have been delayed.",
+        "incentives": "",
+        "arbReceived": 245000,
+        "arbUtilized": 245000,
+        "disclosures": "N/A - Distribution plan followed the original guidance, as said before minus the usage of trading fee rebates, as these have been delayed.",
+        "arbRemaining": 721666,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "No changes, followed original grant schedule minus usage of fee rebates, as we sought an extension for this and were denied.",
+        "expectations": "No changes, followed original grant schedule minus usage of fee rebates, as we sought an extension for this and were denied.",
+        "arbToBeDistributed": 245000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e97f4f4-0129-4299-a095-2369d2232c51",
+            "contractLabel": "V3 Spartan Council Vault",
+            "contractAddress": "0x32C222A9A159782aFD7529c87FA34b96CA72C696"
+          },
+          {
+            "contractId": "9a17a8a4-9300-41c3-bfba-294f16ace9c6",
+            "contractLabel": "Ramses USDx AMM Pool",
+            "contractAddress": "0x340f0c6e09bb2c13df14bb4b334cc8dba0bb4881"
+          },
+          {
+            "contractId": "b2925625-d777-4617-b874-a2a8c5ea318a",
+            "contractLabel": "Ramses USDx CL Pool",
+            "contractAddress": "0x61cb5861cd53c3cf167ef9feaff219a36a13902a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 2000000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Synthetix",
+  "grantSummary": "https://forum.arbitrum.foundation/t/synthetix-ltipp-application-final/22023/14?u=mattl",
+  "fundingAddress": "0x7487A30c58e9cE7C2FF5AAEbE8C1624894EB121a",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://synthetix.streamlit.app/Arbitrum",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x7487A30c58e9cE7C2FF5AAEbE8C1624894EB121a"
+}

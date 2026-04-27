@@ -1,0 +1,348 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Partnered with KOL and media to promote the campaign",
+        "lessons": "Make onboarding process smoothly for user easily to join",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 248,
+        "avgDailyUniqueUsers": 95
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "This strategic approach aims to engage participants effectively and drive awareness of the SafePal Banking Gateway built on Arbitrum, ensuring that the benefits of the campaign are communicated clearly to our audience.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "The first week of the campaign marks the launch of our incentive initiative, which we have commenced promoting within our community. ",
+        "arbRemaining": 140000,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "The campaign period starts on June 6. ",
+        "expectations": "We're hoping to see an increase in interaction with the SafePal banking gateway after launching the incentive campaign.",
+        "arbToBeDistributed": 23334,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Enhancing user education regarding the onboarding process of banking gateways, particularly the Know Your Customer (KYC) procedures, is crucial for improving the success rate of such verifications. By integrating this education with the Apple Pay process, financial institutions can facilitate a smoother user experience, thereby encouraging regular usage of their cards. ",
+        "lessons": "Long-term and in-depth user education is crucial. Simultaneously, the banking gateway needs to enhance users' understanding of product scenarios. This awareness will facilitate the development of better card usage habits, ultimately increasing the volume and transactions on the Arbitrum.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 516,
+        "avgDailyUniqueUsers": 198
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "After one month of promotion and publicity, SafePal community have developed a clear understanding of the Banking Gateway and is excited about this gateway from Web3 to daily life.  During this period, nearly 1,000 KYC users were onboarded and contributed around 7000 transactions.",
+        "incentives": "",
+        "arbReceived": 23334,
+        "arbUtilized": 3380,
+        "disclosures": "N/A",
+        "arbRemaining": 116666,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Use communication channels is to enhance user education regarding the SafePal banking gateway, thereby lowering the onboarding threshold for new users. ",
+        "expectations": "By providing clear and comprehensive information and onboarding process, we aim to facilitate a smoother integration process and foster a greater understanding of the gateway's functionalities and more new users.",
+        "arbToBeDistributed": 1190,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We sent targeted reminders to users who've minted NFTs but haven't yet made deposits or transactions, encouraging more on-chain activity.",
+        "lessons": "After users mint NFTs and own banking gateway in SafePal wallet, promptly encouraging them to use these cards can boost engagement and generate more on-chain transactions.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 600,
+        "avgDailyUniqueUsers": 342
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We now face an unexpected challenge: the ARB price has dropped significantly. Our original airdrop plan of approximately 20 ARB per new user and transaction may need adjustment to maintain the campaign's effectiveness.",
+        "incentives": "",
+        "arbReceived": 23334,
+        "arbUtilized": 865,
+        "disclosures": "We've continually improved the campaign's user interface, streamlining the banking gateway KYC process for a smoother experience. Additionally, we have sent targeted reminders to users who've minted NFTs but haven't yet made deposits or transactions, encouraging more on-chain activity.",
+        "arbRemaining": 93332,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We aim to expand our channels with  KOL collaboration, especially in the SafePal banking gateway EU-supported regions. We plan to partner with KOLs for live sessions on the Banking gateway in English, Spanish, and French.\n",
+        "expectations": "We anticipate that these initiatives will attract new users.",
+        "arbToBeDistributed": 23334,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "During this period, we conducted multiple promotional campaigns in Spanish, English, French, and Portuguese communities, which yielded some positive results. Clicks on the campaign page have increased, yet the participation conversion rate is declining. ",
+        "lessons": "We need to adjust the current reward strategy",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 571,
+        "avgDailyUniqueUsers": 282
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Clicks on the campaign page have increased, yet the participation conversion rate is declining. The ARB price has significantly dropped since the campaign's launch, impacting its effectiveness. We plan to adjust the rewards to attract more users, promote the daily usage of bank gateway, and boost on-chain interactions.",
+        "incentives": "",
+        "arbReceived": 23334,
+        "arbUtilized": 445,
+        "disclosures": "We conducted multiple promotional campaigns in Spanish, English, French, and Portuguese communities, which yielded some positive results.",
+        "arbRemaining": 69998,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Considering the banking gateway currently serves only 30 countries in the European Economic Area (EEA), we will translate the campaign into Spanish and French to promote it within the community. We'll also create an infographic to illustrate the account creation process in a clear and concise manner.",
+        "expectations": "We look forward to more new users minting NFTs and creating banking gateway accounts.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We have adjusted the campaign rewards as follows:\n\n1. Minting an NFT, registering, and activating SafePal banking gateway: Increased to 20 ARB per person\n2. Topping up at least 10 USDC: Increased to 10 ARB per person\n3. Making at least 2 purchases: Increased to 10 ARB per person\n\nFurthermore, we've modified the reward distribution timeline. Rewards will be distributed after the campaign concludes and only to eligible users who pass our anti-Sybil mechanism screening.",
+        "lessons": "The adjustment to incentives has garnered a positive response from the community, resulting in a significant increase in daily average transactions\u2014nearly doubling the previous two weeks.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 436,
+        "avgDailyUniqueUsers": 237
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "By increasing the reward amounts to match the originally planned USD value, we have boosted campaign participation.\nWe've delayed the distribution of rewards for user top-ups and purchases, while also implementing more robust anti-Sybil mechanisms.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 465,
+        "disclosures": "We have adjusted the campaign rewards as follows:\n\n1. Minting an NFT, registering, and activating SafePal banking gateway: Increased to 20 ARB per person\n2. Topping up at least 10 USDC: Increased to 10 ARB per person\n3. Making at least 2 purchases: Increased to 10 ARB per person\n\nFurthermore, we've modified the reward distribution timeline. Rewards will be distributed after the campaign concludes and only to eligible users who pass our anti-Sybil mechanism screening.",
+        "arbRemaining": 69998,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "We have adjusted the campaign rewards as follows:\n1. Minting an NFT, registering, and activating SafePal banking gateway: Increased to 20 ARB per person\n2. Topping up at least 10 USDC: Increased to 10 ARB per person\n3. Making at least 2 purchases: Increased to 10 ARB per person\n\nFurthermore, we've modified the reward distribution timeline. Rewards will be distributed after the campaign concludes and only to eligible users who pass our anti-Sybil mechanism screening.",
+        "expectations": "Following the ARB price drop, we anticipate that our adjusted reward amounts will boost user participation and motivate more users who have already minted NFTs to engage actively and bring more DAU and transactions.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes have been made, this cycle has remained the same process as previous ones.",
+        "lessons": "As the campaign draws to a close, the countdown FOMO is boosting user engagement.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 486,
+        "avgDailyUniqueUsers": 221
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The revised incentives received positive community feedback, boosting daily average transactions. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 620,
+        "disclosures": "No disclosures",
+        "arbRemaining": 69998,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes have been made. This cycle has remained the same process as previous ones.",
+        "expectations": "Outcome will likely be similar to the previous cycle",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe328f72-04bb-4b8e-8f29-ffbe1bd73e3a",
+            "contractLabel": "Airdrop wallet",
+            "contractAddress": "0x68e5F75567591505B72F2A02011fBedb844eAF76"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Product update: Users can now purchase USDC on Arbitrum within SafePal using their bank gateway.",
+        "lessons": "SafePal now offers enhanced support for managing the Banking gateway, providing a smoother on/off ramp experience. We're encouraging users to integrate the SafePal banking gateway into their daily expenses. This means every purchase\u2014from a cup of coffee to public transport\u2014can generate an on-chain transaction on Arbitrum.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 538,
+        "avgDailyUniqueUsers": 265
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Finish distribution of incentives to eligible users who meet the requirements. Return the remaining ARB to Arbitrum.",
+        "incentives": "",
+        "arbReceived": 69998,
+        "arbUtilized": 130975,
+        "disclosures": "Distribute rewards to eligible users who meet the requirements.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x14F28D0F1408dE84F8A196aE47086C6002f317DF"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "The campaign ends this week. We have claimed the remaining grant from the foundation and will distribute it to eligible users who participated in the campaign.",
+        "expectations": "We expect to distribute ARB to eligible users who top up and/or make purchases using the banking gateway.",
+        "arbToBeDistributed": 69998,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x14F28D0F1408dE84F8A196aE47086C6002f317DF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 140000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "SafePal",
+  "grantSummary": "",
+  "fundingAddress": "0x14F28D0F1408dE84F8A196aE47086C6002f317DF",
+  "editorAddresses": [],
+  "matchingGrantSize": 140000,
+  "metricsDashboardLink": "https://dune.com/ssswallet/safepal-fiat24",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x14F28D0F1408dE84F8A196aE47086C6002f317DF"
+}

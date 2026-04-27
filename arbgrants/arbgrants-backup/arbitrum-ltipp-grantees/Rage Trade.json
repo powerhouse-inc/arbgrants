@@ -1,0 +1,350 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We reduced the amount of rewards allocated to daily competition participants. ",
+        "lessons": "Over the past two weeks, we have seen that ROI based competitions can be skewed depending on the average collateral used by participants. \nTo solve for this, we are launching tiered competitions. In these, there'd be different collateral tiers for traders of different sizes. This way the competition is normalized, letting similar size traders compete with each other in a league. \nSmall traders also won't be disincentivised to participate, because they can compete in silver or bronze league. \nLarge traders can compete for bigger prizes in diamond and gold leagues, with similar sized traders",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 46,
+        "avgDailyUniqueUsers": 22
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We had 4 daily competitions (2000 $ARB), a weekly competition (8,700 $ARB), 1 lottery ticket (1,000 $ARB).",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 11700,
+        "disclosures": "We reduced the amount rewarded to daily participants as daily ROI competitions are easier to game.",
+        "arbRemaining": 214420,
+        "contractsIncentivized": [
+          {
+            "contractId": "84c1e132-aa3b-4200-ba2c-9bf1473f8893",
+            "contractLabel": "Multisig Contract ",
+            "contractAddress": "0xee2a909e3382cdf45a0d391202aff3fb11956ad1"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We maintained our old incentive structure for daily and weekly competitions. \nWe rewarded 8700 $ARB to top 25 weekly winners, 2000 $ARB to 4 daily and 1000 $ARB to lottery.",
+        "expectations": "We expect to see a significant uptick in GMX v2 volume.",
+        "arbToBeDistributed": 35416,
+        "contractsIncentivized": [
+          {
+            "contractId": "6b2c518a-0ae4-42e6-a919-9efd39ba44d3",
+            "contractLabel": "Multisig Contract ",
+            "contractAddress": "0xee2a909e3382cdf45a0d391202aff3fb11956ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We canceled our daily competitions and launched collateral tiers to ensure equitable participation",
+        "lessons": "Daily competitions are easy to game due to time constraints on all traders. ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 44,
+        "avgDailyUniqueUsers": 20
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We canceled our daily competitions and focused on making on weekly competitions since weekly competitions are harder to game. \nAlso, we launched a tiered weekly competition system. \n\nNow: \n\nTop 10 winners from each tier will share the prize pool. \n1. Diamond: \nMin collateral: $20k\nPrize Pool: 20k ARB\n\n2. Gold: \nMin collateral: $10k\nPrize Pool: 10k ARB\n\n3. Silver: \nMin collateral: $1k\nPrize Pool: 3k ARB\n\n4. Bronze: \nMin collateral: $100\nPrize Pool: 500 ARB",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 25400,
+        "disclosures": "We canceled our daily competitions.",
+        "arbRemaining": 179004,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We are modifying competitions to have tiers based on collateral used during the competition. ",
+        "expectations": "We expect this to improve participation since traders now compete only against similar sized traders.",
+        "arbToBeDistributed": 35416,
+        "contractsIncentivized": [
+          {
+            "contractId": "80d639cd-1c4e-400b-b161-83f646884da3",
+            "contractLabel": "Multisig Contract",
+            "contractAddress": "0xee2a909e3382cdf45a0d391202aff3fb11956ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "We noticed some traders opening delta neutral positions to game the competitions and have begun disqualifying these traders",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 104,
+        "avgDailyUniqueUsers": 35
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We maintained our competition collateral tiers and have been seeing decent volume with our arbitrum markets generating up to $8m on 5th July 2024. ",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 33000,
+        "disclosures": "None",
+        "arbRemaining": 143588,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes were made in this period",
+        "expectations": "We expected sustained volume owing to our competition",
+        "arbToBeDistributed": 35416,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No Change was made",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 88,
+        "avgDailyUniqueUsers": 32
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We continued running weekly collateral-tiered competitions, while disqualifying traders who won by performing delta-neutral trades",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 25400,
+        "disclosures": "No new disclosures",
+        "arbRemaining": 108172,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No change was made in this period ",
+        "expectations": "N/A",
+        "arbToBeDistributed": 35416,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "We maintained our competition structure and continued rewarding across different collateral tiers. ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 92,
+        "avgDailyUniqueUsers": 31
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We maintained the competition structure, rewarding the top 10 traders across 4 collateral reward tiers. ",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 35250,
+        "disclosures": "No new disclosures ",
+        "arbRemaining": 70840,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "N/A",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We raised the reward pool to participants in our competition.",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 92,
+        "avgDailyUniqueUsers": 36
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We increased the reward pool for our competition. ",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 60925,
+        "disclosures": "We raised the amount shared to the top 10 traders in each collateral tier. \nThe top  10 traders by ROI will share the prize pool in each tier. \u200b\n\u2022 Diamond: 60k ARB prize\n\u2022 Gold: 30k ARB prize\n\u2022 Silver: 9k ARB prize\n\u2022 Bronze: 1.5k ARB prize",
+        "arbRemaining": -70824,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We increased the reward amount for each collateral tier. \n",
+        "expectations": "N/A",
+        "arbToBeDistributed": 70832,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 50,
+        "avgDailyUniqueUsers": 14
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "None",
+        "incentives": "",
+        "arbReceived": 70832,
+        "arbUtilized": 204700,
+        "disclosures": "None",
+        "arbRemaining": -70824,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We distributed an increased prize pool + a lottery to one trader who generated a lot of volume but didn't end the week with a positive ROI.",
+        "expectations": "N/A",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "We increased the amount of rewards we're sending out 100,500 ARB ",
+        "expectations": "NIL",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 425000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Rage Trade ",
+  "grantSummary": "Rage Trade submitted a proposal to run weekly and daily ROI based trading competitions in the LTIPP initial review round. \nThe proposal aimed to allocate 100% of the LTIPP grant to onboard and reward users via these competitions.",
+  "fundingAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1",
+  "editorAddresses": [],
+  "matchingGrantSize": 425000,
+  "metricsDashboardLink": "https://dune.com/rage-trade/rage-trade-v2-perp-aggregator, https://www.app.rage.trade/stats",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xee2A909e3382cdF45a0d391202Aff3fb11956Ad1"
+}

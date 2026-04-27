@@ -1,0 +1,223 @@
+scalar Unknown
+scalar DateTime
+scalar Attachment
+scalar Address
+scalar Amount_Tokens
+scalar EthereumAddress
+scalar EmailAddress
+scalar Amount_Percentage
+scalar Date
+scalar URL
+scalar Amount_Money
+scalar OLabel
+scalar Currency
+scalar PHID
+scalar OID
+scalar Amount_Fiat
+scalar Amount_Currency
+scalar Amount_Crypto
+scalar Amount
+scalar Upload
+
+scalar DateTime
+
+type ArbitrumLtipGranteeState {
+  id: ID!
+  granteeName: String
+  authorizedSignerAddress: String
+  editorAddresses: [String]
+  grantSize: Float
+  matchingGrantSize: Float
+  grantSummary: String
+  fundingAddress: String
+  fundingType: [FundingType]
+  disbursementContractAddress: String
+  metricsDashboardLink: String
+  phases: [Phase]
+  meta: [Meta]
+}
+
+enum FundingType {
+  EOA
+  Multisig
+  TwoofThreeMultisig
+  ThreeofFiveMultisig
+}
+
+type Phase {
+  startDate: DateTime!
+  endDate: DateTime!
+  actuals: GranteeActuals
+  planned: GranteePlanned
+  stats: GranteeStats
+  status: Status
+}
+
+enum Status {
+  Uninitialized
+  NotStarted
+  InProgress
+  Finalized
+}
+
+type GranteeActuals {
+  arbReceived: Float
+  arbUtilized: Float
+  arbRemaining: Float
+  contractsIncentivized: [Contract]
+  incentives: String
+  summary: String
+  disclosures: String
+}
+
+type GranteePlanned {
+  arbToBeDistributed: Float
+  contractsIncentivized: [Contract]
+  distributionMechanism: [DistributionMechanism]
+  changes: String
+  expectations: String
+}
+
+type GranteeStats {
+  avgDailyTVL: Float
+  avgDailyTXNS: Float
+  avgDailyUniqueUsers: Float
+  kpis: [NamedKpi]
+  changes: String
+  lessons: String
+}
+
+type NamedKpi {
+  name: String
+  value: Float
+}
+
+type Contract {
+  contractId: ID!
+  contractLabel: String
+  contractAddress: String
+}
+
+enum DistributionMechanism {
+  LPIncentives
+  Airdrop
+}
+
+type Meta {
+  protocolVersion: String!
+  isAdmin: Boolean
+  value: String
+}
+
+
+
+# General
+
+input InitGranteeInput {
+    granteeName: String!
+	authorizedSignerAddress: String!
+	grantSize: Float!
+	matchingGrantSize: Float!
+	grantSummary: String
+	fundingAddress: String!
+	fundingType: [FundingTypeInput!]!
+	disbursementContractAddress: String!
+	metricsDashboardLink: String
+	startDate: DateTime!
+	phaseDuration: Int 
+	numberOfPhases: Int
+}enum FundingTypeInput {
+	EOA
+	Multisig
+	TwoofThreeMultisig
+	ThreeofFiveMultisig
+}
+
+input EditGranteeInput {
+    granteeName: String
+	authorizedSignerAddress: String
+	grantSize: Float
+	matchingGrantSize: Float
+	grantSummary: String
+	fundingAddress: String
+	fundingType: [FundingTypeInput!]
+	disbursementContractAddress: String
+	metricsDashboardLink: String
+}
+
+# Metrics
+
+input EditPhaseInput {
+    phaseIndex: Int!
+	actuals: GranteeActualsInput
+	planned: GranteePlannedInput
+	stats: GranteeStatsInput
+	status: Status
+}
+
+input GranteeActualsInput {
+	arbReceived: Float
+	arbUtilized: Float
+	arbRemaining: Float
+	contractsIncentivized: [ContractInput]
+	incentives: String
+	summary: String
+	disclosures: String
+}
+
+input GranteePlannedInput {
+	arbToBeDistributed: Float
+	contractsIncentivized: [ContractInput]
+	distributionMechanism: [DistributionMechanism]
+	changes: String
+	expectations: String
+}
+
+input GranteeStatsInput {
+	avgDailyTVL: Float
+	avgDailyTXNS: Float
+	avgDailyUniqueUsers: Float
+	kpis: [NamedKpiInput]
+	changes: String
+	lessons: String
+}
+
+input NamedKpiInput {
+	name: String
+	value: Float
+}
+
+input ContractInput {
+	contractId: ID!
+	contractLabel: String
+	contractAddress: String
+}
+
+# Admin
+
+input AddEditorInput {
+    editorAddress: String!
+}
+
+input RemoveEditorInput {
+    editorAddress: String!
+}
+
+# Meta
+
+input AddMetaInput {
+    protocolVersion: String!
+    isAdmin: Boolean
+    value: String
+}
+
+input UpdateMetaInput {
+    index: Float
+    protocolVersion: String!
+    isAdmin: Boolean
+    value: String
+}
+
+input DeleteMetaInput {
+    index: Float
+}

@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "please note that users numbers here are smart contracts that trigger oracle price updates\nthere could be 100x more users behind each address",
+        "lessons": "Still far away from the objective stated in the initial LTIPP request -- need for us to do better in activity",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 3600,
+        "avgDailyUniqueUsers": 38
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "From July on, all statements shall be done in due time",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 3928,
+        "disclosures": "Had delays in settling this 1st bi weekly reimbursements - trying to settle how exactly how to determine ETH <> ARB denomination for the cost incurred",
+        "arbRemaining": 666666,
+        "contractsIncentivized": [
+          {
+            "contractId": "ee28de02-e63a-4041-8cd8-27cd195e5efe",
+            "contractLabel": "Pyth Receiver Contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes vs grant request\n\nAll gas costs incurred to update price within the Pyth oracle SC and then using it will be reimbursed to dApps",
+        "expectations": "Doing backward looking but apps were scaling up this week",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "04b56e31-f3c1-482a-97a2-4ac29d6234b6",
+            "contractLabel": "Pyth Receiver Contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes applied overall -- just further push for existing dapps to better integrate Pyth & new ones to onboard ",
+        "lessons": "Preparing for SNX deployment on Arbitrum over July",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 6300,
+        "avgDailyUniqueUsers": 44
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "increased usage of the oracle - about 3-4x in terms of price updates triggered - hence the increased ARB disbursements on this bi weekly occurence\n\nCouple new protocols are launching on Arbitrum so expecting number to further increase in the next couple of weeks",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 12901,
+        "disclosures": "Nothing new compared to the 1st biweekly payout",
+        "arbRemaining": 1000000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a0737b42-756e-4cdb-a103-33ace5eddf08",
+            "contractLabel": "Pyth Receiver Contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Nothing changed from previous 2 weeks\nStill paying in ARB the ETH usd gas cost incurred by the apps powered by Pyth when doing price updates",
+        "expectations": "Slow increase in usage of the oracle, so higher fees incurred and so payback",
+        "arbToBeDistributed": 12901,
+        "contractsIncentivized": [
+          {
+            "contractId": "93c96e6b-4473-422c-ac5b-93ca61289b45",
+            "contractLabel": "Pyth Receiver Contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "further work with powered by pyth apps to expand product offering, and optimize offerings to users (trade size, fees)\nnew apps launching",
+        "lessons": "reaching expected usage already and will continue to strive for more",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 6810,
+        "avgDailyUniqueUsers": 44
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "great growth https://dune.com/queries/3869450/6510227 ",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 9354,
+        "disclosures": "NA",
+        "arbRemaining": 499999,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b1a4382-b7bf-41e9-90a5-783b923a7846",
+            "contractLabel": "Pyth Receiver Contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes in the delivery / reasons of the arbitrum grant usage - keep reimbursing costs incurred by those who update the pyth prices\n\nfurther bd work for more integration and existing apps increasing their product offering",
+        "expectations": "finally reaching the levels of usage outlined in the initial ltipp request",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b1a4382-b7bf-41e9-90a5-783b923a7846",
+            "contractLabel": "Pyth Receiver Contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes apart from more BD work on our end to find new users and further better existing ones",
+        "lessons": "existing ones have overall reached a plateau which will be passed coming from more onchain activity\nso now focusing more on the newer dapps",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 8400,
+        "avgDailyUniqueUsers": 41
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Pyth usage (and so amount paid back) keeps growing which is great",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 8800,
+        "disclosures": "As always i keep further information about these past 2 weeks here: https://drive.google.com/drive/folders/1ef2VI76252p8lTBqMGVZAXNeJxionvfL?usp=drive_link",
+        "arbRemaining": 333332,
+        "contractsIncentivized": [
+          {
+            "contractId": "76182fb7-5204-4720-a45b-8a854a82f668",
+            "contractLabel": "Pyth contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "no change from previous week in how ARB grants is used or distributed ",
+        "expectations": "pay back to dapps using pyth should continually to grow as more as launching wiht pyth or existing users gain further traction",
+        "arbToBeDistributed": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "76182fb7-5204-4720-a45b-8a854a82f668",
+            "contractLabel": "Pyth contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "consumption overall stable but costs have increased",
+        "lessons": "spending / gas usage is still not very predictable",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 7500,
+        "avgDailyUniqueUsers": 46
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "This week with increased volatility in the markets apps had to do more updates - and gas costs increased ; meaning this is by far the biggest growth bi weekly -- about 3x",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 31271,
+        "disclosures": "NA",
+        "arbRemaining": 166665,
+        "contractsIncentivized": [
+          {
+            "contractId": "ee5eb5c5-111c-4226-bfad-2eaae445ecb3",
+            "contractLabel": "Pyth contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes for this 5th iteration",
+        "expectations": "this 6th period should similar to the 5th in terms of activity or higher",
+        "arbToBeDistributed": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "ee5eb5c5-111c-4226-bfad-2eaae445ecb3",
+            "contractLabel": "Pyth contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "in line with the average weeks",
+        "lessons": "onchain activity is still very volatility/price dependant",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 7717,
+        "avgDailyUniqueUsers": 45
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "overall similar than previous weeks ",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 8741,
+        "disclosures": "none",
+        "arbRemaining": -2,
+        "contractsIncentivized": [
+          {
+            "contractId": "f6162c6e-5ab0-489b-91a5-dc209733eba3",
+            "contractLabel": "Pyth oracle contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "none compared to all previous payback of gas fees",
+        "expectations": "this is theoretically the last occurrence of the LTIPP program\nhowever the pyth network will be asking for an extension of this program on the Arbitrum forum this week\n",
+        "arbToBeDistributed": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "f6162c6e-5ab0-489b-91a5-dc209733eba3",
+            "contractLabel": "Pyth oracle contract",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "overall stable",
+        "lessons": "with a quiet market, apps had less need or reasons to do more price updates (less volatility) and actyually it is good that most didnt over spend for the sake of updating prices",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 7717,
+        "avgDailyUniqueUsers": 46
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "expenses have flatlined within a quieter market",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 8742,
+        "disclosures": "none",
+        "arbRemaining": -166669,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "not since beginning",
+        "expectations": "updates to slightly plateau from recent growth",
+        "arbToBeDistributed": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "1de54209-a74a-4165-a174-1b12f1a4ac42",
+            "contractLabel": "Pyth Oracle",
+            "contractAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 1000000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Pyth Network",
+  "grantSummary": "",
+  "fundingAddress": "0xff1a0f4744e8582DF1aE09D5611b887B6a12925C",
+  "editorAddresses": [],
+  "matchingGrantSize": 1000000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x4133F561B747F6cd2ECd4f03515A632F5e4D8C8D"
+}

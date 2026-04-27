@@ -1,0 +1,565 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We saw a huge increase in TVL for our Arbitrum strategies, going from appox. $1.2M before the incentives started to over $6M by the end of this 2 week period. The amount of YAK token bridged to Arbitrum also went up from under 500 (5% of total supply) to over 1300 (13% of total supply), which confirms our thoughts that a large amount of the extra TVL has been bridged from Avalanche.",
+        "lessons": "These strategies are very popular and there is a lot of potential to attract significant TVL from other chains. In line with this, a number of new product features have been rolled out with Arbitrum in mind which improves visibility of cross-chain strategies.  Most notably a new \"explore\" tab on our strategy details pages which highlights other well-performing strategies on other chains with the same underlying deposit token. e.g. A Yield Yak Avalanche Stargate depositor will now see the equivalent Arbitrum farm higlighted to him while on Avalanche.",
+        "avgDailyTVL": 4346798,
+        "avgDailyTXNS": 255,
+        "avgDailyUniqueUsers": 303
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB rewards started streaming on 5th June 3:46PM UTC. $2.5M TVL milestone was hit on the first day that rewards were active and $5M TVL milestone was hit within the first week of rewards streaming.",
+        "incentives": "",
+        "arbReceived": 32500,
+        "arbUtilized": 17507,
+        "disclosures": "No disclosures to add",
+        "arbRemaining": 190000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ddfdf8be-681c-4d10-bead-f1d97381c435",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "1ac2291a-926b-4d40-9e95-126ab01a7ead",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "72402970-df4c-4fc4-a389-6620921bee04",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "b0ef022e-b08f-4cb1-97f9-3c0dc3dd5e40",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes compared to original proposal. ARB is distributed to DeFi strategies listed above using a Llamapay stream with the rate determined by TVL milestones. Yak Swap gas refunds will be distributed every 2 weeks - the start date was 5th June so first Airdrop will be after 19th June.",
+        "expectations": "Expectation is that we will quickly achieve TVL milestones so that the highest streaming rate is activated.",
+        "arbToBeDistributed": 32500,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We saw continued growth in the TVL of our strategies, but less so than in the first two weeks. The amount of YAK bridged over to Arbitrum also increased by 20%+ in the latest two weeks. The number of transactions has dropped a little but DAU remains at approximately the same level as for the first two weeks. We also recently added our new \"explore\" feature onto our Yak Swap Dex Aggregator page, to improve visibility of high-yielding strategies (such as those being incentivised by the LTIPP).",
+        "lessons": "Despite significantly higher real yield for the YAK token on Arbitrum, and a pretty easy process, the amount bridged over remains lower than expected. We are going to make some changes to make the process even easier and add the option to convert some of their bridged YAK to ETH during the process in order to pay for gas and make Arbitrum as a whole more attractive to Avalanche users. In addition, we are looking at new strategies to add based on LTIPP/STIP.",
+        "avgDailyTVL": 7081882,
+        "avgDailyTXNS": 134,
+        "avgDailyUniqueUsers": 306
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Top level of rewards has been maintained due to sticky TVL remaining above the $5M threshold. First round of Yak Swap refunds were issued during this period also.",
+        "incentives": "",
+        "arbReceived": 32500,
+        "arbUtilized": 28795,
+        "disclosures": "No disclosures to add",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "9c8413b8-6d2f-400e-9705-87998ac4ad87",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "67b8abea-478a-405f-bae5-c7e2828aff87",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "370925df-a31e-460d-98a7-3199e17491ab",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "c8f3c5ba-1ef2-46cc-94b6-c485b80c7da4",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We are currently reviewing DeFi strategies in the ecosystem and may adjust the recipient strategies, but no changes to fundamental plans.",
+        "expectations": "Expecting to maintain and hopefully grow Arbitrum TVL, and the first airdrop for Yak Swap gas refunds should also hopefully improve awareness of this part of the incentives and increase volume through our Yak Swap Dex Aggregator.",
+        "arbToBeDistributed": 32500,
+        "contractsIncentivized": [
+          {
+            "contractId": "d7271887-d0aa-4b7e-91fc-963d88fed2d1",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "78682785-d069-40ee-991d-ed83868581bb",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "d6de005a-9e2f-4929-9aa7-8a2e3b7d7eb6",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "c2bb84d2-76b2-4623-b9d5-0dbeb5123223",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The daily number of daily transactions has dropped off while DAU is greater than the previous 2 weeks. It seems like awareness of our Arbitrum strategies may have plateaued. The amount of YAK bridged to Arbitrum has continued to grow.",
+        "lessons": "A new push is required to further grow TVL on Arbitrum, most likely through some variation in the strategies for which LTIPP incentives are provided. These alternatives are being reviewed.",
+        "avgDailyTVL": 6507566,
+        "avgDailyTXNS": 94,
+        "avgDailyUniqueUsers": 317
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL has remained pretty sticky but dropped slightly, most likely due to Avalanche \"Boost\" which offers competitive returns and has resulted in high yields on Avalanche that compete with the Arbitrum strategies.",
+        "incentives": "",
+        "arbReceived": 32500,
+        "arbUtilized": 31027,
+        "disclosures": "The bridging enhancement was not completed as other initatives took priority. There was slightly more claimed than previously this week due to some build up from the previous week on the streaming contract. No other disclosures.",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We are currently reviewing DeFi strategies in the ecosystem and may adjust the recipient strategies, but no changes to fundamental plans. Also hoping to introduce an enhancement to our bridging process to make it more attractive to prospective Arbitrum users.",
+        "expectations": "Expecting to maintain and hopefully grow Arbitrum TVL, and to increase the amount being bridged over from Avalanche to Arbitrum.",
+        "arbToBeDistributed": 32500,
+        "contractsIncentivized": [
+          {
+            "contractId": "dc165e82-81ba-41ed-86d3-fe879ff8e37b",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "79ea8147-78fe-43b6-aac2-2e9b1d2df11e",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "576de6c1-6659-44d7-b1b7-65dee7252034",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "60dd7bf8-2272-49fd-bed4-612759bf3f88",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Did not make many changes to our strategy during this two week period but we rolled out our new portfolio feature on the website to allow users to more easily see their positions and growth.",
+        "lessons": "Continue to review alternative strategies for incentives and keep an eye out for opportunities.",
+        "avgDailyTVL": 7727446,
+        "avgDailyTXNS": 114,
+        "avgDailyUniqueUsers": 394
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We saw continued growth in combined TVL - approx. 18% higher average daily TVL than the previous week, as well as a 24% increase in the average DAUs. Progress is steady but consistent.",
+        "incentives": "",
+        "arbReceived": 32500,
+        "arbUtilized": 30343,
+        "disclosures": "No disclosures to add",
+        "arbRemaining": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We are currently reviewing DeFi strategies in the ecosystem and may adjust the recipient strategies, but no changes to fundamental plans. Also hoping to introduce an enhancement to our bridging process to make it more attractive to prospective Arbitrum users.",
+        "expectations": "Expecting to maintain and hopefully grow Arbitrum TVL, and to increase the amount being bridged over from Avalanche to Arbitrum.",
+        "arbToBeDistributed": 32500,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No major changes to report.",
+        "lessons": "Continue to review alternative strategies for incentives and keep an eye out for opportunities.",
+        "avgDailyTVL": 7888146,
+        "avgDailyTXNS": 118,
+        "avgDailyUniqueUsers": 456
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Higher TVL has proven to be fairly sticky, with some more growth since the preivous fortnight. This period saw a large increse in trading volume through the Yak Swap product.",
+        "incentives": "",
+        "arbReceived": 32500,
+        "arbUtilized": 29843,
+        "disclosures": "No disclosures to add",
+        "arbRemaining": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "We are currently reviewing DeFi strategies in the ecosystem and may adjust the recipient strategies, but no changes to fundamental plans. Still hoping to introduce an enhancement to our bridging process to make it more attractive to prospective Arbitrum users.",
+        "expectations": "Expecting to maintain and hopefully grow Arbitrum TVL, and to increase the amount being bridged over from Avalanche to Arbitrum.",
+        "arbToBeDistributed": 32500,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No major changes to report.",
+        "lessons": "Nothing to change in the final few days.",
+        "avgDailyTVL": 8013124,
+        "avgDailyTXNS": 99,
+        "avgDailyUniqueUsers": 438
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "In the final 2 week period, our average TVL reached over $8M for the first time (on average). The key incentivised strategies remained popular.",
+        "incentives": "",
+        "arbReceived": 32500,
+        "arbUtilized": 30446,
+        "disclosures": "No disclosures to add",
+        "arbRemaining": -5000,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We are currently reviewing DeFi strategies in the ecosystem and may adjust the recipient strategies, but no changes to fundamental plans. Still hoping to introduce an enhancement to our bridging process to make it more attractive to prospective Arbitrum users.",
+        "expectations": "Expecting to maintain and hopefully grow Arbitrum TVL, and to increase the amount being bridged over from Avalanche to Arbitrum.",
+        "arbToBeDistributed": 32500,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "Not applicable as final 2 weeks.",
+        "avgDailyTVL": 5761138,
+        "avgDailyTXNS": 86,
+        "avgDailyUniqueUsers": 386
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As expected, we saw drops in many metrics once incentives ended. However, TVL has remained much stickier than we thought it might and even at the very end, and in the absence of rewards, TVL on Arbitrum is approximately 4 times higher than it was before the LTIPP started.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 5999,
+        "disclosures": "No disclosures to add.",
+        "arbRemaining": -5000,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Final few days of the LTIPP so we have coordinated rewards to stop at the exact time 12 weeks after they started, and will be issuing the final gas refund shortly afterwards.",
+        "expectations": "Expecting to lose some TVL once incentives are over but hopefully can maintain a reasonable level.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "8a1add8d-85f3-4755-930c-2849bd4d294d",
+            "contractLabel": "Llamapay streaming contract",
+            "contractAddress": "0xe99A1868cAb3277892710978E77a44aE26536394"
+          },
+          {
+            "contractId": "a8420da3-8267-42c5-9f8c-e7371b32881b",
+            "contractLabel": "Yield Yak: STG S*ETH",
+            "contractAddress": "0x4be9D486331ae4532C32000F6DCb62F94299a1CB"
+          },
+          {
+            "contractId": "9fc7e41c-133c-459e-9657-a37990f8f61d",
+            "contractLabel": "Yield Yak: STG S*USDT",
+            "contractAddress": "0xa03d11b8c719b8aeb5e23cf79137c3454dcf21f5"
+          },
+          {
+            "contractId": "e5c369b7-e99c-452f-a0a6-7e8df497a9f1",
+            "contractLabel": "Yield Yak: STG S*USDC",
+            "contractAddress": "0xa1568767975c73dc9a3bb1ffc3651fc3cbb2ea23"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 190000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Yield Yak",
+  "grantSummary": "Yield Yak has received 195,000 ARB.  15,000 ARB to be awarded as gas refunds for Yak Swap users, and up to 180,000 ARB to be distributed to depositors in selected Yield Yak DeFi strategies.  ARB rewards increase as key TVL milestones are reached. ",
+  "fundingAddress": "0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb",
+  "editorAddresses": [],
+  "matchingGrantSize": 195000,
+  "metricsDashboardLink": "https://dune.com/yield_yak/yield-yak-arbitrum-ltipp-bi-weekly-report",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb"
+}

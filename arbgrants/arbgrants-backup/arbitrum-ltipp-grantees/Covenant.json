@@ -1,0 +1,350 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "As mentioned in part 1, we only incentivized LPs.",
+        "lessons": "We are observing intense gaming among LPs to provide liquidity at extremely narrow price ranges.",
+        "avgDailyTVL": 53000,
+        "avgDailyTXNS": 11,
+        "avgDailyUniqueUsers": 7
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Launched Pendle debt market as planned.",
+        "incentives": "",
+        "arbReceived": 10000,
+        "arbUtilized": 2250,
+        "disclosures": "No disclosures at this time",
+        "arbRemaining": 65000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b9b4f695-0229-40c5-8f00-3753068eef2f",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Due to late receipt of funds, only started on Friday 6/7. We had planned 2k ARB for LPs and 6k ARB for lenders in the first two weeks, but instead deployed only to LPs. We are expanding to lenders in the coming weeks.",
+        "expectations": "The next two week period we are planning to disburse 7k ARB for LPs, including a new debt market as planned. In addition, expanding disbursement to lenders.",
+        "arbToBeDistributed": 2250,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "na",
+        "lessons": "na",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 9,
+        "avgDailyUniqueUsers": 6
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL has increased to $100K",
+        "incentives": "",
+        "arbReceived": 6034,
+        "arbUtilized": 6034,
+        "disclosures": "...",
+        "arbRemaining": 58966,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "As per plan, a new lending pool (against LST collateral and liquidation free) will start receiving 1000 ARB LP incentives.  5000 to Pendle PT lending pool in this period.  As well, 10% lender incentive to pendle PT lenders will be airdropped directly (35 expected)",
+        "expectations": "We will expand the LST lending pool incentives",
+        "arbToBeDistributed": 6034,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "LPs are getting really high APYs (~200% on avg, but by concentrating liquidity upto 500% APY can be achieved).  This is creating somewhat aritficial conditions in the market (price is getting locked given LPs farming)",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "...",
+        "incentives": "",
+        "arbReceived": 8000,
+        "arbUtilized": 8000,
+        "disclosures": "...",
+        "arbRemaining": 50966,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We kept to plan LP incentives, but greatly reduced Lender incentives (to ~10% of TVL).",
+        "expectations": "We will be launching a third lending pool (ARB collateral, liquidation free)",
+        "arbToBeDistributed": 8000,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "Reduced flow of people.  Market going down and people deleveraging in general (checking all their positions).  Some reduction, but given liquidation free people at ease",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "same as last cycle",
+        "incentives": "",
+        "arbReceived": 8265,
+        "arbUtilized": 8265,
+        "disclosures": "...",
+        "arbRemaining": 42701,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Continue as per plan for LPs, but reduced incentives for lenders (targeting 10% additional yield)",
+        "expectations": "..",
+        "arbToBeDistributed": 8265,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "accidental double incentives for LPs in 2 guilds",
+        "lessons": "Increased marketing worked for additional tx (do not believe it was higher LP APYs, but will check next iteration)_",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 6,
+        "avgDailyUniqueUsers": 11
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "increased marketing on CT on APYs users can obtain with different strategies + liquidation free aspects of loans.  Believe in this period an PT LP reduced exposure given current rates in that market",
+        "incentives": "",
+        "arbReceived": 13700,
+        "arbUtilized": 13700,
+        "disclosures": "Accidentally LPs in the Pende PT + LST liquidation free loan pools were double incentivized during the second week in this period.",
+        "arbRemaining": 29001,
+        "contractsIncentivized": [
+          {
+            "contractId": "ebfd9610-d55f-4e6d-9876-6a2e4f7f84ef",
+            "contractLabel": "Merkle",
+            "contractAddress": "0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd"
+          },
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Introduced Merkle to incentivize lenders (instead of airdrops).  Given less control on APY, initial APY given lender TVL ~100%.  ",
+        "expectations": "na",
+        "arbToBeDistributed": 13700,
+        "contractsIncentivized": [
+          {
+            "contractId": "ebfd9610-d55f-4e6d-9876-6a2e4f7f84ef",
+            "contractLabel": "Merkle",
+            "contractAddress": "0x8BB4C975Ff3c250e0ceEA271728547f3802B36Fd"
+          },
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Seeing more focus on Lender TVL as expected",
+        "incentives": "",
+        "arbReceived": 6050,
+        "arbUtilized": 6050,
+        "disclosures": "na",
+        "arbRemaining": 22951,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Reduced LP incentives vs plan (1500 for Pendle, 2000 for LST, 500 for ARB) to lower LP APYs and focus activitiy on borrowers / lenders",
+        "expectations": "Increased lender TVL vs LP",
+        "arbToBeDistributed": 6050,
+        "contractsIncentivized": [
+          {
+            "contractId": "27681f86-417f-4cbe-906b-ddeef0a747a4",
+            "contractLabel": "Uniswap V3 Staker",
+            "contractAddress": "0xe34139463bA50bD61336E0c446Bd8C0867c6fE65"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 75000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Covenant",
+  "grantSummary": "",
+  "fundingAddress": "0x5de2fdf135a4F50f38A54f594c39632f40E38951",
+  "editorAddresses": [
+    "0x6BDa3e7D728ca868e0a95bE5Ec75D588113473F5",
+    "0x236EF7f3aAE450c4d686100A9C93b96aA86F7f8c"
+  ],
+  "matchingGrantSize": 75000,
+  "metricsDashboardLink": "https://dune.com/covenant_finance/covenant-arbitrum-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x5de2fdf135a4F50f38A54f594c39632f40E38951"
+}

@@ -1,0 +1,343 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes were applied during this period",
+        "lessons": "The speed bonus had a short term effect, but wasn't as effective as our Avalanche incentive program. We don't know whether this is due to our lower visibility on Arbitrum compared to Avalanche or due to the remainder moving to the retention bonus",
+        "avgDailyTVL": 14774350,
+        "avgDailyTXNS": 199,
+        "avgDailyUniqueUsers": 69
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The total eligible TVL hit it's ATH of $9.8mm in the last day. We count this goal achieved.",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 51002,
+        "disclosures": "This does not take into account the speed / retention bonus, which amounts to 100k ARB over the course of 12 weeks",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Given some of the expected integrations (Penpie + Uniswap) not being live on DeltaPrime yet in addition to the ARB price drop, we decided on a more aggressive start of the program to get TVL in. For context: the APY is to grow as TVL milestones are reached, So while ~50k out of 250k ARB received seems little, it is (due to us requiring exponentially more ARB as we grow) relatively high",
+        "expectations": "We expect to hit 10mm eligible TVL (borrowed funds deposited in partnerprotocols) by the end of the biweekly period.",
+        "arbToBeDistributed": 54603,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The weekly incentives have been increased in this period to 60.000 ARB",
+        "lessons": "No lessons learned this period, as all attention went to our TGE",
+        "avgDailyTVL": 17633507,
+        "avgDailyTXNS": 208,
+        "avgDailyUniqueUsers": 28
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Hit 13.7mm eligible TVL. This is in part due to most of the attention going to our token launching.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 38487,
+        "disclosures": "On the first of July we had TGE, which is where most of the attention went to.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "The ARB incentives have increased from 18.140 at the end of the last biweekly to 33.333 due to milestones being hit",
+        "expectations": "According to our internal plan, we expect eligible TVL to increase to 15mm. This is however the final period leading up to our long awaited TGE (1st of july), which we expect take the spotlight from the LTIPP.",
+        "arbToBeDistributed": 122264,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The weekly incentives in this period for PAs has been increased to 80k ARB",
+        "lessons": "- Despite having a competing incentive program with a larger grant, our Arbitrum TVL did not drop significantly. This is most likely the result of the retention bonus as part of our strategy to keep Arbitrum TVL sticky. Additionally, the TVL is back to growth, indicating the LTIPP program (focused on the Prime Account) catering to a different user-base, despite both parts of DeltaPrime (savings + PA) positively influencing each other regardless of which side is incentivised. ",
+        "avgDailyTVL": 19683074,
+        "avgDailyTXNS": 248,
+        "avgDailyUniqueUsers": 84
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Overall our eligible TVL saw a small drop to 12.2mm as funds migrated. This drop has stopped and reverted to positive growth again in the past 3 days. ",
+        "incentives": "",
+        "arbReceived": 250000,
+        "arbUtilized": 188869,
+        "disclosures": "In this period Avalanche Boost (an incentiveprogram across a few top Avalanche protocols, including DeltaPrime) went live. While this increased DeltaPrime's overall adoption (as requested in the initial proposal not to opt out of), this did negatively impact our eligible Arbitrum TVL as users who initially bridged to Arbitrum bridged back.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes will be done in this period",
+        "expectations": "We expect the eligible TVL to surpass 17.5mm",
+        "arbToBeDistributed": 147161,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The weekly PA incentives have been increased to 80k on Monday 22nd.",
+        "lessons": "The attack itself was a strong signal that we must continue improving our security where possible; the community's response and show of trust (As seen by a continuous increase in TVL post-attack rather than a decrease) taught us that the community can be forgiving if the attack is properly responded to (transparency, clear communication, focus on fund retrieval).",
+        "avgDailyTVL": 24199080,
+        "avgDailyTXNS": 317,
+        "avgDailyUniqueUsers": 103
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "In this period our Arbitrum TVL hit its ATH of $26.5M on July 29th. The eligible TVL broke its previous record, but did not hit the next milestone of $17.5M",
+        "incentives": "",
+        "arbReceived": 250000,
+        "arbUtilized": 154055,
+        "disclosures": "- After 19 months of being live, DeltaPrime experienced its first exploit on the 23rd of July, leading to $1mm being illegally withdrawn from 13 Arbitrum Prime Accounts. Within 48 hours all 13 accounts were made whole, with $900k returned by the hacker and the remaining $100k covered by our POL insurance pool. The full post mortem can be found here: https://medium.com/@Delta_Prime/deltaprime-post-mortem-report-752bd60a25e6\n- The TVL on DefiLlama, our dashboard and elsewhere was undervalued. On the first of July the real TVL was $21.875.290 on the 29th of July this was $26.596.603",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "The weekly PA incentives will be increased to 80k if the next milestone is hit",
+        "expectations": "We expect the eligible TVL to move back up to and past its previous level.",
+        "arbToBeDistributed": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The weekly rate for PAs was lowered to 50k",
+        "lessons": "No lessons learned in this period",
+        "avgDailyTVL": 25037202,
+        "avgDailyTXNS": 321,
+        "avgDailyUniqueUsers": 97
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Eligible TVL dropped slightly as incentives reduced.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 166739,
+        "disclosures": "In this period we did our first sPRIME rev share. Since this was ~50% ROI in a month for holders, a lot of attention came to the token rather than the incentivized pools. ",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "The ARB distributed is planned to start reduce as we near the end of the program.",
+        "expectations": "We're expecting to keep our eligible TVL stable as Bonus APR starts slowing down.",
+        "arbToBeDistributed": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The weekly incentives were reduced to 0 over the course of this period",
+        "lessons": "While the incentives reduced to 0, the mean TVL over this period reduced with only 12%. This is likely the effect of the retention bonus, rewarding those who keep their liquidity in our partner's protocols past the point where there are weekly incentives.",
+        "avgDailyTVL": 22049946,
+        "avgDailyTXNS": 155,
+        "avgDailyUniqueUsers": 53
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "With 2 major black-swan events, the past month has been rough to say the least. Although the community does continuously show their support quantified by the increase in mean TVL, the LTIPP had a backseat to the black swan events. We grew, but not as fast or far as we would have liked, had we been in a position to focus on growth rather than just security.",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 50848,
+        "disclosures": "On the 13th we became aware of an infiltration by three North Korean IT workers in the DeltaPrime development team. For the next weeks, the main focus went to ensuring code integrity of every line written by these workers. The code was secure, but this did cost time and effort which could have been put to better use. ",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "The weekly rate will lower to 0 as we near the end of the program",
+        "expectations": "We expect a portion of users to exit as the incentives get removed. Simultaneously a portion will stay in due to the retention bonus in place.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "During this whole period there were no LTIPP incentives, save for the one-time success & retention bonuses being paid out",
+        "lessons": "The retention bonus payment led to a large outflow of users. In the future we will keep the retention bonus in, with the difference that it will be paid out over a prolonger period of time after the weekly incentives stop.",
+        "avgDailyTVL": 16924252,
+        "avgDailyTXNS": 125,
+        "avgDailyUniqueUsers": 37
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Nothing new to add here. Overall thoughts were shared in the previous report.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 100000,
+        "disclosures": "No disclosures in this period. Weekly incentives have ended, with only Speed + Retention bonuses to be paid out",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Only the 100k ARB speed and retention bonus will be paid out in this period",
+        "expectations": "Given that the retention bonus will be paid out in this biweekly already, we expect the TVL to drop as the LTIPP fully ends.",
+        "arbToBeDistributed": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 750000,
+  "fundingType": [
+    "TwoofThreeMultisig"
+  ],
+  "granteeName": "DeltaPrime",
+  "grantSummary": "",
+  "fundingAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d",
+  "editorAddresses": [],
+  "matchingGrantSize": 750000,
+  "metricsDashboardLink": "https://flipsidecrypto.xyz/cloudr3n/arbitrum-ltip-deltaprime-protocol-Q8-nrG",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xbb65FA45082035341b5748494B47dB2ac027a50d"
+}

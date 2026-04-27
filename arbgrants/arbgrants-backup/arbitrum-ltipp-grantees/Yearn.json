@@ -1,0 +1,276 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "Security delays for new Pendle vaults. ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution did not start until Jul 7.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Distribution delayed because of auto rollover PT token launch.",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Started a bit late unfortunately. ",
+        "expectations": "Distribution began July 7th",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Distribution delayed.",
+        "lessons": "Distribution delayed. ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution delayed. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Distribution delayed.",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Still delayed this week because of new Pendle vaults. ",
+        "expectations": "Distribution did not start until July 7.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Rewards commenced",
+        "lessons": "-",
+        "avgDailyTVL": 424786155,
+        "avgDailyTXNS": 96,
+        "avgDailyUniqueUsers": 39
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "July 1 TVL - $129k\nJuly 15 TVL - $8.04M",
+        "incentives": "",
+        "arbReceived": 85000,
+        "arbUtilized": 31500,
+        "disclosures": "Distributions for the following tokens started:\n\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2\nUSDC-2\nyPT-weETH\nyPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2\nyPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2",
+        "arbRemaining": 215000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Distribution began July 7th. ",
+        "expectations": "Incentivizing new Pendle PT auto rollover vaults. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 10629873,
+        "avgDailyTXNS": 110,
+        "avgDailyUniqueUsers": 47
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Ended with $12.47M TVL",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "yPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2\nyPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2",
+        "arbRemaining": 165000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "-",
+        "expectations": "Reaching over $10M TVL",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "yPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2\nyPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2",
+        "lessons": "-",
+        "avgDailyTVL": 11601255,
+        "avgDailyTXNS": 126,
+        "avgDailyUniqueUsers": 48
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Period ended with $11.13M TVL",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 50000,
+        "disclosures": "-",
+        "arbRemaining": 165000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "-",
+        "expectations": "Attempting to get over $20M",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 13246949,
+        "avgDailyTXNS": 127,
+        "avgDailyUniqueUsers": 46
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Still attempting to get over $20M. Period ended with $13.39M",
+        "incentives": "",
+        "arbReceived": 65000,
+        "arbUtilized": 68500,
+        "disclosures": "-",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "yPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2\nyPT-USDe\nyPT-weETH\nyPT-rsETH\nyPT-ezETH\nUSDC-2",
+        "expectations": "-",
+        "arbToBeDistributed": 65000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 300000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Yearn",
+  "grantSummary": "",
+  "fundingAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://dune.com/zootrop/yearn-ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xb6bc033D34733329971B938fEf32faD7e98E56aD"
+}

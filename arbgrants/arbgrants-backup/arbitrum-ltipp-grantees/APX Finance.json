@@ -1,0 +1,378 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The launch of ALP syrup pool is a bit delayed and the trading challenge campaign would only be able to launch after the first bi-weekly period. That's why the metrics don't look so great for now, but we expect it to grow significantly in the coming weeks. ",
+        "lessons": "We need to be more on track in terms of campaign launch timeline ",
+        "avgDailyTVL": 634032,
+        "avgDailyTXNS": 178,
+        "avgDailyUniqueUsers": 83
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Launched the first ALP syrup pool on PancakeSwap with 28-day validity. ",
+        "incentives": "",
+        "arbReceived": 82500,
+        "arbUtilized": 75000,
+        "disclosures": "The pool launch is a bit delayed from the original schedule. ",
+        "arbRemaining": 525000,
+        "contractsIncentivized": [
+          {
+            "contractId": "55753bdc-df9d-408a-9fa9-cb72aa1744ef",
+            "contractLabel": "ALP Syrup Pool",
+            "contractAddress": "0xCe10072E051DA9B8e297AC439B3d7c5C45A32c8f"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No change",
+        "expectations": "The TVL of ALP will increase ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "98c0b985-6db6-4c0d-bd9f-a240e82b86bc",
+            "contractLabel": "ALP Syrup Pool",
+            "contractAddress": "0xCe10072E051DA9B8e297AC439B3d7c5C45A32c8f"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NIL",
+        "lessons": "1. Important to give users regular reminders of the campaigns on APX social media as many projects are holding their own incentive campaigns.\n2. The lucky airdrop adds an element of thrill, which traders on APX like.",
+        "avgDailyTVL": 1794440,
+        "avgDailyTXNS": 438,
+        "avgDailyUniqueUsers": 47
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "1. 25,000 $ARB trading prize pool + 2,000 $ARB lucky draw per weekly epoch\n2. Prize pool rewards are issued at the start of each epoch based on the trader\u2019s weekly trading volume and tier in the previous epoch. Traders will claim their rewards from the campaign landing page within 7 days after rewards are issued: https://www.apollox.finance/en/trade-rewards \n3. Lucky draw reward is airdropped to the winner's wallet within 7 working days after the end of each epoch.\n",
+        "incentives": "",
+        "arbReceived": 87500,
+        "arbUtilized": 54000,
+        "disclosures": "NIL",
+        "arbRemaining": 442500,
+        "contractsIncentivized": [
+          {
+            "contractId": "8385068d-dfe3-4e9b-adec-caad293ae7e1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No change ",
+        "expectations": "Trading volume and no. of traders will increase once launching the trading challenge. ",
+        "arbToBeDistributed": 54000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NIL",
+        "lessons": "- Marketing the rewards program regularly is necessary to ensure continued interest.\n- Aside from trading, there is strong demand for LP staking rewards. APX\u2019s Arbitrum TVL has increased 5x since the launch of the first ALP Syrup Pool.",
+        "avgDailyTVL": 2525925,
+        "avgDailyTXNS": 896,
+        "avgDailyUniqueUsers": 112
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "- Each weekly epoch rewards traders with a 25,000 $ARB trading prize pool + 2,000 $ARB lucky draw.\n- Prize pool rewards are issued at the start of each epoch based on the trader\u2019s weekly trading volume and tier in the previous epoch. Traders will claim their rewards from the campaign landing page within 7 days after rewards are issued: https://www.apollox.finance/en/trade-rewards \n- Lucky draw reward is airdropped to the winner's wallet within 7 working days after the end of each epoch.\n- The first ALP Syrup Pool has concluded. The second ALP Syrup Pool started on 11 July and will last for 4 weeks. Like the first pool, the second pool is allocated 75,000 $ARB as ALP staking rewards.",
+        "incentives": "",
+        "arbReceived": 87500,
+        "arbUtilized": 129000,
+        "disclosures": "Distribution Mechanisms:\n1. Trading rewards - Traders have to claim from the landing page within 7 days of each weekly trading epoch: https://www.apollox.finance/en/trade-rewards \n2. Lucky airdrops - Rewards are airdropped to the winner's wallet directly within 7 working days of each trading epoch.\n3. ALP Syrup Pool - LP staking rewards are distributed to users\u2019 directly when they stake ALP in the Syrup Pool: https://pancakeswap.finance/pools?chain=arb \n",
+        "arbRemaining": 47000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          },
+          {
+            "contractId": "3c754dca-2f9e-4463-86e7-65e9754919bb",
+            "contractLabel": "2nd Syrup Pool",
+            "contractAddress": "0xD2e71125ec0313874d578454E28086fba7444c0c"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "NIL",
+        "expectations": "We expect average daily TVL, transactions and users to double from the previous 2 weeks with rising awareness of APX\u2019s $ARB rewards program.",
+        "arbToBeDistributed": 87500,
+        "contractsIncentivized": [
+          {
+            "contractId": "c9a86100-59e9-42d5-a1ab-f901a5cc8279",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          },
+          {
+            "contractId": "3c754dca-2f9e-4463-86e7-65e9754919bb",
+            "contractLabel": "2nd Syrup Pool",
+            "contractAddress": "0xD2e71125ec0313874d578454E28086fba7444c0c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NIL\n",
+        "lessons": "*As the market quietens, we see slightly less growth in metrics as compared to the previous 2-week period. While average daily transactions increased 30%, average daily unique users remained the same. This suggests deeper integration of daily trading behaviour but a possible tapering of interest from new traders. More marketing may be necessary.\n*Demand for LP staking rewards continues as users seek more passive avenues to earn. APX\u2019s Arbitrum TVL has increased another 44% in the last 2 weeks.\n",
+        "avgDailyTVL": 3660094,
+        "avgDailyTXNS": 1161,
+        "avgDailyUniqueUsers": 113
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "*Each weekly epoch rewards traders with a 25,000 $ARB trading prize pool + 2,000 $ARB lucky draw.\n*Prize pool rewards are issued at the start of each epoch based on the trader\u2019s weekly trading volume and tier in the previous epoch. Traders will claim their rewards from the campaign landing page within 7 days after rewards are issued: https://www.apollox.finance/en/trade-rewards \n*Lucky draw reward is airdropped to the winner's wallet within 7 working days after the end of each epoch.\n*The second ALP Syrup Pool started on 11 July and will end on 8 August. Like the first pool, the second pool is allocated 75,000 $ARB as ALP staking rewards.\n",
+        "incentives": "",
+        "arbReceived": 87500,
+        "arbUtilized": 54000,
+        "disclosures": "NIL",
+        "arbRemaining": 180000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "NIL",
+        "expectations": "Trading volume of Arbitrum continue to grow ",
+        "arbToBeDistributed": 54000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NIL",
+        "lessons": "*Average daily transactions increased 20% and average daily unique users increased 44% in the past 2 weeks, as compared to the previous 2-week period. Conversely, there was a 10% drop in TVL in the past 2 weeks, which coincided with a dip in the wider markets.\n*While TVL remained stagnant, we continue to see user demand for LP staking rewards \u2014 especially leading up to the third ALP staking incentives pool.\n",
+        "avgDailyTVL": 3234966,
+        "avgDailyTXNS": 1400,
+        "avgDailyUniqueUsers": 163
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "-Each weekly epoch rewards traders with a 25,000 $ARB trading prize pool + 2,000 $ARB lucky draw.\nPrize pool rewards are issued at the start of each epoch based on the trader\u2019s weekly trading volume and tier in the previous epoch. Traders will claim their rewards from the campaign landing page within 7 days after rewards are issued: https://www.apollox.finance/en/trade-rewards \n-Lucky draw reward is airdropped to the winner's wallet within 7 working days after the end of each epoch.\n-The second ALP Syrup Pool ended on 8 August. The third ALP Syrup Pool was slated to launch immediately after but there has been a delay. It will be launched on 12th of August. Like the first two pools, the third pool is allocated 75,000 $ARB as ALP staking rewards.\n",
+        "incentives": "",
+        "arbReceived": 87500,
+        "arbUtilized": 54000,
+        "disclosures": "N.A",
+        "arbRemaining": 92500,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "APX Finance plans to launch a new syrup on 8th of August.  The new syrup has been delayed which will be launched on 12th of August. ",
+        "expectations": "We expect growth metrics to continue increasing and interest in ALP staking incentives to remain strong.",
+        "arbToBeDistributed": 87500,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NIL\n",
+        "lessons": "-Metrics have remained stagnant over the last 2 weeks as compared to the previous 2-week period. There seems to be a plateauing in user interest, whether for trading incentives or LP staking incentives.\n-We plan to do a last marketing push in the last week of the incentives period.\n",
+        "avgDailyTVL": 3274786,
+        "avgDailyTXNS": 948,
+        "avgDailyUniqueUsers": 109
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "-Each weekly epoch rewards traders with a 25,000 $ARB trading prize pool + 2,000 $ARB lucky draw. In the last week, there will be a 5,000 $ARB lucky draw.\n-Prize pool rewards are issued at the start of each epoch based on the trader\u2019s weekly trading volume and tier in the previous epoch. Traders will claim their rewards from the campaign landing page within 7 days after rewards are issued: https://www.apollox.finance/en/trade-rewards \n-Lucky draw reward is airdropped to the winner's wallet within 7 working days after the end of each epoch.\n-The third ALP Syrup Pool launched on 12 August and will end on 2 September. Like the first two pools, the third pool is allocated 75,000 $ARB as ALP staking rewards.\n",
+        "incentives": "",
+        "arbReceived": 87500,
+        "arbUtilized": 129000,
+        "disclosures": "NIL",
+        "arbRemaining": 5000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          },
+          {
+            "contractId": "c48310e4-222e-4a9f-ad0d-8de1336b9580",
+            "contractLabel": "3rd Syrup pool",
+            "contractAddress": "0x97E3384447B52A63374EBA93cb36e02a20633926"
+          },
+          {
+            "contractId": "f9c5ae4f-292e-478a-ae75-fbf50d991ddf",
+            "contractLabel": "4th Syrup pool",
+            "contractAddress": "0xaA0DE632A4071642d72Ceb03577F5534ea196927"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We will end the third pool and launch the 4th pool on 13th of August to make sure the pools end on 2nd Sep. \n",
+        "expectations": "We expect growth metrics to continue growing steadily and interest in ALP staking incentives to remain strong as we prepare the launch of the third pool.\n",
+        "arbToBeDistributed": 129000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          },
+          {
+            "contractId": "c48310e4-222e-4a9f-ad0d-8de1336b9580",
+            "contractLabel": "3rd Syrup pool",
+            "contractAddress": "0x97E3384447B52A63374EBA93cb36e02a20633926"
+          },
+          {
+            "contractId": "f9c5ae4f-292e-478a-ae75-fbf50d991ddf",
+            "contractLabel": "4th Syrup pool",
+            "contractAddress": "0xaA0DE632A4071642d72Ceb03577F5534ea196927"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NIL",
+        "lessons": "-The average daily transaction metric have remained consistent over the last 2 weeks as compared to the previous 2-week period. Since the start of the incentives period, average daily transactions have also increased about 5x.\n-There is an expected decrease in average TVL in the last 2 weeks as compared to the previous 2-week period, as LP staking incentives come to an end and users unstake their ALP. That said, since the start of the incentives period, average TVL has also increased about 4.6x.\n",
+        "avgDailyTVL": 2944452,
+        "avgDailyTXNS": 971,
+        "avgDailyUniqueUsers": 97
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "-Each weekly epoch rewards traders with a 25,000 $ARB trading prize pool + 2,000 $ARB lucky draw. In the last week, there was a 5,000 $ARB lucky draw.\n-Prize pool rewards are issued at the start of each epoch based on the trader\u2019s weekly trading volume and tier in the previous epoch. Traders will claim their rewards from the campaign landing page within 7 days after rewards are issued: https://www.apollox.finance/en/trade-rewards \n-Lucky draw reward is airdropped to the winner's wallet within 7 working days after the end of each epoch.\nThe third ALP Syrup Pool has ended.\n",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 30000,
+        "disclosures": "NIL",
+        "arbRemaining": 5000,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "NIL",
+        "expectations": "We want to attract more users to join the campaign. In the last epoch, we will provide 5,000 ARB token as rewards for the lucky draw winner. We hope it could attract more users to win the final price.",
+        "arbToBeDistributed": 87500,
+        "contractsIncentivized": [
+          {
+            "contractId": "48cfd91b-5c56-4732-84e8-8213f3fa6ad1",
+            "contractLabel": "Trading Rewards Contract",
+            "contractAddress": "0xbbE8f9E6dE5245A12C2b9dC7B84c8334b4C8Be1f"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 525000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "APX Finance",
+  "grantSummary": "",
+  "fundingAddress": "0x60EdE4402a34762D608AD9bA7bD3797f5bFE544c, 0xCe10072E051DA9B8e297AC439B3d7c5C45A32c8f",
+  "editorAddresses": [],
+  "matchingGrantSize": 525000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x60EdE4402a34762D608AD9bA7bD3797f5bFE544c"
+}

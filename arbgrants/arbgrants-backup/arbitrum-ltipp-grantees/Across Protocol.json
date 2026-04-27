@@ -1,0 +1,348 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL IS $ TO ARBITRUM",
+        "lessons": ".",
+        "avgDailyTVL": 8061838,
+        "avgDailyTXNS": 8398,
+        "avgDailyUniqueUsers": 6124
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/A",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "A portion of LTIP emissions will now be dedicated to Across+ actions, enabling users to deposit into Arbitrum dApps with a single click, regardless of whether their funds are on another chain like OP, Base, or any other Across-supported chains.\n\nThis program update will attract more users to Arbitrum dApps by eliminating the need for a separate bridging step, providing a more seamless user experience.\n\nWe believe that this creates a positive situation for all stakeholders in the Arbitrum ecosystem due to the following:\n\nDapps now get access to more liquidity\nUsers can interact with Arbitrum dapps from anywhere\nArbitrum TVL is more likely to rise due to the chain abstraction within dapps",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "bc18f25c-2fd4-437d-9194-da700b1e3807",
+            "contractLabel": "Across Treasury",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "A portion of LTIP emissions will now be dedicated to Across+ actions, enabling users to deposit into Arbitrum dApps with a single click, regardless of whether their funds are on another chain like OP, Base, or any other Across-supported chains.\n\nThis program update will attract more users to Arbitrum dApps by eliminating the need for a separate bridging step, providing a more seamless user experience.\n\nWe believe that this creates a positive situation for all stakeholders in the Arbitrum ecosystem due to the following:\n\nDapps now get access to more liquidity\nUsers can interact with Arbitrum dapps from anywhere\nArbitrum TVL is more likely to rise due to the chain abstraction within dapps",
+        "expectations": "no claim until July 15 (late submission) ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "bc18f25c-2fd4-437d-9194-da700b1e3807",
+            "contractLabel": "Across Treasury",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL IS $ TO ARBITRUM",
+        "lessons": "0",
+        "avgDailyTVL": 13502014,
+        "avgDailyTXNS": 14835,
+        "avgDailyUniqueUsers": 10824
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "(submitting late, nothing to report)",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "none",
+        "arbRemaining": 833335,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "0",
+        "expectations": "0",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL IS $ TO ARBITRUM",
+        "lessons": "0",
+        "avgDailyTVL": 8670298,
+        "avgDailyTXNS": 8097,
+        "avgDailyUniqueUsers": 6282
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "late submission, nothing to report",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "0",
+        "arbRemaining": 833335,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "0",
+        "expectations": "(late submission, nothing to report)",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL IS $ TO ARBITRUM",
+        "lessons": "None",
+        "avgDailyTVL": 7938565,
+        "avgDailyTXNS": 5063,
+        "avgDailyUniqueUsers": 3808
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grant partially claimed - 15 Jul 2024, 12:09 pm\n666,668ARB",
+        "incentives": "",
+        "arbReceived": 666668,
+        "arbUtilized": 64455,
+        "disclosures": "Grant partially claimed - 15 Jul 2024, 12:09 pm\n666,668ARB\n\nRewards distribution for June - 64455ARB\nhttps://app.safe.global/transactions/history?safe=arb1:0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4",
+        "arbRemaining": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "Partially claimed grant\n15 Jul 2024, 12:09 pm - 666,668ARB claimed\n\nhttps://app.hedgey.finance/grants/public/arbitrum/0x544cbe6698e2e3b676c76097305bba588defb13a/0x912ce59144191c1204e64559fe8253a0e49e6548/0xd16d904b68429b93f1dfcd837f61aedcd224e8f4",
+        "expectations": "Distribution of June rewards - 64,455.66ARB ",
+        "arbToBeDistributed": 64455,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL IS $ TO ARBITRUM",
+        "lessons": "none",
+        "avgDailyTVL": 8515087,
+        "avgDailyTXNS": 3118,
+        "avgDailyUniqueUsers": 2268
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "none",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "none",
+        "arbRemaining": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "none",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 8515087,
+        "avgDailyTXNS": 3118,
+        "avgDailyUniqueUsers": 2269
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Reward distribution for July - 189120ARB\nhttps://app.safe.global/transactions/history?safe=arb1:0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4",
+        "incentives": "",
+        "arbReceived": 333332,
+        "arbUtilized": 189120,
+        "disclosures": "Reward distribution for July - 189120ARB\nhttps://app.safe.global/transactions/history?safe=arb1:0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "Fully claimed grant - 20 Aug 2024, 04:49 pm\n333,332ARB in claim.",
+        "expectations": "Reward distribution for July - 189120ARB\n",
+        "arbToBeDistributed": 189120,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "- ",
+        "lessons": "- ",
+        "avgDailyTVL": 6205895,
+        "avgDailyTXNS": 3164,
+        "avgDailyUniqueUsers": 2347
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "August / September ARB rewards set aside for distribution.\n\nAugust: 115774557957563062121196\nSept: 27404214185787755157033\n\nRemainder returned - 603245792166529687677751\n",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 143178,
+        "disclosures": "August / September ARB rewards set aside for distribution.\n\nAugust: 115774557957563062121196\nSept: 27404214185787755157033\n\nRemainder returned - 603245792166529687677751\n",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "August / September ARB rewards set aside for distribution.\n\nAugust: 115774557957563062121196\nSept: 27404214185787755157033\n\nRemainder returned - 603245792166529687677751\n",
+        "expectations": "August / September ARB rewards set aside for distribution.\n\nAugust: 115774557957563062121196\nSept: 27404214185787755157033\n\nRemainder returned - 603245792166529687677751\n",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 1000000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Across Protocol",
+  "grantSummary": "https://forum.arbitrum.foundation/t/across-protocol-ltipp-application-final/21657/15",
+  "fundingAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xd16D904b68429b93F1DFCD837F61AeDCd224e8F4"
+}

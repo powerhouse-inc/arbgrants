@@ -1,0 +1,613 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 9790,
+        "avgDailyTXNS": 8,
+        "avgDailyUniqueUsers": 7
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "n/a",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2ac06ea0-9e1f-4322-b715-2ad640bb4fea",
+            "contractLabel": "ECLP: Balancer Gauge GYD/AUSDT",
+            "contractAddress": "0xd9647eb5D6457bd7Adb39B335ab89eC3a1Ea6d09"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "slight delay with starting the incentive distribution\n",
+        "expectations": "start of incentives from Jun 17 onwards",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "2ce9b921-b7ca-488c-ab7b-4d630abd0ebd",
+            "contractLabel": "ECLP: Balancer Gauge GYD/AUSDT",
+            "contractAddress": "0xd9647eb5D6457bd7Adb39B335ab89eC3a1Ea6d09"
+          },
+          {
+            "contractId": "c6a16663-3e0c-4163-bf41-45bf62fafdf2",
+            "contractLabel": "ECLP: Balancer Gauge GYD/AUSDC",
+            "contractAddress": "0x052597B6633814a0a6eA9020eE46E25Aa6936E49"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 116960,
+        "avgDailyTXNS": 18,
+        "avgDailyUniqueUsers": 14
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 33334,
+        "arbUtilized": 2500,
+        "disclosures": "n/a",
+        "arbRemaining": 66666,
+        "contractsIncentivized": [
+          {
+            "contractId": "aa935fa3-1d51-44c4-843f-808680d14a7e",
+            "contractLabel": "Balancer gauge: GYD/aUSDC",
+            "contractAddress": "0x052597B6633814a0a6eA9020eE46E25Aa6936E49"
+          },
+          {
+            "contractId": "25f1b53f-90d3-43e6-a287-944e00cf847d",
+            "contractLabel": "Balancer gauge: GYD/aUSDT",
+            "contractAddress": "0xd9647eb5D6457bd7Adb39B335ab89eC3a1Ea6d09"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Incentives started",
+        "expectations": "Additional incentives will go live in the next period",
+        "arbToBeDistributed": 2500,
+        "contractsIncentivized": [
+          {
+            "contractId": "5282e066-b9f5-4a5f-87df-6eb6acf5f39d",
+            "contractLabel": "Balancer gauge: GYD/aUSDT",
+            "contractAddress": "0xd9647eb5D6457bd7Adb39B335ab89eC3a1Ea6d09"
+          },
+          {
+            "contractId": "76f74d39-5ac3-4fa8-98f9-9f6e986a65b7",
+            "contractLabel": "Balancer gauge: GYD/aUSDC",
+            "contractAddress": "0x052597B6633814a0a6eA9020eE46E25Aa6936E49"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "moved from direct gauge emissions to voting markets for better capital efficiency",
+        "lessons": "n/a",
+        "avgDailyTVL": 955595,
+        "avgDailyTXNS": 2408,
+        "avgDailyUniqueUsers": 1398
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "added ARB as direct gauge emissions + used ARB to obtain vlAURA votes which translated into higher incentives for LPs due to Balancer's vote matching scheme. slightly higher spend than expected",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 8665,
+        "disclosures": "n/a",
+        "arbRemaining": 49999,
+        "contractsIncentivized": [
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "ramp-up of incentives, moving from direct incentives to vote buying. better r/r due to a Balancer matching scheme",
+        "expectations": "n/a",
+        "arbToBeDistributed": 6606,
+        "contractsIncentivized": [
+          {
+            "contractId": "12180074-e0d8-45e3-802b-1d9084330069",
+            "contractLabel": "GYD/aUSDC - gauge",
+            "contractAddress": "0x052597B6633814a0a6eA9020eE46E25Aa6936E49"
+          },
+          {
+            "contractId": "86d8655f-431c-4efd-8a18-a529eadb5f01",
+            "contractLabel": "GYD/aUSDT - gauge",
+            "contractAddress": "0xd9647eb5D6457bd7Adb39B335ab89eC3a1Ea6d09"
+          },
+          {
+            "contractId": "27204f94-5628-408c-b8f6-34b47c35044d",
+            "contractLabel": "wOETH/WETH - gauge",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 7820644,
+        "avgDailyTXNS": 153,
+        "avgDailyUniqueUsers": 49
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 6665,
+        "arbUtilized": 6665,
+        "disclosures": "n/a",
+        "arbRemaining": 43334,
+        "contractsIncentivized": [
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          },
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Note: All incentives are added to one HH market. This HH market incentivizes 5 different pools:\n- weETH/wstETH: 857 ARB\n- wOETH: 808 ARB\n- GYD/aUSDC: 2000 ARB\n- GYD/aUSDT: 2000 ARB\n- wstETH/WETH: 1000 ARB",
+        "expectations": "n/a",
+        "arbToBeDistributed": 6665,
+        "contractsIncentivized": [
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          },
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 8928405,
+        "avgDailyTXNS": 542,
+        "avgDailyUniqueUsers": 184
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Increased ARB spend to E-CLPs via HiddenHand incentives",
+        "incentives": "",
+        "arbReceived": 10000,
+        "arbUtilized": 10665,
+        "disclosures": "n/a",
+        "arbRemaining": 334,
+        "contractsIncentivized": [
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          },
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          },
+          {
+            "contractId": "440c1fcf-72c1-4bad-8114-102292304117",
+            "contractLabel": "wUSDM/GYD",
+            "contractAddress": "0x315dd595e82bDc0c194f3A38A08fDE480D7E5d21"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Note, incentives to individual pools are routed via the HiddenHand market. ",
+        "expectations": "better performance",
+        "arbToBeDistributed": 10665,
+        "contractsIncentivized": [
+          {
+            "contractId": "440c1fcf-72c1-4bad-8114-102292304117",
+            "contractLabel": "wUSDM/GYD",
+            "contractAddress": "0x315dd595e82bDc0c194f3A38A08fDE480D7E5d21"
+          },
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          },
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 9878109,
+        "avgDailyTXNS": 341,
+        "avgDailyUniqueUsers": 181
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 33334,
+        "arbUtilized": 24165,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          },
+          {
+            "contractId": "849a84b6-e074-4ca2-9924-b3f61d065219",
+            "contractLabel": "sGYD Staker",
+            "contractAddress": "0xb4C19C1b16881A6d1d781264f0f8C0237D8Be0C7"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "All pools are incentivized indirectly, by buying votes on Hiddenhand. this benefits from Balancer's STIP matching scheme and generally provides a better capital efficiency. \nNotably, sGYD is incentivized directly.",
+        "expectations": "n/a",
+        "arbToBeDistributed": 24165,
+        "contractsIncentivized": [
+          {
+            "contractId": "10ba9d79-32ed-4b85-b556-e1827df7595e",
+            "contractLabel": "HiddenHand market",
+            "contractAddress": "0x928b06229a3f4Bc7806d80Fe54e48E777BB74536"
+          },
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          },
+          {
+            "contractId": "440c1fcf-72c1-4bad-8114-102292304117",
+            "contractLabel": "wUSDM/GYD",
+            "contractAddress": "0x315dd595e82bDc0c194f3A38A08fDE480D7E5d21"
+          },
+          {
+            "contractId": "dde3f07d-91f2-4141-a26a-dcbbfbcbecab",
+            "contractLabel": "aGHO/GYD",
+            "contractAddress": "0xff38cc0ce0de4476c5a3e78675b48420a851035b"
+          },
+          {
+            "contractId": "3346c169-25b4-4a91-b753-faacaf369be6",
+            "contractLabel": "sUSDe/GYD",
+            "contractAddress": "0xdeeaf8b0a8cf26217261b813e085418c7dd8f1ee"
+          },
+          {
+            "contractId": "e1b57053-2563-43d9-99f2-b462bd74fd06",
+            "contractLabel": "rETH/wstETH",
+            "contractAddress": "0xa899c63ba9ff275d6bfc83e43ee8e58ff6987584"
+          },
+          {
+            "contractId": "70a6a0f7-ec40-4cc6-9411-d69631ace044",
+            "contractLabel": "sFRAX/aFRAX",
+            "contractAddress": "0x36c2f879f446c3b6533f9703745c0504f3a84885"
+          },
+          {
+            "contractId": "849a84b6-e074-4ca2-9924-b3f61d065219",
+            "contractLabel": "sGYD Staker",
+            "contractAddress": "0xb4C19C1b16881A6d1d781264f0f8C0237D8Be0C7"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Used Paladin instead of HiddenHand for better bribe-efficiency",
+        "lessons": "n/a",
+        "avgDailyTVL": 11543662,
+        "avgDailyTXNS": 298,
+        "avgDailyUniqueUsers": 181
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 27665,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x823F70044351b213083F0ABc2169F95E2731064E"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "This time, ARB was distributed to LPs via Paladin",
+        "expectations": "Paladin should yield a slightly higher efficiency than HiddenHand",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4aea99f2-2347-420f-bd1b-77362f6ce559",
+            "contractLabel": "weETH/wstETH",
+            "contractAddress": "0xcdcef9765d369954a4a936064535710f7235110a"
+          },
+          {
+            "contractId": "08de69d6-d9a4-47cb-acc8-554f02f172ac",
+            "contractLabel": "wstETH/WETH",
+            "contractAddress": "0x7967FA58B9501600D96bD843173b9334983EE6E6"
+          },
+          {
+            "contractId": "4c8e44d9-f951-4f3d-8100-d103a6141370",
+            "contractLabel": "wOETH/WETH",
+            "contractAddress": "0xef0c116a2818a5b1a5d836a291856a321f43c2fb"
+          },
+          {
+            "contractId": "43f02210-bbbc-419e-8c40-a02b0f570b31",
+            "contractLabel": "GYD/aUSDC",
+            "contractAddress": "0x6e822c64c00393b2078f2a5bb75c575ab505b55c"
+          },
+          {
+            "contractId": "e99aac2d-e76d-4201-819d-c64fe3b4c6a9",
+            "contractLabel": "GYD/aUSDT",
+            "contractAddress": "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f"
+          },
+          {
+            "contractId": "440c1fcf-72c1-4bad-8114-102292304117",
+            "contractLabel": "wUSDM/GYD",
+            "contractAddress": "0x315dd595e82bDc0c194f3A38A08fDE480D7E5d21"
+          },
+          {
+            "contractId": "dde3f07d-91f2-4141-a26a-dcbbfbcbecab",
+            "contractLabel": "aGHO/GYD",
+            "contractAddress": "0xff38cc0ce0de4476c5a3e78675b48420a851035b"
+          },
+          {
+            "contractId": "3346c169-25b4-4a91-b753-faacaf369be6",
+            "contractLabel": "sUSDe/GYD",
+            "contractAddress": "0xdeeaf8b0a8cf26217261b813e085418c7dd8f1ee"
+          },
+          {
+            "contractId": "70a6a0f7-ec40-4cc6-9411-d69631ace044",
+            "contractLabel": "sFRAX/aFRAX",
+            "contractAddress": "0x36c2f879f446c3b6533f9703745c0504f3a84885"
+          },
+          {
+            "contractId": "e1b57053-2563-43d9-99f2-b462bd74fd06",
+            "contractLabel": "rETH/wstETH",
+            "contractAddress": "0xa899c63ba9ff275d6bfc83e43ee8e58ff6987584"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 100000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Gyroscope",
+  "grantSummary": "n/a",
+  "fundingAddress": "0x823F70044351b213083F0ABc2169F95E2731064E",
+  "editorAddresses": [],
+  "matchingGrantSize": 100000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/Gyroscope",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x823F70044351b213083F0ABc2169F95E2731064E"
+}

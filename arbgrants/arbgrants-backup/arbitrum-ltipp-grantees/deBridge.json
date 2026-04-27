@@ -1,0 +1,673 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes have been made.",
+        "lessons": "We've learned that it's been a great way to incentivise user onboarding, and community members have been very excited so far.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 5957,
+        "avgDailyUniqueUsers": 845
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The incentives have received great feedback from the community. Projects and community members and users are excited about Arbitrum and what\u2019s happening in the ecosystem. And they are really happy to have the best and fastest way to move to Arbitrum with the deBridge cross-chain infrastructure. ",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 130532,
+        "disclosures": "No disclosures",
+        "arbRemaining": 666668,
+        "contractsIncentivized": [
+          {
+            "contractId": "9fe21c71-6d19-40a0-897b-a2f9d688a865",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "235d198e-a2ba-4bd4-b480-7936765490fa",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "06cc568e-3a24-4a42-a8ad-ffa7941534ad",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "f7a87aa0-7d37-46be-b42d-1f25db026e2d",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "8f5331fc-fc8b-4741-a32f-86c9133e940a",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes have been made. We're continuing with our incentive plan by facilitating activity to Arbitrum (100% rebate) and from Arbitrum (50% rebate). We have already seen tremendous activity with the primary activity being towards Arbitrum which is great to see. During the last 7 days deBridge has settled 31,988 cross-chain transfers through Arbitrum with the aggregated volume exceeding $43M. https://app.debridge.finance/analytics\n",
+        "expectations": "Projects and community members and users are excited about Arbitrum and what\u2019s happening in the ecosystem. And they are really happy to have the best and fastest way to move to Arbitrum with the deBridge cross-chain infrastructure. ",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes have been made.",
+        "lessons": "We are still getting lots of activity and interest in this program, which is great.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 3142,
+        "avgDailyUniqueUsers": 1429
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "This has been another successful cycle and users have been satisfied with the program.",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 130005,
+        "disclosures": "No disclosures",
+        "arbRemaining": 666668,
+        "contractsIncentivized": [
+          {
+            "contractId": "33332cf1-8f38-4406-9d81-58e6b1822566",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0a59352b-f7d7-4d11-b110-a8a2397bacc3",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "3a4b2961-a21d-4fea-80dc-02f8a4391c5a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "e915d87c-46bd-483f-b087-259039abb431",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "7a74fc69-c722-4023-b0f1-1a9dbdaaed95",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "The mechanics have been the same for this cycle, so no changes have been made.",
+        "expectations": "We expected to distribute slightly less than last week, and that seemed to be the case.",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "a18cce0f-b607-4fd6-8288-88c9cef3bdc8",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "a250589c-f081-41f0-967a-1dcaeced501a",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "5d0688da-6af4-49db-964b-cc588b8f571b",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "140a6f99-1b69-4b4f-856d-1a912550f120",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "128071da-3972-4292-8730-df815d2eb793",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes were applied",
+        "lessons": "No meaningful lessons were learned",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 1261,
+        "avgDailyUniqueUsers": 548
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Outcome was quite similar to last cycle",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 102330,
+        "disclosures": "No disclosures",
+        "arbRemaining": 500002,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes have been made, this cycle has remained the same process as previous ones.",
+        "expectations": "Outcomes will likely be similar to the previous cycle",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes have been made, things have been kept the same.",
+        "lessons": "No lessons, just continuing the same cycle strategy as previous cycles.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 1033,
+        "avgDailyUniqueUsers": 520
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We achieved quite a similar distribution to last cycle, and expect a similar outcome in the next cycle.",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 99272,
+        "disclosures": "No disclosures",
+        "arbRemaining": 333336,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes have been made to this cycle, just a continuation of what we've been doing usually.",
+        "expectations": "It will probably be a similar outcome to last cycle, maybe a bit less due to market sentiment",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes have been made.",
+        "lessons": "No meaningful lessons were learned, the process is just continuing as usual.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 764,
+        "avgDailyUniqueUsers": 382
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "There was slightly more activity than last cycle, but everything is running smoothly and as usual.",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 117368,
+        "disclosures": "No disclosures",
+        "arbRemaining": 166670,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes have been made, just like previous cycles.",
+        "expectations": "Due to market volatility, there might be a slight increase in volume during this cycle.",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "Same lessons as other weeks - just continued the standard process.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 1178,
+        "avgDailyUniqueUsers": 485
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Final cycle went well ",
+        "incentives": "",
+        "arbReceived": 166667,
+        "arbUtilized": 76524,
+        "disclosures": "No disclosures",
+        "arbRemaining": 3,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes have been made to this cycle.",
+        "expectations": "We expect the outcomes to be very similar to the other recent cycles in terms of activity.",
+        "arbToBeDistributed": 166667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes were made other than a shorter period of distribution",
+        "lessons": "No lessons were learned.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 578,
+        "avgDailyUniqueUsers": 250
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Nothing new other than a shorter period for distribution",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 30157,
+        "disclosures": "No disclosures",
+        "arbRemaining": 3,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "0db4388a-a1a3-46ce-a51d-8a2476b7581f",
+            "contractLabel": "DlnDestination",
+            "contractAddress": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes were made.",
+        "expectations": "We expect to distribute a bit less ARB for this final week as the period has been reduced by 50% relative to other cycles.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107"
+          },
+          {
+            "contractId": "c0f6af58-949e-4f2b-9139-8d5a3136f53b",
+            "contractLabel": "DlnSource",
+            "contractAddress": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+          },
+          {
+            "contractId": "8b3d62d3-f9b1-4985-ad26-c1e392cf715a",
+            "contractLabel": "CrosschainForwarder",
+            "contractAddress": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "contractId": "990140c2-9fd7-40e5-b08d-c341ff9dad21",
+            "contractLabel": "DeBridgeGate",
+            "contractAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+          },
+          {
+            "contractId": "f551042d-dc13-4525-8e47-a734ebe9473c",
+            "contractLabel": "Claimer",
+            "contractAddress": "0x6D7A3177f3500BEA64914642a49D0B5C0a7Dae6D"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 1000000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "deBridge",
+  "grantSummary": "The goal of the grant is to facilitate onboarding of users and transfers of liquidity between Arbitrum and various blockchain ecosystems connected to deBridge, allocating fee rebates and gas costs to participants.",
+  "fundingAddress": "0x6c1b3813BDFc0916b833E611fC3cDa03C1F75107",
+  "editorAddresses": [],
+  "matchingGrantSize": 1000000,
+  "metricsDashboardLink": "https://app.debridge.finance/analytics",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xF67fCCd506C0A8e6F8B5d7cB6B02E3140fCc9031"
+}

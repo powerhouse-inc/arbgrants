@@ -1,0 +1,276 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Significant TVL growth (in ETH terms)",
+        "lessons": "N/A",
+        "avgDailyTVL": 5842893,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 3951
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Claims functionality it live",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": 325000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Rewards were distributed to all LP users, not just users who \"bonded\". This was because the incentives were retroactively applied to users",
+        "expectations": "15% TVL growth (in ETH terms)",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No significant changes applied to the program.",
+        "lessons": "Growth is consistent. Current rewards rate seems to be quickly attracting capital, reducing concerns about not doing a gradual increase in incentive amount.",
+        "avgDailyTVL": 755729049,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 4013
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL growing consistently. From the start of the program, already up 20%",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "None from previous period",
+        "expectations": "Continued TVL growth at a similar rate",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes during period",
+        "lessons": "Growth was slower partially due to saturation, but also due to ETH price volatility. While the TVL in ETH terms is at an ATH from the start of the program, the TVL in USD terms is down from ATH.",
+        "avgDailyTVL": 6500000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 4050
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As expected growth is slower, but still continuing. ",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No significant changes from previous period.",
+        "expectations": "Expecting growth to slow a bit. So far we've had rapid growth from the incentive influx but as TVL increases the relative effect of the incentives is reduced",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "ETH price seems to have a strong effect on whether users are attracted to our product (and the incentives). However, retention has been strong in any case",
+        "avgDailyTVL": 7646808,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 4122
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Strong growth in both ETH and USD terms. TVL is at an ATH",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Expecting continued slow growth. ETH price appreciation could help make users more risk-on",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "TVL is still at an ATH in ETH terms but growth has slowed. Hard to tell if it's ETH price action or we've reached the market clearing rate for incentives",
+        "avgDailyTVL": 648503652,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 4140
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As expected, growth has slowed",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": -50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Expecting growth to stabilize",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "Seeing some users drop-off with the anticipated end of the incentive program, but still reasonable retention rates",
+        "avgDailyTVL": 631372423,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 4181
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Volatile period. Significant growth followed by a drop-off (probably people anticipating incentives being over)",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": -50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Expecting a bit of growth but believe we've mostly saturated",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 400000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Sommelier",
+  "grantSummary": "",
+  "fundingAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://dune.com/sevenseas/arbitrum",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6D6444b54FEe95E3C7b15C69EfDE0f0EB3611445"
+}

@@ -1,0 +1,490 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes",
+        "lessons": "The original intent of the grant was to achieve $5m TVL with at least 100 addresses with open positions. Given the price cut of ARB, the expected new goal is $2.5m TVL. Alchemix is already well on its way to these goals, with more marketing/incentives planned to aid in the expansion. \n\nWhile TVL is good, the goal is to provide self repaying loans, which requires deep liquidity for alAssets. The uptake on liquidity has not been as easy to obtain as the uptake in TVL. Alchemix is exploring ways to better educate/incentivize liquidity, including potentially migrating some additional liquidity from Mainnet to better support loan-takers.",
+        "avgDailyTVL": 638104,
+        "avgDailyTXNS": 7048,
+        "avgDailyUniqueUsers": 88
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distrubution did not begin until June 10th. \nWeek 1 of LP incentives was distributed on June 10th (8250 ARB). \n8250 ARB was sent to the reward contract, which will distribute the arb over a 2 week period (June 10-24).",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 16500,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "9bdf8d11-9804-405f-90c0-2d7f817e3574",
+            "contractLabel": "Alchemix Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "19df2381-2298-453e-b8d6-5e0b89f4c576",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "200b8a85-cddf-45fa-8857-8519bf08f58d",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No planned changes",
+        "expectations": "Expect TVL in both alAsset liquidity pools and Alchemix vaults to increase.",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "No new lessons - but actively took action on previous lessons. Did a few twitter spaces, which seems to have brought in more liquidity to alAsset pools. TVL continues to increase. Primary goals for the upcoming 4-6 weeks are to deploy the updated UI, start the Layer3 Arb quest, and deploy gearbox and jonesUSDC strategies. ",
+        "avgDailyTVL": 964927,
+        "avgDailyTXNS": 585,
+        "avgDailyUniqueUsers": 82
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8250 ARB/week is being used to incentivize Ramses LPers. \nThe reward contract will run out on June 24th. On June 24th, 8250 ARB will be sent to the reward router contract, which will be instructed to distribute the ARB between June 24th and July 8th.\nThis system means the grant period for Alchemix will terminate 1 week after the completion of the 12 week window, which fits within the 1 week grace period giving by the LTIPP group.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "44f34330-d944-4988-8e2b-7e3fd4dddd29",
+            "contractLabel": "Alchemix Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "524f9e51-fa30-405f-9ad7-d59219e9b8b3",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "be88c9f3-b443-485c-82c9-7a0f2a1883f9",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No planned changes.",
+        "expectations": "Expect to continue to see TVL and daily active user increases.",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "3684fa60-efd4-472f-b098-18fa2f9289e5",
+            "contractLabel": "Alchemix Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "dc42f4d1-da86-4ef3-8bdc-29954acbd5f4",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "No specific new lessons. TVL remaining stagnant (while accounting for market dip) confirms that we will need additional updates to bring the next wave of TVL. Gearbox yield strategies are nearing completion, which will be ~3x higher yield than existing strategies. ",
+        "avgDailyTVL": 831532,
+        "avgDailyTXNS": 561,
+        "avgDailyUniqueUsers": 75
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8250 ARB/week is being used to incentivize Ramses LPers. \nThe reward contract will run out on July 8th. On July 8th, 8250 ARB will be sent to the reward router contract, which will be instructed to distribute the ARB between July 8th and 22nd. \nThis system means the grant period for Alchemix will terminate 1 week after the completion of the 12 week window, which fits within the 1 week grace period giving by the LTIPP group.\n",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c142419c-4474-488e-ba0a-6b2b24393d17",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "d5fdc385-ba9b-4af8-8075-9ac00b4ab52b",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "9eea151b-9d5f-45cc-8d75-90ce69cb25d3",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No planned changes.",
+        "expectations": "Expect TVL in both alAsset liquidity pools and Alchemix vaults to stay the same or increase. We expect the next major growth phase to be fueled by integrating new yield strategies (4-6 weeks), the UI update (4 weeks), and the layer3 arb quest (4-6 weeks).",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "848a07e8-a6ca-4bd8-b742-8115412c7e91",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "53ee0a9f-513d-4b05-a800-664ccfeaefca",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "7d7f5e0f-b86c-4aef-b69c-75d221b56002",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "TVL went up rather than remaining flat, indicating ongoing communications efforts (twitter spaces, announcements, etc) have been effective. We are still hoping to make a bigger splash by integrating new yield strategies (1-3 weeks), the UI update (1-2 weeks), and the layer3 arb quest (2-3 weeks).",
+        "avgDailyTVL": 1040003,
+        "avgDailyTXNS": 805,
+        "avgDailyUniqueUsers": 93
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8250 ARB/week is being used to incentivize Ramses LPers. \nThe reward contract will run out on July 22nd. On July 22nd, 8250 ARB will be sent to the reward router contract, which will be instructed to distribute the ARB between July 22nd and Aug 5th.\nThis system means the grant period for Alchemix will terminate 1 week after the completion of the 12 week window, which fits within the 1 week grace period giving by the LTIPP group.\n",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No Planned Changes",
+        "expectations": "Expect TVL in both alAsset liquidity pools and Alchemix vaults to stay the same or increase. We expect the next major growth phase to be fueled by integrating new yield strategies (2-4 weeks), the UI update (2 weeks), and the layer3 arb quest (2-4 weeks).",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "TVL went up rather than remaining flat, indicating ongoing communications efforts (twitter spaces, announcements, etc) have been effective. We are still hoping to make a bigger splash by integrating new yield strategies (1-3 weeks), the UI update (this week), and the layer3 arb quest (1 week).",
+        "avgDailyTVL": 1253458,
+        "avgDailyTXNS": 717,
+        "avgDailyUniqueUsers": 79
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8250 ARB/week is being used to incentivize Ramses LPers. \nThe reward contract will run out on Aug 20th. On Aug 20th, 8250 ARB will be sent to the reward router contract, which will be instructed to distribute the ARB between Aug 20th and Sept 3rd.  ",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No planned changes.",
+        "expectations": "Expect TVL in both alAsset liquidity pools and Alchemix vaults to stay the same or increase. We expect the next major growth phase to be fueled by integrating new yield strategies (1-3 weeks), the UI update (1-2 weeks), and the layer3 arb quest (2-3 weeks).",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes. ",
+        "lessons": "TVL has continued to go up. The net yield earned by depositors is in line or below market rates (10% for stables, 15% for eth). This shows that users are not demanding significant yield premium in order to use Alchemix, indicating that Alchemix is an effective way to bring TVL to Arbitrum. The associated dex activity also increase txn/user count.  This supports Alchemix's goal to expand yield offerings on Arbitrum, and confirms that future incentives can be effective.",
+        "avgDailyTVL": 1555376,
+        "avgDailyTXNS": 556,
+        "avgDailyUniqueUsers": 78
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8250 ARB/week is being used to incentivize Ramses LPers. \nThe reward contract will run out on Aug 20th. On Aug 20th, 8250 ARB will be sent to the reward router contract, which will be instructed to distribute the ARB between Aug 20th and Aug Sept 2nd .\nThis system means the grant period for Alchemix will terminate 1 week after the completion of the 12 week window, which fits within the 1 week grace period giving by the LTIPP group.\n",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No Planned Changes",
+        "expectations": "Expect TVL in both alAsset liquidity pools and Alchemix vaults to stay the same or increase. We expect the next major growth phase to be fueled by integrating new yield strategies (1-3 weeks), the UI update (this week), and the layer3 arb quest (1 week).",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "Overall takeaway: Alchemix was able to attract non-negligible TVL with some marketing at reasonable rates. We are continuing to build our additional yield strategies, and have initiated our layer3 quest this week, to re-affirm our commitment to arbitrum despite the program ending. Alchemix was also able to fully distribute the grant on-time, and meet all metric tracking requirements. The ultimate goals were not met, largely due to a significant market downturn that reduced the metrics that the initial application was based on. \nOverall we look forward to continued growth on Arbitrum and look forward to the evolution of the LTIPP process. ",
+        "avgDailyTVL": 1376987,
+        "avgDailyTXNS": 1100,
+        "avgDailyUniqueUsers": 70
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8250 ARB/week is being used to incentivize Ramses LPers\nThe remaining ARB is incentivizing depositors thru sept 8th. \n",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 33500,
+        "disclosures": "As discussed in the proposal, Alchemix owns a portion of the ramses liquidity for each alAsset. ARB earned by these positions will be used to extend the effective grant period.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No planned changes. ",
+        "expectations": "Expect TVL in both alAsset liquidity pools and Alchemix vaults to stay the same or increase. We expect continued positive response from the UI relaunch, and will continue to incentivize Alchemix on Arbitrum thru our own treasury, as well as a layer 3 quest and new strategies.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a604ad5-6fb3-4dde-b17d-c4fc2bacdc43",
+            "contractLabel": "Reward Router",
+            "contractAddress": "0xaBad1aDaB8A51a00665A3B76DA0E32b2D2F1a6db"
+          },
+          {
+            "contractId": "b7cb842c-8180-4ac5-9210-e17ed244999a",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0x43fbf34df6da5fC66E15E023D3b690Fd0dE33cD7"
+          },
+          {
+            "contractId": "c1c12463-6979-4430-aee9-31c5e03ab283",
+            "contractLabel": "Ramses Reward Contract",
+            "contractAddress": "0xC3f26d2Fa16129a8d4A5A0f94D25F2cdd9005CDb"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 150000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Alchemix",
+  "grantSummary": "Distribute 33% of ARB to Alchemix vaults on Arbitrum, 66% to alAsset liquidity pools.",
+  "fundingAddress": "0x9900B42401FD3698a5F6D78b8875813685237875",
+  "editorAddresses": [],
+  "matchingGrantSize": 150000,
+  "metricsDashboardLink": "https://dune.com/alchemix/arbitrum-grant (OBL approved), https://dune.com/alchemix/arbitrum-grant-metrics (in house with more data, but out of date due to OBL requirements)",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x9900B42401FD3698a5F6D78b8875813685237875"
+}

@@ -1,0 +1,348 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 130387,
+        "avgDailyTXNS": 108,
+        "avgDailyUniqueUsers": 25
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives have yet to start, nothing to report at this time.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Incentives have yet to start, nothing to report at this time.",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "23b50d63-8d70-49d5-b2df-0eb33e12c257",
+            "contractLabel": "Funding & Disbursement Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We have slightly changed the required actions to qualify for the rewards.\n\nTo qualify, users must:\n- Maintain a net deposit balance of $500 \n- Subscribe a minimum of $50 to 3 different active managers (you must keep your subscription active at all times for it to count towards rewards)\n$ARB rewards subject to rolling 2 week vesting period\n\n\nAll rewards payouts will be subject to manual review, and the team reserves unilateral discretion to withold payouts if sybil activity is detected.",
+        "expectations": "We just announced that we plan to begin tracking Monday 6/24. We're expecting to see a surge in number of users, as well as overall subscription capital on the platform.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "7880e4e6-cb94-4517-83aa-2b49cf6dc258",
+            "contractLabel": "Funding & Disbursement Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Market downturn.",
+        "lessons": "We are very dependent on current market conditions. With the recent cascade in liquidations, a lot of our traders seem to be taking a step back (hence the drastic drop in daily transactions, unique users, etc.)",
+        "avgDailyTVL": 130386,
+        "avgDailyTXNS": 53,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Anecdotally we've seen excitement around the $ARB incentive program, we'll be digging deeper after this first round of rewards to see what impacts we're immediately seeing, and if we need to make any further changes.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "First batch of incentives to be disbursed this coming Sunday.",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "f53461b0-189f-4258-ad78-63ee590763ac",
+            "contractLabel": "Funding & Disbursement Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No immediate changes, first disbursement will be made this coming Sunday.",
+        "expectations": "We expect to see a small bump in # of active users, as well as trading volume.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "6e9a72c0-d60f-4667-a659-b69e12098ecc",
+            "contractLabel": "Funding & Disbursement Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Almost doubled DAU from 15 to 28!\nSaw a surge in average daily transactions (53-->132) \nOverall daily volume increased 130K to 148K\n",
+        "lessons": "Main lesson is that our platform is incredibly market dependent. As we heavily rely on trader activity, if OI gets wiped and they are hit hard by a sudden dip/liquidation, there's typically a lag time for them to get back in the market as sentiment is poor. Thus our metrics suffer. \n\nAside from this, we need to continue shouting from the rooftops about the $ARB incentives now that we've finally started dishing them out. Showing the amount some users are receiving currently should be incentive enough for folks to try our platform out and attempt to qualify.",
+        "avgDailyTVL": 148000,
+        "avgDailyTXNS": 132,
+        "avgDailyUniqueUsers": 28
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/A",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 0,
+        "disclosures": "N/A",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes being made.",
+        "expectations": "We expect to continue seeing an increase in DAUs, and Volume.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Market conditions definitely have major impacts on our business. Lots of our traders are \"long-biased\" and therefore any dip or scare in the market can really set us back on our numbers.",
+        "avgDailyTVL": 148200,
+        "avgDailyTXNS": 132,
+        "avgDailyUniqueUsers": 28
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Issued out another 50,000 $ARB over two weeks.\nWhipsaw in the market definitely played a part in our volume and active users. (People getting liq'd and not opening new trades --> spike in volume but then expecting a bit of a fall off)",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "Nothing new to disclose.",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "We expect to continue seeing an increase in DAUs, TXNs, and Volume.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes made.",
+        "lessons": "Experiencing softness in our business because many traders have been chopped up / liquidated in these trading conditions. Expecting to see continue softness once this choppy summer resolves.",
+        "avgDailyTVL": 137886,
+        "avgDailyTXNS": 21,
+        "avgDailyUniqueUsers": 106
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Continuing to issue out 50,000 $ARB across all qualified users every 2 weeks.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 50000,
+        "disclosures": "No specific disclosures to mention.",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No applicable changes.",
+        "expectations": "Expecting to see continued slowness due to market conditions.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Distributing 50,000 $ARB across qualifying users.",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "No disclosures to include.",
+        "arbRemaining": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes.",
+        "expectations": "Expecting more of the same. Choppy trading conditions softening our business as traders are not thriving in this environment. We will continue to distribute the $ARB incentives to qualifying users.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "To not be so reliant on a few big traders, we shouldn't have had so many eggs in one basket. We also were very focused on product, and less focused on token price (which was not helpful in terms of building community morale). We have an amazing, fully-functioning product - but because people can't make money on the token, and all the attention is elsewhere, it's difficult to find distribution.",
+        "avgDailyTVL": 7200,
+        "avgDailyTXNS": 14,
+        "avgDailyUniqueUsers": 6
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "All $ARB has been disbursed to users.",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": "None",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes were made",
+        "expectations": "Expected a down week because we lost our biggest traders and token performance has been down (one large token holder dumping). Morale was very low across entire community, and thus all metrics were down (volumes, DAU, etc.)",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 300000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "STFX",
+  "grantSummary": "",
+  "fundingAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c",
+  "editorAddresses": [],
+  "matchingGrantSize": 300000,
+  "metricsDashboardLink": "https://dune.com/stfx/stfx-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x145F43a2bFB5915Dc39b83a499A8db19686cD46c"
+}

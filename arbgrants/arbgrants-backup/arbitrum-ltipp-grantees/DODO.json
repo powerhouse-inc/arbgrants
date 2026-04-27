@@ -1,0 +1,483 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "Need to use regular Safe wallet for receiving grants.",
+        "avgDailyTVL": 1400000,
+        "avgDailyTXNS": 1965,
+        "avgDailyUniqueUsers": 452
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We did not receive the first payment of LTIPP due to a compatibility issue with our multi-sig. As a result, there are no ARB funds available for utilization.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We did not receive the first payment of LTIPP due to a compatibility issue with our multi-sig. As a result, there are no ARB funds available for utilization.",
+        "arbRemaining": 350000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a\n",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 1400000,
+        "avgDailyTXNS": 1799,
+        "avgDailyUniqueUsers": 798
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have claimed the first two batches of grants but have not yet launched the new pools. We anticipate starting distribution in the next period.",
+        "incentives": "",
+        "arbReceived": 116668,
+        "arbUtilized": 0,
+        "disclosures": "n/a",
+        "arbRemaining": 291666,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "After analyzing the current market conditions, we've found that the USDT/USDC trading volume has reached saturation. However, there has been a recent surge in volume from mainstream assets like BTC and ETH. As a result, we have decided to launch additional pools, specifically in partnership with SolvBTC. This move will also support the growth of Arbitrum's TVL, helping us reach the expected milestone.",
+        "expectations": "We expect to spin up more pools next period.",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 1700000,
+        "avgDailyTXNS": 1147,
+        "avgDailyUniqueUsers": 2208
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 58334,
+        "arbUtilized": 18900,
+        "disclosures": "n/a",
+        "arbRemaining": 174998,
+        "contractsIncentivized": [
+          {
+            "contractId": "1a09baef-eaa0-4bcd-9bba-c40f659dfe6b",
+            "contractLabel": "SolvBTC1",
+            "contractAddress": "0x917c446e99299cacc6e42d77524cf63e7390d03d"
+          },
+          {
+            "contractId": "1ef879b9-45fd-4f49-a517-2c190df2fb46",
+            "contractLabel": "SolvBTC2",
+            "contractAddress": "0x4384f4ab815c2e46af820cd72381d9ff16067a56"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [
+          {
+            "contractId": "1a09baef-eaa0-4bcd-9bba-c40f659dfe6b",
+            "contractLabel": "SolvBTC1",
+            "contractAddress": "0x917c446e99299cacc6e42d77524cf63e7390d03d"
+          },
+          {
+            "contractId": "1ef879b9-45fd-4f49-a517-2c190df2fb46",
+            "contractLabel": "SolvBTC2",
+            "contractAddress": "0x4384f4ab815c2e46af820cd72381d9ff16067a56"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 4375000,
+        "avgDailyTXNS": 5109,
+        "avgDailyUniqueUsers": 1125
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 58334,
+        "arbUtilized": 28900,
+        "disclosures": "n/a",
+        "arbRemaining": 116664,
+        "contractsIncentivized": [
+          {
+            "contractId": "1a09baef-eaa0-4bcd-9bba-c40f659dfe6b",
+            "contractLabel": "SolvBTC1",
+            "contractAddress": "0x917c446e99299cacc6e42d77524cf63e7390d03d"
+          },
+          {
+            "contractId": "1ef879b9-45fd-4f49-a517-2c190df2fb46",
+            "contractLabel": "SolvBTC2",
+            "contractAddress": "0x4384f4ab815c2e46af820cd72381d9ff16067a56"
+          },
+          {
+            "contractId": "6c0b62d6-e571-4ea7-a4cf-2816eeb271ad",
+            "contractLabel": "ezETH1",
+            "contractAddress": "0xD10cc6E845aeB28A0BEebAE7a5a827EC38c4D1C1"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "Expected to spin up an ezETH pool",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 6300000,
+        "avgDailyTXNS": 4211,
+        "avgDailyUniqueUsers": 1068
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 58334,
+        "arbUtilized": 46200,
+        "disclosures": "n/a",
+        "arbRemaining": 58330,
+        "contractsIncentivized": [
+          {
+            "contractId": "c79d64ee-e486-4f8a-8226-7e0538e7999f",
+            "contractLabel": "SolvBTC.BBN-SolvBTC",
+            "contractAddress": "0xa80bf7a8192248e218b74122d3556f51c8ec6b71"
+          },
+          {
+            "contractId": "3dd12680-3db9-4e4d-b9a2-61acc4c9a774",
+            "contractLabel": "SolvBTC.ENA-SolvBTC",
+            "contractAddress": "0x3e2a9c72ce57a517dea6c41a91f781c2ec617ae9"
+          },
+          {
+            "contractId": "b5fe6f01-08ca-4dee-b40a-3c9567d62f63",
+            "contractLabel": "SolvBTC-WBTC",
+            "contractAddress": "0xb502c6b5867e21b84a15250bbd3d3d373348aee4"
+          },
+          {
+            "contractId": "29d88df2-9b9c-43cc-8941-931d388ba82f",
+            "contractLabel": "weETH-WETH",
+            "contractAddress": "0x3a89f71bd4e70e5d1ad671e9fbd2d33785cf3e77"
+          },
+          {
+            "contractId": "f1650d95-7e29-48b9-abd4-57687bd2f305",
+            "contractLabel": "ezETH-WETH",
+            "contractAddress": "0x2d897e9030223d11a3b0d9c77c3ded5a8f180f13"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "We will launch some new SolvBTC pools for this period and an additional weETH pool",
+        "expectations": "Expected to have the TVL milestone reached",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [
+          {
+            "contractId": "c79d64ee-e486-4f8a-8226-7e0538e7999f",
+            "contractLabel": "SolvBTC.BBN-SolvBTC",
+            "contractAddress": "0xa80bf7a8192248e218b74122d3556f51c8ec6b71"
+          },
+          {
+            "contractId": "3dd12680-3db9-4e4d-b9a2-61acc4c9a774",
+            "contractLabel": "SolvBTC.ENA-SolvBTC",
+            "contractAddress": "0x3e2a9c72ce57a517dea6c41a91f781c2ec617ae9"
+          },
+          {
+            "contractId": "b5fe6f01-08ca-4dee-b40a-3c9567d62f63",
+            "contractLabel": "SolvBTC-WBTC",
+            "contractAddress": "0xb502c6b5867e21b84a15250bbd3d3d373348aee4"
+          },
+          {
+            "contractId": "29d88df2-9b9c-43cc-8941-931d388ba82f",
+            "contractLabel": "weETH-WETH",
+            "contractAddress": "0x3a89f71bd4e70e5d1ad671e9fbd2d33785cf3e77"
+          },
+          {
+            "contractId": "f1650d95-7e29-48b9-abd4-57687bd2f305",
+            "contractLabel": "ezETH-WETH",
+            "contractAddress": "0x2d897e9030223d11a3b0d9c77c3ded5a8f180f13"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 8320000,
+        "avgDailyTXNS": 7234,
+        "avgDailyUniqueUsers": 1026
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Added USDT-USDC and had all incentives ends on Sept 2nd",
+        "incentives": "",
+        "arbReceived": 58330,
+        "arbUtilized": 71588,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "c79d64ee-e486-4f8a-8226-7e0538e7999f",
+            "contractLabel": "SolvBTC.BBN-SolvBTC",
+            "contractAddress": "0xa80bf7a8192248e218b74122d3556f51c8ec6b71"
+          },
+          {
+            "contractId": "3dd12680-3db9-4e4d-b9a2-61acc4c9a774",
+            "contractLabel": "SolvBTC.ENA-SolvBTC",
+            "contractAddress": "0x3e2a9c72ce57a517dea6c41a91f781c2ec617ae9"
+          },
+          {
+            "contractId": "b5fe6f01-08ca-4dee-b40a-3c9567d62f63",
+            "contractLabel": "SolvBTC-WBTC",
+            "contractAddress": "0xb502c6b5867e21b84a15250bbd3d3d373348aee4"
+          },
+          {
+            "contractId": "29d88df2-9b9c-43cc-8941-931d388ba82f",
+            "contractLabel": "weETH-WETH",
+            "contractAddress": "0x3a89f71bd4e70e5d1ad671e9fbd2d33785cf3e77"
+          },
+          {
+            "contractId": "f1650d95-7e29-48b9-abd4-57687bd2f305",
+            "contractLabel": "ezETH-WETH",
+            "contractAddress": "0x2d897e9030223d11a3b0d9c77c3ded5a8f180f13"
+          },
+          {
+            "contractId": "0f44d344-4ed1-4a15-b3fc-f0ac1fa706c9",
+            "contractLabel": "USDT-USDC",
+            "contractAddress": "0x2e50e3e18c19c7d80b81888a961a13aee49b962e"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "We will be adding more pools to use the remaining ARB incentives",
+        "expectations": "Expected the TVL to reach 130% of milesone",
+        "arbToBeDistributed": 58330,
+        "contractsIncentivized": [
+          {
+            "contractId": "c79d64ee-e486-4f8a-8226-7e0538e7999f",
+            "contractLabel": "SolvBTC.BBN-SolvBTC",
+            "contractAddress": "0xa80bf7a8192248e218b74122d3556f51c8ec6b71"
+          },
+          {
+            "contractId": "3dd12680-3db9-4e4d-b9a2-61acc4c9a774",
+            "contractLabel": "SolvBTC.ENA-SolvBTC",
+            "contractAddress": "0x3e2a9c72ce57a517dea6c41a91f781c2ec617ae9"
+          },
+          {
+            "contractId": "b5fe6f01-08ca-4dee-b40a-3c9567d62f63",
+            "contractLabel": "SolvBTC-WBTC",
+            "contractAddress": "0xb502c6b5867e21b84a15250bbd3d3d373348aee4"
+          },
+          {
+            "contractId": "29d88df2-9b9c-43cc-8941-931d388ba82f",
+            "contractLabel": "weETH-WETH",
+            "contractAddress": "0x3a89f71bd4e70e5d1ad671e9fbd2d33785cf3e77"
+          },
+          {
+            "contractId": "f1650d95-7e29-48b9-abd4-57687bd2f305",
+            "contractLabel": "ezETH-WETH",
+            "contractAddress": "0x2d897e9030223d11a3b0d9c77c3ded5a8f180f13"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 8750000,
+        "avgDailyTXNS": 11225,
+        "avgDailyUniqueUsers": 1954
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We launched trading contest and distributed the ARB tokens on Aug 27th and Sept 2nd",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 184412,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "c79d64ee-e486-4f8a-8226-7e0538e7999f",
+            "contractLabel": "SolvBTC.BBN-SolvBTC",
+            "contractAddress": "0xa80bf7a8192248e218b74122d3556f51c8ec6b71"
+          },
+          {
+            "contractId": "3dd12680-3db9-4e4d-b9a2-61acc4c9a774",
+            "contractLabel": "SolvBTC.ENA-SolvBTC",
+            "contractAddress": "0x3e2a9c72ce57a517dea6c41a91f781c2ec617ae9"
+          },
+          {
+            "contractId": "b5fe6f01-08ca-4dee-b40a-3c9567d62f63",
+            "contractLabel": "SolvBTC-WBTC",
+            "contractAddress": "0xb502c6b5867e21b84a15250bbd3d3d373348aee4"
+          },
+          {
+            "contractId": "29d88df2-9b9c-43cc-8941-931d388ba82f",
+            "contractLabel": "weETH-WETH",
+            "contractAddress": "0x3a89f71bd4e70e5d1ad671e9fbd2d33785cf3e77"
+          },
+          {
+            "contractId": "0f44d344-4ed1-4a15-b3fc-f0ac1fa706c9",
+            "contractLabel": "USDT-USDC",
+            "contractAddress": "0x2e50e3e18c19c7d80b81888a961a13aee49b962e"
+          },
+          {
+            "contractId": "f1650d95-7e29-48b9-abd4-57687bd2f305",
+            "contractLabel": "ezETH-WETH",
+            "contractAddress": "0x2d897e9030223d11a3b0d9c77c3ded5a8f180f13"
+          },
+          {
+            "contractId": "4117c9e9-7399-4517-a7c2-41677ffc525e",
+            "contractLabel": "trading contest A",
+            "contractAddress": "0x1e801c730d91e7a79a11e167362dfa7387c9f990"
+          },
+          {
+            "contractId": "96f2f0cc-00b3-4a74-9a22-41e23af73b3a",
+            "contractLabel": "trading contest B",
+            "contractAddress": "0xd999a05a47c2e72a930bb2a386acc1657903bb3d"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "c79d64ee-e486-4f8a-8226-7e0538e7999f",
+            "contractLabel": "SolvBTC.BBN-SolvBTC",
+            "contractAddress": "0xa80bf7a8192248e218b74122d3556f51c8ec6b71"
+          },
+          {
+            "contractId": "3dd12680-3db9-4e4d-b9a2-61acc4c9a774",
+            "contractLabel": "SolvBTC.ENA-SolvBTC",
+            "contractAddress": "0x3e2a9c72ce57a517dea6c41a91f781c2ec617ae9"
+          },
+          {
+            "contractId": "b5fe6f01-08ca-4dee-b40a-3c9567d62f63",
+            "contractLabel": "SolvBTC-WBTC",
+            "contractAddress": "0xb502c6b5867e21b84a15250bbd3d3d373348aee4"
+          },
+          {
+            "contractId": "29d88df2-9b9c-43cc-8941-931d388ba82f",
+            "contractLabel": "weETH-WETH",
+            "contractAddress": "0x3a89f71bd4e70e5d1ad671e9fbd2d33785cf3e77"
+          },
+          {
+            "contractId": "0f44d344-4ed1-4a15-b3fc-f0ac1fa706c9",
+            "contractLabel": "USDT-USDC",
+            "contractAddress": "0x2e50e3e18c19c7d80b81888a961a13aee49b962e"
+          },
+          {
+            "contractId": "f1650d95-7e29-48b9-abd4-57687bd2f305",
+            "contractLabel": "ezETH-WETH",
+            "contractAddress": "0x2d897e9030223d11a3b0d9c77c3ded5a8f180f13"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 350000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "DODO",
+  "grantSummary": "",
+  "fundingAddress": "0x9558d53D47670446F833Dde201ce9746B3270295",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x9558d53D47670446F833Dde201ce9746B3270295"
+}

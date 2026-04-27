@@ -1,0 +1,731 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 1200000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/A",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "N/A",
+        "arbRemaining": 125000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We have yet to receive our 1st ARB grant at this stage, so we are delaying the incentive program until we received it",
+        "expectations": "Awaiting receival of 1st tranche of incentives",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Increased amount of ARB given to try to hit APRs of > 20%",
+        "lessons": "N/A",
+        "avgDailyTVL": 1370000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 119
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Actual ARB disbursements from plan:\nWeek 1 (12th June to 19th June): 2990\nWeek 2 (19th June to 26th June): 5540\n\n[TO BE CONFIRMED] Total TVL: ~1.06m -> 1.14m",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 8530,
+        "disclosures": "N/A",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d80a437-5add-41fe-8413-5d61cab84f5d",
+            "contractLabel": "MultiClaims",
+            "contractAddress": "0x1F083a6C74D88c451B84147Bf0177a76a4c2a516"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We are planning to give out ARB incentives for lending liquidity on a weekly basis to lenders.\n\nWe got our ARB disbursement a little late, so we are starting our first week to be on 12th June to 19th June (Wednesday to Wednesday).",
+        "expectations": "For the first week, we are ramping up incentives distribution slowly. This is also because we were finishing up the distribution of GMX ARB STIP grants from before.\n\nNote that when we initially planned out the ARB distribution, we assumed the price of ARB to be at $2 USD. However as of 12th June, the price of ARB is about $0.93 USD. As such, we do expect an increase in the ARB distribution on a weekly basis as we aim to try to provide an attractive APR to our lending vaults from ARB incentives.\n\nExpected ARB disbursements from plan:\nWeek 1 (12th June to 19th June): 2115\nWeek 2 (19th June to 26th June): 2538\n\nTotal TVL: ~1.06m -> hope to increase it to 1.42m",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Price of ARB dropped to ~$0.83 to $0.62, hence the increase in amount of ARB from expectations",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 140
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Actual ARB disbursements:\nWeek 3 (26th June to 3rd July): 6640\nWeek 4 (3rd July to 10th July): 7640\n\nTotal TVL: ~1.14m USD -> 1.47m",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 14185,
+        "disclosures": "Price of ARB dropped to ~$0.83 to $0.62, hence the increase in amount of ARB from expectations",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We do expect to increase the amount of ARB to be distributed to maintain APRs of 20% for USDC and ETH lending vaults.\n\nAs our TVL is lower than expected, we aim to revise the targets to ~1.5m",
+        "expectations": "Expected ARB disbursements from plan: \nWeek 3 (26th June to 3rd July): 3279 \nWeek 4 (3rd July to 10th July): 4249\n\n[TO BE CONFIRMED] Total TVL: ~1.14m -> aim to increase it to 2.2m base on original plans\nWe do think this might be too large a stretch however, and would like to revise it to 1.5m",
+        "arbToBeDistributed": 7528,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Slight increase in ARB distributed",
+        "lessons": "N/A",
+        "avgDailyTVL": 2170000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Actual ARB disbursements:\nWeek 5 (10th July to 17th July): 7640\nWeek 6 (17th July to 24th July): 7640\n\n[TO BE CONFIRMED] Total TVL: increased to 2.17m",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 15280,
+        "disclosures": "Slight increase of the ARB amount to match APRs of at least 20% for Lending Vaults with a focus on the USDC and ETH Lending Vaults. ARB price remain at around $0.70-$0.75 hence no large increase in distribution.",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We do expect to increase the amount of ARB to be distributed to maintain APRs of 20% for USDC and ETH lending vaults.\n\nAs our TVL is lower than expected, we aim to revise the targets to ~2m by end of Week 6.",
+        "expectations": "Expected ARB disbursements from plan: \nWeek 5 (10th July to 17th July): 5523 \nWeek 6 (17th July to 24th July): 7200\n\n[TO BE CONFIRMED] Total TVL: ~1.47m -> aim to increase it to 2m",
+        "arbToBeDistributed": 12723,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Market experienced a huge crash during this period, with ARB prices dropping from $0.75 to $0.50. Other assets had also dropped, and TVL as a result has dipped with no new significant growth from users. Outflows are also observed.",
+        "lessons": "We should mostly focus on USDC lenders, especially as they are an avenue during crashes due to USDC being stable. Additionally, this can also allow for borrowers who would like to go long during this period to do so. Last but not least, our delta neutral vaults are still working great especially during downturns, USDC lending is also required to increase capacity for them.",
+        "avgDailyTVL": 1850000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Actual ARB disbursements: \nWeek 7 (24th July to 31st July): 9240 \nWeek 8 (31st July to 7th August): 10860\n\n[TO BE CONFIRMED] Total TVL: ~2.17m -> aim to increase it to ~1.85m",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 20100,
+        "disclosures": "Slight increase in ARB to compensate for the drop in prices, as well as to try to attract more liquidity.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "As our TVL growth isn't growing as much as the original proposal (but still growing), the expected ARB to be given will be drastically reduced. \n\nHowever, we do still aim to continue incentivising the vaults, especially the USDC and ETH vaults, with a target of at least 20% APRs. ",
+        "expectations": "Expected ARB disbursements from plan: \nWeek 7 (24th July to 31st July): 9240 \nWeek 8 (31st July to 7th August): 9400\n\n[TO BE CONFIRMED] Total TVL: ~2m -> aim to increase it to 2.5m",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We reduced the rewards to be given to be more prudent during week 9 and 10, as we observe the market still recovering from the recent price crashes. We then increase rewards in week 11 and week 12 as we see TVL growth slightly picking up, and as we also launch a new integration with Aark Digital, and we wanted to increase the USDC lending liquidity.",
+        "lessons": "Partner integrations to delta neutral passive vaults work better for our protocol. Co-marketing with other protocols is key.",
+        "avgDailyTVL": 2100000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Actual ARB disbursements: \nWeek 9 (7th August to 14th August): 8000\nWeek 10 (14th August to 21st August): 8000\n\n\nTotal TVL: ~1.85m -> hit a peak of $2.7m -> dipped to $2.1m\n\n",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 16000,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "As our TVL growth isn't growing as much as the original proposal (but still growing), the expected ARB to be given will be drastically reduced. \n\nHowever, we do still aim to continue incentivising the vaults, especially the USDC and ETH vaults, with a target of at least 20% APRs.\n\nIn a bid to try to attract and retain more liquidity, we are looking to increase the amount of ARB incentives to the Lending Vault by 15% every week, while we reduce the ARB incentives to other lending vaults by 25-50%.\n",
+        "expectations": "Expected ARB disbursements: \nWeek 9 (7th August to 14th August): 10840\nWeek 10 (14th August to 21st August): 12466\nWeek 11 (21st August to 28th August): 14336\nWeek 12 (28th August to 4th September): 16486 \n\n[TO BE CONFIRMED] Total TVL: ~1.85m -> aim to increase it to 2.5m\n\n",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We decided to give out incentives to our launched 30x Neutral AALP Aark strategy vault to garner more interest to our protocol, specifically to try to also attract users from Aark itself to Steadefi. ",
+        "lessons": "Ultimately, for a protocol like Steadefi, the marketing for attention as well as the business development work of attracting larger lending liqudiity is still the most impactful activity to growth and attention.",
+        "avgDailyTVL": 2000000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 200
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Week 11 (21st August to 28th August): 13400\nWeek 12 (28th August to 4th September): 15400 \n\nIn total, we give utilised 109,894.6709869731 of the ARB grants or about 72%. Unfortunately, we are unable to achieve the ambitious targets that we set out to as we were unable to capture the attention and interest of larger liquidity to our protocol, despite the very attractive and reasonable incentives given. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 35800,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          },
+          {
+            "contractId": "d1287436-1858-4ff5-8b68-e1af4d1cfd57",
+            "contractLabel": "30x Neutral AALP",
+            "contractAddress": "0xd16d819c6AdDa60F443d183f513263A079802363"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Addition of incentivising to our 30x Neutral AALP Aark Digital strategy vault, alongside all existing Lending Vaults, with a focus on USDC Lending.",
+        "expectations": "Week 12 (28th August to 4th September): 22400\n\nTotal TVL: ~2.1 -> aim to increase it to 2.5m",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "1260449f-6855-4838-9a4c-8d5a64e48cab",
+            "contractLabel": "USDC Lending",
+            "contractAddress": "0x9064E9D65a7C403eD3F4f3BE2B1d50C081FF48BB"
+          },
+          {
+            "contractId": "d3d131fb-57d6-4c14-85ff-05d7f7d39ede",
+            "contractLabel": "ETH Lendig",
+            "contractAddress": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa"
+          },
+          {
+            "contractId": "9693b836-3f45-4141-b5ce-5640e4cd356c",
+            "contractLabel": "WBTC Lending",
+            "contractAddress": "0xB597F59E2A147204B23A10c4D9dDdee8cfdeDd6A"
+          },
+          {
+            "contractId": "ce594dbf-dcbf-4f8b-804c-824c598b60cb",
+            "contractLabel": "ARB Lending",
+            "contractAddress": "0xF67Ac1eBA3910ff9F18Bdb8C2bC9937Da436d1b7"
+          },
+          {
+            "contractId": "9d3efae6-66ff-4028-b492-a3aa6798e5ee",
+            "contractLabel": "LINK Lending",
+            "contractAddress": "0x8C92e634A6D551aD170c1d93EaC93F8d2dc24758"
+          },
+          {
+            "contractId": "f6dcf5fa-5ff0-4966-bb9b-af16afe41889",
+            "contractLabel": "SOL Lending",
+            "contractAddress": "0x12616ED733f3DFdAA37Dd0D378055Ca753E60746"
+          },
+          {
+            "contractId": "fe7fbac6-3c16-47a9-b4ec-284586388100",
+            "contractLabel": "AAVE Lending",
+            "contractAddress": "0xE2842583115bb1aD544b22b173503289b729686a"
+          },
+          {
+            "contractId": "d85dacda-289b-4257-9867-35d88baf88da",
+            "contractLabel": "UNI Lending",
+            "contractAddress": "0xd6056FAD561A61a9B9Dff03AC076B844BA3050a4"
+          },
+          {
+            "contractId": "d1287436-1858-4ff5-8b68-e1af4d1cfd57",
+            "contractLabel": "30x Neutral AALP",
+            "contractAddress": "0xd16d819c6AdDa60F443d183f513263A079802363"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 150000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Steadefi",
+  "grantSummary": "",
+  "fundingAddress": "0xBc22B72B0408F66316CC4ee562b858f612776F14",
+  "editorAddresses": [],
+  "matchingGrantSize": 150000,
+  "metricsDashboardLink": "https://dune.com/0xpibs/steadefi-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x1F083a6C74D88c451B84147Bf0177a76a4c2a516"
+}

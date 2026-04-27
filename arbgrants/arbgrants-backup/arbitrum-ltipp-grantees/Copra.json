@@ -1,0 +1,582 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Distribution not started.",
+        "avgDailyTVL": 292026,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives have begun at June 10, 2024. Though distribution is yet to happen.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Incentives have begun at June 10, 2024. Though distribution is yet to happen.",
+        "arbRemaining": 30000,
+        "contractsIncentivized": [
+          {
+            "contractId": "7304e48f-a0de-4d29-ae13-df7f2b06269e",
+            "contractLabel": "Placeholder",
+            "contractAddress": "0xf580cd32f85b230e19c83eec74cc3e0b28873e5f"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "No ARB distribution within this time frame yet.",
+        "expectations": "Copra ARB incentives started on June 10, 2024.\n\nThe first ARB distribution will happen on June 24, 2024 (and bi-weekly hereafter).",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "7ad64fe3-2b36-4a17-b39b-4050003b4818",
+            "contractLabel": "Placeholder (no distribution yet)",
+            "contractAddress": "0xf580cd32f85b230e19c83eec74cc3e0b28873e5f"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Having partner matching our ARB incentives is mutually beneficial and helps us scale well.",
+        "avgDailyTVL": 598591,
+        "avgDailyTXNS": 10,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Between June 10, 2024 to June 24, 2024, these are the ARB allocations:\nKTX USDC: 100\nKTX WETH: 55\nKTX WBTC: 45\nTeahouse WETH: 500 ",
+        "incentives": "",
+        "arbReceived": 10000,
+        "arbUtilized": 700,
+        "disclosures": "Copra ARB incentives started on June 10, 2024. \n\nThe first ARB distribution will happen on June 24, 2024 (and bi-weekly hereafter).",
+        "arbRemaining": 30000,
+        "contractsIncentivized": [
+          {
+            "contractId": "59b10636-7138-4934-a20e-081dc4d1c564",
+            "contractLabel": "Teahouse WETH Epoch 1",
+            "contractAddress": "0xEf8298d2E38ec4CBA07bb86f53d977f83F374D41"
+          },
+          {
+            "contractId": "c5e9eed1-3c2c-4191-aec4-624e3ef931f9",
+            "contractLabel": "KTX USDC Epoch 1",
+            "contractAddress": "0xc0d9283BE0ea3f693F7E418875F8d5ba490cc5d0"
+          },
+          {
+            "contractId": "61753038-1f72-4b1a-b394-08dc20f109dc",
+            "contractLabel": "KTX WETH Epoch 1",
+            "contractAddress": "0x00375Dd8c284459ce1AA3c44493D342D22ae852C"
+          },
+          {
+            "contractId": "a38b230c-681f-4a61-9685-aea59b5e6e70",
+            "contractLabel": "KTX WBTC Epoch 1",
+            "contractAddress": "0xa9A43a02B2FC7D77Fa7c1b91a8DD3D0b7B79B58D"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "We have begun allocating and distributing ARB rewards within this period.\n\nRewards have been set for\n- Teahouse vault lenders\n- KTX vaults lenders\n\nPools and thus rewards will begin for \n- GammaSwap\n- Mountain Protocol",
+        "expectations": "More details on the distributed/allocated ARB amounts in the 'In-progress' and 'Final' reports.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "155bdc70-46e9-465f-b653-8a05a731d604",
+            "contractLabel": "Placeholder",
+            "contractAddress": "0xf580CD32f85B230e19C83eec74cc3E0B28873E5f"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added incentives to Teahouse USDC, Reserve USDC and Reserve WETH.",
+        "lessons": "Vault capacities constantly being hit, we'll need to scale up the caps.\n\nDAU and daily transactions are not good metrics for non-actively managed protocols such as Copra.",
+        "avgDailyTVL": 9695303426,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB rewards for Epoch 2:\nTeahouse USDC: 500\nKTX USDC: 100\nKTX WETH: 110\nKTX WBTC: 90\nTeahouse WETH: 857.15\nReserve USDC: 107.14\nReserve WETH: 107.14",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 1871,
+        "disclosures": "Added rewards to Teahouse USDC, Reserve USDC and Reserve WETH vaults.",
+        "arbRemaining": 20000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c1504326-98ac-4e17-912a-97fb5c258dc0",
+            "contractLabel": "Teahouse USDC Epoch 2",
+            "contractAddress": "0x09D97ca56643304D165a16DFaA6ff0105CbC09EB"
+          },
+          {
+            "contractId": "46f0cbf5-ab6c-4a35-b768-ddbdf081cec7",
+            "contractLabel": "KTX USDC Epoch 2",
+            "contractAddress": "0x387298284b20414Cf08162B2C8cEB8498BcD6369"
+          },
+          {
+            "contractId": "28c346c4-5081-4821-8a8d-432d1004556b",
+            "contractLabel": "KTX WETH Epoch 2",
+            "contractAddress": "0x720107b9b1936DB30A4dEcB80F685aE7f7D121EF"
+          },
+          {
+            "contractId": "65e468e3-1a64-41ad-8f08-c97ff8fe09f2",
+            "contractLabel": "KTX WBTC Epoch 2",
+            "contractAddress": "0x77db8263EcFFFfD8aAA66756f9E7132dE9E4c331"
+          },
+          {
+            "contractId": "794bdbbe-a3e9-4c69-9efb-1a02c3edeb97",
+            "contractLabel": "Teahouse WETH Epoch 2",
+            "contractAddress": "0x7B6b459aaB2b7952766e788F938D1eD1844b714a"
+          },
+          {
+            "contractId": "c5f51131-d6c0-4f45-b73a-4bf3923f6b98",
+            "contractLabel": "Reserve USDC Epoch 2",
+            "contractAddress": "0xd276680C6fB66Eb034967af926dFDDc92dF0F6f9"
+          },
+          {
+            "contractId": "5d0f484b-13dc-48f3-959c-f8e509f30beb",
+            "contractLabel": "Reserve WETH Epoch 2",
+            "contractAddress": "0x5975db594f199470C68Cc43f397FB9A3f7aAEFdc"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "Added rewards for Teahouse USDC, Reserve USDC and Reserve WETH.",
+        "expectations": "Increased TVL and number of depositors.",
+        "arbToBeDistributed": 1871,
+        "contractsIncentivized": [
+          {
+            "contractId": "c1504326-98ac-4e17-912a-97fb5c258dc0",
+            "contractLabel": "Teahouse USDC Epoch 2",
+            "contractAddress": "0x09D97ca56643304D165a16DFaA6ff0105CbC09EB"
+          },
+          {
+            "contractId": "46f0cbf5-ab6c-4a35-b768-ddbdf081cec7",
+            "contractLabel": "KTX USDC Epoch 2",
+            "contractAddress": "0x387298284b20414Cf08162B2C8cEB8498BcD6369"
+          },
+          {
+            "contractId": "28c346c4-5081-4821-8a8d-432d1004556b",
+            "contractLabel": "KTX WETH Epoch 2",
+            "contractAddress": "0x720107b9b1936DB30A4dEcB80F685aE7f7D121EF"
+          },
+          {
+            "contractId": "65e468e3-1a64-41ad-8f08-c97ff8fe09f2",
+            "contractLabel": "KTX WBTC Epoch 2",
+            "contractAddress": "0x77db8263EcFFFfD8aAA66756f9E7132dE9E4c331"
+          },
+          {
+            "contractId": "794bdbbe-a3e9-4c69-9efb-1a02c3edeb97",
+            "contractLabel": "Teahouse WETH Epoch 2",
+            "contractAddress": "0x7B6b459aaB2b7952766e788F938D1eD1844b714a"
+          },
+          {
+            "contractId": "c5f51131-d6c0-4f45-b73a-4bf3923f6b98",
+            "contractLabel": "Reserve USDC Epoch 2",
+            "contractAddress": "0xd276680C6fB66Eb034967af926dFDDc92dF0F6f9"
+          },
+          {
+            "contractId": "5d0f484b-13dc-48f3-959c-f8e509f30beb",
+            "contractLabel": "Reserve WETH Epoch 2",
+            "contractAddress": "0x5975db594f199470C68Cc43f397FB9A3f7aAEFdc"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "Going for co-incentivisation with partners is most mutually beneficial approach.\n\nDAU and daily transactions are not good metrics for us due to the passivity of our product.",
+        "avgDailyTVL": 1710262274,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB rewards for Epoch 3: \n\nTeahouse WETH: 500\nKTX USDC: 200\nKTX WETH: 110 \nKTX WBTC: 90 \nTeahouse USDC: 1000\nReserve USDC: 500\nReserve WETH: 500\n",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 2919,
+        "disclosures": "Added rewards to Teahouse, KTX and Reserve pools.",
+        "arbRemaining": 20000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a529fc73-6bbc-4f1e-8a09-fc18f42129a5",
+            "contractLabel": "Teahouse WETH Epoch 3",
+            "contractAddress": "0x4ad2aE2E09D1259f464c27d1Acd6C4F29A44dD79"
+          },
+          {
+            "contractId": "8b5e27b8-d4c8-4d17-b913-e7dd2aeeafa3",
+            "contractLabel": "KTX USDC Epoch 3",
+            "contractAddress": "0x8E6aFEEAA86F34c69E3a4feeFaD5d650a739D3C4"
+          },
+          {
+            "contractId": "43b89a1e-6dd3-4a1f-8489-3ba6a197a2d1",
+            "contractLabel": "KTX WETH Epoch 3",
+            "contractAddress": "0x8f3550f3367306c9d8FA1c55993229Eb7DEf1AB7"
+          },
+          {
+            "contractId": "8ebeec26-01e3-41b8-a3fd-94b9efc5fa1a",
+            "contractLabel": "KTX WBTC Epoch 3",
+            "contractAddress": "0x2f2c5c2587E8D2cB849B4d500a90C45CBC1fd7f3"
+          },
+          {
+            "contractId": "8f37ec84-b1ab-45f9-baf1-86fcd49a8899",
+            "contractLabel": "Teahouse USDC Epoch 3",
+            "contractAddress": "0xf8c5Ce6513b8f110ddce95ac5256736c82304E56"
+          },
+          {
+            "contractId": "49352011-3666-4967-aabc-046ac3f5668f",
+            "contractLabel": "Reserve USDC Epoch 3",
+            "contractAddress": "0x65Ff3C9856A06F5796A562E6BC7498B454E7BE23"
+          },
+          {
+            "contractId": "07e4d145-5bb9-4e0c-a911-c6a74669bc23",
+            "contractLabel": "Reserve WETH Epoch 3",
+            "contractAddress": "0xC29C14B3A37ab51802747D1288f48ec65997A536"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "No changes, though the Epoch 2 distribution had some pools with lower net amounts due to prorata-ing their durations.",
+        "expectations": "More incentivised pools.",
+        "arbToBeDistributed": 2919,
+        "contractsIncentivized": [
+          {
+            "contractId": "a529fc73-6bbc-4f1e-8a09-fc18f42129a5",
+            "contractLabel": "Teahouse WETH Epoch 3",
+            "contractAddress": "0x4ad2aE2E09D1259f464c27d1Acd6C4F29A44dD79"
+          },
+          {
+            "contractId": "8b5e27b8-d4c8-4d17-b913-e7dd2aeeafa3",
+            "contractLabel": "KTX USDC Epoch 3",
+            "contractAddress": "0x8E6aFEEAA86F34c69E3a4feeFaD5d650a739D3C4"
+          },
+          {
+            "contractId": "43b89a1e-6dd3-4a1f-8489-3ba6a197a2d1",
+            "contractLabel": "KTX WETH Epoch 3",
+            "contractAddress": "0x8f3550f3367306c9d8FA1c55993229Eb7DEf1AB7"
+          },
+          {
+            "contractId": "8ebeec26-01e3-41b8-a3fd-94b9efc5fa1a",
+            "contractLabel": "KTX WBTC Epoch 3",
+            "contractAddress": "0x2f2c5c2587E8D2cB849B4d500a90C45CBC1fd7f3"
+          },
+          {
+            "contractId": "8f37ec84-b1ab-45f9-baf1-86fcd49a8899",
+            "contractLabel": "Teahouse USDC Epoch 3",
+            "contractAddress": "0xf8c5Ce6513b8f110ddce95ac5256736c82304E56"
+          },
+          {
+            "contractId": "49352011-3666-4967-aabc-046ac3f5668f",
+            "contractLabel": "Reserve USDC Epoch 3",
+            "contractAddress": "0x65Ff3C9856A06F5796A562E6BC7498B454E7BE23"
+          },
+          {
+            "contractId": "07e4d145-5bb9-4e0c-a911-c6a74669bc23",
+            "contractLabel": "Reserve WETH Epoch 3",
+            "contractAddress": "0xC29C14B3A37ab51802747D1288f48ec65997A536"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 1403568,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB rewards for Epoch 4: Teahouse WETH: 500 Teahouse USDC: 2000 Reserve USDC Old: 1000 Reserve WETH Old: 500 Reserve WETH New: 1750 Reserve USDC New: 750",
+        "incentives": "",
+        "arbReceived": 15000,
+        "arbUtilized": 6500,
+        "disclosures": "Temporarily halted incentives for KTX vaults.",
+        "arbRemaining": 5000,
+        "contractsIncentivized": [
+          {
+            "contractId": "cf48f1c8-3167-4f3b-9493-9de7bc3ca058",
+            "contractLabel": "Teahouse USDC Epoch 4",
+            "contractAddress": "0x65daF179Ba7a2297a3E500137DDE97D813159fAa"
+          },
+          {
+            "contractId": "e6640c55-6d1f-4f29-84f8-034dbf3b1760",
+            "contractLabel": "Reserve USDC Old Epoch 4",
+            "contractAddress": "0xe9341DA7FfE18c0224064213d1b95D607d3d054C"
+          },
+          {
+            "contractId": "2965ad50-02fd-4d7a-a8c5-d371cc0a1113",
+            "contractLabel": "Reserve Old WETH Epoch 4",
+            "contractAddress": "0xdD8E9e070684d1304739E14Eee5DB00e32CdD054"
+          },
+          {
+            "contractId": "466fc92a-29fc-405d-9747-192d937f8733",
+            "contractLabel": "Teahouse WETH Epoch 4",
+            "contractAddress": "0xa3723DE8767779D35509569F23D8B2AE860f1991"
+          },
+          {
+            "contractId": "b3628e90-8e61-4e64-ab53-1ecb5ef52b42",
+            "contractLabel": "Reserve WETH New Epoch 4",
+            "contractAddress": "0xc9eC8FB5d029809E38EB5CbEFA1b2b7aDB4B9291"
+          },
+          {
+            "contractId": "084d2a47-b1b1-4049-abf0-976509c4aab7",
+            "contractLabel": "Reserve USDC New Epoch 4",
+            "contractAddress": "0xAaCfF0C7370Ec09E4c9014B2CB40ba0CA7062179"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "Reducing the allocation for borrowers as the feature has not been fully shipped for public use as of this duration.",
+        "expectations": "Increased rewards as we are approaching deadline.",
+        "arbToBeDistributed": 6500,
+        "contractsIncentivized": [
+          {
+            "contractId": "cf48f1c8-3167-4f3b-9493-9de7bc3ca058",
+            "contractLabel": "Teahouse USDC Epoch 4",
+            "contractAddress": "0x65daF179Ba7a2297a3E500137DDE97D813159fAa"
+          },
+          {
+            "contractId": "e6640c55-6d1f-4f29-84f8-034dbf3b1760",
+            "contractLabel": "Reserve USDC Old Epoch 4",
+            "contractAddress": "0xe9341DA7FfE18c0224064213d1b95D607d3d054C"
+          },
+          {
+            "contractId": "2965ad50-02fd-4d7a-a8c5-d371cc0a1113",
+            "contractLabel": "Reserve Old WETH Epoch 4",
+            "contractAddress": "0xdD8E9e070684d1304739E14Eee5DB00e32CdD054"
+          },
+          {
+            "contractId": "466fc92a-29fc-405d-9747-192d937f8733",
+            "contractLabel": "Teahouse WETH Epoch 4",
+            "contractAddress": "0xa3723DE8767779D35509569F23D8B2AE860f1991"
+          },
+          {
+            "contractId": "b3628e90-8e61-4e64-ab53-1ecb5ef52b42",
+            "contractLabel": "Reserve WETH New Epoch 4",
+            "contractAddress": "0xc9eC8FB5d029809E38EB5CbEFA1b2b7aDB4B9291"
+          },
+          {
+            "contractId": "084d2a47-b1b1-4049-abf0-976509c4aab7",
+            "contractLabel": "Reserve USDC New Epoch 4",
+            "contractAddress": "0xAaCfF0C7370Ec09E4c9014B2CB40ba0CA7062179"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 2116714,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB Rewards for Epoch 5:\nTeahouse WETH: 500 \nTeahouse USDC: 3000 \nReserve USDC Old: 1000 \nReserve WETH New: 1750 \nReserve USDC New: 750\nTeahouse WETH (uniETH): 247.15",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 7247,
+        "disclosures": "Temporarily halted incentives for KTX vaults.\n\n",
+        "arbRemaining": -10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b1da98a-c591-408e-a649-5d08b2bd5210",
+            "contractLabel": "Teahouse USDC Epoch 5",
+            "contractAddress": "0x1F857971950474e454b5Ca25D8AF698b09D451e8"
+          },
+          {
+            "contractId": "dec2ef0d-41d7-465e-8118-c5f00bdcb1ec",
+            "contractLabel": "Reserve USDC Old Epoch 5",
+            "contractAddress": "0x3a3d906ab9565143D47e771b3298C288ce325a26"
+          },
+          {
+            "contractId": "db638ce5-5401-4aa4-a053-4fcfa87d0136",
+            "contractLabel": "Reserve USDC New Epoch 5",
+            "contractAddress": "0x11c86E4A12a744cC6005e99aDB41B0bFcD98F43f"
+          },
+          {
+            "contractId": "cd7fe162-2439-4246-b992-e2fb1b29b730",
+            "contractLabel": "Teahouse WETH Epoch 5",
+            "contractAddress": "0xd72A461f5dAC89fFE33e8E16A3F1D54e8375f811"
+          },
+          {
+            "contractId": "6357267b-7bcb-4cc5-ba01-e2d83c6b0708",
+            "contractLabel": "Reserve WETH New Epoch 5",
+            "contractAddress": "0x4bCCd6334721D96Da1581c67dfB9af4849A59707"
+          },
+          {
+            "contractId": "9613d07d-682d-43a3-830c-abf57b67980e",
+            "contractLabel": "Teahouse WETH (uniETH) Epoch 5",
+            "contractAddress": "0x8f615d56815CA8f1F134f5605A9c2b6fa33C4b0E"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "- Removed rewards for Reserve WETH Old\n- Added rewards for new Teahouse pool, with Bedrock",
+        "expectations": "Increased rewards.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There is a slight deviation to the borrower/lender split.",
+        "lessons": "Adding incentives to borrowers helps increase pool capacities, letting more lenders enter.",
+        "avgDailyTVL": 2172883,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Rewards for Epoch 6:\n\nReserve USDC Old: 1000 \nReserve WETH New: 1750 \nReserve USDC New: 750\nTeahouse WETH: 500\nTeahouse WETH (uniETH): 865\nTeahouse USDC: 3000\nReserve borrower rebate: 4,483.93\nKTX borrower rebate: 4,483.93",
+        "incentives": "",
+        "arbReceived": 15000,
+        "arbUtilized": 16838,
+        "disclosures": "Added rewards for borrower incentives. \n",
+        "arbRemaining": -10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "f033b60b-4d37-47fb-83c4-aef09dc39fa6",
+            "contractLabel": "Reserve USDC New Epoch 6",
+            "contractAddress": "0x9b84990C790b5f0cE2061a32D2C459b57c1B0d88"
+          },
+          {
+            "contractId": "fef34be9-2d52-446c-bd55-1d063840d1dd",
+            "contractLabel": "Teahosue WETH Epoch 6",
+            "contractAddress": "0x977C8A3f8F0046DBF18c606772d0bfB424d98CDf"
+          },
+          {
+            "contractId": "70407b02-5fac-4174-95d8-eba81ba20168",
+            "contractLabel": "Reserve WETH New Epoch 6",
+            "contractAddress": "0x31D8CD250F2B934c3EddA46197095b56f30cE572"
+          },
+          {
+            "contractId": "5bd0b8d2-9b06-4c9b-aa0e-d09e995c6cb2",
+            "contractLabel": "Teahouse WETH (uniETH) Epoch 6",
+            "contractAddress": "0x62F0B2dEbfdc13012Ec67a1a37B302A739b4A5Eb"
+          },
+          {
+            "contractId": "229c7b7f-e299-47e8-b81c-b386c784c841",
+            "contractLabel": "Teahouse USDC Epoch 6",
+            "contractAddress": "0x4bCCd6334721D96Da1581c67dfB9af4849A59707"
+          },
+          {
+            "contractId": "f2e1c295-281b-4566-bd8e-ce0a62b93389",
+            "contractLabel": "Reserve USDC Old Epoch 6",
+            "contractAddress": "0xD898550378b561Fd47b728FAe04b3a3E0910B224"
+          },
+          {
+            "contractId": "e53a498b-2819-442f-8a9e-82472ee29cd5",
+            "contractLabel": "Reserve + KTX Borrower Epoch 6",
+            "contractAddress": "0x05f979bF0D9DE27E2C3761C261C569E59a9F11ED"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "- Added incentives for borrower rebates",
+        "expectations": "This is the final round",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "7ad64fe3-2b36-4a17-b39b-4050003b4818",
+            "contractLabel": "Placeholder (no distribution yet)",
+            "contractAddress": "0xf580cd32f85b230e19c83eec74cc3e0b28873e5f"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 30000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Copra",
+  "grantSummary": "We have received 30,000 ARB as incentives.\n\n21,000 ARB (70%) as lender's incentives.\n9,000 ARB (30%) as borrower's incentives.\n\nARB incentives on Copra started at June 10, 2024 and will end at September 2, 2024. \n\nRewards will be available for claiming bi-weekly.\nNote: new Merkle distributor every 2 weeks, full details will be on each bi-weekly report.",
+  "fundingAddress": "0xf580CD32f85B230e19C83eec74cc3E0B28873E5f",
+  "editorAddresses": [],
+  "matchingGrantSize": 30000,
+  "metricsDashboardLink": "https://dune.com/cds/copra-finance",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xf580CD32f85B230e19C83eec74cc3E0B28873E5f"
+}

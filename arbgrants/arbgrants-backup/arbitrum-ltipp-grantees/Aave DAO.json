@@ -1,0 +1,427 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "As this is the first report, and due to the issues and updates from LTIPP, at that time it was not possible to claim the first tranche of 125K ARB. We were able to claim on the 17th but Aave incentives program will not start until GHO on Arbitrum is live, which will be shortly.",
+        "lessons": "As this is the first report, and due to the issues and updates from LTIPP, at that time it was not possible to claim the first tranche of 125K ARB. We were able to claim on the 17th but Aave incentives program will not start until GHO on Arbitrum is live, which will be shortly.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As this is the first report, and due to the issues and updates from LTIPP, at that time it was not possible to claim the first tranche of 125K ARB. We were able to claim on the 17th but Aave incentives program will not start until GHO on Arbitrum is live, which will be shortly.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "As this is the first report, and due to the issues and updates from LTIPP, at that time it was not possible to claim the first tranche of 125K ARB. We were able to claim on the 17th but Aave incentives program will not start until GHO on Arbitrum is live, which will be shortly.",
+        "arbRemaining": 750000,
+        "contractsIncentivized": [
+          {
+            "contractId": "d798dd7c-4a4f-480a-93d6-c79a6ae198e0",
+            "contractLabel": "N/A",
+            "contractAddress": "0x0000000000000000000000000000000000000000"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "As this is the first report, and due to the issues and updates from LTIPP, at that time it was not possible to claim the first tranche of 125K ARB. We were able to claim on the 17th but Aave incentives program will not start until GHO on Arbitrum is live, which will be shortly.",
+        "expectations": "As this is the first report, and due to the issues and updates from LTIPP, at that time it was not possible to claim the first tranche of 125K ARB.\nWe were able to claim on the 17th but Aave incentives program will not start until GHO on Arbitrum is live, which will be shortly.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "6f0017ab-4107-4bba-8ded-bf054e6cc847",
+            "contractLabel": "N/A",
+            "contractAddress": "0x0000000000000000000000000000000000000000"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "No changes",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "At the moment of the second report, we had not started the Aave incentives program, because as previously indicated, it can't start until GHO on Arbitrum is live, which we expect to be very soon. We have claimed the second tranche of 125K ARB",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "At the moment of the second report, we had not started the Aave incentives program, because as previously indicated, it can't start until GHO on Arbitrum is live, which we expect to be very soon. We have claimed the second tranche of 125K ARB",
+        "arbRemaining": 750000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a2b1d11-5228-490f-b33c-ee6b71a927c1",
+            "contractLabel": "N/A",
+            "contractAddress": "0x0000000000000000000000000000000000000000"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "At the moment of the second report, we had not started the Aave incentives program, because as previously indicated, it can't start until GHO on Arbitrum is live, which we expect to be very soon. We have claimed the second tranche of 125K ARB",
+        "expectations": "At the moment of the second report, we had not started the Aave incentives program, because as previously indicated, it can't start until GHO on Arbitrum is live, which we expect to be very soon. We have claimed the second tranche of 125K ARB",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "8715d8b2-92f0-43cf-bbd2-e2e723691759",
+            "contractLabel": "N/A",
+            "contractAddress": "0x0000000000000000000000000000000000000000"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "No changes",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "GHO has been already deployed in Arbitrum and we will start soon with incentives.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "GHO has been already deployed in Arbitrum and we will start soon with incentives.",
+        "arbRemaining": 750000,
+        "contractsIncentivized": [
+          {
+            "contractId": "da91a453-b170-454c-be36-845e070b358c",
+            "contractLabel": "GHO Arbitrum Address",
+            "contractAddress": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "GHO has been already deployed in Arbitrum and we will start soon with incentives.",
+        "expectations": "GHO has been already deployed in Arbitrum and we will start soon with incentives.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30c012f-ec8a-450a-ab91-5ecf3bc425d8",
+            "contractLabel": "GHO Arbitrum Address",
+            "contractAddress": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We finally could start the incentives and claimed 125k and distributed 48K from 02/07/2024 to 15/07/2024.",
+        "lessons": "Will provide more info.",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We distributed the ARB trhough the following Liquidity Protocols:\nGHO/aUSDC https://app.gyro.finance/pools/arbitrum/e-clp/0x46472cba35e6800012aa9fcc7939ff07478c473e/\nGHO/USDe https://app.gyro.finance/pools/arbitrum/e-clp/0x2b783cd37774bb77d387d35683e8388937712f0a/\nGHO/USDT/USDC https://app.balancer.fi/#/arbitrum/pool/0xf890360473c12d8015da8dbf7af11da87337a065000000000000000000000570\nGHO/USDC https://app.mav.xyz/boosted-position/0x80c1Bce70cc766D81A6b663D006f5634e3aA7521/0x9f4781fC065e2052E75127D4f5D270e2Bb861989?chain=42161&f=true",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 48000,
+        "disclosures": "On 02/07/2024 we claimed first 125K ARB. You can see it here. https://arbiscan.io/tx/0x7d8fdc1d7034935716b5ceff9d118290cc94a4e77f835ab83fd1414fa97484f7\n\nSince 02/07/2024 to 15/07/2024 we worked with different GHO Liquidity Protocols on ARB, and distributed the total of 48.000 ARB.\n\nWe distributed the ARB trhough the following Liquidity Protocols:\nGHO/aUSDC https://app.gyro.finance/pools/arbitrum/e-clp/0x46472cba35e6800012aa9fcc7939ff07478c473e/\nGHO/USDe https://app.gyro.finance/pools/arbitrum/e-clp/0x2b783cd37774bb77d387d35683e8388937712f0a/\nGHO/USDT/USDC https://app.balancer.fi/#/arbitrum/pool/0xf890360473c12d8015da8dbf7af11da87337a065000000000000000000000570\nGHO/USDC https://app.mav.xyz/boosted-position/0x80c1Bce70cc766D81A6b663D006f5634e3aA7521/0x9f4781fC065e2052E75127D4f5D270e2Bb861989?chain=42161&f=true",
+        "arbRemaining": 625000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "On 02/07/2024 we claimed first 125K ARB. You can see it here. https://arbiscan.io/tx/0x7d8fdc1d7034935716b5ceff9d118290cc94a4e77f835ab83fd1414fa97484f7\n\nSince 02/07/2024 to 15/07/2024 we worked with different GHO Liquidity Protocols on ARB, and distributed the total of 48.000 ARB.",
+        "expectations": "We distributed the ARB trhough the following Liquidity Protocols:\nGHO/aUSDC https://app.gyro.finance/pools/arbitrum/e-clp/0x46472cba35e6800012aa9fcc7939ff07478c473e/\nGHO/USDe https://app.gyro.finance/pools/arbitrum/e-clp/0x2b783cd37774bb77d387d35683e8388937712f0a/\nGHO/USDT/USDC https://app.balancer.fi/#/arbitrum/pool/0xf890360473c12d8015da8dbf7af11da87337a065000000000000000000000570\nGHO/USDC https://app.mav.xyz/boosted-position/0x80c1Bce70cc766D81A6b663D006f5634e3aA7521/0x9f4781fC065e2052E75127D4f5D270e2Bb861989?chain=42161&f=true",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30c012f-ec8a-450a-ab91-5ecf3bc425d8",
+            "contractLabel": "GHO Arbitrum Address",
+            "contractAddress": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes, on track",
+        "lessons": "No changes",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Within same GHO/ARB liquidity pools we distributed 56231 ARB during this period.",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 56231,
+        "disclosures": "Within same GHO/ARB liquidity pools we distributed 56231 ARB.",
+        "arbRemaining": 500000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes, we distributed this time 56231 ARB.",
+        "expectations": "On track",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "No meaningful changes",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Total of 121500 ARB distributed within last period.",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 121500,
+        "disclosures": "Total of 121500 ARB distributed within last period.",
+        "arbRemaining": 375000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We have continued to incentivize LP, but we have extended rewards until 13/09/2024, for a total amount since last tranche of 121.500 ARB.",
+        "expectations": "We believe we will rewards on 13/09/2024 with a total of 374712 ARB, with the remaining 375K ARB being distributed through GHO on ARB for 119 days .",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Spent 164200 ARB during those dates in both LM rewards and pools",
+        "incentives": "",
+        "arbReceived": 125000,
+        "arbUtilized": 164200,
+        "disclosures": "Spent 164200 ARB during those dates in both LM rewards and pools",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Spent 164200 ARB during those dates in both LM rewards and pools",
+        "expectations": "Spent 164200 ARB during those dates in both LM rewards and pools",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "657a9e67-18ba-4b57-9a3e-d2791f8d57ae",
+            "contractLabel": "LM rewards on Aave",
+            "contractAddress": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33"
+          },
+          {
+            "contractId": "2890336e-67b3-4bc9-ab27-484743d467a2",
+            "contractLabel": "GHO/aUSDC Gyroscope",
+            "contractAddress": "0x2B783cD37774BB77d387D35683e8388937712f0a"
+          },
+          {
+            "contractId": "c5d96d29-7cf3-467c-9708-04a0e927abcb",
+            "contractLabel": "GHO/USDT/USDC",
+            "contractAddress": "0xF890360473c12d8015DA8DBf7Af11dA87337A065"
+          },
+          {
+            "contractId": "9ec64b42-7c62-4470-8b47-5b73d9d8ff0d",
+            "contractLabel": "GHO/USDC Maverick",
+            "contractAddress": "0x19D613EDFA9DB4a009582103F585369e3f89fd34"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 750000,
+  "fundingType": [
+    "EOA",
+    "Multisig"
+  ],
+  "granteeName": "Aave DAO",
+  "grantSummary": "Combination of 750K Arb rewards between GHO liquidity pools and LM on Aave Protocol",
+  "fundingAddress": "0xcaf8155D99a0d11567f039422BB8A0BA003788E5",
+  "editorAddresses": [],
+  "matchingGrantSize": 750000,
+  "metricsDashboardLink": "https://dune.com/alice_rozengarden/aave-lltip-wip",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xcaf8155D99a0d11567f039422BB8A0BA003788E5"
+}

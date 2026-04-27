@@ -1,0 +1,252 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Prior arbitrum launch ",
+        "lessons": "None",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "None",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "None",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Prior arbitrum launch ",
+        "lessons": "Prior arbitrum launch ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Prior arbitrum launch ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Prior arbitrum launch ",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Prior arbitrum launch ",
+        "expectations": "Prior arbitrum launch ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Prior arbitrum launch ",
+        "lessons": "Prior arbitrum launch ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Prior arbitrum launch ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Prior arbitrum launch ",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Prior arbitrum launch ",
+        "expectations": "Prior arbitrum launch ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Prior arbitrum launch ",
+        "lessons": "Prior arbitrum launch ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Prior arbitrum launch ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Prior arbitrum launch ",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Prior arbitrum launch ",
+        "expectations": "Prior arbitrum launch ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Arbitrum does not have a lot of long tail tokens for traders to speculate. ",
+        "avgDailyTVL": 880000,
+        "avgDailyTXNS": 150,
+        "avgDailyUniqueUsers": 28
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "There were 600+ traders during the 4-week campaign. The arbitrum rewards were distributed to top 500. ",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 0,
+        "disclosures": "None",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "The tokens will be claimable to the 500 users during the campaign. ",
+        "expectations": "None",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "The campaign must have been more well thought out. Instead of mostly incentivizing traders, should have incentivized LPs more.",
+        "avgDailyTVL": 900000,
+        "avgDailyTXNS": 230,
+        "avgDailyUniqueUsers": 50
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "There were 400+ traders who joined on the last week of campaign",
+        "incentives": "",
+        "arbReceived": 12500,
+        "arbUtilized": 12500,
+        "disclosures": ".This was our last two weeks of the campaign. ",
+        "arbRemaining": -12500,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "The tokens will be claimable to the 500 users during the campaign. ",
+        "expectations": "At least 300 new traders to trade and interaact",
+        "arbToBeDistributed": 12600,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 75000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Limitless",
+  "grantSummary": "",
+  "fundingAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xD0A0584Ca19068CdCc08b7834d8f8DF969D67bd5"
+}

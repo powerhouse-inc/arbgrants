@@ -1,0 +1,1007 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Our lev suite hasn't had quite the uptake we want. We'll consider redirecting ARB rewards from DPI/MVI migration while Arrakis vault is in works to ensure our efforts are most value-adding. ",
+        "avgDailyTVL": 462120,
+        "avgDailyTXNS": 13,
+        "avgDailyUniqueUsers": 57
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Light uptake for leverage suite.. might consider incentivizing more going forward, especially without MVI/DPI LP positions up and running due to Arrakis issues.",
+        "incentives": "",
+        "arbReceived": 27500,
+        "arbUtilized": 21883,
+        "disclosures": "We began incentive program before initial batch of Arb was received on 06/03",
+        "arbRemaining": 165500,
+        "contractsIncentivized": [
+          {
+            "contractId": "42c3ee3d-98d9-4f9f-a603-ee46298446a1",
+            "contractLabel": "ETH3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "d79e0414-f371-4b6c-aed7-5f0bc40f531c",
+            "contractLabel": "ETH2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "351bd8c5-fe49-424b-a27b-bd7ec22c7472",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "06ab067e-6342-412d-acd2-3f11cdc88a55",
+            "contractLabel": "BTC3x",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "8b79d713-331a-4917-a595-c9a892efa1fa",
+            "contractLabel": "BTC2x",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "032a868a-1fe9-498b-9765-3b029145f739",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "d03233d6-9dd9-416e-a970-e2dbc2640640",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "DPI/WETH and MVI/WETH LP positions have yet to be launched due to holdup with Arrakis. ",
+        "expectations": "no changes",
+        "arbToBeDistributed": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "7927f892-2def-479d-9783-22ee69005544",
+            "contractLabel": "IBTC1X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "Need to push these products more via paid and sponsored channels. Working with CCIP to add rewards for hyETH, which is a much in-demand product at the moment. We think this will drive way more flows to Arbitrum than DPI/MVI. Also running some paid campaigns highlighting lev suite on Arbitrum to see if we can't drive more demand. Might need to point more rewards in that direction and less for the static migration pool which has significantly slowed since the first few weeks. \n\nPhase 2 of migration (LP rewards) will drive trading volume. ",
+        "avgDailyTVL": 147225,
+        "avgDailyTXNS": 10,
+        "avgDailyUniqueUsers": 25
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Less uptake for lev products than expected at this stage. Also, migration for DPI/MVI has slowed, and we've been unable to start phase 2 of our migration (LP rewards) due to issues with Arrakis.",
+        "incentives": "",
+        "arbReceived": 27500,
+        "arbUtilized": 9514,
+        "disclosures": "No changes",
+        "arbRemaining": 110500,
+        "contractsIncentivized": [
+          {
+            "contractId": "5ead92e8-9324-455b-93fe-77da6788e402",
+            "contractLabel": "ETH3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "920cbd74-9e35-479c-962e-b0ff5364d4f7",
+            "contractLabel": "ETH2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "0d6779b2-eb94-4d5f-b25e-fa5a8f541f54",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "ea9c306c-8623-4dc9-b13b-2304f1ae3c2a",
+            "contractLabel": "BTC3x",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "6afc9c22-c777-48a0-8f84-84912403fa29",
+            "contractLabel": "BTC2x",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "10cfd5b9-0beb-4b2c-84ea-0774694fa36f",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "6f932126-f16a-4830-b1c1-1ba3ddf10bcb",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "ff41fd42-95fd-41b8-ab28-fa9bd7871a90",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes at this point.",
+        "expectations": "Expect less migrating capital for DPI/MVI, however we are considering adding our High Yield ETH Index (hyETH) to the mix, which could potentially add capital back. ",
+        "arbToBeDistributed": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "5ead92e8-9324-455b-93fe-77da6788e402",
+            "contractLabel": "ETH3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "920cbd74-9e35-479c-962e-b0ff5364d4f7",
+            "contractLabel": "ETH2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "0d6779b2-eb94-4d5f-b25e-fa5a8f541f54",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "ea9c306c-8623-4dc9-b13b-2304f1ae3c2a",
+            "contractLabel": "BTC3x",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "6afc9c22-c777-48a0-8f84-84912403fa29",
+            "contractLabel": "BTC2x",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "10cfd5b9-0beb-4b2c-84ea-0774694fa36f",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "6f932126-f16a-4830-b1c1-1ba3ddf10bcb",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "ff41fd42-95fd-41b8-ab28-fa9bd7871a90",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "DPI/MVI migration has stalled. Time to migrate to other products that are more in flavor. We'll pull some rewards to hyETH, which will go live on Arbitrum July 23rd, to see what kidn of uptake we can have there. ",
+        "avgDailyTVL": 299416,
+        "avgDailyTXNS": 26,
+        "avgDailyUniqueUsers": 40
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Still low on leverage uptake. Migration for DPI/MVI has essentially stalled. Arrakis still holding us up on kickstarting LP rewards. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures needed",
+        "arbRemaining": 27850,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "We expect similar uptake to last bi-weekly period. No major changes planned yet until Arrakis is up (LP positions going) and CCIP has enabled hyETH to move to Arbitrum as well (soon). ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 177672,
+        "avgDailyTXNS": 87,
+        "avgDailyUniqueUsers": 88
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Saw better than expected uptick on hyETH migrating from Mainnet. That product is clearly a winner versus DPI/MVI. Added yield on leverage tokens resulted in small uptick in action but not significant. Working hard as a team to bring attention and continue moving assets over into all products. \n\nFYI: updating dune dash to include hyETH. Will finish final reporting ASAP. ",
+        "incentives": "",
+        "arbReceived": 27500,
+        "arbUtilized": 16874,
+        "disclosures": "We followed through with Phase II",
+        "arbRemaining": 27900,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "874307fd-7472-4e9f-b086-f3c1741808ef",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "87c7e8d0-6c98-4378-b1f6-7e924cd8e6f8",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "1168e006-eb56-43eb-87e4-1360de65a264",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "86c466d2-c829-40e5-ac2f-12cd8e40e362",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "On July 23rd we opened Phase II of our incentives program. As such, we added hyETH to our CCIP 'hold\" rewards and started LP rewards for DPI/MVI/hyETH. We also changed the way we distribute the rewards by opening a campaign with MERKL and adjusted our rewards based on product uptake and value-add to both Arbitrum and Index Coop. \n\nOverview of adjustments here: https://x.com/indexcoop/status/1815780605852008674\n\nIn summary:\n\nIncreased rewards for hodling our leverage suite: \nETH2x & BTC2x: 225 ARB/day\nETH3x & BTC3x: 225 ARB/day\n-1xETH & -1xBTC: 50 ARB/day\n\nAdded LP rewards:\n hyETH / WETH Pool: 400 ARB / day\n\u200dwETH / DPI Pool: 150 ARB / day\u200d\nwETH / MVI Pool: 150 ARB / day",
+        "expectations": "We expected around $500k in assets moving with hyETH to Arbitrum and an increase in leverage token usage to the tune of +25% active transactions. ",
+        "arbToBeDistributed": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 346245,
+        "avgDailyTXNS": 88,
+        "avgDailyUniqueUsers": 66
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "generally happy with uptake and assets moving from mainnet to Arb!",
+        "incentives": "",
+        "arbReceived": 27550,
+        "arbUtilized": 32592,
+        "disclosures": "Uptake in phase 1 was lower than expected.. using more ARB than bi-weekly distro going forward as part of Phase 2 MERKL campaign",
+        "arbRemaining": 55400,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "NO changes to Phase 2 as described here https://indexcoop.com/product-faqs/arb-rewards-ccip-faq",
+        "expectations": "We expect similar uptake to July 23-July 29 in terms of adoption and usage. ",
+        "arbToBeDistributed": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Appetiate for a high yielding eth strategy is slightly better than composites however still not huge. ",
+        "avgDailyTVL": 180853,
+        "avgDailyTXNS": 70,
+        "avgDailyUniqueUsers": 76
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "MERKL doing it's part. APY has steadied lower for all projects and migration have slowed. ",
+        "incentives": "",
+        "arbReceived": 27550,
+        "arbUtilized": 32592,
+        "disclosures": "N/A",
+        "arbRemaining": 27900,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes to Phase 2",
+        "expectations": "Expecting similar uptick as previous two months, perhaps slightly slower progress on the migration side as APY has gone down. ",
+        "arbToBeDistributed": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Changes outlined above",
+        "lessons": "Even with improved reach due to Pendle we did not see meaningful TVL moved into hyETH> ",
+        "avgDailyTVL": 250399,
+        "avgDailyTXNS": 42,
+        "avgDailyUniqueUsers": 43
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Pendle incentives did not drive meaningful swaps into hyETH. ",
+        "incentives": "",
+        "arbReceived": 27900,
+        "arbUtilized": 34530,
+        "disclosures": "Pendle supplied more rewards for hyETH",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Distributing Phase 1 earned rewards to users during last week of incentives, so we expect more ARB to be distributed. We also expect a small bump to usage due to Pendle supplying incentives for hyETH purchases. ",
+        "expectations": "Expect between a 20-50% increase in swaps.",
+        "arbToBeDistributed": 27500,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c5d5aa8-1f0d-48f4-b25c-c1ae05abc1fd",
+            "contractLabel": "ETH 3x",
+            "contractAddress": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543"
+          },
+          {
+            "contractId": "1580f681-2e3b-42c4-8314-bc7446a22169",
+            "contractLabel": "ETH 2x",
+            "contractAddress": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C"
+          },
+          {
+            "contractId": "ff019e2a-1417-4bdf-903b-cb2e86b6ff24",
+            "contractLabel": "iETH1x",
+            "contractAddress": "0x749654601a286833aD30357246400D2933b1C89b"
+          },
+          {
+            "contractId": "907ecaf5-2fa0-4014-a15e-006726706d11",
+            "contractLabel": "BTC3X",
+            "contractAddress": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6"
+          },
+          {
+            "contractId": "d6516353-37b4-4cd5-8802-e1812132283a",
+            "contractLabel": "BTC2X",
+            "contractAddress": "0xeb5bE62e6770137beaA0cC712741165C594F59D7"
+          },
+          {
+            "contractId": "a26bbe26-ba03-403a-b3ab-7528f01112cc",
+            "contractLabel": "DPI",
+            "contractAddress": "0x9737C658272e66Faad39D7AD337789Ee6D54F500"
+          },
+          {
+            "contractId": "4a1c3753-107e-412c-9dde-77f49d2cc2f6",
+            "contractLabel": "MVI",
+            "contractAddress": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525"
+          },
+          {
+            "contractId": "1a3ff1bc-0eaf-4fa3-b625-c87ad1fc8a60",
+            "contractLabel": "iBTC1x",
+            "contractAddress": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC"
+          },
+          {
+            "contractId": "2e8b2305-c989-4875-bcdd-5ad8b9c7c64f",
+            "contractLabel": "hyETH",
+            "contractAddress": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142"
+          },
+          {
+            "contractId": "2173fb3d-a833-42a4-876e-90452aa23c37",
+            "contractLabel": "hyETH-Uni",
+            "contractAddress": "0x470d0d72C975a7F328Bd63808bFFfD28194B3eB6"
+          },
+          {
+            "contractId": "a80b49af-6dbc-434e-80f5-e32939327fa8",
+            "contractLabel": "DPI-Uni",
+            "contractAddress": "0xac3019b6972B734b7aFD4cb88BA773a7b7FF3e8b"
+          },
+          {
+            "contractId": "9b34489f-3a7c-4180-8129-ee27d5809b5e",
+            "contractLabel": "MVI-Uni",
+            "contractAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 165500,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Index Coop",
+  "grantSummary": "",
+  "fundingAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+  "editorAddresses": [],
+  "matchingGrantSize": 165500,
+  "metricsDashboardLink": "https://dune.com/index_coop/indexcoop-incentive-efficacy-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xBd6b8EEc7b940DBE196Fe3Bac7B51E63435c8Ae9"
+}

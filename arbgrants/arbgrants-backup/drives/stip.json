@@ -1,0 +1,120 @@
+{
+  "id": "stip",
+  "icon": "https://ipfs.io/ipfs/bafybeihrnutsfwwrfwere74cwilx2eusmaop6rq6ojcr5jl7vsta627eam/arbitrum-arb-logo.png",
+  "name": "Arbitrum STIP",
+  "slug": "arbitrum-stip",
+  "nodes": [
+    {
+      "id": "4m9ikUK+wln2klxCqwclKr26Tpc=",
+      "kind": "file",
+      "name": "Pendle",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "a1f840f0-a2dc-4be2-9fda-d6304bc66619"
+        }
+      ]
+    },
+    {
+      "id": "/zZf/j8Ekmagw4vOyODNvJOVo0M=",
+      "kind": "file",
+      "name": "Radiant Capital",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "d6e66a9f-9146-4c60-8bc2-2e76936f9362"
+        }
+      ]
+    },
+    {
+      "id": "xkpp58p2QdD541h/BGTxrjyn5f8=",
+      "kind": "file",
+      "name": "Balancer",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "b10539fc-3ef6-43b6-a3db-8b8010f87b6c"
+        }
+      ]
+    },
+    {
+      "id": "JGu5AwIgyj/OstOk1gPghXpk/FY=",
+      "kind": "file",
+      "name": "Frax Finance",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "8b5d36c8-e20a-4d88-b982-e95565d66887"
+        }
+      ]
+    },
+    {
+      "id": "w3uHnHKt/Z87wqwQiV6syFJMoIA=",
+      "kind": "file",
+      "name": "Thetanuts Finance",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "6489d788-ee1f-430d-bbc9-8ae7bb5db0d0"
+        }
+      ]
+    },
+    {
+      "id": "+tctIZ6ujAIC/zqTOhNnNxNvN60=",
+      "kind": "file",
+      "name": "Dolomite",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "85e3fa02-4b8d-4d47-919f-f2bd98e0bfbd"
+        }
+      ]
+    },
+    {
+      "id": "hKh6IdgtzHrUH/Jykk20kRbZoSQ=",
+      "kind": "file",
+      "name": "Jones",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "44d55b5e-d114-4af5-8c09-f5ca492cf446"
+        }
+      ]
+    },
+    {
+      "id": "B51uG9qYmDJIAO/CV4LYaGd283A=",
+      "kind": "file",
+      "name": "Abracadabra Money",
+      "documentType": "arbitrum/stip-grantee",
+      "parentFolder": "stip",
+      "synchronizationUnits": [
+        {
+          "scope": "global",
+          "branch": "main",
+          "syncId": "79831e2f-9637-4e30-9da7-1102d213120b"
+        }
+      ]
+    }
+  ]
+}

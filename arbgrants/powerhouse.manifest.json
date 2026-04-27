@@ -1,0 +1,35 @@
+{
+  "name": "@arbitrum/arbgrants",
+  "description": "Arbitrum STIP and LTIP grantee document models and editors",
+  "category": "",
+  "publisher": {
+    "name": "",
+    "url": ""
+  },
+  "documentModels": [
+    {
+      "id": "arbitrum/ltip-grantee",
+      "name": "Arbitrum LTIP Grantee"
+    },
+    {
+      "id": "arbitrum/stip-grantee",
+      "name": "Arbitrum STIP Grantee"
+    }
+  ],
+  "editors": [
+    {
+      "id": "arb-ltip-editor",
+      "name": "arb-ltip",
+      "documentTypes": ["arbitrum/ltip-grantee"]
+    },
+    {
+      "id": "arb-stip-editor",
+      "name": "arb-stip",
+      "documentTypes": ["arbitrum/stip-grantee"]
+    }
+  ],
+  "apps": [],
+  "subgraphs": [],
+  "importScripts": [],
+  "config": []
+}

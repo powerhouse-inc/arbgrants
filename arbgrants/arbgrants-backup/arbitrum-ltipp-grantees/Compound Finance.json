@@ -1,0 +1,451 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "nil. Grant distribution being set up",
+        "lessons": "Compound does not have a native rewards contract capable of distributing two tokens at the same time. While it is distributing the COMP rewards, the team is working on setting up additional channels to distribute the ARB rewards to the users.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No grants distributed in this period. The team will mention their learnings here as we start distributing grants.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "The contract address mentioned is something that will be used in the coming days for incetivizations. The actual grant distribution has not started yet.",
+        "arbRemaining": 1800000,
+        "contractsIncentivized": [
+          {
+            "contractId": "6ab3e912-7687-49bf-a201-e84bbde5fd37",
+            "contractLabel": "Merkl",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes implemented Yet as the grants arrived in the late part of the update period. The team is in process of setting up distribution channels that will work to incentivise users for depositing liquidity on Compound pools",
+        "expectations": "The next biweekly period will have multiple updates as we will start distributing grants to the users. Additionally the team is in the experimentation phase for trying different channels of distribution to find out which Grant distribution channels give the highest returns",
+        "arbToBeDistributed": 1,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a016752-81cc-4ff8-946d-b61b4e472b2e",
+            "contractLabel": "Merkl rewards distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "3 distribution partners are being utilized to distribute grants Merkl. Layer3 and Vaultcraft. Additional 100K ARB has been transferred to OKX Defi for distribution through their Compound V3 integration, but the actual campaign for OKX defi is yet to start. So their impact will be recorded in the third biweekly reporting period",
+        "lessons": "Retroactively rewarding users who have already deposited funds may build moral among community members (like an airdrop) but it doesn't build new growth and long term success, which is our goal. For that reason I think we'll shy away from Merkl in favor of platforms like Vaultcraft, Layer3 and OKX that only incentivize net new TVL coming through the campaign.\nWith enough exposure APR rates on a platform come back to Beta around 15%. Therefore on the platforms like Vaultcraft where we still have 188% APR we're increasing our marketing spend to increase awareness and drive TVL toward Beta.",
+        "avgDailyTVL": 46354592,
+        "avgDailyTXNS": 2226,
+        "avgDailyUniqueUsers": 794
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution of incentives started midway in the second biweekly reporting period. Within the short period of activation of the Campaigns, we were able to achieve great traction to build up on our success.\n\nFor the Layer3 Campaign, the initial statistics are\nTotal Layer3 transactions - 12084\nTotal Unique addresses - 6042\nSupplyUsd - 688,906$\nWithdrawUsd - 26,132$\nNew TVL - 662,774$\nCurrent additional APR - 80%",
+        "incentives": "",
+        "arbReceived": 300000,
+        "arbUtilized": 150000,
+        "disclosures": "3 platforms being utilized at the moment for distributing grants. Merkl, Layer3, OKX Defi\n\nAdditionally, 1 more platform Vaultcraft is being planned for incentive distribution.\n\nTotal of 150000 have been allocated for distribution, the distribution period will vary from 2 weeks to two months",
+        "arbRemaining": 1500000,
+        "contractsIncentivized": [
+          {
+            "contractId": "1b57a8d2-5bb8-4dd2-a979-873665c34150",
+            "contractLabel": "Layer3",
+            "contractAddress": "0xee3273f6d29ddFFf08FfD9D513cfF314734f01A2"
+          },
+          {
+            "contractId": "e6128edf-6ea1-415e-a75f-7a9484f6276f",
+            "contractLabel": "Merkl",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "0513eac1-1741-4c34-9f47-9884640dc435",
+            "contractLabel": "OKX Defi",
+            "contractAddress": "0x2f925542d1689258Be55F87e17FCd8B7480d76f0"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "The original proposal did not mention channels of distribution for the Grants. As Compound's Native Rewards contract can support only the Distribution of COMP tokens, we are utilizing additional channels to drive user actions and incentivizations.\n\nThe Platforms that we are utilizing are\n- Layer3\n- Merkl\n- OKX Defi Wallet",
+        "expectations": "The above Grant distribution channels are being utilized. We expect to continue distributing grants through the mentioned channels for next week as well. Additionally, depending on the channel that gives the highest ROI, we will double down our resources on that channel for user incentivizations",
+        "arbToBeDistributed": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "39c2756a-e6cf-4107-bf18-1cefabac6bd3",
+            "contractLabel": "Merkl",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "d8fc2a25-d7b8-430b-b99d-8c40e37f33c2",
+            "contractLabel": "Layer3",
+            "contractAddress": "0xee3273f6d29ddFFf08FfD9D513cfF314734f01A2"
+          },
+          {
+            "contractId": "8892be8b-9230-4ef3-9aa1-419a29c389c0",
+            "contractLabel": "OKX",
+            "contractAddress": "0x2f925542d1689258Be55F87e17FCd8B7480d76f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We were going to stack APR in OKX to encourage another $25M TVL to come in, however because they cannot stack TVL, we decided the USDC incentives for 7/9-7/23 would just continue on the USDC pool from 7/15-7/29. ",
+        "lessons": "- Layer3 drives a massive number of users, but the transaction size is small.\n- OKX drives massive TVL and is our best partner, with a great user interface. They\u2019ve brought around $300M in TVL with around $130M TVL still remaining.\n- VaultCraft in an identical OKX interface has about 10% higher APR at steady state, showing the trust of Compound /OKX is worth 10% of APR.",
+        "avgDailyTVL": 73901144,
+        "avgDailyTXNS": 1194,
+        "avgDailyUniqueUsers": 610
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Here\u2019s a transparent breakdown of where funding was sent\n\nhttps://www.comp.xyz/t/alphagrowth-arbitrum-ltipp-grant-multisig-distribution-tracker/5417\n\nAnd the campaigns that ran during the [7/1 - 7/15] time period. \n\n**Lend USDC**\n\n- OKX: [7/1 - 7/15] 100K ARB distributed\n- OKX: [7/9 - 7/23] 100K ARB (Actually will continue incentives 7/15-7/30)\n- VaultCraft: [7/1 - 7/15] 50K ARB distributed\n\nLend wETH\n\n- Vaultcraft: [7/9-7/15] 50K ARB total budget \u2192 (6 of 14 days) ongoing\n- Layer3 [7/11-15] 25K ARB total budget \u2192 (4 of 14 days) ongoing\n- OKX [7/12-7/15] 100K ARB total budget \u2192 (3 of 14 days) ongoing\n\nLend USDT\n\n- Vaultcraft: [7/9-7/15] 50K ARB total budget \u2192 (6 of 14 days)  ongoing\n- Layer3 [7/11-15] 25K ARB total budget \u2192 (4 of 14 days) ongoing\n- OKX [7/12-7/15] 100K ARB total budget \u2192 (3 of 14 days) ongoing\n\nEach campaign lasts 2 weeks minimum. The Campaigns that were started and overlap into the next period are denoted as \u2192 ongoing",
+        "incentives": "",
+        "arbReceived": 900000,
+        "arbUtilized": 600000,
+        "disclosures": "None",
+        "arbRemaining": 600000,
+        "contractsIncentivized": [
+          {
+            "contractId": "d58bce87-5bb1-4c91-bab9-aea5daa60d48",
+            "contractLabel": "Lend USDC on Arbitrum",
+            "contractAddress": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf"
+          },
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We've launched two new markets on Arbitrum since the previous period wETH and USDT, we are starting campaigns for them the week of 7/8/2024.\n\nDuring the current period 7/1-7/15 ARB is no longer being deployed though Merkl due to the platform's lack of net-new traffic. Currently it's being distributed through three platforms, Vaultcraft, Layer3 and OKX, in the following campaigns. The difference from the initial grant application is that we are not distributing in a 0.8, 1, 1.2 ratio that favors giving more rewards to whales, instead we are treating all wallets equally (distributing LP incentives in a time-weighted average depending upon the amount & duration of funds they deposit. ",
+        "expectations": "This period we're running the following campaigns. \n\nLend USDC layer3 quest -> 25,000 ARB (led to ~ 7.9K unique wallets interacting on ARB)\nLend USDC through OKX -> 100,000 ARB (currently has led to roughly $25M in net new TVL) \nLend USDC through VaultCraft -> 50,000 ARB (led to $2M TVL) \nLend wETH through VaultCraft -> 25,000 ARB (25K more in the following period) \nLend USDT through VaultCraft -> 25,000 ARB (25K more in the following period) ",
+        "arbToBeDistributed": 225000,
+        "contractsIncentivized": [
+          {
+            "contractId": "d58bce87-5bb1-4c91-bab9-aea5daa60d48",
+            "contractLabel": "Lend USDC on Arbitrum",
+            "contractAddress": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf"
+          },
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None, the execution followed our intended plans",
+        "lessons": "OKX Continues to be the the best source of TVL, In working to build up utilization of the new TVL coming onto the platform it\u2019s apparent that structured products play a large role in. ",
+        "avgDailyTVL": 147797007,
+        "avgDailyTXNS": 3286,
+        "avgDailyUniqueUsers": 1856
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "I've changed the reporting structure from counting ARB tokens as \"Used\" the date that they're sent to a partner for distribution, to when they have actually been awarded to end users. (In the previous period, while 600,000 ARB were sent to partners to distribute, only 253,571 were awarded to end users. In this period an additional 435,714 ARB were awarded to end users. Subtracting 600,000 from 453,714+253,571 I have reported that an additional 114285 ARB were utilized this period. \n\nThe campaigns this period rewarded ARB for the following activities. \nLayer3 - Lend ETH - 17,857\nLayer3 - Lend USDT - 17,857\nVaultcraft - Lend ETH - 50,000\nVaultcraft - Lend USDT - 50,000\nOKX - Lend USDC - 100,000\nOKX - Lend ETH - 100,000\nOKX - Lend USDT - 100,000\n\n",
+        "incentives": "",
+        "arbReceived": 230000,
+        "arbUtilized": 114285,
+        "disclosures": "None",
+        "arbRemaining": 370000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c1415fe5-2632-49d9-8186-bb2f95f06cf7",
+            "contractLabel": "Borrow USDC on Arb",
+            "contractAddress": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf"
+          },
+          {
+            "contractId": "bab151a6-e7e6-48e7-9eb3-b6f5a6e33629",
+            "contractLabel": "Borrow wETH on Arb",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We expect to Maintain TVL and users on OKX & Vaultcraft with sustained rewards. \nIn parallel, we are starting new campaigns and looking for platforms to incentivize borrowing, as the mass influx of new TVL has led to very low utilization of the lending pools. Platforms through which we'll incentivize borrowing are Layer3 and Torque to start. And we'll tentatively launch our native Compound reward contract during this time period to allow us to distribute borrowing rewards natively. \nGauntlet is currently working to increase the supply caps, as we've already maxed out the collateral deposited in each of our markets. As soon as the collateral caps are raised we'll begin borrowing incentive campaigns. \n",
+        "expectations": "**Lend USDC**\n- OKX: [7/15 - 7/30] 100K ARB\n\n**Lend wETH**\n- Layer3 [7/16-26] 25K ARB total budget \u2192 (10 of 14 days) \u2026 continuation\n- Vaultcraft: [7/16-7/23] 50K ARB total budget \u2192 (8 of 14 days) \u2026 continuation\n- Vaultcraft [7/23-7/30] 25K ARB additional\n- OKX [7/16-7/27] 100K ARB total budget \u2192 (11 of 14 days) \u2026 continuation\n- OKX [7/27-8/3] 50K ARB additional\n\n**Lend USDT**\n- Layer3 [7/16-26] 25K ARB total budget \u2192 (10 of 14 days) \u2026 continuation\n- Vaultcraft: [7/16-7/23] 50K ARB total budget \u2192 (8 of 14 days)  ongoing\n- Vaultcraft [7/23-7/30] 25K ARB additional\n- OKX [7/16-7/27] 100K ARB total budget \u2192 (11 of 14 days) \u2026 continuation\n- OKX [7/27-8/3] 50K ARB additional\n\n**Borrow ETH any Collateral** \n- Layer3 [7/24 \u2192 8/7] 25K ARB \u2026 liquidity incentives (time weighted)\n- Layer3 [7/24 \u2192 8/7] 25K ARB \u2026 position incentives ($8 to make a position) \u2026 testing Sibyl resistance of Layer3 on a campaign with the potential to engage a larger audience.\n\n**Borrow USDC with wBTC**\n- Torque [7/26 \u2192 unknown] 15K ARB total budget (new platform)\n**Borrow USDC with wETH**\n- Torque [7/26 \u2192 unknown] 15K ARB total budget (new platform)",
+        "arbToBeDistributed": 230000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c1415fe5-2632-49d9-8186-bb2f95f06cf7",
+            "contractLabel": "Borrow USDC on Arb",
+            "contractAddress": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf"
+          },
+          {
+            "contractId": "bab151a6-e7e6-48e7-9eb3-b6f5a6e33629",
+            "contractLabel": "Borrow wETH on Arb",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None, the execution followed our intended plans",
+        "lessons": "When incentivizing borrowing through multiple platforms, One platform which doesn\u2019t allow leverage brought about $4 for every $1 of incentives distributed, while another platform that allows leverage brought about $2M of Open Interest the first day that the incentives was live, expect a full report next period, however it looks to be bringing $904 per $1 of incentives distributed, showing mass appeal for structured products allowing leverage. ",
+        "avgDailyTVL": 158610009,
+        "avgDailyTXNS": 1055,
+        "avgDailyUniqueUsers": 417
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We incentivized the following actions:\nVaultcraft - Lend ETH - 50,000\nVaultcraft - Lend USDT - 50,000\nOKX - Lend ETH - 100,000\nOKX - Lend USDT - 100,000\nTorque - Borrow USDC against wBTC - 15,000\nTorque - Borrow USDC against wETH - 15,000\nContango - Borrow ETH against wstETH, rETH, rsETH or weETH - 4,545",
+        "incentives": "",
+        "arbReceived": 300000,
+        "arbUtilized": 334545,
+        "disclosures": "None",
+        "arbRemaining": 70000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          },
+          {
+            "contractId": "441d8716-a23d-44e9-967d-cc723c4e624b",
+            "contractLabel": "Borrow USDC ",
+            "contractAddress": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "We will started incentivizing borrowing, to increase utilization of the TVL being lent to increase APRs and create sticky TVL with higher APYs that remains after LTIPP has concluded. ",
+        "expectations": "We expect the first structured product we incentivize to create $10-15M of borrow pressure on the ETH market.\nWe will continue to incentivize Lending of USDT & ETH to ensure that the lending markets maintain excess TVL until the structured product can borrow it. ",
+        "arbToBeDistributed": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          },
+          {
+            "contractId": "315fd156-ed93-42f0-8ebc-c1a4a747c3a2",
+            "contractLabel": "Borrow USDC on Arbitrum",
+            "contractAddress": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf"
+          },
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Of $30M available to borrow, Contango & DHedge borrowed the majority before Cian could participate. Had to wait until more TVL was lent before Cian could come in. ",
+        "lessons": "- OKX has diminishing returns when adding more than $50M in TVL for an asset.\n- There\u2019s much less to do with borrowed USDT than ETH, creating less demand\n- Contango continues to create a ton of Open Interest, Perps have a lot of activity and drive a lot of revenue on chain to their platforms.",
+        "avgDailyTVL": 186652609,
+        "avgDailyTXNS": 326,
+        "avgDailyUniqueUsers": 205
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We incentivized Lend ETH through OKX, and Lend USDT through OKX. We increased the incentives on ETH by 250% (to $250K ARB) and decreased the incentives on USDT by 50% (to 50K ARB). There were diminishing returns from OKX at this scale, the TVL did not 2.5x as would happen if the incentives once again returned to beta. The TVL from OKX increased by 75% from $52M to $92M of ETH lent due to these incentives.\nWe also distributed funds to structured products to eat up the borrowing capacity, however most took 2 weeks to integrate and were only able to start deploying those incentives in the final week of LTIPP.",
+        "incentives": "",
+        "arbReceived": 751168,
+        "arbUtilized": 0,
+        "disclosures": "None",
+        "arbRemaining": -681168,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We are distributing incentives through three additional structured product partners to incentivize borrowing ETH against LRTs. We\u2019ve increased incentives on Lending ETH and decreased incentives on lending USDT for which there aren\u2019t as many borrowing use cases. ",
+        "expectations": "Each structured product anticipates requiring $8-10M of ETH to borrow. Now that we\u2019ll be incentivizing 4 structured products in total, we should create $32-$40M of ETH borrow pressure, which will hopefully increase lending deposits as well. In anticipation of extra borrow pressure, our increased ETH lending incentivization we anticipate increasing Lent ETH by $30M by doubling our current incentives which based on our previous campaigns should double the TVL before returning to beta. ",
+        "arbToBeDistributed": 751168,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We received portions of the LTIPP grant from some of our partners, however in fine tuning the balance in growth of Deposits and Borrows, we maxed out the channels we\u2019d identified to responsibly deploy the incentives. We did give contango 10,000 ARB to deploy in a single day to understand it\u2019s effect. However we ended up returning around 65,000 ARB because we believed it was a better option than spiking APRs right at the end in an unsustainable hoorah.  We also ended up returning 97,000 ARB after LTIPP ended that was returned to us by our partner Cian, who we\u2019d given 100,000 ARB to use as borrowing incentives. Apparently after developing their integration they didn\u2019t have enough time before the 9/2 deadline to ramp up their rewards. We would like to test Cian more in the future, to understand their full potential, now that their integration is built on Arbitrum. ",
+        "lessons": "Compound began LTIPP with the intention of using a native reward contract to distribute rewards. Due to its extended timeline to develop, we found partner structured products built on top of Compound to drive traffic to the underlying protocol, and at it\u2019s height we grew TVL on Compound on Arbitrum to $208M. Most of that TVL came from ETH as the most structured products are built for borrowing ETH against ETH derivatives. We began with small experiments on each platform and in the final weeks doubled down on those making the largest impact. We were able to attract about $260 of TVL for each $1 of incentives distributed through our highest performing partners. In the next LTIPP, we would incentivize consistently through those platforms in a way that gradually increases incentives over time, and then tapers them off to avoid the shock that comes at the end of the LTIPP campaign and retain the most TVL. After LTIPP completed, we retained about 50% of the TVL on our partners, having found tens of millions in capital that was sticky. We\u2019ll do more analysis after some months to understand if the capital moves based on future campaigns we perform and how sticky it truly is. Small experiments this time will help us perform larger sustainable growth in future partnerships with Arbitrum. ",
+        "avgDailyTVL": 208036089,
+        "avgDailyTXNS": 336,
+        "avgDailyUniqueUsers": 195
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We incentivized the following actions:\nVaultcraft - Lend ETH - 7,142\nVaultcraft - Lend USDT - 77,142\nOKX - Lend ETH - 285,714.29\nOKX - Lend USDT - 85,714.29\nContango - Borrow ETH against wstETH, rETH, rsETH or weETH - 95,454.55\nCian - Borrow ETH against rsETH, wstETH - 100,000 (They returned 97,850 ARB afterward) \nDHedge - Borrow ETH against TBD 100,000\nReturned to the Foundation 65,000 ARB from Compound\n(In total: 162,890 ARB returned to the Foundation) ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 589168,
+        "disclosures": "None",
+        "arbRemaining": -681168,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We are distributing incentives through three additional structured product partners to incentivize borrowing ETH against LRTs. We\u2019ve increased incentives on Lending ETH and decreased incentives on lending USDT for which there aren\u2019t as many borrowing use cases. ",
+        "expectations": "Each structured product anticipates requiring $8-10M of ETH to borrow. Now that we\u2019ll be incentivizing 4 structured products in total, we should create $32-$40M of ETH borrow pressure, which will hopefully increase lending deposits as well. In anticipation of extra borrow pressure, our increased ETH lending incentivization we anticipate increasing Lent ETH by $30M by doubling our current incentives which based on our previous campaigns should double the TVL before returning to beta. ",
+        "arbToBeDistributed": 751168,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3fbe0b9-a7a4-4cd0-9ef1-c5656ce1107a",
+            "contractLabel": "Lending wETH on Arbitrum",
+            "contractAddress": "0x6f7D514bbD4aFf3BcD1140B7344b32f063dEe486"
+          },
+          {
+            "contractId": "a0cd826b-4aab-49b6-977b-d9dbdb36c5dd",
+            "contractLabel": "Lending USDT on Arbitrum",
+            "contractAddress": "0xd98Be00b5D27fc98112BdE293e487f8D4cA57d07"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "none - no ongoing campaigns",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "none",
+        "arbRemaining": -681168,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "We are not distributing any funds during this period. ",
+        "expectations": "We will observe how much of the TVL brought in from the LTIPP campaign is sticky. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 1800000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Compound Finance",
+  "grantSummary": "",
+  "fundingAddress": "0x05B51C484146170240497CE3Ce18aCc6AF2ABC28",
+  "editorAddresses": [],
+  "matchingGrantSize": 1800000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x05B51C484146170240497CE3Ce18aCc6AF2ABC28"
+}

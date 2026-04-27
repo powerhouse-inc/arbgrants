@@ -1,0 +1,276 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "NA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "NA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "NA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "NA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "NA",
+        "expectations": "NA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "NA",
+        "avgDailyTVL": 1000000,
+        "avgDailyTXNS": 94,
+        "avgDailyUniqueUsers": 819
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 7640,
+        "disclosures": "NA",
+        "arbRemaining": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We have created a \"Arbitrum Rewards Challenge\" with milestones based on futures trading volume:\nComplete all 5 milestones to earn the maximum reward of 1,000 $ARB:\nMilestone 1: Trade $10k in volume to earn 15 $ARB tokens.\nMilestone 2: Trade $50k in volume to earn 70 $ARB tokens.\nMilestone 3: Trade $100k in volume to earn 100 $ARB tokens.\nMilestone 4: Trade $500k in volume to earn 500 $ARB tokens.\nMilestone 5: Trade $1Mn in volume to earn 1,000 $ARB tokens.",
+        "expectations": "We're expecting an increase in weekly transacting volume based on the rewards construct. ",
+        "arbToBeDistributed": 41667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 50000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Okto Mobile Wallet",
+  "grantSummary": "Okto is a web3 super wallet designed to simplify and enhance the web3 experience for users. It provides simple interfaces and powerful aggregations to provide the easiest way to ape in on any opportunity with just a few clicks. And all of this within a single native mobile experience. Additionally, Okto boasts features such as MPC wallets, a unique Gas Station Network, and inline bridges, ensuring smooth navigation across multiple chains.",
+  "fundingAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://dune.com/defiants_da/okto-ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xa6f2B87238e54e7C3D2740e3e0b355daCbe41450"
+}

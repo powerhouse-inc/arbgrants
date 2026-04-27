@@ -1,0 +1,838 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Pools needed to be rebalanced constantly as people are unwilling to bridge assets from mainnet.",
+        "avgDailyTVL": 1198598,
+        "avgDailyTXNS": 53,
+        "avgDailyUniqueUsers": 26
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "First week, distributed ARB and RSR evenly across all curve pools.\n\nsecond week, beefy CLM vaults were live so we distributed 4k ARB to 3 vaults and then distributed remaining ARB and RSR evenly across Curve pools",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 50000,
+        "disclosures": "Agreed to 4k ARB per week co-incentives with Beefy on their CLM vaults.",
+        "arbRemaining": 1,
+        "contractsIncentivized": [
+          {
+            "contractId": "0dff93ae-3776-4e69-9ed0-9b3ac901ae72",
+            "contractLabel": "rgUSD/USDC Curve Pool",
+            "contractAddress": "0xd27f5809342066e7c1995f6c78f3245593044c27"
+          },
+          {
+            "contractId": "4deba8c8-608b-4fe4-b673-7d5eb5931a34",
+            "contractLabel": "eUSD/rgUSD Curve Pool",
+            "contractAddress": "0x8cecdc462d5b39c29bd7e01027c944e4361191c2"
+          },
+          {
+            "contractId": "f59b7d12-8922-4ea2-abe2-7413cf2261fd",
+            "contractLabel": "KNOX/rgUSD Curve Pool",
+            "contractAddress": "0xf4754dfc1960af974f54bc8d86026f1bf85fac9c"
+          },
+          {
+            "contractId": "daa75dbe-7e19-4408-b096-663f3ea85a13",
+            "contractLabel": "ETH+/WETH Curve Pool",
+            "contractAddress": "0xb224cf7c17db373ecef550cf957b8a4dd40c8109"
+          },
+          {
+            "contractId": "9449b5f9-6914-42b8-8f7c-f60086b4dc1a",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "b7494c5b-84fe-4c55-b140-3cda62cea86c",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "9807b1e4-bc0f-4aa4-894d-5a195d386ce0",
+            "contractLabel": "KNOX/eUSD curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "0c276542-cdca-4aa9-be93-a7d30d6f5a0d",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Distributed ARB and RSR evenly to all pools each week for first two weeks to get pools kick-started. Planning to move to distributing incentives proportionally to TVL of pools in next bi-weekly period",
+        "expectations": "expecting TVL of pools to grow as incentives kick off",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "d522e3b2-b965-48d7-90f6-67be4f9da2bd",
+            "contractLabel": "rgUSD/USDC Curve Pool",
+            "contractAddress": "0xd27f5809342066e7c1995f6c78f3245593044c27"
+          },
+          {
+            "contractId": "dfeea0ab-d507-43cc-819a-6200e55aff39",
+            "contractLabel": "eUSD/rgUSD Curve Pool",
+            "contractAddress": "0x8cecdc462d5b39c29bd7e01027c944e4361191c2"
+          },
+          {
+            "contractId": "c7b6e2e4-0ba5-4a5c-a658-f35a220bdeb4",
+            "contractLabel": "KNOX/rgUSD Curve Pool",
+            "contractAddress": "0xf4754dfc1960af974f54bc8d86026f1bf85fac9c"
+          },
+          {
+            "contractId": "7b2ae1b2-f9b0-4c0f-b4f4-7a08891fb443",
+            "contractLabel": "ETH+/WETH",
+            "contractAddress": "0xb224cf7c17db373ecef550cf957b8a4dd40c8109"
+          },
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "c2cec375-70a3-40a7-bb95-e52ffb71a292",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "fbf38698-8c5d-46de-9228-e4c0a00d1c80",
+            "contractLabel": "Merkle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none other than already outlined",
+        "lessons": "As pools grow there is need to rebalance pools for bridged assets as users will not bridge themselves",
+        "avgDailyTVL": 1307659,
+        "avgDailyTXNS": 38,
+        "avgDailyUniqueUsers": 22
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributed 50k ARB and 1,254.5k RSR during this period to the target pools. There have been 2 changes during this period:\n1. winding down incentives for rgUSD pools\n2. incentives are distributed according to RToken TVL of the pool. i.e. pools with higher RToken TVL will receive higher allocation of weekly distribution of incentives",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 50000,
+        "disclosures": "N/A",
+        "arbRemaining": 416666,
+        "contractsIncentivized": [
+          {
+            "contractId": "1d6545d5-ddca-4adc-9576-6f5a0a743bb5",
+            "contractLabel": "rgUSD/USDC Curve Pool",
+            "contractAddress": "0xd27f5809342066e7c1995f6c78f3245593044c27"
+          },
+          {
+            "contractId": "f4b36001-3d3e-4e3b-9573-7dc37ebb968e",
+            "contractLabel": "eUSD/rgUSD Curve Pool",
+            "contractAddress": "0x8cecdc462d5b39c29bd7e01027c944e4361191c2"
+          },
+          {
+            "contractId": "bc169a4a-1246-42e4-a483-4f45c971c70c",
+            "contractLabel": "KNOX/rgUSD Curve Pool",
+            "contractAddress": "0xf4754dfc1960af974f54bc8d86026f1bf85fac9c"
+          },
+          {
+            "contractId": "ffb8971b-f173-4cc2-b221-22649a3840b4",
+            "contractLabel": "ETH+/WETH Curve Pool",
+            "contractAddress": "0xb224cf7c17db373ecef550cf957b8a4dd40c8109"
+          },
+          {
+            "contractId": "40ab54f9-202e-4bbb-9654-5ebc683c0cf1",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "36211d7a-d06f-4666-afd3-b464677780c7",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7128b2aa-061d-45dc-9fa4-c4ad53387e9c",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "a5086696-6f45-4135-a1af-12bf8185d63a",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "e18ea863-baca-4068-9d50-9dfd0c295049",
+            "contractLabel": "Merkle Distribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "winding down incentives on rgUSD pools to focus on eUSD, ETH+, and KNOX",
+        "expectations": "expect TVL to continue to grow as incentives are concentrated on fewer pools",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "0383e2b0-c603-4644-8f7d-f7a0a1f75711",
+            "contractLabel": "KNOX/rgUSD Curve Pool",
+            "contractAddress": "0xf4754dfc1960af974f54bc8d86026f1bf85fac9c"
+          },
+          {
+            "contractId": "49c786ca-f41b-4f34-9da4-930e25119956",
+            "contractLabel": "rgUSD/USDC Curve Pool",
+            "contractAddress": "0xd27f5809342066e7c1995f6c78f3245593044c27"
+          },
+          {
+            "contractId": "d9bfb9d1-6c64-49af-97e9-5e82fe819e77",
+            "contractLabel": "eUSD/rgUSD Curve Pool",
+            "contractAddress": "0x8cecdc462d5b39c29bd7e01027c944e4361191c2"
+          },
+          {
+            "contractId": "5670bf5b-b245-44f9-8988-e65aa4bba2b8",
+            "contractLabel": "ETH+/WETH Curve Pool",
+            "contractAddress": "0xb224cf7c17db373ecef550cf957b8a4dd40c8109"
+          },
+          {
+            "contractId": "7d7a408f-2ade-48d2-aa92-d496cfc95f97",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "6edb6807-fc4e-4691-b5b0-6cbe9dab94d9",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "5816f6e6-52c3-4c67-9baf-629637bc4add",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "cd03ea45-6e50-40ba-aa2c-6a338abbfdcc",
+            "contractLabel": "Merkle Distributor Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "Efficiency of incentives is increasing as pool TVL grows however pools are generally still pretty inefficient, likely to large amount of ARB incentives being distributed at the same time",
+        "avgDailyTVL": 1301514,
+        "avgDailyTXNS": 53,
+        "avgDailyUniqueUsers": 16
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributed 75k ARB and 1.8m RSR as direct LP incentives over the 2 week period. Incentives were allocated to each end destination proportionally based on the size of each pool",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 75000,
+        "disclosures": "N/A",
+        "arbRemaining": 258332,
+        "contractsIncentivized": [
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "7b2ae1b2-f9b0-4c0f-b4f4-7a08891fb443",
+            "contractLabel": "ETH+/WETH",
+            "contractAddress": "0xb224cf7c17db373ecef550cf957b8a4dd40c8109"
+          },
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "c2cec375-70a3-40a7-bb95-e52ffb71a292",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Increased Incentives for this period by 25k ARB",
+        "expectations": "Expect TVL to increase accordingly with the increase in ARB incentives",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "7b2ae1b2-f9b0-4c0f-b4f4-7a08891fb443",
+            "contractLabel": "ETH+/WETH",
+            "contractAddress": "0xb224cf7c17db373ecef550cf957b8a4dd40c8109"
+          },
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "c2cec375-70a3-40a7-bb95-e52ffb71a292",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "migrated incentives from stableswap to cryptoswap pools for ETH+ and KNOX",
+        "lessons": "migrating incentives doesnt effect TVL much. Users will come for the yield making TVL feel very mercenary",
+        "avgDailyTVL": 1429800,
+        "avgDailyTXNS": 62,
+        "avgDailyUniqueUsers": 33
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "distributed incentives proportional to RToken TVL of the pools. For KNOX/eUSD and ETH+/WETH, incentives were split between old stableswap and new cryptoswap pools. the timeline for migration of incentives is the below\nWeek 1: 50/50 split between stableswap and cryptoswap\nWeek 2: 25/75 split between stableswap and cryptoswap\nWeek 3: 0/100 split between stableswap and cryptoswap",
+        "incentives": "",
+        "arbReceived": 416670,
+        "arbUtilized": 250000,
+        "disclosures": "N/A",
+        "arbRemaining": 137498,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "c2cec375-70a3-40a7-bb95-e52ffb71a292",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Realized that the ETH+/WETH and KNOX/eUSD curve pools were incorrectly set up as stableswap which was causing the massize pool imbalance. created new cryptoswap pools and started to migrate incentives over to the new pools over several weeks as to not rug LPs",
+        "expectations": "increases in ETH+ pool TVL due to tightening of APRs. also expect inflows of TVL to new cryptoswap pools while old pools will maintain small TVL even after incentives stop flowing to them",
+        "arbToBeDistributed": 112500,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "c2cec375-70a3-40a7-bb95-e52ffb71a292",
+            "contractLabel": "KNOX/eUSD Curve Pool",
+            "contractAddress": "0x63254954b617493bb9311c9f89b50425943b05f6"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "increased incentive distributions",
+        "lessons": "Average daily TVL went up by $200k in this period due to higher incentives distributed as we expected",
+        "avgDailyTVL": 1643301,
+        "avgDailyTXNS": 39,
+        "avgDailyUniqueUsers": 25
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "allocated incentives according to Rtoken TVL in the pools",
+        "incentives": "",
+        "arbReceived": 166668,
+        "arbUtilized": 100000,
+        "disclosures": "N/A",
+        "arbRemaining": -333340,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Increasing our weekly incentives distribution as the grant period enters its final month",
+        "expectations": "expect pool TVLs to increase accordingly with the increase in incentives",
+        "arbToBeDistributed": 166668,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no meaningful changes",
+        "lessons": "Reserve has backloaded its distribution of incentives on emissions curve of 20% 1st month, 30% 2nd month, and 50% 3rd month. I expect that our avg TVL growth of almost $1m MoM is due to this increase in incentives distributed while other projects incentives have been flat due to equal distribution across the grant period",
+        "avgDailyTVL": 2282240,
+        "avgDailyTXNS": 38,
+        "avgDailyUniqueUsers": 21
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "distributed incentives with pool allocations based on RToken TVL in the pools.",
+        "incentives": "",
+        "arbReceived": 83333,
+        "arbUtilized": 125000,
+        "disclosures": "N/A",
+        "arbRemaining": -416673,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "no meaningful changes. distributing same amount of incentives as last period",
+        "expectations": "Expect TVL to remain flat",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "TVL has steadily gone up in line with increasing incentives throughout the grant period",
+        "avgDailyTVL": 2252144,
+        "avgDailyTXNS": 32,
+        "avgDailyUniqueUsers": 21
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "distributed ARB and RSR incentives weekly with incentive allocation amounts based proportionally on rtoken TVL of the liquidity pools",
+        "incentives": "",
+        "arbReceived": 83333,
+        "arbUtilized": 125000,
+        "disclosures": "N/A",
+        "arbRemaining": -500006,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes over previous distribution period",
+        "expectations": "Expect TVL to continue to go up since incentives are backweighted to be larger for last month of grant period",
+        "arbToBeDistributed": 83333,
+        "contractsIncentivized": [
+          {
+            "contractId": "9b6bf23d-f9a7-4a00-b69f-f79c292f2def",
+            "contractLabel": "eUSD/crvUSD Curve Pool",
+            "contractAddress": "0x71d97aeeefe4715e05354d009b8b7a77c325cc2d"
+          },
+          {
+            "contractId": "66a2a42a-eccd-45ba-a73e-efa4f6ac2f88",
+            "contractLabel": "eUSD/USDC Curve Pool",
+            "contractAddress": "0xad85fb8a5ed9e2f338d2798a9eef176d31ca6a57"
+          },
+          {
+            "contractId": "b90238e2-ed30-466f-875f-b323f94b509a",
+            "contractLabel": "TriRSR Curve Pool",
+            "contractAddress": "0xf7205c995b7e5f8f755ecbe7eebb92ec742633c9"
+          },
+          {
+            "contractId": "7a56dfba-2379-43f2-aba1-408db47e171f",
+            "contractLabel": "ETH+/WETH Curve Cryptoswap Gauge",
+            "contractAddress": "0x6e9a99f8b3e22c3ee81d888d7e29293e939b6f9c"
+          },
+          {
+            "contractId": "f7ac91dc-a1ca-4455-b5c4-a182fa1093df",
+            "contractLabel": "KNOX/eUSD Curve cryptoswap gauge",
+            "contractAddress": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+          },
+          {
+            "contractId": "18877bdf-c994-4c6e-b210-6bf9a6beddcf",
+            "contractLabel": "ETH+/WETH Beefy CLM",
+            "contractAddress": "0x4e37A0162913dB4b4dFD9C7DF544582363681Da1"
+          },
+          {
+            "contractId": "2f012a20-6615-473b-8b38-fc18c88b2a08",
+            "contractLabel": "eUSD/USDC Beefy CLM",
+            "contractAddress": "0xcb304759697fdabb3b9699161e8bA204Ac3DfF33"
+          },
+          {
+            "contractId": "8eedf78a-62a6-4184-9ff1-920e03cbf3a1",
+            "contractLabel": "KNOX/eUSD Beefy CLM",
+            "contractAddress": "0x63B4508A3b19e46Ff0F7d2aFA1C69BDA098f1890"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 500000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Reserve Protocol",
+  "grantSummary": "Reserve Protocol received 500k ARB from the LTIPP grant, which was matched with 20M RSR from ABC Labs. The funds will be streamed to RToken DEX pools and Lending markets as incentives to grow TVL",
+  "fundingAddress": "0x6cDc9C9D1E9017c36B51BdC3ef6CbFbF3B80545b",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://dune.com/reserve-protocol/reserve-protocol-arbitrum-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6cDc9C9D1E9017c36B51BdC3ef6CbFbF3B80545b"
+}

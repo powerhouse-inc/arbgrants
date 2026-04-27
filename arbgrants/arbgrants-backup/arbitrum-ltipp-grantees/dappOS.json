@@ -1,0 +1,348 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are building the organism to attract more unique users to trade on the GMX system.",
+        "lessons": "N.A",
+        "avgDailyTVL": 3655403,
+        "avgDailyTXNS": 520,
+        "avgDailyUniqueUsers": 370
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "dappOS's tech team has been working in developing the trading referral system in dappOS empowered version of GXM.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosure",
+        "arbRemaining": 81865,
+        "contractsIncentivized": [
+          {
+            "contractId": "2f29a6d3-86ef-4774-8110-1d743bbb09f9",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "dappOS to develop the trading referral system in dappOS empowered version of GXM.",
+        "expectations": "More users to be attracted to the dappOS empowered version of GMX to trade so that daily trading volume and unique users will increase.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "the development work of \"Intent Assets\" supporting GMX V2 made good progress\nThe Aark x dappOS trading competition brought good no. of users and trading volume into the Arbitrum chain.\nTotal trading volume on Aark Arbitrum: 91,224,250\nTotal no. of users gained on Aark Arbitrum: 6707",
+        "lessons": "Engage KOLs with good communities would brought more users on to dappOS and Arbitum ecosystem.",
+        "avgDailyTVL": 3558601,
+        "avgDailyTXNS": 384,
+        "avgDailyUniqueUsers": 280
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The development work was in progress\nAark x dappOS trading competition went on as planned",
+        "incentives": "",
+        "arbReceived": 13645,
+        "arbUtilized": 5000,
+        "disclosures": "No disclosures to be submitted",
+        "arbRemaining": 61220,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "dappOS continue to build the infrastructure of its core product \"Intent Assets\" to support GMX and Arbitrum chain.\ndappOS will host the Aark x dappOS trading competition \nVisit https://aark.dappos.com to trade",
+        "expectations": "Growth in the no. of users and trading volume in the GMX and Arbitrum chain.\nGrowth in the trading volume of Aark and dappOS on Arbitrum chain.\n",
+        "arbToBeDistributed": 13645,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "the \"Intent Assets\" supporting GMX and Arbitrum ecosystem internal testing done. Will get ready for \"Intent Assets\" product launch PR and marketing ready with ecosystem partners including GMX.",
+        "lessons": "N.A",
+        "avgDailyTVL": 3616552,
+        "avgDailyTXNS": 352,
+        "avgDailyUniqueUsers": 310
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "the internal testing went on in good progress",
+        "incentives": "",
+        "arbReceived": 13645,
+        "arbUtilized": 12000,
+        "disclosures": "No disclosure.",
+        "arbRemaining": 54575,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "dappOS core product \"Intent Assets\" supporting GMX and Arbitrum chain will start internal testing.\n",
+        "expectations": "the new \"Intent Assets\" prodcut internal testing to be completed and engage KOLs/communities to prepare for promoting in the near future.",
+        "arbToBeDistributed": 13645,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Marketing team designed the campaign mechanism and posters for the upcoming GMX event,\nalso prepared KOLs and communities for the upcoming PR",
+        "lessons": "N.A.",
+        "avgDailyTVL": 3724210,
+        "avgDailyTXNS": 364,
+        "avgDailyUniqueUsers": 326
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "good progress, engaging KOLs and community members in the GMX ecosystem helps to create attention in the upcoming trading campaign",
+        "incentives": "",
+        "arbReceived": 27650,
+        "arbUtilized": 5000,
+        "disclosures": "No disclosure required",
+        "arbRemaining": 26925,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "dappOS to prepare for the upcoming trading campaign in 21 Aug",
+        "expectations": "The total no. of TVL and trading volume to increase in GMX and Arbitrum ecosystem",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There were good progress in KOL meetings, KOLs have shown good interests in promoting the upcoming GMX trading campaign on 21st AUG.\n",
+        "lessons": "N.A.",
+        "avgDailyTVL": 3709890,
+        "avgDailyTXNS": 382,
+        "avgDailyUniqueUsers": 341
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "There were good progress in KOL meetings, KOLs have shown good interests in promoting the upcoming GMX trading campaign on 21st AUG.\n",
+        "incentives": "",
+        "arbReceived": 6000,
+        "arbUtilized": 5000,
+        "disclosures": "No disclosure required",
+        "arbRemaining": 20925,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "dappOS to have 1 on 1 meetings with KOLs to discuss dappOS's new launch of \"Intent Asset\".\nAlso to discuss with KOLs on GMX trading campaign",
+        "expectations": "Increase discussion between KOLs and communities on GMX and Arbitrum ecosystem",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We saw increased interests from KOLs and communities in the upcoming trading campaign with GMX and dappOS",
+        "lessons": "N.A",
+        "avgDailyTVL": 3710211,
+        "avgDailyTXNS": 351,
+        "avgDailyUniqueUsers": 326
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "the campaign preparation in good progress",
+        "incentives": "",
+        "arbReceived": 6000,
+        "arbUtilized": 20000,
+        "disclosures": "No disclosure required",
+        "arbRemaining": 14925,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "dappOS team to analyse the past trading campaigns with partners of KiloEX, Syncswap, AARK and Sofa to better design the upcoming GMX trading campaign on 21st Aug.\ndappOS to announce the GMX trading campaign on 21st Aug.",
+        "expectations": "we expect to see increase in trading volume and total TVL no. in GMX ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There were large amount of KOL and communities involved in the campaign to promote trading and interactions with GMX.",
+        "lessons": "There were better reactions and traffic flow when market environment was better.",
+        "avgDailyTVL": 4300000,
+        "avgDailyTXNS": 5601,
+        "avgDailyUniqueUsers": 2026
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The GMX x dappOS campaign overlapped with dappOS's big campaign with Binance Web3 Wallet (total 500k USDT price pool to be shared) therefore there were large trading flows coming from users who participated in the trading campaign. At peak time we saw 3.5mm daily trading volume on GMX powered by dappOS version.",
+        "incentives": "",
+        "arbReceived": 30000,
+        "arbUtilized": 50260,
+        "disclosures": "there were no disclosure during the reporting period",
+        "arbRemaining": -15075,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We will start the GMX x dappOS trading campaign on 1 September.\nWe\u2019ve teamed up with \n@GMX_IO\n to bring you Rocket Campaign 07. \n\n\u23f0 September 1, 12:00 PM (UTC) \u2014 September 10, 12:00 PM (UTC)\n\n\ud83c\udf81 Total prize pool : 68000 $ARB\n\nGet trading: https://medium.com/@dappos.com/rocket-campaign-07-dappos-x-gmx-trading-conquest-a8ebeb49d569\n\nWe have also been communicating with our users (including some whales) on putting in TVL in the GMX pool.",
+        "expectations": "We expect the trading volumes to increase greatly in the campaign period. We also expect to see TVL of GMX pool increase during the time period.",
+        "arbToBeDistributed": 30000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b30ec8bd-4dfb-464b-a640-e1d723e2b664",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0x6e8B90F530Bd157eC46c76D0583264B39049287e"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 81865,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "dappOS",
+  "grantSummary": "",
+  "fundingAddress": "0x7c4b3cd3a10a48745f4193c79baecb920ff1d23f",
+  "editorAddresses": [],
+  "matchingGrantSize": 81865,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x7c4b3cd3a10a48745f4193c79baecb920ff1d23f"
+}

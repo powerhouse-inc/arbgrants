@@ -1,0 +1,348 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - the Average Daily TVL is an estimate of the daily traded volume (we do not have TVL). The Average Daily Transactions is an estimate under we fully build out our subgraph and Dune Dashboard for this.",
+        "lessons": "Implementing a fee rebate mechanism has led to increased trading volume, especially for a new trading primitive like pair trading. On hindsight, we should have made it easier for users to claim their $ARB AND convert it to $ETH or $USDC directly on our UI rather than having to go to Uniswap or another venue.",
+        "avgDailyTVL": 1000000,
+        "avgDailyTXNS": 120,
+        "avgDailyUniqueUsers": 52
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "During 03 June 2024 -> 17 June 2024, we set up the infrastructure for the trading fee rebate and began the first distributions.\n\nclaimed: 7262.77719 ARB\naddresses: 52 (unique)",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "$ARB rewards are disbursed to our Treasury MPC wallet: 0x88103C9fA3cE4FF45e4C1Ea3688F40d1DfdA6B02\nThese $ARB are then sent to the main Admin/deployer wallet: 0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96\nand the $ARB are subsequently deposited into the 0xedD408902e47aa155E49ca8585E05c33A6C95B95",
+        "arbRemaining": 350000,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "No changes.\n\nUsers traded on Pear, we calculated the $ fee paid using Chainlink Oracles to convert ETH to USD equivalent and stored this data. We then used a ChainLink oracle to provide a 75% trading fee rebate to users.",
+        "expectations": "This was the first week of the campaign and as such we expect >25,000 $ARB to be claimed in subsequent biweekly periods.",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [
+          {
+            "contractId": "d6a93d6a-1487-46fe-b45d-a4c19c9c7551",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "The $ARB incentives are being well received, although traders would prefer to see a $ equivalent amount which we have since implemented, together with a ARB-USDC ChainLink oracle.",
+        "avgDailyTVL": 1000000,
+        "avgDailyTXNS": 150,
+        "avgDailyUniqueUsers": 83
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "for 18/06 -> 30/06\ndeposited: 20,000 ARB\nclaimed: 13,319.82147 ARB\naddresses: 83 (unique)",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "$ARB rewards are disbursed to our Treasury MPC wallet: 0x88103C9fA3cE4FF45e4C1Ea3688F40d1DfdA6B02\nThese $ARB are then sent to the main Admin/deployer wallet: 0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96\nand the $ARB are subsequently deposited into the 0xedD408902e47aa155E49ca8585E05c33A6C95B95",
+        "arbRemaining": 350000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a64e63b5-596b-4aac-a9c8-b52068cdf410",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "We expected a significant uptick in trading volume and number of $ARB claimed during this ramp up period of the incentives. It also coincided with a marketing push on our end.",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [
+          {
+            "contractId": "0d157824-8d54-4162-a1e1-2cf071a998b9",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Apply a $ equivalent on the FE so users can see the $ value of their arb before claiming. (implemented) ",
+        "avgDailyTVL": 571115,
+        "avgDailyTXNS": 125,
+        "avgDailyUniqueUsers": 80
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "01/07 - 14/07 : amount claimed: 16,271.74126, users: 244, unique: 80, depositAmount: 30,000",
+        "incentives": "",
+        "arbReceived": 58334,
+        "arbUtilized": 30000,
+        "disclosures": "$ARB rewards are disbursed to our Treasury MPC wallet: 0x88103C9fA3cE4FF45e4C1Ea3688F40d1DfdA6B02\nThese $ARB are then sent to the main Admin/deployer wallet: 0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96\nand the $ARB are subsequently deposited into the 0xedD408902e47aa155E49ca8585E05c33A6C95B95",
+        "arbRemaining": 291666,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "We anticipate an increase of users on our Cross Margin app (Vertex integration) vs. Isolated app (GMX) due to the additional $VRTX rewards on top of the $ARB incentives",
+        "arbToBeDistributed": 58334,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "Users like to claim and send back to ETH. Given the volatility in $ARB they are claiming more immediately and thankfully we have no lock period",
+        "avgDailyTVL": 319000,
+        "avgDailyTXNS": 43,
+        "avgDailyUniqueUsers": 57
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "$ARB rewards are disbursed to our Treasury MPC wallet: 0x88103C9fA3cE4FF45e4C1Ea3688F40d1DfdA6B02\nThese $ARB are then sent to the main Admin/deployer wallet: 0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96",
+        "incentives": "",
+        "arbReceived": 58330,
+        "arbUtilized": 16271,
+        "disclosures": "01/07 - 14/07 : {amount claimed: 16,271.74126, users: 244, unique: 80, depositAmount: 30,000}",
+        "arbRemaining": 233336,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "We are starting to deposit more $ARB each biweekly period due to the uptick in trading activity in ETH/BTC",
+        "arbToBeDistributed": 58330,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "A large investor recommended that in future we make the claim automatic and embed a \"net fee\" into the UI, rather than a user having to claim > sell on Camelot > transfer to USD or ETH and continue to trade. This would lead to less friction whilst acknowledging the reality of incentives ie. that users want to convert them to another currency to continue to trade.",
+        "avgDailyTVL": 519000,
+        "avgDailyTXNS": 54,
+        "avgDailyUniqueUsers": 27
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We claimed via Hedgey, deposited 30k arb into the contract and 12,516 of those eligible rewards were claimed. Note: claiming is a manual user action, and thus some users will have $ARB allocated to their address that they are 'bulk' claiming at a later date. Nonetheless, the arb sits in the relevant sc and not in our Grant address",
+        "incentives": "",
+        "arbReceived": 58330,
+        "arbUtilized": 30000,
+        "disclosures": "28/7 -> 12/08:  {amount claimed: '12516.03261', users: 167, unique: 69, depositAmount: '30000.0000'}",
+        "arbRemaining": 175006,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "An uptick in activity as we upgraded our smart contracts and refactored the app for improved trading performance and thus more volume/more rebates",
+        "arbToBeDistributed": 58330,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "No additional lessons this period",
+        "avgDailyTVL": 600000,
+        "avgDailyTXNS": 29,
+        "avgDailyUniqueUsers": 9
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We saw an increase in unique and new users, partly due to marketing activities with some key partners.\n\nWe improved our Dune dashboard to capture more data: https://dune.com/pear_protocol/pear-protocol\n\nUsers had been claiming more frequently amidst the market downturn (perhaps covering losses elsewhere).",
+        "incentives": "",
+        "arbReceived": 58330,
+        "arbUtilized": 30000,
+        "disclosures": "12/08 -> 26/08: {amountClaimed: '15963.29381', users: 216, unique: 83, depositAmount: '30000.0000'}",
+        "arbRemaining": 116676,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "No changes",
+        "arbToBeDistributed": 58330,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "26/08 - current: {amountClaimed: '29003.21376', users: 255, unique: 113, depositAmount: '90000.0000'}",
+        "incentives": "",
+        "arbReceived": 58330,
+        "arbUtilized": 90000,
+        "disclosures": "We used up additional ARB that was sitting in the grants vaults in anticipation of extra volume from:\n\na) the end of the LTIPP incentives\nb) the launch of our airdrop campaign for $PEAR\nc) the launch of our intent based engine.",
+        "arbRemaining": 58346,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "In the final ramp up stage, we expected an increase in activity as we launched an airdrop campaign via Tide.",
+        "arbToBeDistributed": 58330,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b747b2d-bc28-440d-8564-182bf5e614e2",
+            "contractLabel": "ARB REWARDS CONTRACT",
+            "contractAddress": "0xedD408902e47aa155E49ca8585E05c33A6C95B95"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 350000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Pear Protocol",
+  "grantSummary": "We received 350,000 $ARB to distribute as $ARB in the form of a 75% trading fee rebate. The incentives have been running smoothly since early June. The relevant contract that people are claiming against is: 0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96",
+  "fundingAddress": "0x92DF03ddaB52AAdBd3974b1F4F10E6e40bc5De96",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x88103C9fA3cE4FF45e4C1Ea3688F40d1DfdA6B02"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Incentives started on Jun 17",
+        "lessons": "Incentives started on Jun 17",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives started on Jun 17",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Incentives started on Jun 17",
+        "arbRemaining": 1000000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a94afe4f-1ffa-4414-9e91-970abe7ed31e",
+            "contractLabel": "N/A",
+            "contractAddress": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "For this program, our methodology begins with a heuristic targeting underrepresented pools on Arbitrum (e.g., disproportionately low volume vs. other chains), aiming to increase overall TVL on the chain, differing from our previous approach that focused on capturing market share from competing DEXs. Once the pools are identified and incentives initialized, we will transition to a model-driven approach for subsequent allocations. The 30 pools you see in the first batch of recs were ones we identified as underserved, as well having filtered out some tokens manually after additional DD.\n\nWhile the previous Arbitrum LM campaign relied on a simulation-based framework to identify pools with greatest boosts to price execution under different liquidity scenarios, this program employs a predictive model that reallocates a fixed budget towards pools with the highest response to incentives, ensuring dynamic and efficient allocation. This method maximizes TVL growth by directing resources to pools that show the most significant growth per dollar of incentives. We'll also consider adding and removing pools as the program goes on if some pools are unresponsive to incentives - this is something we've observed in the past and quickly respond to maintain incentive spend efficiency.\n\nOur public dashboard, with all contracts being incentivized with labels can be found here: \nhttps://app.hex.tech/a22e666c-4bc7-40d3-93ed-45a25554a14e/app/975a9c84-44a3-4269-8842-33fdb7377fa7/latest",
+        "expectations": "Gauntlet will continue to monitor the performance of these incentives to ensure maximum efficiency and positive impact. Pools may be added, removed, or adjusted. Every 2 weeks will report on the progress of the program and any incentive allocation changes, all of which will be visible on the dashboard linked above. ",
+        "arbToBeDistributed": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4f83340d-ff2d-47ae-b668-0a6f4ca8f588",
+            "contractLabel": "Example Pool 1 (AAVE-USDC 0.3%)",
+            "contractAddress": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The new incentive allocations were based on an internal model we've developed which measures each pool's elasticity and responsiveness to incentives. The re-allocation favors pool which yield the highest TVL growth for each $1 of incentives. Given this, we expect TVL to continue to increase.\nIn order to prevent any drastic thrash for LPs which could result in LP exiting,, the allocation changes were capped at 20% and rebalanced to a fixed 150k ARB tranche. As the program develops, the new allocations will converge to the model's true allocations for max efficiency.",
+        "lessons": "As expected, TVL immediately jumps upon incentives being implemented, along with the counts of LP aiming to take advantage of incentives. However, its important to assess for any meaningful changes in marketshare. In the upcoming weeks we will monitor how newly distributed rewards impacts volume and market share so as to control for market and price fluctuations. Importantly, we wanna ensure that a disproportionate amount of volume isn't being driven by LP rebalances or any predatory JITL behaviour.",
+        "avgDailyTVL": 22090000,
+        "avgDailyTXNS": 9300,
+        "avgDailyUniqueUsers": 83
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "(see update from last week due to incentives starting on June 17)",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": "(see update from last week due to incentives starting on June 17)",
+        "arbRemaining": 1000000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c14622c6-3ff7-44db-ab91-7023c9e214b8",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "(see update from last week due to incentives starting on June 17)",
+        "expectations": "(see update from last week due to incentives starting on June 17)",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "20c06331-3998-4c41-a6f2-aaca406923b1",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "In the forthcoming two week period, we are recommending an increase in incentive allocation to 10 out of 30 pools and a decrease in incentives allocated to the remaining 20 pools.\n\nAverage Daily Volume: $12.12M\nAverage Daily LP Revenue: $516.9k",
+        "lessons": "here has been a decrease of 11.6% in TVL over the past two weeks, when compared to the previous 2-week period. On the other hand, the average daily transactions increased by 11.8% compared to the previous 2-week period, and the average daily unique users increased by 21.2%\nThe pools that showed the highest elasticity of TVL with respect to incentives were USDC-USDT 0.01%, LINK-WETH 0.3%, and WETH-wstETH 0.01%, while the pools that showed the lowest elasticity were ENS-WETH 0.3%, UNI-USDC 0.3%, and RNDR-WETH 1%. However, the difference in elasticity was not very large, and the largest driver of the change in TVL across pools was the pool size - pools with a lower TVL showed a greater impact from incentives.",
+        "avgDailyTVL": 19510000,
+        "avgDailyTXNS": 10400,
+        "avgDailyUniqueUsers": 101
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "During the previous week, the incentive allocation across different pools was reorganized based on expectations about the impact of incentives on the TVL of each pool. The amount of incentives allocated to WETH-wstETH 0.01%  and USDC-USDT 0.01% were reduced the most, and USDe-USDT 0.05% received the largest increase in allocation.",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": "https://app.hex.tech/a22e666c-4bc7-40d3-93ed-45a25554a14e/app/975a9c84-44a3-4269-8842-33fdb7377fa7/latest",
+        "arbRemaining": 850000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "TVL had seen a dramatic increase immediately once incentives were introduced, however it looks like in recent days this has been pulling back, primarily driven by the WETH-wstETH 0.01% pool. Still, TVL is approximately 24% higher than 2 weeks prior to incentives first landing.\nAverage daily volume also has shown a trend reversal once incentives were introduced but would be more useful to view from a marketshare perspective, which we can include in the next update.\nNumber of users (LPs) has shown a dramatic step up (almost doubling, with an average of ~39 LPs across all pools to about 73 to Jun 29), with another significant step-up occurring on Jun 30 (+9% increase).\nNext we plan on including marketshare metrics in our monitoring so as to normalize against any market effects.",
+        "expectations": "Our analysis predicts further positive impact in TVL and LP count due to the high elasticity of rewards. As the program matures, it can be expected that volume and market share metrics will start to respond stronger as their response to the rewards usually takes longer. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "484cfa98-896d-4026-a62f-4504b05b229d",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "As mentioned in the previous section, the pools with the highest absolute changes in TVL over the past two weeks have been WETH-wstETH 0.01% and USDC-USDT 0.01%. It may come as a surprise, then, that these are also the pools whose incentives we recommend reducing by the largest amount.\nThe underlying driver for this decision is that these pools all started off with some of the largest TVLs as of 07-05, and the changes represent low percentage changes relative to baseline. We fully expect these pools to continue to show TVL growth in terms of absolute dollars, but that is not where we believe we are getting the biggest bang for our buck.\nInstead, the pool that would see the biggest increase in incentives under our recommendations is USDe-USDT 0.05% - another pool with relatively high TVL, though not as much as the two previously mentioned.",
+        "lessons": "Over the past two weeks, all but two pools showed an absolute increase in TVL. The pools with the highest absolute changes in TVL have been high-cap pools such as WETH-wstETH 0.01%, USDC-USDT 0.01%, and USDe-USDT 0.05%. This increase in TVL came in spite of the fact that we reduced our incentives to these pools by a large amount in the previous round. This suggests that these pools are relatively inelastic with respect to incentives.\nUSDe-USDT 0.05% was also one of the pools with the highest percentage changes in TVL relative to its baseline. This pool showed a 3.1% increase in TVL on top of an already large baseline, suggesting that there is a strong potential for growth there. The pools that showed the highest percentage increase, however, were the low-cap USDC-XSGD 0.05%, which showed nearly a 9% increase in TVL relative to 07-05, followed by MATIC-WETH 0.3%, which showed a 5.6% increase.",
+        "avgDailyTVL": 31520000,
+        "avgDailyTXNS": 9500,
+        "avgDailyUniqueUsers": 158
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Full results will be posted for the final 2 week report",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": " no further disclosures",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "20c06331-3998-4c41-a6f2-aaca406923b1",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "There has been a decrease of 11.6% in TVL over the past two weeks, when compared to the previous 2-week period. On the other hand, the average daily transactions increased by 11.8% compared to the previous 2-week period, and the average daily unique users increased by 21.2%\nThe pools that showed the highest elasticity of TVL with respect to incentives were USDC-USDT 0.01%, LINK-WETH 0.3%, and WETH-wstETH 0.01%, while the pools that showed the lowest elasticity were ENS-WETH 0.3%, UNI-USDC 0.3%, and RNDR-WETH 1%. However, the difference in elasticity was not very large, and the largest driver of the change in TVL across pools was the pool size - pools with a lower TVL showed a greater impact from incentives.",
+        "expectations": "Over the past two weeks, high-cap pools such as USDC-USDT 0.01%, LINK-WETH 0.3%, and WETH-wstETH 0.01% were the most responsive to incentives, while low-cap pools such as ENS-WETH 0.3%, MATIC-WETH 0.3% USDC-XSGD 0.05, and RNDR-WETH 1% were the least responsive. However, apart from these pools, there was not a great deal of difference in elasticity across other pools, and the largest driver of the change in TVL across pools was the pool size - pools that have a lower TVL to start with showed a greater impact from incentives. Based on these patterns, we have allocated more incentives to pools that have moderate TVLs (showing some potential to grow), and also showed higher elasticity in the past weeks (showing a greater impact from incentives).",
+        "arbToBeDistributed": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "20c06331-3998-4c41-a6f2-aaca406923b1",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes or adjustments over the 2 week period",
+        "lessons": "The past two weeks, overall TVL grew considerably, even though six pools showed an absolute decrease in TVL. This decrease was likely an early sign of the market correction that occurred at the beginning of the week of August 5th. The actual impact of the correction on pool TVL will only be known with certainty at the end of the current round of incentives.\nThe two pools with the highest TVL going into the beginning of the period also showed the highest increase in absolute TVL over the period - these were USDC-USDT 0.01% and WETH-wstETH 0.01%. These were also the pools that received the largest decrease in incentives in the round 4, relative to round 3. As before, these results suggest that removing incentives from these large pools does not have a significant impact on TVL growth, and so incentives should be reallocated away from these pools and towards pools where they would be more effective.\nOn the other hand, pools with the largest percentage increase in TVL were relatively smaller pools such as MATIC-WETH 0.3%, ENS-WETH 0.3%, and USDC-XSGD 0.05%.",
+        "avgDailyTVL": 34750000,
+        "avgDailyTXNS": 13700,
+        "avgDailyUniqueUsers": 180
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Average Daily TVL: $35.77M\nAverage Daily Transactions: 10.8k\nAverage Daily Unique Users: 169.2\nAverage Daily Volume: $16.68M\nAverage Daily LP Revenue: $823.0k\nTotal Incentive Distribution: 150k ARB\n\nThe following observations relate to the week from Jul 29 through Aug 4, so does not include observations on the drop in TVL due to the market downturn that occurred in the early days of this week. Observations on the downturn will be included in our end of period report that will be delivered next week. At the same time, some decrease in TVL was observed by Aug 4.\n\nThe pool to which the most incentives were allocated in the last round was USDe-USDT 0.05%. In the past week, TVL in this pool has risen by almost 200%. On the other side, the pools WETH-wstETH 0.01% and USDC-USDT 0.01% had the biggest decrease in incentives relative to the previous week. This led to TVL decreases of 14% and 9% respectively in those two pools. The decrease is not surprising, but the key point to note is that our weekly reallocations cause smaller decreases in the TVLs of pools that lose incentives and bigger increases in the TVLs of pools that gain incentives. Additionally, the two pools that lost incentives continue to remain the largest two pools, suggesting that continuing to incentivize them would be wasteful.",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": "N/a",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "20c06331-3998-4c41-a6f2-aaca406923b1",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Changes and adjustments to allocations can be found here in our custom dashboard: https://app.hex.tech/a22e666c-4bc7-40d3-93ed-45a25554a14e/app/975a9c84-44a3-4269-8842-33fdb7377fa7/latest?tab=campaign-details#arb-incentives\n\nAs mentioned in the previous section, the pools with the highest absolute changes in TVL over the past two weeks have been WETH-wstETH 0.01% and USDC-USDT 0.01%. It may come as a surprise, then, that these are also the pools whose incentives we recommend reducing by the largest amount.\nThe underlying driver for this decision is that these pools all started off with some of the largest TVLs as of 07-05, and the changes represent low percentage changes relative to baseline. We fully expect these pools to continue to show TVL growth in terms of absolute dollars, but that is not where we believe we are getting the biggest bang for our buck.\nInstead, the pool that would see the biggest increase in incentives under our recommendations is USDe-USDT 0.05% - another pool with relatively high TVL, though not as much as the two previously mentioned.",
+        "expectations": "Our expectations are the selected pools will show strong responses to incentives, resulting in progress toward our goal of increasing volume, DAU, and TVL of these ARB pools",
+        "arbToBeDistributed": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "20c06331-3998-4c41-a6f2-aaca406923b1",
+            "contractLabel": "AAVE-USDC 0.3%",
+            "contractAddress": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The pools that showed the biggest changes in TVL relative to allocated incentives were the largest ones, and that was reflected in the share of incentives allocated to those pools in the current round. For example, pools like WETH-wstETH 0.01%, USDC-USDT 0.01%, and USDe-USDT 0.05% were allocated a moderate amount of incentives, in spite of having high TVLs, which, as we have mentioned in earlier updates, tends to reduce the impact of incentives.\nHowever, the pools that received the largest increases in incentives relative to the previous round were mid-sized pools such as MATIC-WETH 0.3%, FRAX-USDT 0.05%, and USDC-XSGD 0.05%. These pools showed reasonably high impact from incentives, while also getting a boost from their relatively smaller size.",
+        "lessons": "The most significant event that occurred during the past two weeks was the market drop on August 5. On that day, TVL declined from $33.9M to $25.9M \u2013 a decline of almost 25%. However, TVL had recovered to pre-drop levels on August 9, following which, it even exceeded the earlier peak, before stabilizing at around $33M.\nThis trend was also reflected in the largest pools. For example, the TVL of WETH-wstETH 0.01% and USDC-USDT 0.01% declined by 30% and 28% on August 5, respectively, and then increased by 37% and 22% over the next 4 days.\nThese rapid recoveries are evidence of high elasticity, and these large pools were the ones that showed the most impact from incentives over the period.",
+        "avgDailyTVL": 33700000,
+        "avgDailyTXNS": 11200,
+        "avgDailyUniqueUsers": 192
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Full results will be posted for the final 2 week report",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": "This will be the last tranche of our incentives optimization program. No further disclosures. ",
+        "arbRemaining": 250000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Most of the pools with the largest decreases in incentives in the current round (Round 5) of recommendations are pools with high TVL, whose incentives had already been reduced in previous rounds, but which continued to show positive growth in spite of these reductions. Of the 5 pools with the largest decrease in incentives relative to the previous round, 4 are large and growing pools rETH-WETH 0.05%, eUSD-USDC 0.05%, USDC-USDT 0.01%, and WETH-wstETH 0.01%. These pools comprise of established tokens and stablecoins, which makes us believe that they will continue to attract TVL even with fewer incentives.\nAt the same time, the pool with the largest reduction in incentives relative to the previous round is USDe-USDT 0.05%, which also showed a considerable increase in absolute TVL, but was also one that had received a very large increase in incentives during Round 4. Now that it has entered the group of pools with high TVL, we believe that we can safely reduce the incentives allocated to it, and let the flywheel effect take over.",
+        "expectations": "At the end of this phase, we expect to gather data both immediately after post program end and 30 days after to prepare a full program retro report. This report will measure impact on program KPIs and identify insight for future ecosystem growth, similar to our previous program retro linked here: https://www.gauntlet.xyz/resources/results-and-analysis-arbitrum-liquidity-mining-program",
+        "arbToBeDistributed": 150000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes were made during the 2 week period",
+        "lessons": "The story over the past two weeks can be divided into two periods: First, there was a decline in overall TVL as well as in most pools as the market corrected itself after the recovery that we saw in the previous two weeks. Following that, we observed small increases as TVL settled at a stable level just as the incentive program drew to a close.\n\nOverall, TVL declined by 12% between August 25 and September 8, with the decline taking place almost entirely during the week of August 25-September 1. At the end of program, total TVL stood at just under $30M, compared to approximately $15M before the program began.\n\nIn our most recent set of recommendations, we recommended increasing the incentives to certain mid-cap pools, such as USDC-XSGD 0.05% and FRAX-USDT 0.05%. These two pools showed positive growth over both weeks in the last period, with USDC-XSGD 0.05% showing an increase in TVL from $159k on August 25 to $369k on September 8 - more than a doubling in TVL.\n\nOn the other side, while most pools showed a decline in TVL over the past two weeks, they declined less in many of the pools whose incentives were decreased in the past two weeks. For example, the pool USDC-USDT 0.01%, which is the second largest in terms of total TVL received the second largest decrease in incentives, but its TVL only declined by 4%, which was well below the 12% decline across all pools.\n\nSince the final tranche of incentives has been distributed, there are no further recommended changes. We will provide a retrospective summary of the program after we have been able to observe the changes to metrics in the four weeks after the end the of the incentive program.",
+        "avgDailyTVL": 28130000,
+        "avgDailyTXNS": 9200,
+        "avgDailyUniqueUsers": 216
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Full results will be posted for the final 2 week report",
+        "incentives": "",
+        "arbReceived": 150000,
+        "arbUtilized": 150000,
+        "disclosures": "No further disclosures at this time, all funds were utilized. ",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4f83340d-ff2d-47ae-b668-0a6f4ca8f588",
+            "contractLabel": "Example Pool 1 (AAVE-USDC 0.3%)",
+            "contractAddress": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "As mentioned in the previous section, the pools that showed the biggest changes in TVL relative to allocated incentives were the largest ones, and that was reflected in the share of incentives allocated to those pools in the current round. For example, pools like WETH-wstETH 0.01%, USDC-USDT 0.01%, and USDe-USDT 0.05% were allocated a moderate amount of incentives, in spite of having high TVLs, which, as we have mentioned in earlier updates, tends to reduce the impact of incentives.\n\n\nHowever, the pools that received the largest increases in incentives relative to the previous round were mid-sized pools such as MATIC-WETH 0.3%, FRAX-USDT 0.05%, and USDC-XSGD 0.05%. These pools showed reasonably high impact from incentives, while also getting a boost from their relatively smaller size.",
+        "expectations": "At the end of this phase, we expect to gather data both immediately after post program end and 30 days after to prepare a full program retro report. This report will measure impact on program KPIs and identify insight for future ecosystem growth, similar to our previous program retro linked here: https://www.gauntlet.xyz/resources/results-and-analysis-arbitrum-liquidity-mining-program",
+        "arbToBeDistributed": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4f83340d-ff2d-47ae-b668-0a6f4ca8f588",
+            "contractLabel": "Example Pool 1 (AAVE-USDC 0.3%)",
+            "contractAddress": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 1000000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Uniswap",
+  "grantSummary": "Providing liquidity incentives to Uniswap's Arbitrum Deployment.",
+  "fundingAddress": "0x1026D3D219098D7b1B0A180F7E557DEeA7DA82C1",
+  "editorAddresses": [],
+  "matchingGrantSize": 1000000,
+  "metricsDashboardLink": "https://risk.gauntlet.xyz/applied-research/arbitrum-lm",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x1026D3D219098D7b1B0A180F7E557DEeA7DA82C1"
+}

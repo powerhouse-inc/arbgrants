@@ -1,0 +1,758 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are not starting the distribution yet.",
+        "lessons": "We are not starting the distribution yet.",
+        "avgDailyTVL": 843286,
+        "avgDailyTXNS": 7,
+        "avgDailyUniqueUsers": 5
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We're still developing the point program, where Orange will distribute the grant.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "No disclosure to add rn",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a575497-62b4-4886-adcb-f7e8643ee3b1",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "ee79b9d2-18fa-444d-8712-b8edf6769463",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "439b8694-fb3a-4f86-b04e-fcbde9a16777",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "06a9b5d5-4bf9-4f61-95f2-8b36a8ee49db",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "4bab37c8-4143-40d3-816f-c2ef7bfc4762",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "476bf63d-bb0f-4f14-abc2-00498efa90bf",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We are not yet starting distribution.",
+        "expectations": "We are not yet starting distribution.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are not starting the distribution yet.",
+        "lessons": "We are not starting the distribution yet.",
+        "avgDailyTVL": 871802,
+        "avgDailyTXNS": 16,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are not starting the distribution yet.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "We are not starting the distribution yet.",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "d29a47eb-faa2-4c5f-9966-d4662727426e",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "4c5f6c23-5a77-4e7b-9a1f-bda06c176c75",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "adb1285e-3d90-4245-adf6-92c3515028c5",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "1ee97ea8-47e8-47c6-a1e3-48a39eba2ada",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "3484ec77-a209-42fd-ab09-0db9de6d6ebe",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "8d26c7de-65bc-4ec9-b3a2-a87f897147f8",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We are not yet starting distribution.\nWe're still planning and developing the point program scheme, where Orange will distribute the grant.",
+        "expectations": "We are not yet starting distribution.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "ece7a68e-1a64-4932-a170-3a6d7122a8b9",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "21aca03f-d389-4443-ba73-10816ed4ea43",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "ebf05051-2f79-425e-b655-fe52225cdb4b",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "75c83f93-71da-4b00-a2c2-3d9263f5414e",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "fe1310b7-5f13-4cb6-b6b0-104fb329c04b",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "bddd1af2-17c8-4382-8942-a182e673b5be",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are not yet starting distribution. We're still planning and developing the point program scheme, where Orange will distribute the grant.",
+        "lessons": "We are not yet starting distribution.",
+        "avgDailyTVL": 940096,
+        "avgDailyTXNS": 23,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are not starting the distribution yet.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "We are not starting the distribution yet.",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We are not yet starting distribution.",
+        "expectations": "We are not yet starting distribution.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fa5bb88c-7653-468e-b522-972fff70c29c",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "5587e258-0ed2-4f05-a349-03294242e87a",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "d35f45a9-9170-48c5-92e1-05ab2d836ae3",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "6c51d489-2ae7-4cec-9d4f-2fde6074a849",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "68a21a41-41f4-4d00-86cf-5c8dbe7de2b2",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "5040c392-80b7-4cff-922a-273643d16ff4",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are not starting the distribution yet.",
+        "lessons": "We are not starting the distribution yet.",
+        "avgDailyTVL": 1166152,
+        "avgDailyTXNS": 22,
+        "avgDailyUniqueUsers": 14
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are not starting the distribution yet.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "We are not starting the distribution yet.",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          },
+          {
+            "contractId": "218a063f-9535-4070-a170-f40871db662c",
+            "contractLabel": "WETH-USDC StrykePCS Vault",
+            "contractAddress": "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0"
+          },
+          {
+            "contractId": "6a406780-fb28-4e61-8a34-75f8358ceb0c",
+            "contractLabel": "WBTC-USDC StrykePCS Vault",
+            "contractAddress": "0x22dd31a495CafB229131A16C54a8e5b2f43C1162"
+          },
+          {
+            "contractId": "4887884c-5b54-46cf-8626-4d8afa42c737",
+            "contractLabel": "ARB-USDC StrykePCS Vault",
+            "contractAddress": "0xE32132282D181967960928b77236B3c472d5f396"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We are not yet starting distribution. We're still planning and developing the point program scheme, where Orange will distribute the grant.",
+        "expectations": "We are not yet starting distribution.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          },
+          {
+            "contractId": "218a063f-9535-4070-a170-f40871db662c",
+            "contractLabel": "WETH-USDC StrykePCS Vault",
+            "contractAddress": "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0"
+          },
+          {
+            "contractId": "6a406780-fb28-4e61-8a34-75f8358ceb0c",
+            "contractLabel": "WBTC-USDC StrykePCS Vault",
+            "contractAddress": "0x22dd31a495CafB229131A16C54a8e5b2f43C1162"
+          },
+          {
+            "contractId": "4887884c-5b54-46cf-8626-4d8afa42c737",
+            "contractLabel": "ARB-USDC StrykePCS Vault",
+            "contractAddress": "0xE32132282D181967960928b77236B3c472d5f396"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We are not starting the distribution yet.",
+        "lessons": "1,116 users signed up for our points program.\npoints earning period for ARB grants will start since the next phase.",
+        "avgDailyTVL": 1864212,
+        "avgDailyTXNS": 31,
+        "avgDailyUniqueUsers": 20
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are not starting the distribution yet.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "We are not starting the distribution yet.",
+        "arbRemaining": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          },
+          {
+            "contractId": "218a063f-9535-4070-a170-f40871db662c",
+            "contractLabel": "WETH-USDC StrykePCS Vault",
+            "contractAddress": "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0"
+          },
+          {
+            "contractId": "6a406780-fb28-4e61-8a34-75f8358ceb0c",
+            "contractLabel": "WBTC-USDC StrykePCS Vault",
+            "contractAddress": "0x22dd31a495CafB229131A16C54a8e5b2f43C1162"
+          },
+          {
+            "contractId": "4887884c-5b54-46cf-8626-4d8afa42c737",
+            "contractLabel": "ARB-USDC StrykePCS Vault",
+            "contractAddress": "0xE32132282D181967960928b77236B3c472d5f396"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "We are not starting the distribution yet.\nHowever, we are going to start our own points program where we will distribute ARB grants to LPs based on their earning Orange Points.",
+        "expectations": "We are not starting the distribution yet.\nWe expect more than 1000 users join our point program.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          },
+          {
+            "contractId": "218a063f-9535-4070-a170-f40871db662c",
+            "contractLabel": "WETH-USDC StrykePCS Vault",
+            "contractAddress": "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0"
+          },
+          {
+            "contractId": "6a406780-fb28-4e61-8a34-75f8358ceb0c",
+            "contractLabel": "WBTC-USDC StrykePCS Vault",
+            "contractAddress": "0x22dd31a495CafB229131A16C54a8e5b2f43C1162"
+          },
+          {
+            "contractId": "4887884c-5b54-46cf-8626-4d8afa42c737",
+            "contractLabel": "ARB-USDC StrykePCS Vault",
+            "contractAddress": "0xE32132282D181967960928b77236B3c472d5f396"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We have made some amendments for our target KPI according to the ARB price drop.\n\nLowering Target KPI\nMilestone 1: $2.5M \u2192 $1M\nMilestone 2: $1.25M \u2192 $0.5M\n\nAs the price of ARB decreased about 60% since we submited the revised proposal with setting milestones at $2.5M and $1.25M, we change the milestones,  $1M for milestone 1 and $500k for milestone 2 respectively.\n\nMilestone (Protocol TVL)\nWe believe the protocol TVL is the most important metrics rather than TVL in the Lock contract only.\nWe use protocol TVL as the aiming milestones to achieve through grants campaign.",
+        "lessons": "We started the points program, and will start distributing grants.\nWe have made some amendments for our target KPI according to the ARB price drop.\n\nwe have more than 1,000 participants for our point program in the period of registration.",
+        "avgDailyTVL": 1831029,
+        "avgDailyTXNS": 21,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We started the points program, and will start distributing grants.\nWe have made some amendments for our target KPI according to the ARB price drop.\n\nwe have more than 1,000 participants for our point program in the period of registration.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "We have made some amendments for our target KPI according to the ARB price drop.\n\nLowering Target KPI\nMilestone 1: $2.5M \u2192 $1M\nMilestone 2: $1.25M \u2192 $0.5M\n\nAs the price of ARB decreased about 60% since we submited the revised proposal with setting milestones at $2.5M and $1.25M, we change the milestones,  $1M for milestone 1 and $500k for milestone 2 respectively.\n\nMilestone (Protocol TVL)\nWe believe the protocol TVL is the most important metrics rather than TVL in the Lock contract only.\nWe use protocol TVL as the aiming milestones to achieve through grants campaign.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          },
+          {
+            "contractId": "218a063f-9535-4070-a170-f40871db662c",
+            "contractLabel": "WETH-USDC StrykePCS Vault",
+            "contractAddress": "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0"
+          },
+          {
+            "contractId": "6a406780-fb28-4e61-8a34-75f8358ceb0c",
+            "contractLabel": "WBTC-USDC StrykePCS Vault",
+            "contractAddress": "0x22dd31a495CafB229131A16C54a8e5b2f43C1162"
+          },
+          {
+            "contractId": "4887884c-5b54-46cf-8626-4d8afa42c737",
+            "contractLabel": "ARB-USDC StrykePCS Vault",
+            "contractAddress": "0xE32132282D181967960928b77236B3c472d5f396"
+          },
+          {
+            "contractId": "c6fb9a27-559b-4ad4-b24f-90b31c9fccc7",
+            "contractLabel": "WETH-USDC StrykeSushi Vault",
+            "contractAddress": "0x49F60f02B45087ed99EcC4dE63D0337db0d0c6BF"
+          },
+          {
+            "contractId": "0995fa8f-7dc8-480d-a8f1-6447bc01d8eb",
+            "contractLabel": "WBTC-USDC StrykeSushi Vault",
+            "contractAddress": "0x5bb109E834A4e4c5422526f0f3d42783031BA80d"
+          },
+          {
+            "contractId": "29f6a389-50d1-4b72-bfbb-e71414f92220",
+            "contractLabel": "Orange Staking",
+            "contractAddress": "0x7840eb119DD2c8E0538bD62395D70e1c5fA0CF15"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "We started the points program, and will start distributing grants.\nAlso we have made some amendments for our target KPI according to the ARB price drop.\n\nLowering Target KPI\nMilestone 1: $2.5M \u2192 $1M\nMilestone 2: $1.25M \u2192 $0.5M\n\nAs the price of ARB decreased about 60% since we submited the revised proposal with setting milestones at $2.5M and $1.25M, we change the milestones to $1M and $500k.\n\nMilestone (Protocol TVL)\nWe believe the protocol TVL is the most important metrics rather than TVL in the Lock contract only.\nWe use protocol TVL as the aiming milestones to achieve through grants campaign.",
+        "expectations": "We started the points program, and will start distributing grants.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4b66d4ec-6747-40d2-8007-700439988d38",
+            "contractLabel": "WETH-USDC Stryke CLAMM Vault",
+            "contractAddress": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C"
+          },
+          {
+            "contractId": "616719cb-fc8c-460f-8b66-5d33a90bf357",
+            "contractLabel": "ARB-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA"
+          },
+          {
+            "contractId": "33ae8beb-9bc7-43f8-b0f2-5bf83f2fbee6",
+            "contractLabel": "WBTC-USDC Stryke CLAMM Vault",
+            "contractAddress": "0x01E371c500C49beA2fa985334f46A8Dc906253Ea"
+          },
+          {
+            "contractId": "705f392f-11de-4b17-bc1b-7dd7e8738122",
+            "contractLabel": "USDC-DAI Camelot Vault",
+            "contractAddress": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639"
+          },
+          {
+            "contractId": "cbd74c4a-07ac-4737-8716-1a8db53d4846",
+            "contractLabel": "USDC.e-USDT Camelot Vault",
+            "contractAddress": "0x0B48540e214bc196e1D0954834876691fE19068D"
+          },
+          {
+            "contractId": "48396e52-cefb-48d7-a3b8-ff4a39a0da8a",
+            "contractLabel": "USDC.e-USDC Camelot Vault",
+            "contractAddress": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b"
+          },
+          {
+            "contractId": "218a063f-9535-4070-a170-f40871db662c",
+            "contractLabel": "WETH-USDC StrykePCS Vault",
+            "contractAddress": "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0"
+          },
+          {
+            "contractId": "6a406780-fb28-4e61-8a34-75f8358ceb0c",
+            "contractLabel": "WBTC-USDC StrykePCS Vault",
+            "contractAddress": "0x22dd31a495CafB229131A16C54a8e5b2f43C1162"
+          },
+          {
+            "contractId": "4887884c-5b54-46cf-8626-4d8afa42c737",
+            "contractLabel": "ARB-USDC StrykePCS Vault",
+            "contractAddress": "0xE32132282D181967960928b77236B3c472d5f396"
+          },
+          {
+            "contractId": "29f6a389-50d1-4b72-bfbb-e71414f92220",
+            "contractLabel": "Orange Staking",
+            "contractAddress": "0x7840eb119DD2c8E0538bD62395D70e1c5fA0CF15"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We started point program, and distribute grant to users who staking their LP to Orange Staking contract.",
+        "lessons": "We achieved the set milestones \n- Milestone 1: $1M of the Protocol TVL\n- Milestone 2: $0.5M of the Protocol TVL\n, and fully distribute the grants of 150k ARB to Liquidity providers.",
+        "avgDailyTVL": 2334159,
+        "avgDailyTXNS": 64,
+        "avgDailyUniqueUsers": 33
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We achieved the set milestones \n- Milestone 1: $2.5M \u2192 $1M\n- Milestone 2: $1.25M \u2192 $0.5M\nto distribute grant to users.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 150000,
+        "disclosures": "In last period, We have made some amendments for our target KPI according to the ARB price drop.\n\nLowering Target KPI\nMilestone 1: $2.5M \u2192 $1M\nMilestone 2: $1.25M \u2192 $0.5M\n\nAs the price of ARB decreased about 60% since we submited the revised proposal with setting milestones at $2.5M and $1.25M, we change the milestones,  $1M for milestone 1 and $500k for milestone 2 respectively.\n\nMilestone (Protocol TVL)\nWe believe the protocol TVL is the most important metrics rather than TVL in the Lock contract only.\nWe use protocol TVL as the aiming milestones to achieve through grants campaign.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "29f6a389-50d1-4b72-bfbb-e71414f92220",
+            "contractLabel": "Orange Staking",
+            "contractAddress": "0x7840eb119DD2c8E0538bD62395D70e1c5fA0CF15"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We started point program, and distribute grant to users who staking their LP to Orange Staking contract.",
+        "expectations": "Expecting more than $1M staking TVL & more than $2.5M protocol overall TVL.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "29f6a389-50d1-4b72-bfbb-e71414f92220",
+            "contractLabel": "Orange Staking",
+            "contractAddress": "0x7840eb119DD2c8E0538bD62395D70e1c5fA0CF15"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 150000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Orange Finance",
+  "grantSummary": "",
+  "fundingAddress": "0x8BBB1243a9E3bD44fEE3adf580dAeCE2E213f17b",
+  "editorAddresses": [],
+  "matchingGrantSize": 150000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xd076397eC36F1C92939bd8cdA9F9F7734F308C4b"
+}

@@ -1,0 +1,425 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Did not start distribution in this period",
+        "lessons": "Sync up with foundation well before distribution of any funds as every transaction requires a DAO vote",
+        "avgDailyTVL": 3303577,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "LM started in the next period (June 25th)",
+        "incentives": "",
+        "arbReceived": 108334,
+        "arbUtilized": 0,
+        "disclosures": "Did not start distributions yet, as we had governance procedures to go through and some small technical stuff to do in order to get everything set up for smooth distributions",
+        "arbRemaining": -4,
+        "contractsIncentivized": [
+          {
+            "contractId": "81fc3cb6-4bfb-4179-940d-c5820d12739e",
+            "contractLabel": "ETH Farming Contract",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          },
+          {
+            "contractId": "4c299093-5736-4ce6-a6cc-550066e36ab7",
+            "contractLabel": "native USDC Farming Contract",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We didn't manage to actually distribute any Arb in this period because we had to do some governance stuff - we previously changed the recipient of the Arb to the foundation multisig (because we have non-contributor anons in our financial multisig and its not fair to ask them to go through the pains of KYC). When foundation then claimed the Arb, the told us we need to do DAO vote for the distribution etc.\n\nWe got it all done but the whole process took a bit longer than expected. So in this first period we did not start distributing anything yet.",
+        "expectations": "As of June 25th Arb has gone from foundation multisig -> grants multisig -> financial multisig -> incentive contracts and LM activities have started on Gearbox on the lending side.\n",
+        "arbToBeDistributed": 108334,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We started distributing incentives in this period (and TVL began to grow rapidly as expected)",
+        "lessons": "Previously I discussed lessons related to foundation communication and multisig planning, those are the chief takeaways here as we could/should've started a week earlier than we did if all those things were lined up in a row.",
+        "avgDailyTVL": 8247331,
+        "avgDailyTXNS": 49,
+        "avgDailyUniqueUsers": 5
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "So far so good, once incentives started TVL got a big boost on the lending side. As we push the borrow side more with various partners + Arb and GEAR incentives, lending side APY should go up even more and TVL should hopefully further increase.",
+        "incentives": "",
+        "arbReceived": 108334,
+        "arbUtilized": 216668,
+        "disclosures": "We ended up with multiple transactions to move Arb received to the farming contracts.\n\nFoundation received the Arb, but they would have required DAO vote on every single TX so we formed a 'grants' multisig via DAO vote to avoid unnecessary bureaucracy, based on an existing contributors multisig.\n\nFrom that multisig, we intended to send Arb directly to farming contracts but there was a technical issue. So we ended up needing to send the Arb to the financial multisig before --> the farming contracts.\n\nSo the chain of arb is --> foundation multisig --> grants multisig --> financial multisig --> ETH and USDC farming contracts.\n\nWe also took a bit longer than expected to start distribution because 1. foundation required votes to send Arb anywhere and 2. We were deploying the native USDC pool to substitute the USDC.e pool which was previously deployed. We did this because Arbitrum contributors and our grants advisors had specified that native USDC over USDC.e was a priority.\n",
+        "arbRemaining": 216664,
+        "contractsIncentivized": [
+          {
+            "contractId": "e482e073-cfa1-4248-890a-2488128e682f",
+            "contractLabel": "ETH Farming Contract",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          },
+          {
+            "contractId": "58edf5da-434b-42a5-a681-a72cfd72d6ed",
+            "contractLabel": "Native USDC Farming Contract",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We started distribution to lending pools on 25th of June, midway through this period. ",
+        "expectations": "I expect TVL in this period to go up drastically and hopefully to see some demand on the borrow side as there is will now be ample liquidity + we are working to get incentives started on the borrow side as well.",
+        "arbToBeDistributed": 108334,
+        "contractsIncentivized": [
+          {
+            "contractId": "de6cb825-a797-4d0c-a269-db6414ebbff8",
+            "contractLabel": "ETH Lending",
+            "contractAddress": "0xf3b7994e4da53e04155057fd61dc501599d57877"
+          },
+          {
+            "contractId": "34b49242-603f-4d9d-91fe-c169368a39b5",
+            "contractLabel": "Native USDC Lending",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes on the lending side. In this period we started also distributing incentives on the leverage side via STIMMIES (points program) which converts into ARB and GEAR via airdrop.",
+        "lessons": "I think the initial rollout on STIMMIES has some people confused, we could clarify/simplify this program a bit. As mentioned, while overall TVL is going better than expected and lending supply is there, our utilizations are not as high as we would like (~40-45%). Partially this is because ethena + LRT narratives have quieted down a bit, but ideally we'll still get to ~65% or so so lenders get more organic APYs.",
+        "avgDailyTVL": 17718905,
+        "avgDailyTXNS": 19,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "So far so good, we are seeing increasing TVL over time as expected, and pretty much exactly in line with what we had expected in our grant application. We are hoping that utilization will also increase - its not bad right now but could be better. We are running up against limits on the most popular strategies (eth restaking). Increasing limits takes dev time and governance time (these are effectively risk controls, so its good that its not fast, but for the purposes of adjusting to increased demand its not ideal). The STIMMIES program is live as of July 5th, where we're distributing 250k ARB total and 16m GEAR (token amounts, not $$ values). Users can earn points by trading, farming, or via referrals. But as mentioned, some limits are maxed out and increasing them takes time.\n\nTLDR we are doing well on the lending side, TVL is in line or even surpassing expectations at this stage. Utilization ratios could be higher and we are putting the pieces in place to get this going.",
+        "incentives": "",
+        "arbReceived": 108334,
+        "arbUtilized": 0,
+        "disclosures": "I was at ethCC then went on vacation so I must disclose that I did not submit this on time =(\n\n",
+        "arbRemaining": 216664,
+        "contractsIncentivized": [
+          {
+            "contractId": "de6cb825-a797-4d0c-a269-db6414ebbff8",
+            "contractLabel": "ETH Lending",
+            "contractAddress": "0xf3b7994e4da53e04155057fd61dc501599d57877"
+          },
+          {
+            "contractId": "12ea0d92-9097-41ae-8c26-74efd75226b6",
+            "contractLabel": "USDC (Native) Lending",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Not much changing,  we are distributing incentives on our lending pools. We are still in the process of implementing the points program that will be the method of distribution of the leverage side.",
+        "expectations": "My expectations for this period were a substantial boost in TVL, in particular on the lending side. Gearbox's brand penetration amongst defi users + the APY from incentives is a strong enough combo to substantially boost TVL. ",
+        "arbToBeDistributed": 108334,
+        "contractsIncentivized": [
+          {
+            "contractId": "de6cb825-a797-4d0c-a269-db6414ebbff8",
+            "contractLabel": "ETH Lending",
+            "contractAddress": "0xf3b7994e4da53e04155057fd61dc501599d57877"
+          },
+          {
+            "contractId": "12ea0d92-9097-41ae-8c26-74efd75226b6",
+            "contractLabel": "USDC (Native) Lending",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "This is the first period where incentives on the leverage side (STIMMIES) was running through most of the period. We consequently began to see uptick in utilization.",
+        "lessons": "Things are broadly going to plan, utilization increased in this period and we were at aveage ~25m in TVL and growing, broadly in line with expectations.",
+        "avgDailyTVL": 24362622,
+        "avgDailyTXNS": 24,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL is growing at a good pace, we have hit our TVL goals of 30m-35m on Arbitrum with 30m in lending pools. The other side of this is to increase utilization which we are actively working on.",
+        "incentives": "",
+        "arbReceived": 108334,
+        "arbUtilized": 216668,
+        "disclosures": "No disclosures",
+        "arbRemaining": 216664,
+        "contractsIncentivized": [
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          },
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes. STIMMIES continues, as does the lending side incentives",
+        "expectations": "TVL continues to grow. We are hoping that utilization rates will pick up as well.",
+        "arbToBeDistributed": 108334,
+        "contractsIncentivized": [
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          },
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL was at our goal of 30m, then ETH took a dive downwards and brought it back to ~22m from ~30m =(. Vitalik keeps dumping on us.\n\nOn the plus side, utilization is up substantially from previous weeks, 70% on ETH and 62% of USDC. We're pretty much in range (or very close to it) for our milestones targets set out in our grant application.\n\nOverall pleased with progress, we were at our TVL target until ETH dropped from ~3300 --> ~2300, which obviously has had a direct effect on our TVL, as well as causing general panic and increased likelihood of withdrawals from protocols/strategies across the board in the defi market. Utilization is up, STIMMIES is working quite well on Arbitrum as well, seems our incentivization efforts are going as planned.\n\n",
+        "lessons": "We've had a couple of slight delays in the distribution of STIMMIES rewards due to confusion in the process to get all the right wallet addresses. A more streamlined and defined process for the processing of STIMMIES would be good, and making the whole process a bit more automated on our end should be a priority, especially if there is a LTIP that goes beyond the \"pilot\" part.",
+        "avgDailyTVL": 2492755,
+        "avgDailyTXNS": 51,
+        "avgDailyUniqueUsers": 20
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Market tanked so TVL tanked as well, especially since ~70% of TVL was in ETH. On the other hand utilization is up, people are happy farming Renzo and lido with leverage, particularly on the Renzo side thanks to fundamental oracles (which we are introducing for Lido as well shortly). As of the submission of this report, TVL is ~20m but utilization on ETH pool is 74%. USD utilization is still relatively low, we will look at boosting that if we can.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures.",
+        "arbRemaining": 216664,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No big changes to the plan, just some minor tweaks on which assets are getting extra incentives in STIMMIES (focused on assets that already have some organic demand). e.g with wsteth we are boosting it a bit on the marketing side + giving a 2x STIMMIES multiplier as the LRT popularity has waned a bit and Lido staking yield is starting to look reasonable again in comparison.",
+        "expectations": "We will continue to try to boost utilization, TVL looks reasonable good and rates on that side are good at the moment.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "de6cb825-a797-4d0c-a269-db6414ebbff8",
+            "contractLabel": "ETH Lending",
+            "contractAddress": "0xf3b7994e4da53e04155057fd61dc501599d57877"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "As the program comes to an end, I think our main takeaway is to try to be administratively and operationally more efficient so that there are no hurdles/roadblocks to enacting our plans re: grant stuff. Risk limits, deployments, and whatnot should all be done more proactively, so that we don't have situations where we have good TVL on the lending side but utilization is underwhelming, not because there is no demand, but because we are up against a risk quota.",
+        "avgDailyTVL": 26401224,
+        "avgDailyTXNS": 25,
+        "avgDailyUniqueUsers": 17
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As we close out this LTIPP grant, we will attempt to distribute as much of the grants funds to users. We've been a tad slower than we'd like on upping risk/quota/etc limits on popular assets, partially because we have on boarded third party risk curators like Chaos Labs (to be max SAFU), but we're still figuring out the workflow for requesting/suggesting increased limits on our most popular assets/strategies. In the future we will aim to have this workflow optimized and running as smoothly as possible.\n\nOther than that, this period is as expected, pretty good TVL and good utilization.",
+        "incentives": "",
+        "arbReceived": 216664,
+        "arbUtilized": 216664,
+        "disclosures": "No disclosures for this period",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Pretty much carrying on with the plans as stated - some minor changes the rewards for specific assets in STIMMIES, but broadly we are incentivizing LRTs + LSTs + Arb native assets for STIMMIES on the leverage side and incentivizing USDC/ETH pools on the lending side. Less focus on margin trading as it seems people aren't particularly keen to use this feature, would've been a waste of incentives.",
+        "expectations": "As we come to the close of this program, we'll try to distribute as much of the grant funds as we can to users, potentially some amount will be left over at the end which we'll be happy to send back to Arbitrum foundation (or let the farming continue through September if some extension plan is figured out).\n\nWe achieved (more or less) what we set out to, hitting 30m in TVL at some points in the cycle (pre ETH drop from ~3400 to ~2400). Now we're at 23m with good utilization, expect this will continue through the end of the LTIPP.",
+        "arbToBeDistributed": 216664,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes",
+        "lessons": "None really, overall our biggest issues were being a little behind the ball on risk limits, leading to utilization filling up slower than it could have otherwise.",
+        "avgDailyTVL": 27421303,
+        "avgDailyTXNS": 21,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives will stream until Sep 2nd then we'll return remaining Arb.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "Last week, things are tapering off, might see a slight TVL decline and whatnot as people exit knowing that incentives are coming to an end.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b4aef9ad-3e92-45e0-bb27-14651c671321",
+            "contractLabel": "USDC",
+            "contractAddress": "0xd0181a36b0566a8645b7eecff2148ade7ecf2be9"
+          },
+          {
+            "contractId": "1ea20f7b-3162-47a0-8321-b7f13d30691f",
+            "contractLabel": "ETH",
+            "contractAddress": "0xf3b7994e4dA53E04155057Fd61dc501599d57877"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 650000,
+  "fundingType": [
+    "ThreeofFiveMultisig",
+    "TwoofThreeMultisig",
+    "Multisig"
+  ],
+  "granteeName": "Gearbox Protocol",
+  "grantSummary": "https://forum.arbitrum.foundation/t/gearbox-ltipp-application-final/21672",
+  "fundingAddress": "0x2C417a8DecAd996c786c7446c9552CfdE9832132, 0xbAe35C1904d46EBDD4d2530F92Fdabe29ED4Bc31, 0x2c31eFFE426765E68A43163A96DD13DF70B53C14, 0xD0181a36B0566a8645B7eECFf2148adE7Ecf2BE9, 0xf3b7994e4dA53E04155057Fd61dc501599d57877 ",
+  "editorAddresses": [],
+  "matchingGrantSize": 650000,
+  "metricsDashboardLink": "https://charts.gearbox.fi/overview?chain=42161",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x2C417a8DecAd996c786c7446c9552CfdE9832132"
+}

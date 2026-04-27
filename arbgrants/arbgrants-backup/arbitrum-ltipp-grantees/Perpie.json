@@ -1,0 +1,324 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "6",
+        "lessons": "We'd like to improve our wash trading prevention mechanism, to prioritize rewarding users who use the product for improvement rather than airdrop farming",
+        "avgDailyTVL": 1000000,
+        "avgDailyTXNS": 746,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Our expectation was to start incentive campaigns and experience an increase in volume, which we absolutely did. The first month milestone was to reach approximately $20 million in total trading volume. We have already launched the first campaign, and it appears we are on track to achieve the entire month's goal halfway through the milestone period!",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Hi everyone,\n\nConsidering the price of ARB almost halved since our grant proposal went live, and our estimations depended on the USD value of ARB back then, after consulting with our LTIPP advisors, we have decided to update the KPIs relative to the price change of ARB.\n\nHere are the modified KPIs:\n\nPhase 1: Launch Trading Challenges (Weeks 1-4)\nMilestone: Launch first trading challenges, defining the most fair and productive (stickiness-wise) challenges. Collect information from users and deploy capital on those challenges.\nKPIs:\n\nWeekly Trading Volume Goal: Strive to hit a weekly trading volume of ~$5.04M given $33.6K of rewards.\nOverall KPI for weeks 1-4: $20.16M\nPhase 2: Growth and User Experience (Weeks 5-8)\nMilestone 1: Final two weeks of trading challenges (5-6)\nMilestone 2: Announce fee rebate plans powered by the advantages of having account abstraction in place for our users. Expect more users and more trades by our users.\nMilestone 3: Boosted Referral Program, elevate the power of the grant to boost the rewards a referrer and referee get.\nKPIs:\n\nWeekly Trading Volume Goal: Strive to hit a weekly trading volume of ~$4.648M given $16.8K of rewards + proportional expenses for the rebates and referrals.\nOverall KPI for weeks 5-8: ~$38.64M in total volume\nPhase 3: Growth & Perpie Groups Adoption (Weeks 9-12)\nMilestone: Initiate campaigns designed to attract traders to Perpie Groups actively. This will enable them to experience the benefits of sharing, socializing, and following other traders. Keep improving the challenges.\nKPIs:\n\nWeekly Trading Volume Goal: Strive to hit a weekly trading volume of ~$4.648M given a continuation of rebates and referrals, and begin a vesting program for reward distribution.\nOverall KPI for weeks 9-12: >$56M in total volume",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c2ab55a9-006a-40c0-a1f7-03ced5ee5b9b",
+            "contractLabel": "Grant Multisig",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Hi everyone,\n\nConsidering the price of ARB almost halved since our grant proposal went live, and our estimations depended on the USD value of ARB back then, after consulting with our LTIPP advisors, we have decided to update the KPIs relative to the price change of ARB.\n\nHere are the modified KPIs:\n\nPhase 1: Launch Trading Challenges (Weeks 1-4)\nMilestone: Launch first trading challenges, defining the most fair and productive (stickiness-wise) challenges. Collect information from users and deploy capital on those challenges.\nKPIs:\n\nWeekly Trading Volume Goal: Strive to hit a weekly trading volume of ~$5.04M given $33.6K of rewards.\nOverall KPI for weeks 1-4: $20.16M\nPhase 2: Growth and User Experience (Weeks 5-8)\nMilestone 1: Final two weeks of trading challenges (5-6)\nMilestone 2: Announce fee rebate plans powered by the advantages of having account abstraction in place for our users. Expect more users and more trades by our users.\nMilestone 3: Boosted Referral Program, elevate the power of the grant to boost the rewards a referrer and referee get.\nKPIs:\n\nWeekly Trading Volume Goal: Strive to hit a weekly trading volume of ~$4.648M given $16.8K of rewards + proportional expenses for the rebates and referrals.\nOverall KPI for weeks 5-8: ~$38.64M in total volume\nPhase 3: Growth & Perpie Groups Adoption (Weeks 9-12)\nMilestone: Initiate campaigns designed to attract traders to Perpie Groups actively. This will enable them to experience the benefits of sharing, socializing, and following other traders. Keep improving the challenges.\nKPIs:\n\nWeekly Trading Volume Goal: Strive to hit a weekly trading volume of ~$4.648M given a continuation of rebates and referrals, and begin a vesting program for reward distribution.\nOverall KPI for weeks 9-12: >$56M in total volume",
+        "expectations": "For the next couple of weeks we'd like to achieve a total volume that is higher than the volume we committed to. Since we have already have achieved our first four weeks milestone of $20M of volume our expectation are try and get to $25M-$30M of total volume",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "426cd4c0-6f37-4eb4-bdf5-07a45310e953",
+            "contractLabel": "Grant Multisig",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "We should focus on attracting a greater number of unique users rather than a few with high volumes. This means designing challenges that incentivize smaller players rather than just large traders, and implementing limits for large traders.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 14,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "During this grant period, we activated the gas sponsorship and funded our paymaster. Over the past two weeks, we also hosted a highly successful trading challenge (detailed numbers will be provided in the final report). Overall, we not only accomplished the milestones but exceeded expectations.",
+        "incentives": "",
+        "arbReceived": 33334,
+        "arbUtilized": 30405,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "1. We have implemented significant advancements to prevent wash trading and reward genuine traders and participants.\n\n2. We have launched our gas sponsorship program, ensuring that users who trade and interact with Perpie do not pay gas fees.",
+        "expectations": "1. During the airdrop challenges, genuine users should receive significantly higher rewards than those who engage in wash trading.\n\n2. More users should use Perpie because of its gas sponsorship engine.",
+        "arbToBeDistributed": 30405,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "We learned that limiting the rewards per users can attract newcomers and that some of our wash trading preventions are working",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 20,
+        "avgDailyUniqueUsers": 9
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have achieved the required KPI\u05d3 to succeed with milestone\nWe ",
+        "incentives": "",
+        "arbReceived": 33334,
+        "arbUtilized": 0,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "To attract a larger number of unique users, we have implemented various mechanisms for our trading challenges. We have capped the amount of ARB each trader can earn, signaling to users that they too can get a piece of the pie.",
+        "expectations": "- Have an increase by at least 50% of unique users \n- Achieve the bi-weekly milestone in terms of volume and all of the parameters",
+        "arbToBeDistributed": 296452,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Better anti wash trading mechanisms need to be implemented ",
+        "avgDailyTVL": 500000,
+        "avgDailyTXNS": 26,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives were distributed to perpie traders and to \"sticky\" users users who we saw that are trading even without any active formal campaign running ",
+        "incentives": "",
+        "arbReceived": 33334,
+        "arbUtilized": 48958,
+        "disclosures": "N/A",
+        "arbRemaining": 99998,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "Achieving the target volume and execute the various incentive mechanisms for the milestone ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 100000,
+        "avgDailyTXNS": 25,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives were distributed to perpie traders and to \"sticky\" users users who we saw that are trading even without any active formal campaign running ",
+        "incentives": "",
+        "arbReceived": 33334,
+        "arbUtilized": 48387,
+        "disclosures": "N/A",
+        "arbRemaining": 66664,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "Achieving the target volume and execute the various incentive mechanisms for the milestone ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 20,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives were distributed to perpie traders and to \"sticky\" users users who we saw that are trading even without any active formal campaign running \nIn addition we are airdropping most loyal players with fees rebates and airdrop",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "Achieving the target volume and execute the various incentive mechanisms for the milestone ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "During the final stretch, we successfully finished deploying incentives to users. We distributed them through:\n- Fee rebates\n- Trading challenges\n- Stickiness airdrop",
+        "incentives": "",
+        "arbReceived": 66664,
+        "arbUtilized": 72324,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "During the last mile we're expecting to finish deployments of incentives to users. We plan to distribute it through \n- Fees rebates\n- Trading challenges\n- Stickiness airdrop",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 200000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Perpie",
+  "grantSummary": "",
+  "fundingAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81",
+  "editorAddresses": [],
+  "matchingGrantSize": 200000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/Perpie",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xb9e19940Df2D555123253DAf49A33f4E04C31e81"
+}

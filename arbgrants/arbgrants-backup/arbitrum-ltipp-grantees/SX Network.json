@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes as no ARB spent - still testing.",
+        "lessons": "Main lesson was to try to find other LTIPP-funded protocols to partner with for later push.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No ARB spent during this period.",
+        "incentives": "",
+        "arbReceived": 83000,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures as no ARB spent.",
+        "arbRemaining": 415000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No ",
+        "expectations": "No expectations for this period as we're not planning on disbursing any ARB and are simply in testing phase at the moment.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Nothing meaningful as we still haven't disbursed any ARB but we've launched the $69,420 SX Summer Kickoff betting tournament, which will conclude on July 14th and represents our first ARB disbursements to the community.",
+        "lessons": "We struck partnerships with SushiSwap and Steer protocol for a 3-way incentivized LP pool and trading tournament to boost liquidity and trading volume for a SX/WETH pair on Sushiswap on Arbitrum that we're excited about. We expect things to pick up significantly in the weeks ahead as we finally begin to disburse ARB to our community.",
+        "avgDailyTVL": 95000,
+        "avgDailyTXNS": 558,
+        "avgDailyUniqueUsers": 52
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Again - still hadn't spent any ARB during this period as we were testing some things to make sure all systems were go for the July push, primarily around the $69,420 SX Summer Kickoff betting tournament, which will end July 14th, with ARB payments going out in the days after.",
+        "incentives": "",
+        "arbReceived": 83000,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures yet as we haven't yet spent any of the ARB",
+        "arbRemaining": 498000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Again - no ARB spent during this period as we were still testing things on the platform to make sure it was ready for July push",
+        "expectations": "We expected volume to begin to pick up as we began marketing around the $69,420 SX Summer Kickoff betting tournament, though no ARB would be spent until it's conclusion on July 14th. We've already seen a pickup in activity from the launch of it, and expect SX to become the largest gamblefi platform on Arbitrum in the following 2 weeks once the tournament really gets underway - we're aiming for +$100,000/day in betting volume.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Big increase from prior bi-weekly period",
+        "lessons": "ARB betting tournament was a huge success driving users and betting volume; SX Bet did $350,000 in betting volume on the final day of the betting tournament (a multiple of all other Arbitrum gamblefi dapps). Email offers + targeted outreach to existing SX community spurred engagement and metrics across the board. We learned that we should go really big on the betting tournament in August rather than trying to do many small promos. Also - partnerships with other Arbitrum protocols allows us to multiple the rewards to our community - the three-way trading tournament with Steer and Sushiswap is a testament to this.",
+        "avgDailyTVL": 248067,
+        "avgDailyTXNS": 765,
+        "avgDailyUniqueUsers": 87
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Total of 81,194 ARB spent between the first betting tournament and email offers to SX power users.",
+        "incentives": "",
+        "arbReceived": 83000,
+        "arbUtilized": 81194,
+        "disclosures": "69,433 ARB spent in the SX Summer Kickoff Betting tournament\n11,761 ARB spent in targeted email marketing offers to KYC'ed SX whale bettors",
+        "arbRemaining": 250806,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "The $69,420 SX Summer Kickoff betting tournament concluded on July 14th, with ARB disbursements going out the following day, as originally planned this as done in Month 2 of the Arbitrum grant. Only big change as of now - we haven't yet implemented the referral mechanic for getting new users; instead we've supplemented the tournament with some targeted email offers to existing SX bettors that are KYC'ed to motivate them to utilize SX on Arbitrum. This has been small scale - only 11,761 ARB spent on them. \n\nWe have changed slightly from the original proposal regarding the liquidity mining mechanic - rather than LP rewards, we are launching a trading tournament in conjunction with Sushiswap and Steer protocol to promote trading volume; Sushi and Steer are putting up some of their ARB rewards for LP incentives (negating the point of us doing so). This trading tournament will end on July 25th, with 40,000 ARB up for rewards.",
+        "expectations": "We expect betting volume to tail off a little bit as there's a break in the following bi-weekly period before the next betting tournament (planned to start on July 26th). We are experimenting with some targeted email marketing offers in the meantime before the full launch of the referral program end of July. This is effectively the calm before the storm (in August). SX is now the largest gamblefi dapp on Arbitrum by betting volume, this upcoming period is the experimentation phase before SX becomes the largest gamblefi dapp in all of web3 in August.",
+        "arbToBeDistributed": 81194,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Learned a lot from the Sushi trading tournament, primarily on the last day when engagement on the tournament was highest. Main thing we learned is that we should break up the trading tournaments into a series of 3-day or 1-day micro tournaments with smaller prize pools versus the one big tournament. That way we could engagement up across the tournament as users wouldn't be super far behind or super far ahead. Additionally, it would make the tournaments more fun as prizes would be getting paid out throughout versus all at the end. Email offers continue to work but they aren't highly scalable if limited to big bettors so we need to broaden out them.",
+        "avgDailyTVL": 562801,
+        "avgDailyTXNS": 429,
+        "avgDailyUniqueUsers": 59
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Total of 46,618 ARB spent across trading tournament and email offers",
+        "incentives": "",
+        "arbReceived": 80000,
+        "arbUtilized": 46618,
+        "disclosures": "40,000 ARB spent on Sushi Trading tournament\n6,618 ARB spent on targeted email marketing offers to KYC'ed SX whale bettors",
+        "arbRemaining": 169000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Instead of 60,000 ARB for LP incentives as originally proposed, we're instead spending 40,000 ARB for a trading tournament in a three-way partnership with SushiSwap and Steer protocol where they are providing their own ARB for an incentivized LP pool and trading tournament to boost liquidity and trading volume for a SX/WETH pair on Sushiswap. This trading tournament ends on July 25th.\n\nWe are also planning on spending 20,000 ARB on referral program (as originally planned) and 20,000 ARB on targeted email offers, given the success they've had recently in prior weeks.",
+        "expectations": "We expect to continue to see growth across all our major metrics, with a particular focus on betting volume. We're a few days away from hitting $5m of cumulative betting since launch; our goal for the following 2 weeks is to hit $7.5m in cumulative betting volume (an average of $200,000 of bets/day) over the following 2 weeks. We'd also like to see trading volume on the SX/WETH token hit a high of $100,000/day on Arbitrum now that the trading tournament is being disbursed.",
+        "arbToBeDistributed": 80000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Begun referral campaign as originally proposed in the grant proposal. Continuing with some small targeted email marketing offers to whales for consistent engagement.",
+        "lessons": "Need to be way more aggressive on referral campaign as we undershoot by about 25% on our goal for the first wave of the referral campaign. Partly also due to the newness of the program; has taken people in the SX community some time to get onboarded to it and begin working on generating referrals. Will need to be more aggressive in the next wave.",
+        "avgDailyTVL": 318975,
+        "avgDailyTXNS": 439,
+        "avgDailyUniqueUsers": 65
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Total of 12,372 ARB paid out through referral campaign and email marketing campaign",
+        "incentives": "",
+        "arbReceived": 83000,
+        "arbUtilized": 12372,
+        "disclosures": "11,492 ARB paid out through referral program\n880 ARB paid out through email marketing campaign",
+        "arbRemaining": 86000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "We're planning on rolling out the referral program as initially proposed in our grant application. Hoping to pay out at least +10,000 ARB in this first wave. Users must make a bet on Arbitrum and finish KYC2 in order to get a referral code, with similar conditions on all referred users to qualify. ",
+        "expectations": "We expect to see a big increase in new users and fully KYC'ed users alike. Hard to forecast as we've never run a referral campaign before, though the incentives are sure to attract many. We're rolling this out initially to the SX community to test. Hoping to hit a new record in daily users during this session - aiming for +150.",
+        "arbToBeDistributed": 15000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We spent more on email offers than we intended to make up for the shortfall in spending on the referral campaign.",
+        "lessons": "We have to pivot away from the referral campaign as even with strict KYC2, it is simply not scalable enough and potentially open to being gamed in order to be the foundation of the ARB marketing campaign. Though we've seen a huge spike in new users and betting volume on SX Bet on Arbitrum has surpassed $7.5m and looks set to hit $10m, we are still underspending relative to our grant amount and need to get more aggressive with the last few weeks of the program.",
+        "avgDailyTVL": 233032,
+        "avgDailyTXNS": 455,
+        "avgDailyUniqueUsers": 60
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We had an issue with the referral program during this period as we detected a large number of sybils attempting to game the program in order to get ARB maliciously by using tons of fake IDs. We had to temporarily restrict the program in order to combat this and therefore referral spend was way down during the period. We decided to get far more aggressive on VIP email offers, sending out 26,275 ARB in offers to SX bettors to onboard onto the platform.",
+        "incentives": "",
+        "arbReceived": 83000,
+        "arbUtilized": 28387,
+        "disclosures": "Referral program: 3,912 ARB\nEmail Offers:\t26,275 ARB",
+        "arbRemaining": 3000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Going to be far more aggressive on the referral campaign in this wave. Try to be more aggressive on email marketing offers as well, and continue on-boarding new SX whales onto SX Bet on Arbitrum. We're running a 69,420 ARB SX Summer Cup betting tournament (https://sx.bet/rewards/tournaments/010b7054cdf8) as outlined in the original grant proposal, though the payout will fall outside the current 2-week period.",
+        "expectations": "Hoping to spend at least 25,000 ARB on the referral campaign in this wave, and continue to grow daily user count and total betting volume.",
+        "arbToBeDistributed": 83000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We're going to be going really big during this period as we have lots of ARB leftover from before and it's the perfect time with sports coming back (US Open + College Football, with NFL shortly after). Besides paying out the 69,420 ARB for the SX Summer Cup betting tournament, we're also targeting a number of offers to VIPs, some partnerships with the Pudgy Penguins community, and direct outreach to big bettors through Dbank. We also got the opportunity to sponsor an in-person event hosted by the inPlay sports betting community (one of the largest professional sports betting communities), and we have a team member attending to on-board users onto SX Bet on Arbitrum.",
+        "expectations": "We're aiming to hit $10m in total betting volume on SX Bet on Arbitrum by the end of this period, and average +100 DAUs.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 498000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "SX Network",
+  "grantSummary": "",
+  "fundingAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde",
+  "editorAddresses": [],
+  "matchingGrantSize": 498000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/SX-Bet",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x1d730f26293fc2f3495a8acb199b8726c24a6cde"
+}

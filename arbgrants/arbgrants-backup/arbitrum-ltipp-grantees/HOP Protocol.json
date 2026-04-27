@@ -1,0 +1,456 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - First Period",
+        "lessons": "N/A - First Period",
+        "avgDailyTVL": 9270000,
+        "avgDailyTXNS": 2596,
+        "avgDailyUniqueUsers": 519
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Due to starting mid-period our usage numbers were lower, however LP incentives are running as expected. We saw about 1,111 ARB used on day per average for the LP Incentives. That is on pace for about 93,000 ARB total during the 12 week period. We expected to see about 1/3rd of our 500k ARB Grant used towards LP Incentives (167k or so), so anticipate as the project gets more underway and we have more data this we will reach our goal. ",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 5558,
+        "disclosures": "Our incentives started on 6/12/2024. There was an update to how USDC is bridged to Arbitrum between the application and launching the incentive program. In short, incentives are no longer needed and as such we have shifted AMM rewards proportionally to other pools. rETH was unable to be incentivized due to technical limitations. MAGIC it was determined due to the effort required to setup the incentivization versus the low usage it was not worth incentivizing over ETH, USDT and DAI. ",
+        "arbRemaining": 416666,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We started our program on 6/12/2024",
+        "expectations": "We saw about 1,111 ARB used on day per average for the LP Incentives. That is on pace for about 93,000 ARB total during the 12 week period. We expected to see about 1/3rd of our 500k ARB Grant used towards LP Incentives (167k or so), so anticipate as the project gets more underway and we have more data this we will reach our goal. ",
+        "arbToBeDistributed": 5558,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Average TVL increased 19% over the two week period. Transaction counts remained similar to the last period (within 1%) and unique users went down from 518 to 331.",
+        "lessons": "From the data, we can tell that TVL is increasing as expected due to the liquidity incentives. Transaction counts remained about the same, but unique users dropped. Unique user dropping is unfortunate, but in hindsight not totally unexpected since the first week of the program likely saw the biggest increase due to the novelty. We hope to see that increase in the future. ",
+        "avgDailyTVL": 11040000,
+        "avgDailyTXNS": 2575,
+        "avgDailyUniqueUsers": 331
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ETH AMM Pool - 31,206 ARB Used \nUSDT AMM Pool - 1,696 ARB Used\nDAI AMM Pool - 1,197 ARB Used\nBonder Fee and Gas Reimbursement - 3,937 ARB Made available for users to claim\n",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 38038,
+        "disclosures": "No additional disclosures",
+        "arbRemaining": 333332,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes made to the program",
+        "expectations": "We expect to see an increase in TVL, transactions, and users as the program matures",
+        "arbToBeDistributed": 83334,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We saw a continued increase in AMM pools from liquidity incentives. A sustained 18.5% growth. Unfortunately Transactions and unique users were down a little from last period. However still remain strong relative to pre-incentives (usually average around 1000 transactions a day)",
+        "lessons": "The AMM incentives continue to grow the pools. \nETH - 11.5m value\nUSDT - 0.81m value\nDAI - 0.73m Value\n",
+        "avgDailyTVL": 13080000,
+        "avgDailyTXNS": 2121,
+        "avgDailyUniqueUsers": 283
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We saw a continued increase in ARB used for AMM pools. The Gas Rebates / Bonder Fee occurs every month end, so no data for that yet. ",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 52722,
+        "disclosures": "It should be noted to anyone watching wallets / contracts - The receiving address of ARB tokens does retain some ARB to cover Bonder Fee / Gas Rebates. So that is why not 100% of tokens go to the AMM incentive contracts",
+        "arbRemaining": 249998,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes for this period",
+        "expectations": "We expect to see continued growth in TVL. We hope to see increased transactions / unique users",
+        "arbToBeDistributed": 83334,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL continues to increase (14.6m ETH, .77m USDT, .67m DAI), however transactions and unique daily users were slightly lower",
+        "lessons": "We saw a continued increase in ARB used for AMM pools",
+        "avgDailyTVL": 16080000,
+        "avgDailyTXNS": 1693,
+        "avgDailyUniqueUsers": 234
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We continued to see increases in ARB used for AMM pools. ",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 61077,
+        "disclosures": "It should be noted to anyone watching wallets / contracts - the receiving address of ARB tokens does retain some ARB to cover Bonder Fees / Gas Rebates. That is why no 100% of tokens to to the AMM incentive contracts.",
+        "arbRemaining": 166664,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes to the program",
+        "expectations": "We expect to see continued growth of around 20% in the AMM pools. We also hope that the ETH ETF launch bring some attention to Ethereum as a platform, and possible more usage for L2s (and as such HOP Bridge)",
+        "arbToBeDistributed": 83334,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "This was the first period we saw a decrease in TVL ($11.48m ETH, .61m USDC, .60 DAI), and average daily transacitons & unique users were down too.",
+        "lessons": "This was the first time TVL dipped, however market conditions likely affected due to large drops in ETH price during this period. ",
+        "avgDailyTVL": 12700000,
+        "avgDailyTXNS": 1050,
+        "avgDailyUniqueUsers": 144
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Arb used for incentives was down these two weeks",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 45328,
+        "disclosures": "It should be noted to anyone watching wallets / contracts - the receiving address of ARB tokens does retain some ARB to cover Bonder Fees / Gas Rebates. That is why no 100% of tokens to to the AMM incentive contracts.",
+        "arbRemaining": 83330,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes to the program",
+        "expectations": "We expect to see continued growth of around 20% in the AMM pools. ",
+        "arbToBeDistributed": 83334,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL stayed stable, as well as unique users. Transactions were down a little",
+        "lessons": "We continue to see a similar TVL. ",
+        "avgDailyTVL": 12050000,
+        "avgDailyTXNS": 869,
+        "avgDailyUniqueUsers": 134
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB incentive increased this period",
+        "incentives": "",
+        "arbReceived": 83334,
+        "arbUtilized": 89486,
+        "disclosures": "It should be noted to anyone watching wallets / contracts - the receiving address of ARB tokens does retain some ARB to cover Bonder Fees / Gas Rebates. That is why no 100% of tokens to to the AMM incentive contracts.",
+        "arbRemaining": -4,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes to the program",
+        "expectations": "We expect similar numbers to what happened the last two weeks due to not much material change to the markets",
+        "arbToBeDistributed": 83334,
+        "contractsIncentivized": [
+          {
+            "contractId": "4ee46792-6650-4051-bfd8-8455e62a45ee",
+            "contractLabel": "ETH Pool",
+            "contractAddress": "0x00001fcF29c5Fd7846E4332AfBFaA48701D727f5"
+          },
+          {
+            "contractId": "509c8e5f-7564-4d43-acef-4e06cd61bc32",
+            "contractLabel": "USDT Pool",
+            "contractAddress": "0xB8f90e115499082747Ba5DA94732863b12cB1F25"
+          },
+          {
+            "contractId": "55083417-2414-4c69-bf0f-638f1488a53b",
+            "contractLabel": "DAI Pool",
+            "contractAddress": "0xBB9D66F7a7744C11550079045A177090E0015364"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The program ended in this period",
+        "lessons": "To be written",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The program has closed",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "The program has closed, we returned all unused ARB to the DAO with the following transaction - https://arbiscan.io/tx/0xd5a5b53a179457d8ac25c7fcb7daee9f099c6ec85c83ae15b1611a33aba70d4d. Some ARB remains due to having to pay out the Bonder Fees and Gas Rebates. Which we cannot control directly, as it relies on users to claim",
+        "arbRemaining": -4,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "The incentive program ended during this period. ",
+        "expectations": "The incentive program is ending.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 500000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "HOP Protocol",
+  "grantSummary": "ARB tokens will be allocated to increase our liquidity mining incentives in order to attract liquidity providers to the platform. ARB tokens will be allocated to subsidize gas fees by 80% for users who are onboarding to the Arbitrum chains (from any other network). Users exiting Arbitrum One or Nova will not get subsidized. ARB tokens will be allocated to subsidize bonder fees in order to reduce end-user costs to bridge.\n\nAdditional Metrics Dashboards can be found here: https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/HOP-Protocol | https://dune.com/hop/hop-arbitrum | https://dune.com/hopteam/hop-protocol-ltipp-arbitrum",
+  "fundingAddress": "0xCd1d7AEfA8055e020db0d0e98bbF3FeD1A16aad6",
+  "editorAddresses": [],
+  "matchingGrantSize": 500000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/HOP-Protocol",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x2Fd178551A5ac8F0F51faC57ffC48EA7d9A87fAe"
+}

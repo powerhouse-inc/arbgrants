@@ -1,0 +1,597 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "In deviation from the original plan (increasing ARB emissions in three phases), we have decided to distribute the same number of ARB tokens every week (linear emissions). Furthermore, we have planned slightly decreasing emissions for the LP rewards over the LTIPP period and slightly increasing emissions for the trader rewards at the same level. The purpose of this is to initially attract enough liquidity that can then serve as a counterparty for traders. The DEX-LP rewards are distributed linearly from weeks 1-12, with the exception that we only distribute half of the rewards for the first 2 weeks and spread the other half over the remaining weeks.",
+        "lessons": "We have learned that many things can change from the application to be included into the LTIPP, to the state of the market and its effect on sentiment, to the user behavior. We will continue to adapt the incentives as we see the individual activities play out for LP, trading, and DEX liquidity.",
+        "avgDailyTVL": 1221303,
+        "avgDailyTXNS": 44,
+        "avgDailyUniqueUsers": 18
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are satisfied with the start of the LTIPP program and are confident that we can achieve the first KPIs.",
+        "incentives": "",
+        "arbReceived": 18750,
+        "arbUtilized": 16850,
+        "disclosures": "In deviation from the original plan (increasing ARB emissions in three phases), we have decided to distribute the same number of ARB tokens every week (linear emissions). Furthermore, we have planned slightly decreasing emissions for the LP rewards over the LTIPP period and slightly increasing emissions for the trader rewards at the same level. The purpose of this is to initially attract enough liquidity that can then serve as a counterparty for traders. The DEX-LP rewards are distributed linearly from weeks 1-12, with the exception that we only distribute half of the rewards for the first 2 weeks and spread the other half over the remaining weeks. The metrics have also been adjusted according to the APR expectations set forth in the application and modified for the adjusted ARB price. Discussions have been posted in the governance forum here: https://forum.arbitrum.foundation/t/ipor-protocol-ltipp-application-final/21965/11",
+        "arbRemaining": 17634,
+        "contractsIncentivized": [
+          {
+            "contractId": "acc896e6-8e95-41e5-be7e-c4f3d75950aa",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "eaf50065-bd75-4731-9a6a-da49eafc0d7a",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "63d8eab1-6d36-476a-ba86-f1fe32a7ff1f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "75171f90-7f32-43a8-b9bb-5a338df5b606",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "712e80fc-41d5-49a8-a9a0-f2ef98b62934",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "In deviation from the original plan (increasing ARB emissions in three phases), we have decided to distribute the same number of ARB tokens every week (linear emissions). Furthermore, we have planned slightly decreasing emissions for the LP rewards over the LTIPP period and slightly increasing emissions for the trader rewards at the same level. The purpose of this is to initially attract enough liquidity that can then serve as a counterparty for traders. The DEX-LP rewards are distributed linearly from weeks 1-12, with the exception that we only distribute half of the rewards for the first 2 weeks and spread the other half over the remaining weeks.\nThe metrics have also been adjusted according to the APR expectations set forth in the application and modified for the adjusted ARB price. Discussions have been posted in the governance forum here: https://forum.arbitrum.foundation/t/ipor-protocol-ltipp-application-final/21965/11",
+        "expectations": "We expect to continue to attract new depositors, swap takers, and DEX liquidity through ongoing marketing and co-promotions.",
+        "arbToBeDistributed": 18750,
+        "contractsIncentivized": [
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There was a large increase in the wstETH pool with a single depositor contributing over 500K of LP, and a single large withdrawal of 170K from the USDM pool.",
+        "lessons": "Trading incentives have been successful to increase the real yield generation of liquidity providers.",
+        "avgDailyTVL": 2072565,
+        "avgDailyTXNS": 43,
+        "avgDailyUniqueUsers": 21
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are still satisfied with the start of the LTIPP program and are confident that we can achieve the KPIs.",
+        "incentives": "",
+        "arbReceived": 18750,
+        "arbUtilized": 19122,
+        "disclosures": "No changes from the first set of disclosures from the June 3 - June 17 report.",
+        "arbRemaining": -1116,
+        "contractsIncentivized": [
+          {
+            "contractId": "d76d9016-e97f-42b4-97ce-70450d105ecd",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "7cb63411-0841-41bd-aab3-c70fc9b9acbe",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "b2fb3650-65d7-4f24-b9ef-8906c14b05f4",
+            "contractLabel": "AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "80bdd3a1-3baf-4b42-b2d2-8a26b9841172",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "986e3ebc-1122-4833-9bc9-27b26d23c1ef",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes were made.",
+        "expectations": "We expect a further increase in TVL and trading volume. In particular, it will be important to see whether the success of the trader rewards can be continued. These have generated ~8% APR real yield for the USDC pool.",
+        "arbToBeDistributed": 18750,
+        "contractsIncentivized": [
+          {
+            "contractId": "ba1b6d96-d03b-4fce-8d2d-4c99dca5aefa",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "69d77d02-2d3b-4283-84ef-c2d9723a5670",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "b3c7c2d4-e817-4d77-807a-a8d1782d1147",
+            "contractLabel": "AMM USDM (LP) AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "53e46c41-6824-4ae2-b1f0-3140a2cfcaeb",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "The traders incentives have been an effective way to educate traders about the mechanisms, as well as bolster the real yield for LPs.",
+        "avgDailyTVL": 2072565,
+        "avgDailyTXNS": 43,
+        "avgDailyUniqueUsers": 20
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The incentives and metrics have run according to plan.",
+        "incentives": "",
+        "arbReceived": 18750,
+        "arbUtilized": 19122,
+        "disclosures": "n/a",
+        "arbRemaining": -744,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3c9263f-7e19-4866-ac6a-a74916cc4802",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "342df54c-6ba0-46cc-8acd-bac79ec1f1b6",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "2da5e8d9-8be6-48e0-bd16-decca8be8d13",
+            "contractLabel": "AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "4381bec2-7792-4ab3-88e6-040f9931c865",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "65ee9598-ed8d-4666-82bc-441147bb265c",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "We expect a further increase in TVL and trading volume. We have noticed some users discovering swaps as an effective farming mechanism and also learned about how the swaps work. Others may follow this trend and trade the instruments which can profitable on their own.",
+        "arbToBeDistributed": 18750,
+        "contractsIncentivized": [
+          {
+            "contractId": "b3c9263f-7e19-4866-ac6a-a74916cc4802",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "342df54c-6ba0-46cc-8acd-bac79ec1f1b6",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "2da5e8d9-8be6-48e0-bd16-decca8be8d13",
+            "contractLabel": "AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "4381bec2-7792-4ab3-88e6-040f9931c865",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "65ee9598-ed8d-4666-82bc-441147bb265c",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "Incentives are effective over the short run, but have a limited effect on attracting new users over the long run",
+        "avgDailyTVL": 2943185,
+        "avgDailyTXNS": 39,
+        "avgDailyUniqueUsers": 20
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The Liquidity pool got a big boost from two large depositors with 100K and 500K respective deposits. The trading has increased as new traders have been trying out different strategies.",
+        "incentives": "",
+        "arbReceived": 18750,
+        "arbUtilized": 19122,
+        "disclosures": "n/a",
+        "arbRemaining": -372,
+        "contractsIncentivized": [
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes",
+        "expectations": "We expect the traded volume to grow given the rising popularity and pickup on social media.",
+        "arbToBeDistributed": 18750,
+        "contractsIncentivized": [
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes in users. TVL has dropped in USD terms with the overall crypto market.",
+        "lessons": "Trading incentives has led to a strong increase in real yield for USDC depositors.",
+        "avgDailyTVL": 2523469,
+        "avgDailyTXNS": 29,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "During the period the TVL has remained relatively stable, without major changes in TVL with smaller depositors and withdrawals from the pool. On the trading side we observe an increase in traders in both number of traders and size in OI. This has been a very positive outcome of the LTIPP program to educate new users about trading interest rate swaps as well as the increase in trading volume.",
+        "incentives": "",
+        "arbReceived": 18750,
+        "arbUtilized": 19122,
+        "disclosures": "There are no new disclosures",
+        "arbRemaining": -372,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xff560c41eacd072AD025F43DF3516cB6580C96bF"
+          },
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "There have been no significant changes in the program.",
+        "expectations": "We expect TVL to remain relative unchanged given the course of the program while we expect to have the OI increase with new users discovering how to trade interest rate and stake rate swaps.",
+        "arbToBeDistributed": 18750,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xff560c41eacd072AD025F43DF3516cB6580C96bF"
+          },
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "ETH market price down had an effect on the USD value of the TVL in the vaults. We also see lowered engagement as the LTIPP program is coming to an end.",
+        "lessons": "Overall the LTIPP program was a great success for the protocol. There is certainly a challenge to find users among the multitude of options that users have. We were underwhelmed with the TVL boost but this could be due to fatigue or lack of new assets entering. The trading incentives had the best net positive for the protocol, increasing the real yield generated and the asset on asset returns for LPs.",
+        "avgDailyTVL": 2339238,
+        "avgDailyTXNS": 24,
+        "avgDailyUniqueUsers": 12
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The Program is running as expected",
+        "incentives": "",
+        "arbReceived": 18750,
+        "arbUtilized": 19162,
+        "disclosures": "No new disclosures",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xff560c41eacd072AD025F43DF3516cB6580C96bF"
+          },
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "There have been no meaningful changes implemented since the last epoch.",
+        "expectations": "Our expectation is that the program continues at a steady state. It has been difficult to attract new TVL and traders given the multiple LTIPP and STIP programs concurrently running.",
+        "arbToBeDistributed": 18750,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xff560c41eacd072AD025F43DF3516cB6580C96bF"
+          },
+          {
+            "contractId": "1d239e91-5ce7-4e75-a99b-350bf296292e",
+            "contractLabel": "Liquidity Mining Contract (staked LP)",
+            "contractAddress": "0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd"
+          },
+          {
+            "contractId": "97eb611e-3db8-4860-92d0-6835f74ff886",
+            "contractLabel": "IPOR AMM USDC (LP, Swaps)",
+            "contractAddress": "0x9324d39B29c85440cadd2202E4703E6f5d1e98F9"
+          },
+          {
+            "contractId": "0974d3c7-c46e-4d8d-bdff-266304c9452f",
+            "contractLabel": "AMM USDM (LP)",
+            "contractAddress": "0x88a4052FABa59AD82908D7064C8EF1778C6ea867"
+          },
+          {
+            "contractId": "73fdce2e-4afd-4f16-8ef0-5629a926a95f",
+            "contractLabel": "AMM wstETH (LP, Swaps)",
+            "contractAddress": "0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D"
+          },
+          {
+            "contractId": "db9b2c26-ac3f-49ac-bda4-f8ffb366a83b",
+            "contractLabel": "Camelot IPOR/WETH Nitro Pool (DEX LP)",
+            "contractAddress": "0xbf6cC3d31D38449872BCB7c7031891f2EEB198a5"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "n/a, all incentives have been distributed",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "n/a, all incentives have been distributed",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a, all incentives have been distributed",
+        "expectations": "n/a, all incentives have been distributed",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 112500,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "IPOR",
+  "grantSummary": "",
+  "fundingAddress": "0xff560c41eacd072AD025F43DF3516cB6580C96bF",
+  "editorAddresses": [],
+  "matchingGrantSize": 112500,
+  "metricsDashboardLink": "https://dune.com/ipor/ipor-ltipp-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xff560c41eacd072AD025F43DF3516cB6580C96bF"
+}

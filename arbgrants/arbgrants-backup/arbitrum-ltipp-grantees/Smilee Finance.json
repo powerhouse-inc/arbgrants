@@ -1,0 +1,565 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No major changes.",
+        "lessons": "Unfortunately, given the price drop of ARB, the incentive APY doesn't appear to be enough to scale the TVL as intended.",
+        "avgDailyTVL": 1521798,
+        "avgDailyTXNS": 31,
+        "avgDailyUniqueUsers": 14
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "LTIPP for Smilee started a few days later so we could align the incentive schedule to our own weekly schedule (friday to friday epochs). Incentives started on the 7th of June, and the first distribution was on the 14th of June.",
+        "incentives": "",
+        "arbReceived": 23331,
+        "arbUtilized": 5832,
+        "disclosures": "IMPORTANT: Given Smilee weekly epoch design (from Friday to Friday), this report covers the date between June 7th to June 14th.\n\nAs planned, we kept the amount of incentive distribution lower to have more capacity for new DVPs. That said, the incentive APY has been ~18% which is about what we had planned in the original proposal.",
+        "arbRemaining": 46674,
+        "contractsIncentivized": [
+          {
+            "contractId": "9a8643dc-b86c-46df-b189-e9a4320ec7a6",
+            "contractLabel": "ETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          },
+          {
+            "contractId": "f54f8ee1-c0f6-4f8b-a101-d5e4c03d9dd5",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "89f90497-d865-4c02-be54-8cb72d7086f5",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "d4b268da-0a5d-4532-bed1-e02423f2f4c6",
+            "contractLabel": "BTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We're currently incentivizing LPs on a weekly (epoch) basis as agreed on the LTIPP proposal. The current incentives APY is ~17%. We are currently keeping half of the ARB incentives for the upcoming Farmee Vaults which are due to launch in the coming week.",
+        "expectations": "We expect our TVL to slightly increase, although it's still too early to understand how much they can grow with the current incentives.",
+        "arbToBeDistributed": 5832,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes.",
+        "lessons": "Current incentives are clearly not enough to scale the TVL as desired. In the coming weeks, we will work on distributing 100% of the incentives to current Impermanent Gain products to hopefully increase the available trading liquidity.",
+        "avgDailyTVL": 1454034,
+        "avgDailyTXNS": 25,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "IG is sold out most of the time, and current liquidity constraints are not allowing the trading side to scale as much as we'd like. We will look into increasing incentives in order to scale TVL further.",
+        "incentives": "",
+        "arbReceived": 23331,
+        "arbUtilized": 11666,
+        "disclosures": "IMPORTANT: Given Smilee weekly epoch design (from Friday to Friday), this report covers the date between June 14th to June 28th.\n\nTVL is not really seeing the increase we'd wanted. We will look to increase incentive amounts in the coming weeks.",
+        "arbRemaining": 46674,
+        "contractsIncentivized": [
+          {
+            "contractId": "2eb4b14d-d57c-4ff6-84c4-0e112eb84c34",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "c5ae3cac-0432-4a2a-92ec-46372c8839be",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "ae275d90-e11c-44aa-9a96-ccb12dc7a8aa",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "3de303cb-bdac-4b10-9bf5-8ed831381183",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes planned for this week.",
+        "expectations": "We hope the incentives will start to ramp up LP interest which will result in increase of TVL and as such available trading liquidity.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "5ffe222b-1ffa-470d-a5cb-a1ad9bf89a1d",
+            "contractLabel": "WBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "9fb92a38-7389-430d-9cc3-85bfa1c7b07c",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "7f607813-5c31-44cf-a575-ef0dec600f85",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "0d165049-aa16-48c6-93d8-a5014f626f3d",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We've decided to halt release of further DVPs and focus on scaling the current set of DVPs. As a result, we've maximized the incentive distribution to the current LPs.",
+        "lessons": "Focus incentives on less products.",
+        "avgDailyTVL": 1273533,
+        "avgDailyTXNS": 18,
+        "avgDailyUniqueUsers": 11
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expect to decrease the amount of TVL drop. ",
+        "incentives": "",
+        "arbReceived": 23331,
+        "arbUtilized": 23331,
+        "disclosures": "IMPORTANT: Given Smilee weekly epoch design (from Friday to Friday), this report covers the date between June 28th to July 12th.\n\nWe've scaled up the amount of incentives distribution to 100% to traditional Impermanent Gain vaults.",
+        "arbRemaining": 46674,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We're scaling up the amount of incentives distribution to 100% to traditional Impermanent Gain vaults.",
+        "expectations": "We expect to decrease the amount of TVL drop. ",
+        "arbToBeDistributed": 23331,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes applied.",
+        "lessons": "TVL is stabilising around ~1M, with some fluctuations dependant on the underlying assets delta. Current incentives seems to allow us to hold the current LPs.",
+        "avgDailyTVL": 1188176,
+        "avgDailyTXNS": 16,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No further changes are being applied. We expect TVL to stabilise.",
+        "incentives": "",
+        "arbReceived": 23333,
+        "arbUtilized": 23333,
+        "disclosures": "Important: since Smilee works with epoch based approach (from friday to friday), this report covers the epochs between July 12th to July 26th.",
+        "arbRemaining": 46674,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes applied.",
+        "expectations": "We expect TVL to stabilize.",
+        "arbToBeDistributed": 26831,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "No meaningful lessons",
+        "avgDailyTVL": 1129983,
+        "avgDailyTXNS": 13,
+        "avgDailyUniqueUsers": 10
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expect a stable TVL during the duration of the incentive program",
+        "incentives": "",
+        "arbReceived": 23333,
+        "arbUtilized": 30331,
+        "disclosures": "Since Smilee is Epoch Based from Friday to Friday, this report will cover the dates between July 26th to August 9th",
+        "arbRemaining": 23341,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes",
+        "expectations": "Stable TVL",
+        "arbToBeDistributed": 30331,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "No meaningful lessons",
+        "avgDailyTVL": 1072551,
+        "avgDailyTXNS": 12,
+        "avgDailyUniqueUsers": 6
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expect a stable TVL during the duration of the incentive program",
+        "incentives": "",
+        "arbReceived": 23341,
+        "arbUtilized": 30333,
+        "disclosures": "Since Smilee is Epoch Based from Friday to Friday, this report will cover the dates between August 9th to August 23rd",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes",
+        "expectations": "Stable TVL",
+        "arbToBeDistributed": 30333,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes",
+        "lessons": "No meaningful lessons",
+        "avgDailyTVL": 1094353,
+        "avgDailyTXNS": 13,
+        "avgDailyUniqueUsers": 9
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expect a stable TVL during the duration of the incentive program",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 15166,
+        "disclosures": "Since Smilee is Epoch Based from Friday to Friday, this report will cover the dates between 23 to 30 August",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes",
+        "expectations": "Stable TVL",
+        "arbToBeDistributed": 1516667,
+        "contractsIncentivized": [
+          {
+            "contractId": "3a9f210a-004d-420e-8cd9-e17a0339d60f",
+            "contractLabel": "wBTC/USDC",
+            "contractAddress": "0xD3468b7957C5a2FC28b2Da2EB17F24DBD9F68831"
+          },
+          {
+            "contractId": "6afaea47-73d2-4756-82c0-2ac5c20dc1f2",
+            "contractLabel": "GMX/USDC",
+            "contractAddress": "0xC1894fA9a94f454f9689Be3F2b5e63b3FdE569f4"
+          },
+          {
+            "contractId": "2b63c395-09b0-4eda-93cf-80728afd5eb8",
+            "contractLabel": "ARB/USDC",
+            "contractAddress": "0xCbe9DB6B83d22e9aD109DF7384CaA19E902a8a14"
+          },
+          {
+            "contractId": "fdbb6402-af97-4d18-9516-80fdbafffc93",
+            "contractLabel": "wETH/USDC",
+            "contractAddress": "0x6B028CE42C823B01A2C9BcbeEeaDdAC61f0da4f0"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 140000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Smilee Finance",
+  "grantSummary": "",
+  "fundingAddress": "0x9fC3aBbC8c945Fdde9AE9cF555DE783142dEbc90",
+  "editorAddresses": [],
+  "matchingGrantSize": 140000,
+  "metricsDashboardLink": "https://dune.com/0xpibs/smilee-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x00f255C93906CB59CCfF6b21f7Bf9dC0Ca30e09A"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB++ deposits will begin June 23, trading epoch will begin June 28 to align with partners and launch of our new Front End ",
+        "incentives": "",
+        "arbReceived": 16667,
+        "arbUtilized": 0,
+        "disclosures": "ARB++ deposits will begin June 23, trading epoch will begin June 28 to align with partners and launch of our new Front End ",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "14248239-3805-41b4-9d23-5039e47c85a0",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "ARB++ deposits will begin June 23, trading epoch will begin June 28 to align with partners and launch of our new Front End ",
+        "expectations": "ARB++ deposits will begin June 23, trading epoch will begin June 28 to align with partners and launch of our new Front End ",
+        "arbToBeDistributed": 1,
+        "contractsIncentivized": [
+          {
+            "contractId": "fed9bbcf-e552-415b-a547-3eedba6b0cb5",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "this is the first deployment of incentives, TVL cap was hit\n\ntrading period to conclude July 05 ",
+        "avgDailyTVL": 250000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "5000 ARB grant incentives have been deployed to the ARB++ strategy vault \n\nTVL cap was reached at 250,000 ARB \n\nTrading epoch 02 concludes July 05",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 5000,
+        "disclosures": "n/a",
+        "arbRemaining": 83333,
+        "contractsIncentivized": [
+          {
+            "contractId": "b907d5c3-aefc-40b3-916c-0b85b4716292",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Epoch 02: \nARB++ deposits start June 25th \nTrading starts June 28th \nTrading ends July 05\n\nIncentives will be deployed in the June 25-28 deposit period and withdrawable with deposits at the end of the trading epoch. Funds deposited as ARB remain as ARB being utilized strictly for collateral within the ecosystem. Based on the strategic use of collateral, D2 will engage in further volatility and momentum strategies ontop. This ensures the strategy maintains exposure to ARB, reduces downside volatility, and offers risk-adjusted returns onto. All pnl and incentives will be as ARB at the end of the epoch, effectively simulating single-sided staking type payoff and growth in ARB token volume.\n",
+        "expectations": "Epoch 02: \nARB++ deposits start June 25th \nTrading starts June 28th \nTrading ends July 05\n\nIncentives will be deployed in the June 25-28 deposit period and withdrawable with deposits at the end of the trading epoch. Funds deposited as ARB remain as ARB being utilized strictly for collateral within the ecosystem. Based on the strategic use of collateral, D2 will engage in further volatility and momentum strategies ontop. This ensures the strategy maintains exposure to ARB, reduces downside volatility, and offers risk-adjusted returns onto. All pnl and incentives will be as ARB at the end of the epoch, effectively simulating single-sided staking type payoff and growth in ARB token volume.\n\n",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "30e683cb-d402-41a3-9f72-39fd73571e9c",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "5000 ARB was distributed to the ARB++ strategy \n\nARB++ TVL reach the cap at 250k ARB \n\nEpoch 2 returned 136% APR, trading from June 28 to July 05 \n\n",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "-",
+        "arbRemaining": 83333,
+        "contractsIncentivized": [
+          {
+            "contractId": "fed9bbcf-e552-415b-a547-3eedba6b0cb5",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "5000 ARB to be deployed as collateral and LP incentives to the ARB++ strategy vault \n\nTrading epoch 3 will follow conclusion of epoch 2 July 05, exact date or restart to be announced ",
+        "arbToBeDistributed": 16667,
+        "contractsIncentivized": [
+          {
+            "contractId": "4bde3e38-ae16-4ac9-bc76-ab9a02e8b31e",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "We have retained 100% capacity for our ARB++ strategy throughout the program thus far",
+        "avgDailyTVL": 400000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Our ARB++ strategy has demonstrated excellent performance through the End of July returning an annualized 99% in the last epoch (epoch4) \n\nWith strong demand we expect to raise caps towards 750k ARB capacity next epoch marking a 3x in growth (limited by our self imposed caps) \n\nCreation of a ARB covered call product within our architecture will help scale options liquidity and provide another alternative for users to deposit and earn with their ARB",
+        "incentives": "",
+        "arbReceived": 10000,
+        "arbUtilized": 10000,
+        "disclosures": "-",
+        "arbRemaining": 73333,
+        "contractsIncentivized": [
+          {
+            "contractId": "fed9bbcf-e552-415b-a547-3eedba6b0cb5",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "Another short trading epoch as we finalize the integrations with Silo and Pendle and upgrade to GMX v2.1 \n\nTrading epoch from July 20 to July 26 \n\nEstimated ~2500-5000 ARB incentives \n\ndgnARB strategy launched utilizing ARB++ as a base https://medium.com/@D2.Finance/dgnarb-is-the-one-eyed-man-king-in-the-land-of-the-blind-adfd49b96a64, dgn ETH uses ARB as a strategic asset maintaining an average delta between 20% and 60% of ETH. By leveraging ARB++, dgnARB aims to provide significantly higher exposure to ARB, with delta exposures ranging from 100% to 200%. For example, it can be long 200% ARB while short 100% notional of a basket of other ghost chains.",
+        "arbToBeDistributed": 2500,
+        "contractsIncentivized": [
+          {
+            "contractId": "fed9bbcf-e552-415b-a547-3eedba6b0cb5",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "100% retention rate in our strategies throughout the program and 170% APR performance since inception ",
+        "avgDailyTVL": 400000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "-",
+        "incentives": "",
+        "arbReceived": 5000,
+        "arbUtilized": 5000,
+        "disclosures": "-",
+        "arbRemaining": 68333,
+        "contractsIncentivized": [
+          {
+            "contractId": "fed9bbcf-e552-415b-a547-3eedba6b0cb5",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Creation of an ARB covered call product to expand ARB utility ",
+        "expectations": "maintain current strategy mandates and capacity",
+        "arbToBeDistributed": 5000,
+        "contractsIncentivized": [
+          {
+            "contractId": "fed9bbcf-e552-415b-a547-3eedba6b0cb5",
+            "contractLabel": "ARB++",
+            "contractAddress": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "no trading during this period ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "-",
+        "arbRemaining": 68333,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "-",
+        "expectations": "no trading during this period ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 100000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "D2 Finance ",
+  "grantSummary": "https://forum.arbitrum.foundation/t/d2-finance-ltipp-application-draft-final/21826/28",
+  "fundingAddress": "0xe7eb925300075E49fc5CAaD5d408A50Dd22f92D6",
+  "editorAddresses": [],
+  "matchingGrantSize": 100000,
+  "metricsDashboardLink": "See D2 Submission of Queries to Openblock LTIPP platform  ",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6f1e46C80b8e1C528B05801a5668C01D9f99d258"
+}

@@ -1,0 +1,668 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "vesting period is too long.",
+        "avgDailyTVL": 3228498,
+        "avgDailyTXNS": 119,
+        "avgDailyUniqueUsers": 17
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Provide liquidity into incentivized liquidity pools. Stake the liquidity pool's token into staking contracts to earn escrow ARB rewards, then vest the escrow ARB tokens in a vester contract that requires you to lock some liquidity in the pool of the vesting contract to be able to vest the escrow ARB tokens into ARB tokens over 180 days.",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 50000,
+        "disclosures": "Pool reward escrow tokens that vest into ARB tokens over 180 days",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "escrow tokens will vest into arbitrum tokens over 180 days",
+        "expectations": "liquidity in incentivized pools will increase",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "added two more pools with a much shorter vesting period of 30 days instead of 180 days",
+        "lessons": "the longer the vesting period the more people discount the value of the rewards, therefore the high yields from rewards are discounted as lower yields for the pools where the vesting period is 180 days.",
+        "avgDailyTVL": 3654097,
+        "avgDailyTXNS": 93,
+        "avgDailyUniqueUsers": 17
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Provide liquidity into incentivized liquidity pools. Stake the liquidity pool's token into staking contracts to earn escrow ARB rewards, then vest the escrow ARB tokens in a vester contract that requires you to lock some liquidity in the pool of the vesting contract to be able to vest the escrow ARB tokens into ARB tokens. Vesting happens within 30 days for some pools and 180 days for other pools",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "We're rewarding two more pools WEETH/PT-EZETH and WEETH/PT-WEETH that have a vesting period of 30 days",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "liquidity increases in incentivized pools",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "liquidity did increase in the faster vesting pools, although they were also less risky while earning a yield from Pendle tokens and points program from etherfi and gammaswap.",
+        "avgDailyTVL": 3282974,
+        "avgDailyTXNS": 104,
+        "avgDailyUniqueUsers": 17
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Provide liquidity into incentivized liquidity pools. Stake the liquidity pool's token into staking contracts to earn escrow ARB rewards, then vest the escrow ARB tokens in a vester contract that requires you to lock some liquidity in the pool of the vesting contract to be able to vest the escrow ARB tokens into ARB tokens. Vesting happens within 30 days for some pools and 180 days for other pools",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "vesting period of PT pools is 30 days, compared to 180 days in other pools.",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "liquidity will increase in the faster vesting pools relative to the longer vesting period pools.",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "none",
+        "avgDailyTVL": 3232608,
+        "avgDailyTXNS": 99,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Provide liquidity into incentivized liquidity pools. Stake the liquidity pool's token into staking contracts to earn escrow ARB rewards, then vest the escrow ARB tokens in a vester contract that requires you to lock some liquidity in the pool of the vesting contract to be able to vest the escrow ARB tokens into ARB tokens. Vesting happens within 30 days for some pools and 180 days for other pools",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "\nPool reward escrow tokens that vest into ARB tokens over 180 days. The PT pools have vester contracts that vest tokens in 30 days",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "liquidity to maintain the same",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "liquidity has usually dropped when prices go up or down by users trying to avoid impermanent loss but they come back when prices stabilize. The recent decline in TVL was from the sharp drop in the price of ETH",
+        "avgDailyTVL": 2899357,
+        "avgDailyTXNS": 107,
+        "avgDailyUniqueUsers": 16
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Provide liquidity into incentivized liquidity pools. Stake the liquidity pool's token into staking contracts to earn escrow ARB rewards, then vest the escrow ARB tokens in a vester contract that requires you to lock some liquidity in the pool of the vesting contract to be able to vest the escrow ARB tokens into ARB tokens. Vesting happens within 30 days for some pools and 180 days for other pools",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "Pool reward escrow tokens that vest into ARB tokens over 180 days. PT pools have vester contracts that vest in 30 days.",
+        "arbRemaining": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "liquidity stays the same",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "we lowered the vesting period to 30 days for all pools",
+        "lessons": "there was a slight liquidity increase despite the lower market prices, since people need to deposit to be able to vest. The increase was lower than expected since the reserve requirements are lower now for most users. The reserve requirements start high and decrease over time. Therefore, this would've been more effective had it been done from the start.",
+        "avgDailyTVL": 2801090,
+        "avgDailyTXNS": 98,
+        "avgDailyUniqueUsers": 14
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Provide liquidity into incentivized liquidity pools. Stake the liquidity pool's token into staking contracts to earn escrow ARB rewards, then vest the escrow ARB tokens in a vester contract that requires you to lock some liquidity in the pool of the vesting contract to be able to vest the escrow ARB tokens into ARB tokens. Vesting happens within 30 days for some pools and 180 days for other pools",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "Pool reward escrow tokens that vest into ARB tokens over 30 days.",
+        "arbRemaining": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Going to drop the vesting period for all other pools so that the vesting period in all vester contracts will now be 30 days. Currently non PT pools had vester contracts that vester in 180 days.",
+        "expectations": "After lowering the vesting period, liquidity will increase for the remaining of the rewards program",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The escrow rewards ended, all escrow arbitrum tokens were paid out on August 30th",
+        "lessons": "The average daily active user and average daily transaction count decreased about 20% in the period after the rewards program ended. The decrease is not larger because users still have to stake liquidity to vest the escrow tokens into Arbitrum tokens. This will happen over the next 30 days.",
+        "avgDailyTVL": 2597463,
+        "avgDailyTXNS": 23,
+        "avgDailyUniqueUsers": 177
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Deposit liquidity into one of the LP pools above then stake the LP token into one of the staking contracts to receive esARB tokens. Then leave your staked amount in the staking contract and vest whatever amount of esARB you receive into a vesting contract to convert esARB into ARB over 30 days.",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "Users receive esARB tokens, which are escrow tokens that vest into ARB tokens over a period of 30 days. You need to reserve LP tokens in the staking contracts to be able to vest the esARB tokens.",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Our TGE happens in this period and our points program ends in this period too.",
+        "expectations": "Some liquidity might drop as the points program ends and people might withdraw funds to purchase our token.",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "29595eda-3c30-48b0-8763-ce54ea4119a7",
+            "contractLabel": "WEETH/USDC",
+            "contractAddress": "0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
+          },
+          {
+            "contractId": "8c0f031f-9ebd-4be7-8418-f607e552e77a",
+            "contractLabel": "WBTC/WEETH",
+            "contractAddress": "0x0817596ee3a3a11c892eaa0989e9e6f7a22c1fed"
+          },
+          {
+            "contractId": "a9a528a4-4d62-48a7-baeb-00692460dc7b",
+            "contractLabel": "WETH/USDC",
+            "contractAddress": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d"
+          },
+          {
+            "contractId": "0e0f89a4-9007-4463-ae46-e4c9f7627f6e",
+            "contractLabel": "Pendle/USDC",
+            "contractAddress": "0xd7cfe0e2dd5773249442b055834207bc52849b1d"
+          },
+          {
+            "contractId": "9a1a0b2f-7d44-49fe-9f36-602d06cb76f0",
+            "contractLabel": "WEETH/PT-WEETH",
+            "contractAddress": "0x3018829a446de49aca6ca631fdaa67bac02d8dcd"
+          },
+          {
+            "contractId": "3f49efdb-66bc-417d-9483-6b0f3fcee604",
+            "contractLabel": "WEETH/PT-EZETH",
+            "contractAddress": "0x6b6c748cfc3bb6b22ffcb2e9004ae51fd802b075"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 300000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "GammaSwap",
+  "grantSummary": "",
+  "fundingAddress": "0x34B5870C0431158e11c68B770127FBd2cE953f7a",
+  "editorAddresses": [],
+  "matchingGrantSize": 300000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/GammaSwap",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x34B5870C0431158e11c68B770127FBd2cE953f7a"
+}

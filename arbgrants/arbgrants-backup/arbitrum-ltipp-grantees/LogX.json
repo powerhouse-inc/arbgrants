@@ -1,0 +1,362 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No Change.",
+        "lessons": "NA.",
+        "avgDailyTVL": 72229998,
+        "avgDailyTXNS": 4542,
+        "avgDailyUniqueUsers": 2130
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We've launched the LogX $ARB incentives program, achieving an impressive average trading volume of over $70M within just 7 days on the Arbitrum network. \nWe introduced the LogX Arbitrum Trading Rush and $ARB fee rebates campaign to incentivize participation on the LogX Arbitrum Network. Additionally, more than 500 participants have tweeted about receiving rebates for depositing funds into their LogX accounts on Arbitrum.",
+        "incentives": "",
+        "arbReceived": 65834,
+        "arbUtilized": 18257,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL is not the correct representation of the DEX's performance. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 395000,
+        "contractsIncentivized": [
+          {
+            "contractId": "a25c1e90-ff03-4e5d-b616-a656757de5e7",
+            "contractLabel": "LogX Grant",
+            "contractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "There have been some minor changes made to the original proposal to utilize the $ARB grants more effectively. Currently, we are incentivizing users through the following methods:\n\n1. A trading competition worth $15,000 $ARB, based solely on trading volume.\n2. $ARB rebates for trading fees worth 5,000 $ARB, available to the first 125 traders. These rebates are distributed weekly on a first-come, first-served basis to all users who tweet about depositing funds on Arbitrum network and verify their transaction. The aim is to reach CEX traders\nBoth of these events are held on a weekly basis.\n\nCurrently, we are not using $ARB for referral and affiliate incentives.\nHere's the link of announcement for the same: https://x.com/LogX_trade/status/1800543792988344792",
+        "expectations": "LogX has announced two exciting initiatives on the Arbitrum network: the Arbitrum Trading Rush and a fee rebate campaign. These campaigns aim to incentivize participation on the LogX Arbitrum network by offering rewards from the LogX LTIPP Grant. Our goal is to attract perpetual traders from CEX, other ecosystems, encourage new users to try out LogX on Arbitrum, and drive significant trading volumes.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "21546a35-2c75-423f-accc-94d854abe2bb",
+            "contractLabel": "LOGX Grant",
+            "contractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We also incentivised our affiliate partners with $ARB tokens to help promote the campaign and bring in a new number of traders",
+        "lessons": "1. We've realized that we can significantly improve the distribution of the $ARB campaign to new audiences.\n2. Rebates incentivize traders to actively trade throughout the entire week.",
+        "avgDailyTVL": 60905092,
+        "avgDailyTXNS": 4762,
+        "avgDailyUniqueUsers": 1697
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We ran three campaigns with the $ARB Grants:\n\n1. Arbitrum Trading Rush Leaderboard: As part of this leaderboard, $15,000 in $ARB tokens and 30,000 $LOGX tokens were distributed to traders.\n\n2. $ARB Trading Fees Rebates: 125 traders received up to 40 $ARB tokens weekly as part of the trading fees rebate program, which is offered on a first-come, first-served basis.\n\n3. We also awarded 5,495 $ARB tokens to our affiliates based on the trading volume they generated on the LogX Platform.",
+        "incentives": "",
+        "arbReceived": 65834,
+        "arbUtilized": 41820,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL does not represent the DEX's performance correctly. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 329166,
+        "contractsIncentivized": [
+          {
+            "contractId": "c10a5a16-d79f-4c46-a7e7-b3ed6f0aa2b6",
+            "contractLabel": "LogX Grant",
+            "contractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No Change.",
+        "expectations": "Increase in Trading Volume, Acquisition of new users from CEX and retention of existing users.",
+        "arbToBeDistributed": 20000,
+        "contractsIncentivized": [
+          {
+            "contractId": "5e2f4c0e-df96-43ab-8a9f-e6ceb42332ce",
+            "contractLabel": "LOGX Grant",
+            "contractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We added that the top trader on the leaderboard gets 300 $ARB & 500 $LOGX tokens daily",
+        "lessons": "The program needs to keep introducing newer elements so that it remains interesting or else it can become monotonous pretty quick",
+        "avgDailyTVL": 6090509248,
+        "avgDailyTXNS": 5014,
+        "avgDailyUniqueUsers": 1697333333
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We ran 3 campaigns with the $ARB Grants \n\n1. Arbitrum Trading Rush Leaderboard: As part of this leaderboard, $15,000 $ARB tokens and 30,000 $LOGX tokens were given out to traders\n\n2. $ARB Trading fees rebates: 125 Traders received up to 40 $ARB tokens weekly as part of the trading fees rebate program. The program is on a first come first serve basis\n\n3. We also gave out 5495 $ARB tokens to our affiliates based on the amount of trading volume they brought in to LogX Platform",
+        "incentives": "",
+        "arbReceived": 65834,
+        "arbUtilized": 35330,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL is not the correct representation of the DEX's performance. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 263332,
+        "contractsIncentivized": [
+          {
+            "contractId": "63dd187d-b58f-46f1-a094-3154e5538548",
+            "contractLabel": "LogX Grant",
+            "contractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We have added incentivising our affiliate partners on a custom based deal basis the amount of new traders that come and trade. This will bring us new traders",
+        "expectations": "We expect that with our current program and addition of incentives for our affiliate program we will be able to  \n\n1. Increase in volume done on LogX\n2. Addition of new traders trading on LogX from Centralised Exchanges",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "c61e1e4e-f035-4909-ba64-89302d68442c",
+            "contractLabel": "LOGX GRANT",
+            "contractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "1. Increase in rewards from 15,000 to 25,000 $ARB weekly for the leaderboard.\n2. LogX Affiliate network was incentivised with $ARB tokens to bring in traction to LogX. 75227 $ARB tokens were given to 15+ large KOLs and affiliate partners to drive volume and users to LogX\n3. Daily bonus on the leaderboard was introduced and the amount of tokens were increased to 500 $ARB and 500 $LOGX tokens to the top trader on a daily basis",
+        "lessons": "We learned that distribution is important and that is why we leveraged our large community of affiliates and KOLs to bring in more traction to the leaderboard. ",
+        "avgDailyTVL": 47990242,
+        "avgDailyTXNS": 6234,
+        "avgDailyUniqueUsers": 1276
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We ran 3 campaigns with the $ARB Grants 1. Arbitrum Trading Rush Leaderboard: As part of this leaderboard, $25,000 $ARB tokens and 30,000 $LOGX tokens were given out to traders 2. $ARB Trading fees rebates: 125 Traders received up to 40 $ARB tokens weekly as part of the trading fees rebate program. The program is on a first come first serve basis 3. We gave out massive rewards to affiliates for bringing in trading volume and new users through to LogX",
+        "incentives": "",
+        "arbReceived": 65834,
+        "arbUtilized": 125253,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL is not the correct representation of the DEX's performance. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 131664,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "1. Increase in rewards from 15,000 to 25,000 $ARB weekly for leaderboard\n2. Increase in rewards to affiliates for bringing in new traction to LogX. ",
+        "expectations": "Increase in trading volume, Acquiring new users from CEX, and retaining existing users.",
+        "arbToBeDistributed": 125000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "1. Increase in rewards from 15,000 to 25,000 $ARB weekly for leaderboard 2. Increase in rewards to affiliates for bringing in new traction to LogX.",
+        "lessons": "Need more rewards to attract users for trading competitions",
+        "avgDailyTVL": 25681082,
+        "avgDailyTXNS": 6567,
+        "avgDailyUniqueUsers": 1171
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We ran 3 campaigns with the $ARB Grants 1. Arbitrum Trading Rush Leaderboard: As part of this leaderboard, $25,000 $ARB tokens and 30,000 $LOGX tokens were given out to traders 2. $ARB Trading fees rebates: 125 Traders received up to 40 $ARB tokens weekly as part of the trading fees rebate program. The program is on a first come first serve basis 3. We gave out massive rewards to affiliates for bringing in trading volume and new users through to LogX",
+        "incentives": "",
+        "arbReceived": 65834,
+        "arbUtilized": 29406,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL is not the correct representation of the DEX's performance. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "1. Increase in rewards from 15,000 to 25,000 $ARB weekly for the leaderboard. 2. LogX Affiliate network was incentivised with $ARB tokens to bring in traction to LogX 3. Daily bonus on the leaderboard was introduced and the amount of tokens were increased to 500 $ARB and 500 $LOGX tokens to the top trader on a daily basis",
+        "expectations": "We learned that distribution is important and that is why we leveraged our large community of affiliates and KOLs to bring in more traction to the leaderboard.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "1. Launched a massive 100k $ARB and 60,000 $LOGX Token 3 weeks leaderboard on the Arbitrum network with 3 snapshots",
+        "lessons": "More rewards have led to more participation in the network",
+        "avgDailyTVL": 27303187,
+        "avgDailyTXNS": 6689,
+        "avgDailyUniqueUsers": 1023
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We ran a massive 100k $ARB reward campaign with the $ARB Grants 1. Arbitrum Trading Rush Leaderboard: As part of this leaderboard, $100,000 $ARB tokens and 60,000 $LOGX tokens were given out to traders. The leaderboard also incentivised trading daily  2. $ARB Trading fees rebates: 125 Traders received up to 40 $ARB tokens weekly as part of the trading fees rebate program. The program is on a first come first serve basis ",
+        "incentives": "",
+        "arbReceived": 65830,
+        "arbUtilized": 2489,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL does not represent the DEX's performance correctly. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Launched the biggest leaderboard with $ARB incentives. 100k $ARB leaderboard for 3 weeks with snapshots ",
+        "expectations": "Massive rewards on the leaderboard should bring in more volume on the Arbitum Network and more users to trade",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "1. Launched a massive 100k $ARB and 60,000 $LOGX Token 3 weeks leaderboard on the Arbitrum network with 3 snapshots 2. Gave rewards to affiliates for bringing in volumes to LogX",
+        "lessons": "More rewards have led to more participation in the network",
+        "avgDailyTVL": 5661539,
+        "avgDailyTXNS": 6712,
+        "avgDailyUniqueUsers": 335
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We ran a massive 100k $ARB reward campaign with the $ARB Grants 1. Arbitrum Trading Rush Leaderboard: As part of this leaderboard, $100,000 $ARB tokens and 60,000 $LOGX tokens were given out to traders. The leaderboard also incentivised trading daily 2. $ARB Trading fees rebates: 125 Traders received up to 40 $ARB tokens weekly as part of the trading fees rebate program. The program is on a first come first serve basis 3. Massive rewards to affiliates for bringing in volume to LogX ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 142445,
+        "disclosures": "LogX is an orderbook perpetual DEX that is live on the Arbitrum network. In an orderbook model, TVL does not represent the DEX's performance correctly. Instead, the right metric to track performance is the total trading volume on the LogX Arbitrum network. We have shared trading volume metrics in the \"Finalize\" section under the Average Daily TVL field.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "1. Launched a massive 100k $ARB and 60,000 $LOGX Token 3 weeks leaderboard on the Arbitrum network with 3 snapshots",
+        "expectations": "Massive rewards on the leaderboard should bring in more volume on the Arbitum Network and more users to trade",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ]
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "1. Launched a massive 100k $ARB and 60,000 $LOGX Token 3 weeks leaderboard on the Arbitrum network with 3 snapshots 2. Gave massive rewards to affiliates for bringing in volumes for LogX",
+        "expectations": "The 100k leaderboard should bring in more volumes on the Arbitrum Network",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 395000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "LogX",
+  "grantSummary": "",
+  "fundingAddress": "0xA57146ff13671f730D0D122ed192550A3B235fD7",
+  "editorAddresses": [],
+  "matchingGrantSize": 395000,
+  "metricsDashboardLink": "https://dune.com/logx/logx-pro/c993dc04-216e-466e-ba21-207bba8eed8e",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x8195d31CaA07E6C31C1b84C5997bBE958F2B01aF"
+}

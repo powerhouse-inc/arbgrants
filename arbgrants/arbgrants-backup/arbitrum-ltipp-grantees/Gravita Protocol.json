@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "na",
+        "lessons": "na",
+        "avgDailyTVL": 9600000,
+        "avgDailyTXNS": 84,
+        "avgDailyUniqueUsers": 156
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Amount of ARB to be distributed: Closer to 120k goARB\n\nContracts that will be incentivized: Similar to current\n\nMechanism for distribution incentives: Liquidity mining\n\nSummary of incentives plan: As described in application\n\nSummary of changes to the original plan: N/A\n\n",
+        "incentives": "",
+        "arbReceived": 53334,
+        "arbUtilized": 73800,
+        "disclosures": "we disbursed a higher amount of goARB than we received in ARB. This is because a percentage of users is not currently interacting with our UI to claim ARB.",
+        "arbRemaining": 320000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Continue incentivising the pools, move to TVL based incentives in 2 more weeks.",
+        "expectations": "Growth of the GRAI LPed, new integrations",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "na",
+        "lessons": "na",
+        "avgDailyTVL": 8600000,
+        "avgDailyTXNS": 61,
+        "avgDailyUniqueUsers": 98
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "goARB Dashboard: https://dune.com/gravita/goarb-dashboard",
+        "incentives": "",
+        "arbReceived": 53334,
+        "arbUtilized": 73800,
+        "disclosures": "we disbursed a higher amount of goARB than we received in ARB. This is because a percentage of users is not currently interacting with our UI to claim ARB.",
+        "arbRemaining": 213332,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "we disbursed a higher amount of goARB than we received in ARB. This is because a percentage of users is not currently interacting with our UI to claim ARB.",
+        "expectations": "Continue incentivising the pools, move to TVL based incentives",
+        "arbToBeDistributed": 73800,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "na",
+        "lessons": "na",
+        "avgDailyTVL": 650000,
+        "avgDailyTXNS": 69,
+        "avgDailyUniqueUsers": 134
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "goARB Dashboard: https://dune.com/gravita/goarb-dashboard",
+        "incentives": "",
+        "arbReceived": 53334,
+        "arbUtilized": 73800,
+        "disclosures": ": we disbursed a higher amount of goARB than we received in ARB. This is because a percentage of users is not currently interacting with our UI to claim ARB.",
+        "arbRemaining": 139532,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Continue incentivising the pools with a focus on Dolomite",
+        "expectations": "we disbursed a higher amount of goARB than we received in ARB. This is because a percentage of users is not currently interacting with our UI to claim ARB.",
+        "arbToBeDistributed": 73800,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "na",
+        "lessons": "Lending is much more effective than DeFi / LP",
+        "avgDailyTVL": 595000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 134
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "goARB Dashboard: https://dune.com/gravita/goarb-dashboard",
+        "incentives": "",
+        "arbReceived": 53800,
+        "arbUtilized": 53800,
+        "disclosures": "Additional Info / Disclosures to Multisig: we disbursed a higher amount of goARB than we received in ARB. This is because a percentage of users is not currently interacting with our UI to claim ARB.",
+        "arbRemaining": 106198,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Continue incentivising the pools with a focus on Dolomite\n\nSummary of incentives: GRAI pools on Ramses. GRAI lending on Dolomite. GRAI / alUSD on Bunni.",
+        "expectations": "as described in application",
+        "arbToBeDistributed": 53800,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Na",
+        "lessons": "Our protocol works best in low interest rates environments, we will adapt it to make it more appealing",
+        "avgDailyTVL": 4000000,
+        "avgDailyTXNS": 111,
+        "avgDailyUniqueUsers": 32
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives are now being used extremely effectively",
+        "incentives": "",
+        "arbReceived": 53334,
+        "arbUtilized": 53334,
+        "disclosures": "We are now disboursing an amount of goARB closer to the one recevied of ARB, but we still expect to have leftover ARB at the end of the campaign in the goARB contract",
+        "arbRemaining": 106198,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Almost exclusive focus on volatile pairs (GRAI / ETH) and Lending protocols",
+        "expectations": "A much higher efficiency for incentives with the volume coming from volatile pairs being of incentive for the stable ones",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "NA",
+        "lessons": "Incentives are not sufficient to fix a \"broken\" product but are a great tool to amplify the growth and success of existing successful models. We will fix the product and reapply for incentives on a positive and growing traction",
+        "avgDailyTVL": 4000000,
+        "avgDailyTXNS": 212,
+        "avgDailyUniqueUsers": 312
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 52864,
+        "arbUtilized": 0,
+        "disclosures": "NA",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Very heavy focus on Dolomite and ETH/GRAI LPs, which drive good volume and APR to the other stable pools",
+        "expectations": "Winding down of strong incentives might result in sell pressure for GRAI, which we hope to offset with the upcoming launch of our governance token",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Only Dolomite and Ramses - trend of shrinking GRAI supply remains the same",
+        "lessons": "We need a better CDP model -> will come with friendly forks of Liquity v2 under BSL",
+        "avgDailyTVL": 3320000,
+        "avgDailyTXNS": 102,
+        "avgDailyUniqueUsers": 48
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Overall a success in terms of expanding userbase. Will be beneficial as Gravita continues to expand it's Liquity friendliness",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "More goARB in circulation than ARB received -> some users are not redeeming. This will continue to be monitored - in case some ARB is still left in the contract in a few weeks, we might mint more goARB",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We just disbursed on Dolomite, as well as recaptured goARB on Ramses",
+        "expectations": "The incentives are ending. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 320000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Gravita Protocol",
+  "grantSummary": "",
+  "fundingAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5",
+  "editorAddresses": [],
+  "matchingGrantSize": 320000,
+  "metricsDashboardLink": "https://dune.com/gravita/goarb-dashboard",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xfB0214D7Ac08ed0D2D9cA920EA6D4f4be2654EA5"
+}

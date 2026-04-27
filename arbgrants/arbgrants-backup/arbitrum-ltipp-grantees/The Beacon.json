@@ -1,0 +1,358 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "As not all users from the event interacted directly with arbitrum, this do not show the full scope of users.\nWe had 40,195 dau and 381,504 total users",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 603,
+        "avgDailyUniqueUsers": 173
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Start of the event, users will received an NFT that will be claimable for ARB in the next steps",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes, we plan on distributing rewards after our New Frontiers Quest",
+        "expectations": "Start of our New Frontiers Quest",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "We hugely understimated the amount of users interested in this iniciatives and events",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 2298,
+        "avgDailyUniqueUsers": 617
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Huge surge in new users, allready achieving our 3 month milestones",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Continue with our event, intrucing new users to the platform and The Beacon",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "There is a lot of bots and multi-accounts in these events, we are making sure to not reward this accounts",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 420,
+        "avgDailyUniqueUsers": 100
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "First phase of the event is over, we are making sure that the rewards will only be distributed to real players and not bots or multi-accounts",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosure",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Close our first phase of the event, review the rewards to be distributed and detect bots and multiaccounts to remove them from the list",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "No lessons this weeks",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 122,
+        "avgDailyUniqueUsers": 32
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Planning for next phases and organizing rewards delivery",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Not much to expect this weeks, planning for our event next phases and determine how rewards will be delivered",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Distribution planned to start on OCT-16th",
+        "lessons": "No lessons",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 108,
+        "avgDailyUniqueUsers": 34
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Claimed our first batch of ARB, planning on distribution",
+        "incentives": "",
+        "arbReceived": 166670,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 33330,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Start claiming LTIPP ARB funds",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes",
+        "lessons": "No lessons",
+        "avgDailyTVL": 1,
+        "avgDailyTXNS": 2595886667,
+        "avgDailyUniqueUsers": 75
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distrute first batch of ARB rewards",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 120740,
+        "disclosures": "No disclosures",
+        "arbRemaining": 33330,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          },
+          {
+            "contractId": "8544964b-d9b5-490a-8620-b84ae45d9e03",
+            "contractLabel": "LTIPP Reward distribution",
+            "contractAddress": "0xAFC62767C500dFb9ae34bea96e4184126Afc012d"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "ARB rewards will be distributed from a different wallet as previously stated",
+        "expectations": "Distribute first batch of ARB rewards",
+        "arbToBeDistributed": 120740,
+        "contractsIncentivized": [
+          {
+            "contractId": "ae70ec7c-c9de-4f11-a3d9-2474ccf172f2",
+            "contractLabel": "The Beacon SAFE",
+            "contractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+          },
+          {
+            "contractId": "8544964b-d9b5-490a-8620-b84ae45d9e03",
+            "contractLabel": "LTIPP Reward distribution",
+            "contractAddress": "0xAFC62767C500dFb9ae34bea96e4184126Afc012d"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Planning Phase 2",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures",
+        "arbRemaining": 33330,
+        "contractsIncentivized": [
+          {
+            "contractId": "8544964b-d9b5-490a-8620-b84ae45d9e03",
+            "contractLabel": "LTIPP Reward distribution",
+            "contractAddress": "0xAFC62767C500dFb9ae34bea96e4184126Afc012d"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Planning for phase 2 of our Writ of Passage event",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "8544964b-d9b5-490a-8620-b84ae45d9e03",
+            "contractLabel": "LTIPP Reward distribution",
+            "contractAddress": "0xAFC62767C500dFb9ae34bea96e4184126Afc012d"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 200000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "The Beacon",
+  "grantSummary": "",
+  "fundingAddress": "0x990eB28e378659b93A29D46fF41F08DC6316DD98",
+  "editorAddresses": [],
+  "matchingGrantSize": 200000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xfa2EBd5aE6fdA003376555165ffF683e87D1CcB1"
+}

@@ -1,0 +1,403 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "From June 11th to June 16th, it is the first week of incentive distribution for Cian. Cian has not integrated timeswap and silo yet. The incentive for the first week is 12820 ARB (calculated as 250000/6*0.8/13*5), and it will only be allocated to the Aave wsteth leveragestaking vault (80%). ",
+        "lessons": "Just started a week ago and haven't learned much yet",
+        "avgDailyTVL": 4042156,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "From June 11th to June 16th, it is the first week of incentive distribution for Cian. Cian has not integrated timeswap and silo yet. The incentive for the first week is 12820 ARB (calculated as 250000/6*0.8/13*5), and it will only be allocated to the Aave wsteth leveragestaking vault (80%). The remaining 20% in ARB will be returned to the Arbitrum Foundation as required.",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 12820,
+        "disclosures": "No disclosures",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "cbe7abf4-35eb-4b6f-bd37-30454f629b01",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Time swap and Silo integration has not been implemented yet(The popularity of leverage restaking will lead us to allocate incentives towards leverage restaking  vault in the future), so the first phase of incentives is limited to the AAVE wsteth leverage vault,unused portions will be returned to the arbitrum foundation upon request.",
+        "expectations": "With the popularity of leverage restaking, the leverage staking strategy has faced significant challenges in terms of yield. We hope to maintain the TVL of the leverage staking vault with incentives and guide users towards the new leverage restaking vault in the future.",
+        "arbToBeDistributed": 12820,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No change",
+        "lessons": "With the launch of weETH leverage restaking vault, the TVL of the weETH leverage restaking vault is increasing, and the number of new users is also on the rise. Moreover, the daily average new user count for the leverage restaking vault has surpassed that of the leverage staking vault, which is a positive signal of growth and development for the restaking vault.",
+        "avgDailyTVL": 4937394,
+        "avgDailyTXNS": 125,
+        "avgDailyUniqueUsers": 106
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "wstETH leverage staking vault incentive 38845 ARB\nweETH leverage rstaking vault incentive 3000 ARB",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 41845,
+        "disclosures": "Due to the AAVE weETH supply cap being reached and EtherFi Season 2 coming to end, with EtherFi Season 3 starting on July 1st, the rewards will be halved. Cian will reserve a portion of the ARB rewards to begin incentivizing again on July 1st to offset the decrease in APY caused by the halving of rewards in EtherFi Season 3.\n",
+        "arbRemaining": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "a2be203d-eb24-4505-b36b-f2cebf0c3b4a",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Cian weETH leverage restaking vault went live on June 21st. An incentive for weETH leverage restaking vault has been added.The original plan was to allocate 75% of the total incentives to the weETH leverage restaking vault, with 20% allocated to wstETH leverage staking vault. However, due to the Aave weETH supply cap being reached temporarily and the EtherFi Season 2 airdrop snapshot ending on June 30th, the TVL (Total Value Locked) of the weETH leverage restaking vault is still relatively small. Allocating 75% of the incentives would result in a high APY for the vault. Therefore, there will be a flexible adjustment in the incentive distribution between the leverage restaking and leverage staking vaults, while keeping the total incentives unchanged.\n",
+        "expectations": "Flexible adjustment of incentives to achieve growth in both user numbers and TVL",
+        "arbToBeDistributed": 39583,
+        "contractsIncentivized": [
+          {
+            "contractId": "2b2cbf71-38ac-4f49-a902-4b9109c83829",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The combined daily average TVL of the two vaults is 6,080,626, showing a 23% increase compared to the previous period.\n",
+        "lessons": "As expected, there is rapid growth in the TVL of the weETH Vault, while the TVL of the wstETH Vault remains stable.",
+        "avgDailyTVL": 6080626,
+        "avgDailyTXNS": 127,
+        "avgDailyUniqueUsers": 99
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "To avoid excessive incentives leading to an excessively high APY for the weETH Vault, the amount of ARB allocated for incentivizing the Weeth Vault is calculated to maintain the APY of the Weeth Vault at around 30%. The remaining portion is allocated for incentivizing the wstETH Vault.",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 42155,
+        "disclosures": "wstETH vault incentive 19655\nweETH vault incentive 22500\n",
+        "arbRemaining": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Timeswap has not been integrated yet.\n",
+        "expectations": "Restaking vault tvl reaches 1 million",
+        "arbToBeDistributed": 39583,
+        "contractsIncentivized": [
+          {
+            "contractId": "99358ea2-c90b-44e3-94b4-fe4cffb5e1e4",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "be3d8075-801f-4d36-a883-daa5baa8777b",
+            "contractLabel": "LP Incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The combined daily average TVL of the two vaults is 8621053, showing a 41.78% increase compared to the previous period.\n",
+        "lessons": "As expected, there is rapid growth in the TVL of the weETH Vault, while the TVL of the wstETH Vault remains stable",
+        "avgDailyTVL": 8164906,
+        "avgDailyTXNS": 8,
+        "avgDailyUniqueUsers": 6
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "To avoid excessive incentives leading to an excessively high APY for the weETH Vault, the amount of ARB allocated for incentivizing the Weeth Vault is calculated to maintain the APY of the Weeth Vault at around 20%. The remaining portion is allocated for incentivizing the wstETH Vault.",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 39470,
+        "disclosures": "wstETH vault incentive 7191\nweETH vault incentive 32279\n",
+        "arbRemaining": 85416,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Timeswap has not been integrated yet.\n",
+        "expectations": "Restaking vault tvl reaches 3 million",
+        "arbToBeDistributed": 39583,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The combined daily average TVL of the two vaults is 7939241, showing a -8.59% decrease compared to the previous period.",
+        "lessons": "The sharp decline in ETH market conditions has resulted in a decreased investment willingness from users towards LST and LRT.",
+        "avgDailyTVL": 7939240,
+        "avgDailyTXNS": 5,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "To avoid excessive incentives leading to an excessively high APY for the weETH Vault, the amount of ARB allocated for incentivizing the Weeth Vault is calculated to maintain the APY of the Weeth Vault at around 20%. The remaining portion is allocated for incentivizing the wstETH Vault.",
+        "incentives": "",
+        "arbReceived": 39583,
+        "arbUtilized": 0,
+        "disclosures": "wstETH vault incentive 10184\nweETH vault incentive 29400",
+        "arbRemaining": 43749,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Timeswap has not been integrated yet.\n",
+        "expectations": "Restaking vault tvl reaches 5 million",
+        "arbToBeDistributed": 39583,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The combined daily average TVL of the two vaults is 7939241, showing a 0.27% increase compared to the previous period.\n",
+        "lessons": "When the supply cap of weeth is reached on Aave, it limits the size of the weeth vault.",
+        "avgDailyTVL": 7939241,
+        "avgDailyTXNS": 4,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Due to the end of the LTIPP on September 2nd, we will halve the incentives tokens for this period, using the remaining half for the final week.",
+        "incentives": "",
+        "arbReceived": 41665,
+        "arbUtilized": 19791,
+        "disclosures": "wstETH vault incentive 5791\nweETH vault incentive 14000\n\n",
+        "arbRemaining": 2084,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Timeswap has not been integrated yet.\n",
+        "expectations": "estaking vault tvl reaches 5 million",
+        "arbToBeDistributed": 39583,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Use the remaining ARB from the previous bi-weekly period for this week.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 19792,
+        "disclosures": "19792",
+        "arbRemaining": 2084,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Timeswap has not been integrated yet.\n",
+        "expectations": "Restaking vault tvl reaches 5 million",
+        "arbToBeDistributed": 19792,
+        "contractsIncentivized": [
+          {
+            "contractId": "a247690b-db46-4e65-a8ec-02dd880b75e1",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x3e8f96165344F1324dB58E159f353504014e183d"
+          },
+          {
+            "contractId": "a2f602c9-fe48-4baf-96a1-1272bbfb10f2",
+            "contractLabel": "LP incentive",
+            "contractAddress": "0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 250000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "CIAN Protocol",
+  "grantSummary": "",
+  "fundingAddress": "0x3e8f96165344F1324dB58E159f353504014e183d, 0x53C8bF6875C66E8d7C42e30BeeF7e6241997F7e3",
+  "editorAddresses": [],
+  "matchingGrantSize": 250000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x2970A6AECADFb0e8F396DaD8c48E566AdE010e5B"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes applied during the first distribution period",
+        "lessons": "Available incentives are struggling to have an impact against broader market conditions",
+        "avgDailyTVL": 101933,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "First round of incentives distributed on Monday, June 17th based on bond market activity from Sunday, June 9th through Saturday, June 15th.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "None",
+        "arbRemaining": 120000,
+        "contractsIncentivized": [
+          {
+            "contractId": "58477023-409b-4b83-a51c-373255933db2",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x007F3eD580c754A9495881b066e9FC98e406c214"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We followed the distribution plans from our original proposal, distributing 10,000 $ARB tokens across two bond markets capped at 10% of their capacity. We are distributing incentives weekly (Mon) based on transactions from the previous week (Sun-Sat), with the first epoch distributed for June 9th - 15th.",
+        "expectations": "Market conditions are significantly worse than when we initially submitted our LTIPP proposal. As a result, protocols evaluating bond programs have taken a wait-and-see approach. Over the next biweekly period, we will gauge interest in new bond markets and strategize a new approach to pipeline.",
+        "arbToBeDistributed": 10000,
+        "contractsIncentivized": [
+          {
+            "contractId": "2fbebcb4-9d31-4666-8e8b-4137ffdc1d5a",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x007F3eD580c754A9495881b066e9FC98e406c214"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "Bond purchasers have adjusted to the expected incentives and are now reliably purchasing at a premium. The caps implemented at 10% of market volume resulted in fewer incentives distributed than available.",
+        "incentives": "",
+        "arbReceived": 20000,
+        "arbUtilized": 9785,
+        "disclosures": "Second round of incentives distributed 9,785 $ARB on Monday, June 24th for the period from Sunday, June 16th through Saturday, June 22nd.",
+        "arbRemaining": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "935266cb-8eaa-4c7c-986e-57b83cf1832f",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x007F3eD580c754A9495881b066e9FC98e406c214"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes implemented yet for the second disbursement phase.",
+        "expectations": "Based on the initial under-performance relative to expectations, we are evaluating a reduction in the incentives cap per market.",
+        "arbToBeDistributed": 20000,
+        "contractsIncentivized": [
+          {
+            "contractId": "164db4cb-da5e-4b85-a17e-4b5440ee3605",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x007F3eD580c754A9495881b066e9FC98e406c214"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 120000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Bond Protocol",
+  "grantSummary": "",
+  "fundingAddress": "0x007F3eD580c754A9495881b066e9FC98e406c214",
+  "editorAddresses": [],
+  "matchingGrantSize": 120000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x007F3eD580c754A9495881b066e9FC98e406c214"
+}

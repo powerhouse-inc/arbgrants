@@ -1,0 +1,745 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/a",
+        "lessons": "It has been hard to get integrations in a timely manner.",
+        "avgDailyTVL": 3295751,
+        "avgDailyTXNS": 55,
+        "avgDailyUniqueUsers": 55
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We delayed in starting incentivization as we wanted to make sure we have an LP for the USDM/USDC pool on Curve. We managed to have an integration with HMX",
+        "incentives": "",
+        "arbReceived": 49167,
+        "arbUtilized": 9667,
+        "disclosures": "N/a",
+        "arbRemaining": 245833,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "HMX added wUSDM as collateral for perp trading",
+        "expectations": "Close more integrations",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added several integrations",
+        "lessons": "Adding integrations did not directly translate into larger TVL. It did for # of users and tx",
+        "avgDailyTVL": 3105018,
+        "avgDailyTXNS": 119,
+        "avgDailyUniqueUsers": 111
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We got several integrations and pools ongoing. Started to measure their impact",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 31658,
+        "disclosures": "N/a",
+        "arbRemaining": 245833,
+        "contractsIncentivized": [
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "0470aff5-db99-44b8-b3c4-331355f9f32c",
+            "contractLabel": "wUSDM/FRAX on Ramses",
+            "contractAddress": "0x0e9dc388721a323091cff317249dd90ca2be50c5"
+          },
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Added several integrations and co-incentivized pools:\nIPOR;\nDolomite;\nwUSDM/GRAI on Ramses;\nwUSDM/FRAX on Ramses:\nwstETH/wUSDM on Uniswap",
+        "expectations": "It has been hard to get integrations in a timely manner.",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "0470aff5-db99-44b8-b3c4-331355f9f32c",
+            "contractLabel": "wUSDM/FRAX on Ramses",
+            "contractAddress": "0x0e9dc388721a323091cff317249dd90ca2be50c5"
+          },
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/a",
+        "lessons": "N/a",
+        "avgDailyTVL": 3151230,
+        "avgDailyTXNS": 339,
+        "avgDailyUniqueUsers": 183
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Seen a rising number of utilization, still without TVL growth",
+        "incentives": "",
+        "arbReceived": 98334,
+        "arbUtilized": 47040,
+        "disclosures": "N/a",
+        "arbRemaining": 98332,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "0470aff5-db99-44b8-b3c4-331355f9f32c",
+            "contractLabel": "wUSDM/FRAX on Ramses",
+            "contractAddress": "0x0e9dc388721a323091cff317249dd90ca2be50c5"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "N/a",
+        "expectations": "Close more integrations",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "0470aff5-db99-44b8-b3c4-331355f9f32c",
+            "contractLabel": "wUSDM/FRAX on Ramses",
+            "contractAddress": "0x0e9dc388721a323091cff317249dd90ca2be50c5"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Added Beefy integration",
+        "lessons": "LPs are hesitant to deploy capital on non-bluechip AMMs ",
+        "avgDailyTVL": 4186194,
+        "avgDailyTXNS": 306,
+        "avgDailyUniqueUsers": 132
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grew our TVL by attracting more LPs into USDM/USDC pool on Curve",
+        "incentives": "",
+        "arbReceived": 49167,
+        "arbUtilized": 50934,
+        "disclosures": "N/a",
+        "arbRemaining": 196666,
+        "contractsIncentivized": [
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          },
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "0470aff5-db99-44b8-b3c4-331355f9f32c",
+            "contractLabel": "wUSDM/FRAX on Ramses",
+            "contractAddress": "0x0e9dc388721a323091cff317249dd90ca2be50c5"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Added Beefy to re-incentivize USDM/USDC pool on Curve through their platform",
+        "expectations": "Add more integrations",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          },
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "0470aff5-db99-44b8-b3c4-331355f9f32c",
+            "contractLabel": "wUSDM/FRAX on Ramses",
+            "contractAddress": "0x0e9dc388721a323091cff317249dd90ca2be50c5"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Mentioned in Summary",
+        "lessons": "We should focus on more efficient pools to increase TVL",
+        "avgDailyTVL": 4803425,
+        "avgDailyTXNS": 455,
+        "avgDailyUniqueUsers": 124
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grew again our TVL, increase activity. Cancelled pools on Ramses due to low performance. Reduced investment on other pools  ",
+        "incentives": "",
+        "arbReceived": 49167,
+        "arbUtilized": 57801,
+        "disclosures": "N/a",
+        "arbRemaining": 49165,
+        "contractsIncentivized": [
+          {
+            "contractId": "35ab0d8a-a34b-4fbb-89ec-38b54d979eb9",
+            "contractLabel": "wUSD/GYD pool on Balancer",
+            "contractAddress": "0x928b06229a3f4bc7806d80fe54e48e777bb74536"
+          },
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Added wUSDM/GYD pool on Balancer through Aura",
+        "expectations": "Add more integrations",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "35ab0d8a-a34b-4fbb-89ec-38b54d979eb9",
+            "contractLabel": "wUSD/GYD pool on Balancer",
+            "contractAddress": "0x928b06229a3f4bc7806d80fe54e48e777bb74536"
+          },
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "6289aef1-2689-42fc-a617-72bb40d95a8b",
+            "contractLabel": "wUSDM/Grai on Ramses",
+            "contractAddress": "0x309E5419663c71AeF314A01FdB08754126Fe8041"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No significant changes",
+        "lessons": "USDM/USDC pool on Curve is more efficient and we should invest more there than additional integrations for new pools",
+        "avgDailyTVL": 6271636,
+        "avgDailyTXNS": 288,
+        "avgDailyUniqueUsers": 130
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Another week of growing TVL. Lack of additional integration opportunities.",
+        "incentives": "",
+        "arbReceived": 98332,
+        "arbUtilized": 55473,
+        "disclosures": "N/a",
+        "arbRemaining": -49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          },
+          {
+            "contractId": "35ab0d8a-a34b-4fbb-89ec-38b54d979eb9",
+            "contractLabel": "wUSD/GYD pool on Balancer",
+            "contractAddress": "0x928b06229a3f4bc7806d80fe54e48e777bb74536"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No significant changes",
+        "expectations": "Add more integrations",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          },
+          {
+            "contractId": "35ab0d8a-a34b-4fbb-89ec-38b54d979eb9",
+            "contractLabel": "wUSD/GYD pool on Balancer",
+            "contractAddress": "0x928b06229a3f4bc7806d80fe54e48e777bb74536"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No significant changes",
+        "lessons": "Metrics are up to September 3rd. No relevant lessons",
+        "avgDailyTVL": 5671048,
+        "avgDailyTXNS": 282,
+        "avgDailyUniqueUsers": 130
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/a",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 52426,
+        "disclosures": "N/a",
+        "arbRemaining": -49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          },
+          {
+            "contractId": "35ab0d8a-a34b-4fbb-89ec-38b54d979eb9",
+            "contractLabel": "wUSD/GYD pool on Balancer",
+            "contractAddress": "0x928b06229a3f4bc7806d80fe54e48e777bb74536"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes",
+        "expectations": "Have some stickiness in certain integrations",
+        "arbToBeDistributed": 49167,
+        "contractsIncentivized": [
+          {
+            "contractId": "734e0cbb-3ae1-4e6b-805e-870e0a44fe6a",
+            "contractLabel": "Curve USDM-USDC pool",
+            "contractAddress": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+          },
+          {
+            "contractId": "b98d2c61-ffd2-4128-b76e-f90d2b111d78",
+            "contractLabel": "HMX",
+            "contractAddress": "0x6a5d2bf8ba767f7763cd342cb62c5076f9924872"
+          },
+          {
+            "contractId": "ccc4d0a5-05fb-494d-905f-0baf97f4d4f3",
+            "contractLabel": "IPOR",
+            "contractAddress": "0x486230b2d9acd4f10254595d5d5b9522fde9b73a"
+          },
+          {
+            "contractId": "c0a63c8a-b33d-4fd8-93cd-50ea0cc8bf91",
+            "contractLabel": "wstETH/wUSDM on Uni",
+            "contractAddress": "0x8bb4c975ff3c250e0ceea271728547f3802b36fd"
+          },
+          {
+            "contractId": "fcb2e6c9-483c-40ca-8a03-b5adfb85fb81",
+            "contractLabel": "Dolomite",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "7180fc19-05cf-49b2-9b74-53dfd9288dba",
+            "contractLabel": "Beefy",
+            "contractAddress": "0x2e78A4cb6c61A3CAD98FCa902515938C85B9B082"
+          },
+          {
+            "contractId": "35ab0d8a-a34b-4fbb-89ec-38b54d979eb9",
+            "contractLabel": "wUSD/GYD pool on Balancer",
+            "contractAddress": "0x928b06229a3f4bc7806d80fe54e48e777bb74536"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 295000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Mountain Protocol",
+  "grantSummary": "",
+  "fundingAddress": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+  "editorAddresses": [],
+  "matchingGrantSize": 295000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/Mountain-Protocol",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xDE75370c4DDFE7CBE53BFcf9d94182225923A053"
+}

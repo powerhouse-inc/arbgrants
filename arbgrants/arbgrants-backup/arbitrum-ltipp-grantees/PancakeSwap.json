@@ -1,0 +1,408 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We only started incentivization on 11 June, so the results here do not reflect a full 2 weeks' of incentives",
+        "lessons": "We identified some underperforming pools in terms of TVL and volume generated, and will lower their incentives in the following epochs",
+        "avgDailyTVL": 5028212,
+        "avgDailyTXNS": 37128,
+        "avgDailyUniqueUsers": 7354
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "55k ARB to incentivize v3 pools via Merkl;\n10k ARB to incentivize StrykePCS pools via Merkl",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 65000,
+        "disclosures": "NA",
+        "arbRemaining": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Our ARB Prediction product isn't live yet, so the 10k ARB earmarked for that will be spent in future tranches",
+        "expectations": "Increased TVL and volumes for the incentivized v3 liquidity pools and StrykePCS CLAMM Options pools",
+        "arbToBeDistributed": 65000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Will continue to adjust incentives based on performance of v3 and StrykePCS options pools",
+        "lessons": "Not much value in low levels of incentivization e.g. 100 ARB / week; might be better dropping incentives for those pairs to 0 and re-allocating them to other better performing pairs",
+        "avgDailyTVL": 7062581,
+        "avgDailyTXNS": 68340,
+        "avgDailyUniqueUsers": 10535
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "55k ARB used to incentivize v3 pools via Merkl;\n10k ARB used to incentivize StrykePCS options pools via Merkl;\n12k ARB used to incentivize the Prediction product via an airdrop",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 65000,
+        "disclosures": "Started distribution towards the Prediction product, more details on distribution here: https://blog.pancakeswap.finance/articles/pancake-swap-introduces-ai-powered-prediction-market-on-arbitrum-up-to-100-fund-protection-and-launching-60-000-arb-campaign?utm_source=socials&utm_medium=announcement&utm_campaign=Arbitrum&utm_id=PredictionLaunch",
+        "arbRemaining": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Starting distribution for ARB Prediction product, at 6k ARB / week. This is slightly higher than the planned 5k ARB / week in the original proposal as we could only start the distribution from 26 June onwards\n\nThe actual ARB distribution will only happen after 2 July (end of the first campaign week)\n\nIncreased incentives towards certain v3 pools that saw high volumes and TVL in the previous epoch\nSimilarly, decreased incentives towards certain underperforming v3 pools\n\nAdjusted StrykePCS pools' incentives based on TVL amassed thus far ",
+        "expectations": "Increased TVL and volumes for selected v3 pools and StrykePCS pools\nIncreased bets for ARB Prediction product",
+        "arbToBeDistributed": 65000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Will continue to adjust incentives based on performance of v3 and StrykePCS options pools",
+        "lessons": "NA",
+        "avgDailyTVL": 7262233,
+        "avgDailyTXNS": 93779,
+        "avgDailyUniqueUsers": 9618
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 77000,
+        "disclosures": "NA",
+        "arbRemaining": 225000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Will distribute 12k ARB this tranche for the first two weeks of Prediction product airdrop\n\nAdjusted incentives for v3 pools and StrkyePCS option pools based on volume and TVL",
+        "expectations": "Increased tx count from ARB prediction product airdrop going live\nIncreased TVL and volume from more optimized LP incentives for v3 pools and StrykePCS option pools",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Will continue to adjust incentives based on performance of v3 and StrykePCS options pools",
+        "lessons": "NA",
+        "avgDailyTVL": 9641115,
+        "avgDailyTXNS": 103258,
+        "avgDailyUniqueUsers": 9507
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "55k ARB to v3 pools via Merkl;\n10k ARB to StrykePCS pools via Merkl;\n12k ARB to Prediction via airdrop",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 77000,
+        "disclosures": " NA",
+        "arbRemaining": 150000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "Adjusted incentives for v3 pools and StrykePCS options pools based on TVL and volume",
+        "expectations": "Increased TVL and volume from optimized incentive allocation",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Will continue to adjust incentives based on performance of v3 and StrykePCS options pools",
+        "lessons": "NA",
+        "avgDailyTVL": 11432146,
+        "avgDailyTXNS": 131835,
+        "avgDailyUniqueUsers": 8289
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "55k ARB to v3 pools via Merkl; 10k ARB to StrykePCS pools via Merkl; 12k ARB to Prediction via airdrop",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 77000,
+        "disclosures": "NA",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          },
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Adjusted incentives for v3 pools and StrykePCS options pools based on TVL and volume",
+        "expectations": "Increased TVL and volume from optimized incentive allocation\n\n",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          },
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "This is the last tranche of Merkl rewards, no further changes will be made. Incentives will last until 2 Sep 2024.",
+        "lessons": "We experimented switching incentives to newer pairs like SolvBTC and its derivatives and USDe to support their growth. As these are newer assets, the TVL pick up rate was a bit slower, and perhaps needed a bit more time to play out. Overall, we think this is still net beneficial to the ecosystem by encouraging these newer assets and projects to grow on Arbitrum.",
+        "avgDailyTVL": 10717256,
+        "avgDailyTXNS": 119085,
+        "avgDailyUniqueUsers": 9027
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "55k ARB to v3 pools via Merkl; 10k ARB to StrykePCS pools via Merkl; 12k ARB to Prediction via airdrop. Between 26 Aug and 2 Sep 2024, we will distribute another 12k ARB to Prediction via airdrop",
+        "incentives": "",
+        "arbReceived": 75000,
+        "arbUtilized": 77000,
+        "disclosures": "The remaining 12000 ARB will be disbursed towards our Prediction product by 02 Sep 2024, as covered in this blog post: https://blog.pancakeswap.finance/articles/pancake-swap-introduces-ai-powered-prediction-market-on-arbitrum-up-to-100-fund-protection-and-launching-60-000-arb-campaign?utm_source=socials&utm_medium=announcement&utm_campaign=Arbitrum&utm_id=PredictionLaunch",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Adjusted incentives for v3 pools and StrykePCS options pools based on TVL and volume",
+        "expectations": "Increased TVL and volume from optimized incentive allocation",
+        "arbToBeDistributed": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "12k ARB to Prediction via airdrop",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 12000,
+        "disclosures": "NA",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "NA. All Merkl rewards have been given out since last week and will last till 2 Sep 2024. ",
+        "expectations": "NA",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "15ffe973-eaa6-475e-9972-7910ae98710b",
+            "contractLabel": "Merkl DIstribution Contract",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "13b0dc41-a46b-4217-9ace-e5ccd1584a6d",
+            "contractLabel": "Prediction Product Airdrop",
+            "contractAddress": "0xeCc90d54B10ADd1ab746ABE7E83abe178B72aa9E"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 450000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "PancakeSwap",
+  "grantSummary": "We have received 450,000 ARB as incentives, to be distributed in the following ways:\n\n\ud83c\udf0a 330,000 ARB to v3 liquidity mining\n\ud83d\udcc8 60,000 ARB to Stryke options liquidity mining\n\ud83d\udd2e 60,000 ARB to Prediction",
+  "fundingAddress": "0x5562335F7B2b6A740d49a3EEdE55216E61A1de7B",
+  "editorAddresses": [],
+  "matchingGrantSize": 450000,
+  "metricsDashboardLink": "https://dune.com/pancakeswap/pancakeswap-arbitrum-ltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x5562335F7B2b6A740d49a3EEdE55216E61A1de7B"
+}

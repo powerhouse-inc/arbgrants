@@ -1,0 +1,1256 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Although it's too early to make conclusions the incentives seem to have increased the daily activity.",
+        "lessons": "- During the first week, we experimented with various Sybil prevention mechanisms. These included owning a Farcaster account, having a Gitcoin Passport Score of 20+ and owning at least 10 Layer3 CUBEs. \n\n- We noticed that unreliable Farcaster APIs often resulted in verification fails. As a result, we plan to utilize the Gitcoin passport and Layer3 CUBEs as the preferred mechanism. ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 20000,
+        "avgDailyUniqueUsers": 10000
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "- Over the last seven days we launched the Arbitrum Hub campaign including 10 Quests on Layer3. \n- Arbitrum Hub Quests have received ~95,000 participations\n- 40,000 ARB have been allocated to individual Quest contracts\n- 18,000 ARB have been claimed by users",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 40000,
+        "disclosures": "We received the first disbursement a week late, on June 10th, which caused a delay in starting the distribution. To make up for lost time, we plan to accelerate the campaign in the upcoming weeks and align with the KPIs and timeline originally outline in the application.",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "7372ab56-416d-46ad-a807-98e68b50b97a",
+            "contractLabel": "Arbitrum Hub: Native Bridge",
+            "contractAddress": "0x3D7AdAF186F3045dAE0B65D584bE6fe338828dE4"
+          },
+          {
+            "contractId": "51da4004-cc07-43c0-ac80-6bf416e299a5",
+            "contractLabel": "Arbitrum Hub: Pendle",
+            "contractAddress": "0xb801377DFf56A77C3D3bA6C7aD3B88d7bfda109c"
+          },
+          {
+            "contractId": "3d0c690d-421a-46f4-a306-0a3d500e68b6",
+            "contractLabel": "Arbitrum Hub: Aave",
+            "contractAddress": "0x9Fc51fa5B5d4b70A44a2A830c0C7683662D1a530"
+          },
+          {
+            "contractId": "fa0d1b81-4df7-49a6-b234-467ff8f55f99",
+            "contractLabel": "Arbitrum Hub: Uniswap",
+            "contractAddress": "0x86574EfAaaEf04B374A4589a10Cb6D943546a3dd"
+          },
+          {
+            "contractId": "6b03ecd1-45ff-4e8b-b41b-029ac0461734",
+            "contractLabel": "Arbitrum Hub: Camelot",
+            "contractAddress": "0x704485ed6EB701eCc59eA016EB0EeCF575833dBa"
+          },
+          {
+            "contractId": "58676d0c-4fe4-490e-b82c-f44d9a72741b",
+            "contractLabel": "Arbitrum Hub: Trader Joe",
+            "contractAddress": "0xb76897A0da79fb8136533f874d99d213E07D1dd8"
+          },
+          {
+            "contractId": "f830c2b2-3c29-426f-8e41-63d988d2555a",
+            "contractLabel": "Arbitrum Hub: ODOS",
+            "contractAddress": "0xdAd271d3D8b1E3C96fFFBc5eE9c6a5516a8Aa782"
+          },
+          {
+            "contractId": "dd8fa667-dfbb-495d-afcc-476cda518e3b",
+            "contractLabel": "Arbitrum Hub: Synapse",
+            "contractAddress": "0x3bFFeB6AF9CFfF0b4F37D93Fa0a40f623250Df3E"
+          },
+          {
+            "contractId": "8665f961-6dd2-46ae-b3e9-ac2bc0be4d45",
+            "contractLabel": "Arbitrum Hub: Treasure",
+            "contractAddress": "0x01Bc505245774d7e0c3C471356ECb58bb53B746c"
+          },
+          {
+            "contractId": "f7369eff-83d5-4430-b26b-61972b2d34d8",
+            "contractLabel": "Arbitrum Hub: Jumper",
+            "contractAddress": "0xeb0c42312D2a154E578D64155ba3797682EB5eCB"
+          },
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A - This period marks the launch of 10 Quests as initially planned via the grant.",
+        "expectations": "We are incentivizing actions within 10 Arbitrum ecosystem apps, with users earning between 0.2 to 0.4 depending on the complexity of actions. \nWe expect all Quests to be fully claimed and to achieve individual KPIs within 1 month of launch.",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c28b2ec9-dd1b-4c10-8bf8-463019dd216a",
+            "contractLabel": "Arbitrum Hub: Native bridge",
+            "contractAddress": "0x3D7AdAF186F3045dAE0B65D584bE6fe338828dE4"
+          },
+          {
+            "contractId": "6d09adb2-0891-401c-973c-d168b18e2695",
+            "contractLabel": "Arbitrum Hub: Pendle",
+            "contractAddress": "0xb801377DFf56A77C3D3bA6C7aD3B88d7bfda109c"
+          },
+          {
+            "contractId": "aad29bb8-b9e1-42eb-9513-0fc3aa66778c",
+            "contractLabel": "Arbitrum Hub: Aave",
+            "contractAddress": "0x9Fc51fa5B5d4b70A44a2A830c0C7683662D1a530"
+          },
+          {
+            "contractId": "794cff0e-ba69-4673-8803-3a1ba23b3901",
+            "contractLabel": "Arbitrum Hub: Uniswap",
+            "contractAddress": "0x86574EfAaaEf04B374A4589a10Cb6D943546a3dd"
+          },
+          {
+            "contractId": "65aee18f-9bd0-4005-a36b-b753017fffaf",
+            "contractLabel": "Arbitrum Hub: Camelot",
+            "contractAddress": "0x704485ed6EB701eCc59eA016EB0EeCF575833dBa"
+          },
+          {
+            "contractId": "c8d105f4-9180-4464-a5c3-63cd13815010",
+            "contractLabel": "Arbitrum Hub: Trader Joe",
+            "contractAddress": "0xb76897A0da79fb8136533f874d99d213E07D1dd8"
+          },
+          {
+            "contractId": "ef07a449-d02c-4a94-9c2a-f4de1be4fbbd",
+            "contractLabel": "Arbitrum Hub: Synapse",
+            "contractAddress": "0x3bFFeB6AF9CFfF0b4F37D93Fa0a40f623250Df3E"
+          },
+          {
+            "contractId": "622a975e-c4c2-4317-ad8e-7c46a53af3d3",
+            "contractLabel": "Arbitrum Hub: Treasure",
+            "contractAddress": "0x01Bc505245774d7e0c3C471356ECb58bb53B746c"
+          },
+          {
+            "contractId": "cc953d4a-93db-49ab-862f-424f0853dd8e",
+            "contractLabel": "Arbitrum Hub: Jumper",
+            "contractAddress": "0xeb0c42312D2a154E578D64155ba3797682EB5eCB"
+          },
+          {
+            "contractId": "fb1df0f3-a392-4eec-ac84-aa3ce08e86b6",
+            "contractLabel": "Arbitrum Hub: ODOS",
+            "contractAddress": "0xdAd271d3D8b1E3C96fFFBc5eE9c6a5516a8Aa782"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "- Canceled Clipper Quest due to a malicious Discord Invite in their documentation\n- Launched Matcha Quest instead of Aevo",
+        "lessons": "We deployed 25 Quests, allocating the total 100,000 ARB as planned for the first month. However, some Quests were deployed in the last few days, so the full distribution hasn\u2019t occurred yet. As we close Phase 1 and move to Phase 2, we\u2019ll ensure to launch the Quests earlier to ensure full distribution according to the plan.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 19586,
+        "avgDailyUniqueUsers": 18500
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Our anti-sybil mechanisms, combining CUBEs and Gitcoin Passport, aim to ensure the highest quality of users receive the Grant. According to our metrics dashboard, we are close to achieving most of our planned metrics for Month 1. Considering the 1-week delay mentioned in the first report, we have been able to catch up on launches and will be able to meet planned targets for Phase 2.\nTotal Quest launched: 25 Quests\nTotal ARB allocated: 100,000 ARB\nTotal ARB distributed: 70,000 ARB\nUnique Users: 44,000",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 60000,
+        "disclosures": "We launched a Quest featuring Clipper. However, due to a malicious Discord Invite in their documentation, we have removed the Quest to ensure the safety of our users and won\u2019t include Clipper in upcoming Quests.\nWe changed the initial planned Quest for Aevo to Matcha",
+        "arbRemaining": 266666,
+        "contractsIncentivized": [
+          {
+            "contractId": "46d51a4b-fc96-44a2-bf3d-85650db975d4",
+            "contractLabel": "Arbitrum Hub: Definitive",
+            "contractAddress": "0xDdC8801036418fD3E169d907682df3C7977bAA8E"
+          },
+          {
+            "contractId": "bfb5becd-b94c-4c0b-9e9c-fd1dbdbd91f7",
+            "contractLabel": "Arbitrum Hub: Balancer",
+            "contractAddress": "0xaEB77Bc678F5AB314967806F04bbc46A4722F13a"
+          },
+          {
+            "contractId": "69832beb-f40e-4b0a-9030-cb08efe13f6d",
+            "contractLabel": "Arbitrum Hub: OpenSea",
+            "contractAddress": "0x004575f7D90e7a17fd902D8215C583241624df52"
+          },
+          {
+            "contractId": "49b3df08-5682-4594-a480-0750bffb9be5",
+            "contractLabel": "Arbitrum Hub: Silo",
+            "contractAddress": "0xd2CacF5e93F727E54868E2195c0EE47eA5b8B813"
+          },
+          {
+            "contractId": "c5da13e1-2e15-43ea-b8d2-11b9883c4dbf",
+            "contractLabel": "Arbitrum Hub: Beefy",
+            "contractAddress": "0x23bD7763dC280d2038B588f591d9fd30F7B5e072"
+          },
+          {
+            "contractId": "ad866633-353b-4986-bf83-abc880111c65",
+            "contractLabel": "Arbitrum Hub: OpenOcean",
+            "contractAddress": "0x0b208bc31591ebA28C32E84d1811219f4130E426"
+          },
+          {
+            "contractId": "18f592c6-6d3d-4415-a081-99cf6591e195",
+            "contractLabel": "Arbitrum Hub: Clipper",
+            "contractAddress": "0x48252b1f834f86f752C4806Bc6F2b449f86b170E"
+          },
+          {
+            "contractId": "a00c1c7a-af9d-447d-874d-5a68ad6caaed",
+            "contractLabel": "Arbitrum Hub: Radiant",
+            "contractAddress": "0xA1DE5BE0F59a196152E4AF562c7b843fe9410234"
+          },
+          {
+            "contractId": "21f25a2d-5047-4eff-849f-fcabb1ce1eb6",
+            "contractLabel": "Arbitrum Hub: Angle",
+            "contractAddress": "0xEF39d92Cf85CbCE5c41e4c21Ff643cA106780e70"
+          },
+          {
+            "contractId": "8dc29364-6b65-46cf-9dbb-5842f5202c82",
+            "contractLabel": "Arbitrum Hub: Hyperliquid",
+            "contractAddress": "0xF8D7eCCcc8271fE431484943DafEAcC6188FDb4f"
+          },
+          {
+            "contractId": "09e7f6e9-c376-4d22-8d16-fa11db529a64",
+            "contractLabel": "Layer3 CUBE",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "c82769b2-6967-4352-a67a-29ae0f3c62b3",
+            "contractLabel": "Arbitrum Hub: Balmy",
+            "contractAddress": "0x9EeCf6e29F78C120567f7dCC28E3450872957aF9"
+          },
+          {
+            "contractId": "9d94e66f-297f-4331-a373-7c0dd100c239",
+            "contractLabel": "Arbitrum Hub: GMX",
+            "contractAddress": "0xbc40A7a11244602945404696e204C1D4E53F8A97"
+          },
+          {
+            "contractId": "04a31f31-af07-4018-b0f1-73fd56ec2c02",
+            "contractLabel": "Arbitrum Hub: Dolomite",
+            "contractAddress": "0xC47F1a2dEd97C41391eEFB97f1EA6032f1d92433"
+          },
+          {
+            "contractId": "0d0b301b-2431-4d69-b6f8-250316aa9b70",
+            "contractLabel": "Arbitrum Hub: Matcha",
+            "contractAddress": "0xAc3943BD293C8Fa02ee048008C4F7Dc1F33667C0"
+          },
+          {
+            "contractId": "43fac863-6a74-419f-8b5c-9c1c9c26dd37",
+            "contractLabel": "Arbitrum Hub: Notional",
+            "contractAddress": "0x5cb337D459b781823287a376563448567D802222"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "- To accelerate progress and meet our KPIs, we increased the supply of Quests. \n- This adjustment aligns us with our Phase 1/ Month 1 plan: 100,000 ARB, 20+ unique dApps, and 25 Quests.",
+        "expectations": "- Quest are being well-received by our user base, and we are on track with our KPIs. \n- At the end of this cycle, we will conclude Phase 1: Test, review all launched Quests, and improve distribution based on lessons learned.",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "e36dbf84-3b34-445b-b671-b4a4cfa15a57",
+            "contractLabel": "Arbitrum Hub: Definitive",
+            "contractAddress": "0xDdC8801036418fD3E169d907682df3C7977bAA8E"
+          },
+          {
+            "contractId": "b6ebc0eb-e9f2-4720-a27f-31390a114a54",
+            "contractLabel": "Arbitrum Hub: Balancer",
+            "contractAddress": "0xaEB77Bc678F5AB314967806F04bbc46A4722F13a"
+          },
+          {
+            "contractId": "2e8641e7-ade2-481c-a03b-2dbccd04bffa",
+            "contractLabel": "Arbitrum Hub: OpenSea",
+            "contractAddress": "0x004575f7D90e7a17fd902D8215C583241624df52"
+          },
+          {
+            "contractId": "f9ad4a8d-e1cf-4226-a67f-6eb207f38c59",
+            "contractLabel": "Arbitrum Hub: Silo",
+            "contractAddress": "0xd2CacF5e93F727E54868E2195c0EE47eA5b8B813"
+          },
+          {
+            "contractId": "495ce0d8-a9eb-4b96-b0c0-9c3b7b9daebe",
+            "contractLabel": "Arbitrum Hub: Beefy",
+            "contractAddress": "0x23bD7763dC280d2038B588f591d9fd30F7B5e072"
+          },
+          {
+            "contractId": "0abfd577-823a-4bbe-88ba-c6ee6d8b9a3c",
+            "contractLabel": "Arbitrum Hub: OpenOcean",
+            "contractAddress": "0x0b208bc31591ebA28C32E84d1811219f4130E426"
+          },
+          {
+            "contractId": "48b2e54b-b2e6-49bb-9ea9-1af5462f289a",
+            "contractLabel": "Arbitrum Hub: Clipper",
+            "contractAddress": "0x48252b1f834f86f752C4806Bc6F2b449f86b170E"
+          },
+          {
+            "contractId": "cdde162e-fc94-4dac-815c-337f2c810cc9",
+            "contractLabel": "Arbitrum Hub: Radiant",
+            "contractAddress": "0xA1DE5BE0F59a196152E4AF562c7b843fe9410234"
+          },
+          {
+            "contractId": "6943f492-19f6-4842-92b0-e04ef4ce718a",
+            "contractLabel": "Arbitrum Hub: Angle",
+            "contractAddress": "0xEF39d92Cf85CbCE5c41e4c21Ff643cA106780e70"
+          },
+          {
+            "contractId": "29ee775c-d1e1-4c7d-bd9e-5953aa54aaca",
+            "contractLabel": "Arbitrum Hub: Hyperliquid",
+            "contractAddress": "0xF8D7eCCcc8271fE431484943DafEAcC6188FDb4f"
+          },
+          {
+            "contractId": "fc13d670-93a2-4f32-9963-61f4927c5e72",
+            "contractLabel": "Layer3 CUBE",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "d58d8e1d-468c-4d4d-8f71-8b5525cbc5c0",
+            "contractLabel": "Arbitrum Hub: Balmy",
+            "contractAddress": "0x9EeCf6e29F78C120567f7dCC28E3450872957aF9"
+          },
+          {
+            "contractId": "bbfb5afc-f292-4ce7-9a43-495788e248ec",
+            "contractLabel": "Arbitrum Hub: GMX",
+            "contractAddress": "0xbc40A7a11244602945404696e204C1D4E53F8A97"
+          },
+          {
+            "contractId": "2b16192a-a5b3-4dc9-82fb-655df7d660d9",
+            "contractLabel": "Arbitrum Hub: Dolomite",
+            "contractAddress": "0xC47F1a2dEd97C41391eEFB97f1EA6032f1d92433"
+          },
+          {
+            "contractId": "f6a92f68-4453-4421-a34f-456736bc3652",
+            "contractLabel": "Arbitrum Hub: Aevo",
+            "contractAddress": "0xAc3943BD293C8Fa02ee048008C4F7Dc1F33667C0"
+          },
+          {
+            "contractId": "17ad3511-69ce-4314-ad37-fc7f83b57a04",
+            "contractLabel": "Arbitrum Hub: Notional",
+            "contractAddress": "0x5cb337D459b781823287a376563448567D802222"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We removed Umami and Savvy from the initial planned Quests. At the end of Phase 1, we allocated 65,000 ARB as rewards for 12,500 users actively engaged in the campaign.",
+        "lessons": "The gaming sector presents a challenge in finding compatible apps that support the Layer3 traffic. Campaign prizes tend to motivate users to continue Questing and reward those actively engaged.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 40000,
+        "avgDailyUniqueUsers": 10000
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We are observing strong user adoption on the Arbitrum Quests. Additionally, we have allocated an extra 65,000 ARB from our internal budget to provide additional incentives and rewards for power-users participating in the campaign.",
+        "incentives": "",
+        "arbReceived": 66667,
+        "arbUtilized": 60000,
+        "disclosures": "After reviewing over 30 gaming/NFT apps, selecting a few capable of handling Layer3 traffic is challenging due to the high volume of user activity.\n\nWe\u2019ve launched Quests with 0xAstra, Bridgeworld, Treasure, and OpenSea, alongside multiple DeFi-centered apps. We are also planning a coordinated launch with Cosmik Battle.\n\nWe had to alter our plans for Umami and Savvy, as QA revealed they couldn\u2019t handle the Layer3 traffic.",
+        "arbRemaining": 199999,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "c860db5f-40ca-4be5-aac4-e6ebc03c6680",
+            "contractLabel": "Quest 26",
+            "contractAddress": "0xE63F55dDD5cE6CBF1b70EF1c9d7EB64d87DED1cc"
+          },
+          {
+            "contractId": "862e7898-ca63-4489-83a0-7995b89016d8",
+            "contractLabel": "Quest 27",
+            "contractAddress": "0x09ed4cC4d322508C559dE20ce58df9130bE5841B"
+          },
+          {
+            "contractId": "6a92c32e-4fee-40c1-a52b-70ba61b7c190",
+            "contractLabel": "Quest 28",
+            "contractAddress": "0x17A579ddE726D628F70B187d0634c471AE728eaF"
+          },
+          {
+            "contractId": "2f7174ea-5add-44e0-bf99-314925e61171",
+            "contractLabel": "Quest 28",
+            "contractAddress": "0xa447a20ab534874b091e118940CA8bbcbAf78e7A"
+          },
+          {
+            "contractId": "80b46519-3493-40ae-aae8-5415723277a4",
+            "contractLabel": "Quest 30",
+            "contractAddress": "0xb3499A898C9C124f7fd0C3F24F0B57048e4DEa74"
+          },
+          {
+            "contractId": "60a1d780-b451-41ca-ab92-62b7a55b32f1",
+            "contractLabel": "Quest 31",
+            "contractAddress": "0x2B24F2b9e4De9887023ac8Fc6b07Ddc3dF83531f"
+          },
+          {
+            "contractId": "d8f9af7f-7707-4bdf-b0a8-193d11fdfa51",
+            "contractLabel": "Quest 32",
+            "contractAddress": "0xDFf03fbF4c4B8629a4988d2719011465aCeB570E"
+          },
+          {
+            "contractId": "ff728550-07a5-418b-bb27-109ed5a0ccfa",
+            "contractLabel": "Quest 33",
+            "contractAddress": "0xcF2ACF51351E15133376275E8da9137b8c08dcc5"
+          },
+          {
+            "contractId": "0cc65c1b-a7d6-4307-9d2e-e2c2adef1c79",
+            "contractLabel": "Quest 34",
+            "contractAddress": "0x186B9a29aC1b59B52c8cd5EFEF67C9F25cb0586f"
+          },
+          {
+            "contractId": "8380fa06-8928-4b01-88f8-0f7fbdf72ade",
+            "contractLabel": "Quest 35",
+            "contractAddress": "0xD2A323ce0cFDC091dE5149aAD27CB3ED7327c2C9"
+          },
+          {
+            "contractId": "650d551f-07c9-403f-b5a0-6b63540616a8",
+            "contractLabel": "Quest 36",
+            "contractAddress": "0x503b8298f59954cB2dFaA505E9716312954Ec8da"
+          },
+          {
+            "contractId": "d3ad91dd-1c0f-406c-9dc1-d885a69570ef",
+            "contractLabel": "Quest 37",
+            "contractAddress": "0xd0b3EBD1Bc0f6f9221c7557204bB29f657208f5a"
+          },
+          {
+            "contractId": "dd7eb032-2bb7-4990-9490-24904bd1bd52",
+            "contractLabel": "Quest 38",
+            "contractAddress": "0x2B367d206Ce1c4E79E071A6DB267bcF259CB8525"
+          },
+          {
+            "contractId": "728ed038-073a-4f69-a4c7-a44cd127b259",
+            "contractLabel": "Quest 39",
+            "contractAddress": "0x1B93f8e9BAeFa9cbf46546266b8258d71573bBDa"
+          },
+          {
+            "contractId": "038e83db-fe43-4cea-aed4-f09f9aa1f299",
+            "contractLabel": "Quest 40",
+            "contractAddress": "0x730aA8aDc4669896C21A3d4B0E53345D1C33C173"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No specific changes.",
+        "expectations": "We are starting Phase 2, where we will broaden the quest offering within the Arbitrum ecosystem and iterate on incentive models based on Phase 1.\n\nWe aim to launch 15 quests bi-weekly, focusing more on expanding into Gaming and NFTs.",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "87787cc3-e467-49fe-bcbf-07519e4d0ef0",
+            "contractLabel": "Layer3 CUBEs",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "c860db5f-40ca-4be5-aac4-e6ebc03c6680",
+            "contractLabel": "Quest 26",
+            "contractAddress": "0xE63F55dDD5cE6CBF1b70EF1c9d7EB64d87DED1cc"
+          },
+          {
+            "contractId": "862e7898-ca63-4489-83a0-7995b89016d8",
+            "contractLabel": "Quest 27",
+            "contractAddress": "0x09ed4cC4d322508C559dE20ce58df9130bE5841B"
+          },
+          {
+            "contractId": "6a92c32e-4fee-40c1-a52b-70ba61b7c190",
+            "contractLabel": "Quest 28",
+            "contractAddress": "0x17A579ddE726D628F70B187d0634c471AE728eaF"
+          },
+          {
+            "contractId": "2f7174ea-5add-44e0-bf99-314925e61171",
+            "contractLabel": "Quest 28",
+            "contractAddress": "0xa447a20ab534874b091e118940CA8bbcbAf78e7A"
+          },
+          {
+            "contractId": "80b46519-3493-40ae-aae8-5415723277a4",
+            "contractLabel": "Quest 30",
+            "contractAddress": "0xb3499A898C9C124f7fd0C3F24F0B57048e4DEa74"
+          },
+          {
+            "contractId": "60a1d780-b451-41ca-ab92-62b7a55b32f1",
+            "contractLabel": "Quest 31",
+            "contractAddress": "0x2B24F2b9e4De9887023ac8Fc6b07Ddc3dF83531f"
+          },
+          {
+            "contractId": "d8f9af7f-7707-4bdf-b0a8-193d11fdfa51",
+            "contractLabel": "Quest 32",
+            "contractAddress": "0xDFf03fbF4c4B8629a4988d2719011465aCeB570E"
+          },
+          {
+            "contractId": "ff728550-07a5-418b-bb27-109ed5a0ccfa",
+            "contractLabel": "Quest 33",
+            "contractAddress": "0xcF2ACF51351E15133376275E8da9137b8c08dcc5"
+          },
+          {
+            "contractId": "0cc65c1b-a7d6-4307-9d2e-e2c2adef1c79",
+            "contractLabel": "Quest 34",
+            "contractAddress": "0x186B9a29aC1b59B52c8cd5EFEF67C9F25cb0586f"
+          },
+          {
+            "contractId": "8380fa06-8928-4b01-88f8-0f7fbdf72ade",
+            "contractLabel": "Quest 35",
+            "contractAddress": "0xD2A323ce0cFDC091dE5149aAD27CB3ED7327c2C9"
+          },
+          {
+            "contractId": "650d551f-07c9-403f-b5a0-6b63540616a8",
+            "contractLabel": "Quest 36",
+            "contractAddress": "0x503b8298f59954cB2dFaA505E9716312954Ec8da"
+          },
+          {
+            "contractId": "d3ad91dd-1c0f-406c-9dc1-d885a69570ef",
+            "contractLabel": "Quest 37",
+            "contractAddress": "0xd0b3EBD1Bc0f6f9221c7557204bB29f657208f5a"
+          },
+          {
+            "contractId": "dd7eb032-2bb7-4990-9490-24904bd1bd52",
+            "contractLabel": "Quest 38",
+            "contractAddress": "0x2B367d206Ce1c4E79E071A6DB267bcF259CB8525"
+          },
+          {
+            "contractId": "728ed038-073a-4f69-a4c7-a44cd127b259",
+            "contractLabel": "Quest 39",
+            "contractAddress": "0x1B93f8e9BAeFa9cbf46546266b8258d71573bBDa"
+          },
+          {
+            "contractId": "038e83db-fe43-4cea-aed4-f09f9aa1f299",
+            "contractLabel": "Quest 40",
+            "contractAddress": "0x730aA8aDc4669896C21A3d4B0E53345D1C33C173"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No major changes were made to our campaign strategy. We continued with our planned launches and increased the supply of Quests in the first week of each bi-weekly period. This ensures users have sufficient time to claim their rewards, enhancing overall engagement and reward distribution.",
+        "lessons": "We are finalizing the second stage, Iteration, and moving towards Retention. In this phase, our focus will be on targeting users who completed previous Quests and rewarding those with active liquidity on Arbitrum, particularly from a DeFi perspective.\n\nFrom a gaming perspective, we\u2019ve launched Quests that require users to engage for more than 7 days. This has resulted in good user retention, with many players continuing to participate and requesting more Quests in the gaming sector. This approach is proving effective in maintaining user interest and engagement.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 42700,
+        "avgDailyUniqueUsers": 8000
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We launched all our planned 25 Quests ahead on the first week of the period, to ensure users had ample time to participate and claim their ARB rewards.\n\nThis early launch has been positively received by the community, resulting in a cohort of extremely active and engaged users on the Arbitrum network through these Quests. The proactive approach has enhanced user experience and engagement.",
+        "incentives": "",
+        "arbReceived": 67334,
+        "arbUtilized": 60000,
+        "disclosures": "No specific disclosures are needed at this time.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "b7245ab9-f250-4638-b984-315848ee387e",
+            "contractLabel": "Arbitrum Hub: Vertex",
+            "contractAddress": "0xD112D4c2e02D13058D70b5E886beAf38D00dbe80"
+          },
+          {
+            "contractId": "8a28cf43-4b46-46cf-8072-73b48a3624da",
+            "contractLabel": "Arbitrum Hub: Curve",
+            "contractAddress": "0x5af821fe8B9FEB6c6EbC83869f6C89075ECEDfaD"
+          },
+          {
+            "contractId": "19838ac9-dccf-403b-b43b-3c49b9954cb0",
+            "contractLabel": "Arbitrum Hub: Magpie",
+            "contractAddress": "0xf4b20b77f062569C0214DA01C2288ef5DCEE5fBa"
+          },
+          {
+            "contractId": "2ab656b0-7682-4395-9e9f-347edd008b2c",
+            "contractLabel": "Arbitrum Hub: Stargate",
+            "contractAddress": "0x9A318050684785a008B87066c3d1eE187c1E3365"
+          },
+          {
+            "contractId": "6206f05e-152b-479d-8591-ddc72afecd81",
+            "contractLabel": "Arbitrum Hub: dHEDGE",
+            "contractAddress": "0x4729E81CE82DDC7C4dF95a5cF6634A53CDc772b8"
+          },
+          {
+            "contractId": "b0d1f77a-3bc8-485f-84f5-d326ed0c69ed",
+            "contractLabel": "Arbitrum Hub: Toros",
+            "contractAddress": "0x43a0e69a118d5F837078ad3FE48D47d2812d4108"
+          },
+          {
+            "contractId": "9e7194f2-cb11-4df8-b08a-67209d23805d",
+            "contractLabel": "Arbitrum Hub: Aura",
+            "contractAddress": "0xFC019856F2a43b13eC7161613512DCF10441EC4b"
+          },
+          {
+            "contractId": "c1c41ceb-a68f-49a0-8a8f-27696e293a72",
+            "contractLabel": "Arbitrum Hub: KelpDAO",
+            "contractAddress": "0x7E2F9c3a89954ff2198Fc5d2A52cd74E00202bD3"
+          },
+          {
+            "contractId": "92203fbd-b564-4ca3-be7e-9915c27b3be5",
+            "contractLabel": "Arbitrum Hub: Sushi",
+            "contractAddress": "0x2523E73158DF841CbA947162359b0108037BBd89"
+          },
+          {
+            "contractId": "c390fe0c-252d-47ed-aa6c-56bce3e2c4cd",
+            "contractLabel": "Arbitrum Hub: Fluid",
+            "contractAddress": "0xbd7249Bc90BFe0407Fa4a21f6bf5BDBb0d9BEDD1"
+          },
+          {
+            "contractId": "ee31960e-bd6e-4c80-9351-2279bfb33383",
+            "contractLabel": "Arbitrum Hub: WOOFi",
+            "contractAddress": "0x21C94229D32BD3F895b92B5b615c0C29B9183E45"
+          },
+          {
+            "contractId": "3b15d838-abfc-4f23-9f24-9c7ceb45f0e5",
+            "contractLabel": "Arbitrum Hub: Mitosis",
+            "contractAddress": "0x9A17408522A455Ca269d7eEf5606b8791DC72272"
+          },
+          {
+            "contractId": "02e05cbb-e917-41c0-b670-c16c89e2263d",
+            "contractLabel": "Arbitrum Hub: Contango",
+            "contractAddress": "0xcF880f542cD226D372Ed9935Af86fbcA575C7094"
+          },
+          {
+            "contractId": "53eb8fb9-db0a-412b-b7c4-6a5605a7873d",
+            "contractLabel": "Arbitrum Hub: DODO",
+            "contractAddress": "0xf2a7456a844309EB192add70Ec96AB89b90BaE4D"
+          },
+          {
+            "contractId": "2f98a032-93aa-40d5-a521-169fcdd1bc53",
+            "contractLabel": "Arbitrum Hub: Superform",
+            "contractAddress": "0x8E67B964dBaB2eF8E9b297c71FeF7A768bbB6bD6"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We are progressing according to plan, with 15 new Quests for this bi-weekly period.",
+        "expectations": "We\u2019ll close this period with 55 Quests launched, aiming to have 60K ARB fully distributed, so far featuring 53 unique Arbitrum dapps in our campaign.\n\nThis period is more DeFi-oriented, while we analyze the results of previous gaming initiatives and re-schedule for the upcoming period.",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "b7245ab9-f250-4638-b984-315848ee387e",
+            "contractLabel": "Arbitrum Hub: Vertex",
+            "contractAddress": "0xD112D4c2e02D13058D70b5E886beAf38D00dbe80"
+          },
+          {
+            "contractId": "8a28cf43-4b46-46cf-8072-73b48a3624da",
+            "contractLabel": "Arbitrum Hub: Curve",
+            "contractAddress": "0x5af821fe8B9FEB6c6EbC83869f6C89075ECEDfaD"
+          },
+          {
+            "contractId": "19838ac9-dccf-403b-b43b-3c49b9954cb0",
+            "contractLabel": "Arbitrum Hub: Magpie",
+            "contractAddress": "0xf4b20b77f062569C0214DA01C2288ef5DCEE5fBa"
+          },
+          {
+            "contractId": "2ab656b0-7682-4395-9e9f-347edd008b2c",
+            "contractLabel": "Arbitrum Hub: Stargate",
+            "contractAddress": "0x9A318050684785a008B87066c3d1eE187c1E3365"
+          },
+          {
+            "contractId": "6206f05e-152b-479d-8591-ddc72afecd81",
+            "contractLabel": "Arbitrum Hub: dHEDGE",
+            "contractAddress": "0x4729E81CE82DDC7C4dF95a5cF6634A53CDc772b8"
+          },
+          {
+            "contractId": "b0d1f77a-3bc8-485f-84f5-d326ed0c69ed",
+            "contractLabel": "Arbitrum Hub: Toros",
+            "contractAddress": "0x43a0e69a118d5F837078ad3FE48D47d2812d4108"
+          },
+          {
+            "contractId": "9e7194f2-cb11-4df8-b08a-67209d23805d",
+            "contractLabel": "Arbitrum Hub: Aura",
+            "contractAddress": "0xFC019856F2a43b13eC7161613512DCF10441EC4b"
+          },
+          {
+            "contractId": "c1c41ceb-a68f-49a0-8a8f-27696e293a72",
+            "contractLabel": "Arbitrum Hub: KelpDAO",
+            "contractAddress": "0x7E2F9c3a89954ff2198Fc5d2A52cd74E00202bD3"
+          },
+          {
+            "contractId": "92203fbd-b564-4ca3-be7e-9915c27b3be5",
+            "contractLabel": "Arbitrum Hub: Sushi",
+            "contractAddress": "0x2523E73158DF841CbA947162359b0108037BBd89"
+          },
+          {
+            "contractId": "c390fe0c-252d-47ed-aa6c-56bce3e2c4cd",
+            "contractLabel": "Arbitrum Hub: Fluid",
+            "contractAddress": "0xbd7249Bc90BFe0407Fa4a21f6bf5BDBb0d9BEDD1"
+          },
+          {
+            "contractId": "ee31960e-bd6e-4c80-9351-2279bfb33383",
+            "contractLabel": "Arbitrum Hub: WOOFi",
+            "contractAddress": "0x21C94229D32BD3F895b92B5b615c0C29B9183E45"
+          },
+          {
+            "contractId": "3b15d838-abfc-4f23-9f24-9c7ceb45f0e5",
+            "contractLabel": "Arbitrum Hub: Mitosis",
+            "contractAddress": "0x9A17408522A455Ca269d7eEf5606b8791DC72272"
+          },
+          {
+            "contractId": "02e05cbb-e917-41c0-b670-c16c89e2263d",
+            "contractLabel": "Arbitrum Hub: Contango",
+            "contractAddress": "0xcF880f542cD226D372Ed9935Af86fbcA575C7094"
+          },
+          {
+            "contractId": "53eb8fb9-db0a-412b-b7c4-6a5605a7873d",
+            "contractLabel": "Arbitrum Hub: DODO",
+            "contractAddress": "0xf2a7456a844309EB192add70Ec96AB89b90BaE4D"
+          },
+          {
+            "contractId": "2f98a032-93aa-40d5-a521-169fcdd1bc53",
+            "contractLabel": "Arbitrum Hub: Superform",
+            "contractAddress": "0x8E67B964dBaB2eF8E9b297c71FeF7A768bbB6bD6"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Focusing on DeFi apps and ensuring user retention on Arbitrum.",
+        "lessons": "High-quality projects with a good UX are preferred by users, and we\u2019re doubling down to ensure a great experience while creating initiatives to drive retention.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 20000,
+        "avgDailyUniqueUsers": 10000
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve allocated rewards to projects in accordance with the planned grant.",
+        "incentives": "",
+        "arbReceived": 66000,
+        "arbUtilized": 100000,
+        "disclosures": "N/A",
+        "arbRemaining": 7334,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "28c06442-bd8f-4ff9-a0a1-7eecaac461a8",
+            "contractLabel": "Quest 56",
+            "contractAddress": "0xc98023468314bA732F2f198F6F9b93D3100e7F5B"
+          },
+          {
+            "contractId": "2e32f717-7343-4773-a98b-7d026981b2cf",
+            "contractLabel": "Quest 57",
+            "contractAddress": "0x8Bc61a4293874e4EB95680da7862FBE27837b7d4"
+          },
+          {
+            "contractId": "41f5f6da-ea9c-452f-bee2-f1de6ba9978b",
+            "contractLabel": "Quest 58",
+            "contractAddress": "0xe0DEf0bee626533F4aF10e02d7BA6B16bA734D32"
+          },
+          {
+            "contractId": "04414d2b-441c-49bc-978d-c6ac61e5f590",
+            "contractLabel": "Quest 59",
+            "contractAddress": "0x96Fd2aa86758dD4cdEA093A803f77E63D7541D28"
+          },
+          {
+            "contractId": "51fb76ec-36eb-4591-988d-9d97cda4e8e7",
+            "contractLabel": "Quest 60",
+            "contractAddress": "0x9E8E48DDe4bf653a910ea697AE8BE48629C1865A"
+          },
+          {
+            "contractId": "d057ce1c-d9cf-463b-9409-3605a5a8852f",
+            "contractLabel": "Quest 61",
+            "contractAddress": "0xDB0A17F4140f0aee56E8Dc067515150F224CA52F"
+          },
+          {
+            "contractId": "ef67ef71-413f-449d-a43f-3ab4271781de",
+            "contractLabel": "Quest 62",
+            "contractAddress": "0xdFddc54027F983eCf9c688ef8BfE29B89Eda177f"
+          },
+          {
+            "contractId": "93cebfd5-b4b6-44ab-93cb-e6e1fb6393df",
+            "contractLabel": "Quest 63",
+            "contractAddress": "0xfCC41D00fE1e1493687b27E1D6Ace64b8A1a7DC7"
+          },
+          {
+            "contractId": "ad0259f6-61a3-452a-ad42-8e08d9b95f29",
+            "contractLabel": "Quest 64",
+            "contractAddress": "0x421f1B3d5e9AcACfE41c9cA14711ebFf93a11Fc0"
+          },
+          {
+            "contractId": "75cc936c-79c5-4e4b-a321-ff701b1dd26e",
+            "contractLabel": "Quest 65",
+            "contractAddress": "0x98ac394285453Bd200BDa4415839DB292d596187"
+          },
+          {
+            "contractId": "0e04fe1e-cef9-4bd3-9295-4426465275f2",
+            "contractLabel": "Quest 66",
+            "contractAddress": "0x8359Ebc44FE6CCBD31682C6220682fE78BE59E0b"
+          },
+          {
+            "contractId": "bdfbdf5a-b3c6-4284-b479-529ba4e17b37",
+            "contractLabel": "Quest 67",
+            "contractAddress": "0xa3A12C85946CbD5B864F72CE0515477A3c24EE1A"
+          },
+          {
+            "contractId": "895161ad-ba86-4044-ab4d-8fae8ce8c619",
+            "contractLabel": "Quest 68",
+            "contractAddress": "0xFF128D169e3B13c584a050132bEf9a64016a1d21"
+          },
+          {
+            "contractId": "45641add-16f8-4669-8132-07a38ecc1dd9",
+            "contractLabel": "Quest 69",
+            "contractAddress": "0x13f167746dDAe2D890bBdD7b62B34f999B266B8a"
+          },
+          {
+            "contractId": "d00a0477-1d3e-42e0-8950-24ca264278a7",
+            "contractLabel": "Quest 70",
+            "contractAddress": "0x17586F3A0C778a72685f9c8E24F24A1cAc50c468"
+          },
+          {
+            "contractId": "cc7768ac-1fb3-4621-81ef-9918255e59d0",
+            "contractLabel": "Quest 71",
+            "contractAddress": "0x43C028DCd5251439e4Bd4d7D306B422637428B47"
+          },
+          {
+            "contractId": "eac15d92-1f2d-4fb2-932c-4c0733281422",
+            "contractLabel": "Quest 72",
+            "contractAddress": "0x9B64132069A32bcAdd3040E13a0c7c18a0262F76"
+          },
+          {
+            "contractId": "53b0f16a-278c-4480-98dd-a16f277d77b9",
+            "contractLabel": "Quest 73",
+            "contractAddress": "0xca0040AA2456874Cc024c1192066AdB18D878F56"
+          },
+          {
+            "contractId": "8c4de73c-bc1a-4cac-977c-afa03395ba3c",
+            "contractLabel": "Quest 74",
+            "contractAddress": "0xcE23163f9bec10713130Eef8ea52324473de1c76"
+          },
+          {
+            "contractId": "038ee4f8-a60c-4192-b3ec-7c173dff7b63",
+            "contractLabel": "Quest 75",
+            "contractAddress": "0x223712aA997C7f724cAc36000eCc92D355a67458"
+          },
+          {
+            "contractId": "c1608ff5-c877-42e5-86ea-48c7caa24d02",
+            "contractLabel": "Quest 76",
+            "contractAddress": "0x795F8Aff7Ccc373Ce0BB731b68B444b32f59009B"
+          },
+          {
+            "contractId": "ecd23d9e-db9c-445d-b243-a100002b9606",
+            "contractLabel": "Quest 77",
+            "contractAddress": "0x315B6109fC04cf994122B0875af6eeC62A9Eb1A0"
+          },
+          {
+            "contractId": "2f7fcadb-efbd-45a5-acf6-d63ba008a13a",
+            "contractLabel": "Quest 78",
+            "contractAddress": "0xeFC26BDc16fcAb03de32c18665821D4108B7298e"
+          },
+          {
+            "contractId": "356fa36f-8f8a-408a-9079-9f94bb173890",
+            "contractLabel": "Quest 79",
+            "contractAddress": "0x13989180f27b64120E74203E00b932292E88F31a"
+          },
+          {
+            "contractId": "d4bf806a-bccf-40ff-bfd7-3beec601dbb9",
+            "contractLabel": "Quest 80",
+            "contractAddress": "0xCb1e8D148577b6aE9C71124bB8C90436Ee40aC83"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "We are gearing toward the final phase of our distribution strategy, which is focused on retention. In this stage, we aim to ensure that the most aligned and engaged users receive the ARB rewards. \n\nThis approach is designed to reward and retain users who have shown consistent participation and alignment with our community\u2019s goals.",
+        "expectations": "In the final phase of our distribution strategy, we aim to attract and engage the highest value users to the Arbitrum Network. \n\nOur focus will be on exploring and expanding across all previously shared categories, including gaming, DeFi, bridges, and NFTs. \n\nThis phase is designed to ensure that we not only retain our most dedicated users but also continue to grow and diversify our community by tapping into these key areas.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "28c06442-bd8f-4ff9-a0a1-7eecaac461a8",
+            "contractLabel": "Quest 56",
+            "contractAddress": "0xc98023468314bA732F2f198F6F9b93D3100e7F5B"
+          },
+          {
+            "contractId": "2e32f717-7343-4773-a98b-7d026981b2cf",
+            "contractLabel": "Quest 57",
+            "contractAddress": "0x8Bc61a4293874e4EB95680da7862FBE27837b7d4"
+          },
+          {
+            "contractId": "41f5f6da-ea9c-452f-bee2-f1de6ba9978b",
+            "contractLabel": "Quest 58",
+            "contractAddress": "0xe0DEf0bee626533F4aF10e02d7BA6B16bA734D32"
+          },
+          {
+            "contractId": "04414d2b-441c-49bc-978d-c6ac61e5f590",
+            "contractLabel": "Quest 59",
+            "contractAddress": "0x96Fd2aa86758dD4cdEA093A803f77E63D7541D28"
+          },
+          {
+            "contractId": "51fb76ec-36eb-4591-988d-9d97cda4e8e7",
+            "contractLabel": "Quest 60",
+            "contractAddress": "0x9E8E48DDe4bf653a910ea697AE8BE48629C1865A"
+          },
+          {
+            "contractId": "d057ce1c-d9cf-463b-9409-3605a5a8852f",
+            "contractLabel": "Quest 61",
+            "contractAddress": "0xDB0A17F4140f0aee56E8Dc067515150F224CA52F"
+          },
+          {
+            "contractId": "ef67ef71-413f-449d-a43f-3ab4271781de",
+            "contractLabel": "Quest 62",
+            "contractAddress": "0xdFddc54027F983eCf9c688ef8BfE29B89Eda177f"
+          },
+          {
+            "contractId": "93cebfd5-b4b6-44ab-93cb-e6e1fb6393df",
+            "contractLabel": "Quest 63",
+            "contractAddress": "0xfCC41D00fE1e1493687b27E1D6Ace64b8A1a7DC7"
+          },
+          {
+            "contractId": "ad0259f6-61a3-452a-ad42-8e08d9b95f29",
+            "contractLabel": "Quest 64",
+            "contractAddress": "0x421f1B3d5e9AcACfE41c9cA14711ebFf93a11Fc0"
+          },
+          {
+            "contractId": "75cc936c-79c5-4e4b-a321-ff701b1dd26e",
+            "contractLabel": "Quest 65",
+            "contractAddress": "0x98ac394285453Bd200BDa4415839DB292d596187"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We\u2019ve launched the Quests ahead of schedule to give users ample time to complete actions and claim rewards.",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 20000,
+        "avgDailyUniqueUsers": 10000
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal.",
+        "incentives": "",
+        "arbReceived": 66665,
+        "arbUtilized": 80000,
+        "disclosures": "We\u2019ve fully allocated resources to 100 Quests.",
+        "arbRemaining": 7334,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "489d01eb-55f0-4377-b0b9-ba2c8feb1c72",
+            "contractLabel": "Quest 81",
+            "contractAddress": "0x27B261f174F6530AA9151A2AC3FF9ADc49842095"
+          },
+          {
+            "contractId": "145c6ae0-3ae3-4a23-99a4-86254b42cf01",
+            "contractLabel": "Quest 82",
+            "contractAddress": "0x90EbCDffC3479bFa58b86f2D45E5FFeF107d5faB"
+          },
+          {
+            "contractId": "aa45b4e8-44b5-4e45-8055-0360b35871f9",
+            "contractLabel": "Quest 83",
+            "contractAddress": "0xbdEc8596f339eC1998394aaed43754D94cA15B7e"
+          },
+          {
+            "contractId": "ab7dcb36-7735-4e59-b02a-5e3dfe6b27f1",
+            "contractLabel": "Quest 84",
+            "contractAddress": "0xdA57F4e1512fB218120fE896820A3Fd51d064650"
+          },
+          {
+            "contractId": "a50a4d0e-92ba-4bb8-8240-b6aede621982",
+            "contractLabel": "Quest 85",
+            "contractAddress": "0xDf1943d47538403896873EcE06FC5eB32C0f6DC0"
+          },
+          {
+            "contractId": "27a6657f-077f-48e8-bea0-cf0e39070c40",
+            "contractLabel": "Quest 86",
+            "contractAddress": "0xaeE19D8c91529A5A634fD4d73fFeD42B6DBFAAA6"
+          },
+          {
+            "contractId": "f0cbd1cc-4506-408c-a5cc-403e61f82756",
+            "contractLabel": "Quest 87",
+            "contractAddress": "0xc7f0cC899eae81B6eF3C458C612eF0e57E48fb3B"
+          },
+          {
+            "contractId": "3e46292e-0893-490d-89a0-7abc5ff9f0f9",
+            "contractLabel": "Quest 88",
+            "contractAddress": "0x9502a430F2f3B0174E5cCB28A55C146109A4a638"
+          },
+          {
+            "contractId": "fd8cd384-3227-459c-8146-c0cf577d1f76",
+            "contractLabel": "Quest 89",
+            "contractAddress": "0x9909d8b30Bf86FcC62c0Af79187BB3d622279346"
+          },
+          {
+            "contractId": "5469294a-0dbb-4280-b585-f1f4f0e35ce8",
+            "contractLabel": "Quest 90",
+            "contractAddress": "0x3b6C60BF6eE48cAA0840D4d5d7682cCD06FFF456"
+          },
+          {
+            "contractId": "6849e993-3158-45e2-a918-f480b3222b25",
+            "contractLabel": "Quest 91",
+            "contractAddress": "0x3EFDF9bf4796c29C8D0f72FDE337e806F0B69c56"
+          },
+          {
+            "contractId": "e2dc9273-ad3c-4fc3-bccb-66ce7b3cc8a9",
+            "contractLabel": "Quest 92",
+            "contractAddress": "0xdc56cA312d809AEB009059FE990E5F6F38744Ad3"
+          },
+          {
+            "contractId": "b0354a47-4573-4b48-a7a0-51e37dd8547c",
+            "contractLabel": "Quest 93",
+            "contractAddress": "0xeBd8917d2Ac1C3726B6E50fD4fb89fF5C6701381"
+          },
+          {
+            "contractId": "35b9f4a5-6592-433a-adc9-f80fbdfcd9bb",
+            "contractLabel": "Quest 94",
+            "contractAddress": "0xdBaAa036a8e1F8d0B265F9533aF5Fa3A5dA565A3"
+          },
+          {
+            "contractId": "be7bd1ad-bcb6-431f-aef3-90b2d6ad1d52",
+            "contractLabel": "Quest 95",
+            "contractAddress": "0x493cE11AF6cA99F82757B114E995fCA43F799eD7"
+          },
+          {
+            "contractId": "d70c9bf2-7d48-46a2-a9e1-9dd7c0416f73",
+            "contractLabel": "Quest 96",
+            "contractAddress": "0x7318Fe81c7E43F945BcC79B885ebD9e2D14E39af"
+          },
+          {
+            "contractId": "f3e5b7b1-3a05-43b7-82e4-41b581c79223",
+            "contractLabel": "Quest 97",
+            "contractAddress": "0xcdedCf9eE5699379805a4612745a692067E40B10"
+          },
+          {
+            "contractId": "c59ce28b-2c51-4b10-9bc6-4283cd5c98d5",
+            "contractLabel": "Quest 98",
+            "contractAddress": "0x99fe74aDd78f0d83D2b7f4e7aDE52C2aF8ca34C8"
+          },
+          {
+            "contractId": "a222942a-a817-46e5-8a4c-c2e47d45eb97",
+            "contractLabel": "Quest 99",
+            "contractAddress": "0x5757BD0CBBA49f9C8701cC7678c278A86874493A"
+          },
+          {
+            "contractId": "142ad57c-73bb-4cd1-a551-7fe97d1afbfc",
+            "contractLabel": "Quest 100",
+            "contractAddress": "0xC5C6B2531A72FeAB087d59fA11720B2D6BE2Ef21"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "Focusing on retention and high-quality apps, optimizing to hit all KPIs.",
+        "arbToBeDistributed": 66665,
+        "contractsIncentivized": [
+          {
+            "contractId": "0b08cd94-d874-4d2d-b327-a65af7c5b622",
+            "contractLabel": "CUBE Contract",
+            "contractAddress": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+          },
+          {
+            "contractId": "489d01eb-55f0-4377-b0b9-ba2c8feb1c72",
+            "contractLabel": "Quest 81",
+            "contractAddress": "0x27B261f174F6530AA9151A2AC3FF9ADc49842095"
+          },
+          {
+            "contractId": "145c6ae0-3ae3-4a23-99a4-86254b42cf01",
+            "contractLabel": "Quest 82",
+            "contractAddress": "0x90EbCDffC3479bFa58b86f2D45E5FFeF107d5faB"
+          },
+          {
+            "contractId": "aa45b4e8-44b5-4e45-8055-0360b35871f9",
+            "contractLabel": "Quest 83",
+            "contractAddress": "0xbdEc8596f339eC1998394aaed43754D94cA15B7e"
+          },
+          {
+            "contractId": "ab7dcb36-7735-4e59-b02a-5e3dfe6b27f1",
+            "contractLabel": "Quest 84",
+            "contractAddress": "0xdA57F4e1512fB218120fE896820A3Fd51d064650"
+          },
+          {
+            "contractId": "a50a4d0e-92ba-4bb8-8240-b6aede621982",
+            "contractLabel": "Quest 85",
+            "contractAddress": "0xDf1943d47538403896873EcE06FC5eB32C0f6DC0"
+          },
+          {
+            "contractId": "27a6657f-077f-48e8-bea0-cf0e39070c40",
+            "contractLabel": "Quest 86",
+            "contractAddress": "0xaeE19D8c91529A5A634fD4d73fFeD42B6DBFAAA6"
+          },
+          {
+            "contractId": "f0cbd1cc-4506-408c-a5cc-403e61f82756",
+            "contractLabel": "Quest 87",
+            "contractAddress": "0xc7f0cC899eae81B6eF3C458C612eF0e57E48fb3B"
+          },
+          {
+            "contractId": "3e46292e-0893-490d-89a0-7abc5ff9f0f9",
+            "contractLabel": "Quest 88",
+            "contractAddress": "0x9502a430F2f3B0174E5cCB28A55C146109A4a638"
+          },
+          {
+            "contractId": "fd8cd384-3227-459c-8146-c0cf577d1f76",
+            "contractLabel": "Quest 89",
+            "contractAddress": "0x9909d8b30Bf86FcC62c0Af79187BB3d622279346"
+          },
+          {
+            "contractId": "5469294a-0dbb-4280-b585-f1f4f0e35ce8",
+            "contractLabel": "Quest 90",
+            "contractAddress": "0x3b6C60BF6eE48cAA0840D4d5d7682cCD06FFF456"
+          },
+          {
+            "contractId": "6849e993-3158-45e2-a918-f480b3222b25",
+            "contractLabel": "Quest 91",
+            "contractAddress": "0x3EFDF9bf4796c29C8D0f72FDE337e806F0B69c56"
+          },
+          {
+            "contractId": "e2dc9273-ad3c-4fc3-bccb-66ce7b3cc8a9",
+            "contractLabel": "Quest 92",
+            "contractAddress": "0xdc56cA312d809AEB009059FE990E5F6F38744Ad3"
+          },
+          {
+            "contractId": "b0354a47-4573-4b48-a7a0-51e37dd8547c",
+            "contractLabel": "Quest 93",
+            "contractAddress": "0xeBd8917d2Ac1C3726B6E50fD4fb89fF5C6701381"
+          },
+          {
+            "contractId": "35b9f4a5-6592-433a-adc9-f80fbdfcd9bb",
+            "contractLabel": "Quest 94",
+            "contractAddress": "0xdBaAa036a8e1F8d0B265F9533aF5Fa3A5dA565A3"
+          },
+          {
+            "contractId": "be7bd1ad-bcb6-431f-aef3-90b2d6ad1d52",
+            "contractLabel": "Quest 95",
+            "contractAddress": "0x493cE11AF6cA99F82757B114E995fCA43F799eD7"
+          },
+          {
+            "contractId": "d70c9bf2-7d48-46a2-a9e1-9dd7c0416f73",
+            "contractLabel": "Quest 96",
+            "contractAddress": "0x7318Fe81c7E43F945BcC79B885ebD9e2D14E39af"
+          },
+          {
+            "contractId": "f3e5b7b1-3a05-43b7-82e4-41b581c79223",
+            "contractLabel": "Quest 97",
+            "contractAddress": "0xcdedCf9eE5699379805a4612745a692067E40B10"
+          },
+          {
+            "contractId": "c59ce28b-2c51-4b10-9bc6-4283cd5c98d5",
+            "contractLabel": "Quest 98",
+            "contractAddress": "0x99fe74aDd78f0d83D2b7f4e7aDE52C2aF8ca34C8"
+          },
+          {
+            "contractId": "a222942a-a817-46e5-8a4c-c2e47d45eb97",
+            "contractLabel": "Quest 99",
+            "contractAddress": "0x5757BD0CBBA49f9C8701cC7678c278A86874493A"
+          },
+          {
+            "contractId": "142ad57c-73bb-4cd1-a551-7fe97d1afbfc",
+            "contractLabel": "Quest 100",
+            "contractAddress": "0xC5C6B2531A72FeAB087d59fA11720B2D6BE2Ef21"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal. The rewards are currently in the claiming phase by users.",
+        "lessons": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal. The rewards are currently in the claiming phase by users.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 20000,
+        "avgDailyUniqueUsers": 10000
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal. The rewards are currently in the claiming phase by users.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal. The rewards are currently in the claiming phase by users.",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal. The rewards are currently in the claiming phase by users.",
+        "expectations": "We\u2019ve allocated all 400,000 ARB from the LTIP to 100 Quests, with 4,000 ARB per Quest across a wide range of apps, as planned in the proposal. The rewards are currently in the claiming phase by users.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 400000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Layer3",
+  "grantSummary": "N/A",
+  "fundingAddress": "0xB3E365212E44BbD1edDA89397f71Aa7b49c4f3aF",
+  "editorAddresses": [],
+  "matchingGrantSize": 400000,
+  "metricsDashboardLink": "https://dune.com/queries/3717385?timestamp=2024-05-07%2000:00:00 https://dune.com/queries/3717529?timestamp=2024-05-07%2000:00:00",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xB3E365212E44BbD1edDA89397f71Aa7b49c4f3aF"
+}

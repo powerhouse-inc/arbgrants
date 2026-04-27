@@ -1,0 +1,330 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes were applied over the last 2 weeks.",
+        "lessons": "As the incentives started late in this period, it is not possible to make any conclusion.",
+        "avgDailyTVL": 48552,
+        "avgDailyTXNS": 12,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "For this two-week phase there will be no airdrop distribution. The first one will start the 7th July.",
+        "incentives": "",
+        "arbReceived": 16020,
+        "arbUtilized": 0,
+        "disclosures": "Mechanism for distribution incentives: For each monthly epoch, we will use a multi-send tool to send the rewards to the eligible users from the Funding multi-sig address, as we don\u2019t want to introduce extra risk in developing a smart contract to send the reward.",
+        "arbRemaining": 96000,
+        "contractsIncentivized": [
+          {
+            "contractId": "15e2c1d6-09b1-4610-b698-9851cf15f033",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "Since we started the incentives on 11/06 we do not expect major changes in this period.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "d90cdfcf-83c1-4792-81e0-c7cd8a9279ca",
+            "contractLabel": "Multisig which will airdrop ARB to users/vaults",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Incentives are working as expected, especially the trading competition.\nThe TVL increased and the daily trading volume nearly doubled from $37,692 to $61\u202f,898.\nThe first distribution of incentive will happen next period which will be interesting to see if current users will continue to participate to next trading competition.",
+        "avgDailyTVL": 111240,
+        "avgDailyTXNS": 9,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The Trading Competition and incentives are attracting traders and investors on perpetual trading vaults.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "The TVL is higher at 112,616$ with a constant open interest on GMX of 202,847$ according to the Dune Dashboard.",
+        "arbRemaining": 79980,
+        "contractsIncentivized": [
+          {
+            "contractId": "3db487e7-5a7a-4fe1-817c-9525678ec730",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "With the beginning of the incentives and the GMX Trading Competition, an increase in TVL and volume is expected.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "7900c6ac-ea7c-42aa-a0d6-0a7fde459fdf",
+            "contractLabel": "Multisig",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "The dApp is very depend to the market and the traders. Despite the market crash, the number of transactions and unique user nearly doubled on this period. ",
+        "avgDailyTVL": 101000,
+        "avgDailyTXNS": 19,
+        "avgDailyUniqueUsers": 8
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The protocol depends a lot on market conditions and on traders.",
+        "incentives": "",
+        "arbReceived": 5500,
+        "arbUtilized": 5479,
+        "disclosures": "The TVL ($119k to $90k) and open interest($130k to $50k) dropped due the market crash.",
+        "arbRemaining": 74480,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "This period might be complicated due to the market. However the end of the first competition might also bring more volume.",
+        "arbToBeDistributed": 5500,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The winnings of the second competition have been revised upwards to attract more traders.",
+        "lessons": "Traders in the dApp aim for longer term trades. It has been thought that this behavior comes from fees, however even with ARB compensation of fees the way of trading remains the same. That is why it seems better to reward good traders through competitions",
+        "avgDailyTVL": 82020,
+        "avgDailyTXNS": 6,
+        "avgDailyUniqueUsers": 4
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The ARB allocated for rebates will also be used to more reward great traders through the competition.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Traders seem to privilege higher time frame trades despite the rebates proposed thanks to the grant.",
+        "arbRemaining": 74480,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "The rewards of the trading competition will be higher during this epoch to continue to attracts traders.",
+        "expectations": "With the increase in rewards a growth in volume is expected.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The incentives regarding the TVL of each are not effective enough as well as for the reduction of costs and should be modified. A part of the ARB which was initially allocated for these two parties will be used for the last two competitions.",
+        "lessons": "Competitions remain the most effective incentive.\nHowever, the choice of having one competition per month does not allow traders to return regularly to the dApp. This is why for the last month of the grant two competitions will be made.",
+        "avgDailyTVL": 78718,
+        "avgDailyTXNS": 5,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Daily volume more than doubled from 55k to 121K and TVL did not decline much despite market conditions.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 15782,
+        "disclosures": "The second competition has ended and the increase in competition rewards has helped attract more volume despite the complicated market conditions.",
+        "arbRemaining": 74480,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes.",
+        "expectations": "With the end of the second competition an increase in volume is expected",
+        "arbToBeDistributed": 16000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Although the market is still in a consolidation phase, users appreciate the simpler, shorter-term application of incentives. TVL increased by 10%, as did the number of vaults.",
+        "avgDailyTVL": 86933,
+        "avgDailyTXNS": 13,
+        "avgDailyUniqueUsers": 7
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "There is just one last distrubition to be made, which will take place at the end of the last competition. ",
+        "incentives": "",
+        "arbReceived": 58460,
+        "arbUtilized": 17500,
+        "disclosures": "The first competition ended and the distribution took place.",
+        "arbRemaining": 16020,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "With the announcement of two shorter competitions at the end of the month, tvl and the number of users should increase.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Running an incentive campaign was rewarding and gave us a better understanding of how to attract more users to the especially through competitions platform.",
+        "avgDailyTVL": 101780,
+        "avgDailyTXNS": 14,
+        "avgDailyUniqueUsers": 7
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "September 1st distribution concludes LTIPP",
+        "incentives": "",
+        "arbReceived": 16020,
+        "arbUtilized": 38366,
+        "disclosures": "ARB were distributed on September 1st concerning the 3 following points: the trading competition, the reduction fees as well as the bonus for vaults which respected TVL and volume instructions.",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "The 20,000 ARB intended to reward vaults that have fulfilled specific tasks at the end of the LTIPP will be distributed equally.",
+        "expectations": "More volume and TVL thanks to the last trading competition.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 96000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "perpy",
+  "grantSummary": "",
+  "fundingAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82",
+  "editorAddresses": [],
+  "matchingGrantSize": 96120,
+  "metricsDashboardLink": "https://dune.com/perpy/stats",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x98237513fcB956f63D52074D507970E8Fc4D5e82"
+}

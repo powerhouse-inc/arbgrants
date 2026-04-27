@@ -1,0 +1,570 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Daily Unique users increase by 20% during the biweekly period",
+        "lessons": "1. We need stronger marketing collaboration with the partner DEX to further drive up liquidity of USDV in the pools\n2. More AMA sessions should be organised to tackle questions from the community",
+        "avgDailyTVL": 2740000,
+        "avgDailyTXNS": 1220,
+        "avgDailyUniqueUsers": 741
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Same as planned.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Same as planned.",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "cf8137d8-1687-496f-93ca-feba80a7742f",
+            "contractLabel": "PCS USDC/USDV",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "1381670a-eabb-4c49-b24a-738054aee1ac",
+            "contractLabel": "PCS USDT/USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "2a4e6178-0fb9-4849-a4a0-816e94f95281",
+            "contractLabel": "TraderJoe USDC/USDV",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          },
+          {
+            "contractId": "a5cc33b0-91ad-4fa1-8846-1065ef80373a",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "c29a4b48-d35d-43ac-a770-6f94fddad301",
+            "contractLabel": "UniswapV3 USDV-USDC ",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "e7c8a1fb-3c27-41d9-ba3b-7c5fea6bcf07",
+            "contractLabel": "UniswapV3 USDV-USDT",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T23:00:00.000Z",
+      "planned": {
+        "changes": "1. We will be matching our incentives together with PancakeSwap to further encourage LP\n2. Camelot is also willing to co-incentivise the pools together with us\n",
+        "expectations": "1. We expect PCS and Camelot pools' TVL to achieve 500K be end of the epoch",
+        "arbToBeDistributed": 62765,
+        "contractsIncentivized": [
+          {
+            "contractId": "8630e217-e28e-4117-9fb2-d9a45d99f4fa",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "033c871e-c48c-42c7-8d46-95ddf471c9e4",
+            "contractLabel": "PancakeSwap USDC/USDV:",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "e983100d-8ad8-4f35-aa1e-bd0580c928a0",
+            "contractLabel": "PancakeSwap USDT-USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "0c6058d3-6f3a-4dd6-b526-8ecce79a32a7",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "f5ec2e58-d2c0-4da8-9fe9-7ea3b102e85a",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8cd63ed5-3a34-41e8-bac0-80fe80a90f02",
+            "contractLabel": "TraderJoe USDV-USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-02T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We plan to join host more AMA sessions with the DEX partners as well as payment partners to spread awareness on the use case of USDV in arbitrum ecosystem",
+        "lessons": "1. High APR is no longer the most effective way to attract TVL, we need more marketing campaigns\n2. The most difficult barrier for USDV to be accepted as payment method is the lack of web3 security awareness.",
+        "avgDailyTVL": 2500000,
+        "avgDailyTXNS": 13000,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Camelot - epoch 2 start date - 8 July (Epoch 1 start date: 24 Jun)\nUniswap - epoch 2 start date - 27 Jun (Epoch 1 start date: 13 Jun)\nPCS - epoch 2 start date - 27 Jun (Epoch 1 start date: 13 Jun)\nTraderjoe - epoch 2 start date - 2 July (Epoch 1 start date: 18 Jun)",
+        "incentives": "",
+        "arbReceived": 40060,
+        "arbUtilized": 38311,
+        "disclosures": "Epoch 2 pool incentives have been fully injected into USDV pools across all pools.",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "40679812-8fce-4b7b-81c6-b6329eac3f82",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "729ff84d-2fed-4fca-9a9b-f53afce7d54c",
+            "contractLabel": "UniswapV3 USDV-USDT",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "67a7e919-6ef9-4029-971b-15c1aada5e73",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "78d178da-f235-457d-a476-598e09c08c2f",
+            "contractLabel": "TraderJoe USDV/USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          },
+          {
+            "contractId": "1fd33786-25a4-4fd3-8cb8-5abff9ed5cdd",
+            "contractLabel": "PCS USDT/USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "d91d58ce-8811-4519-b116-94a50d849b5b",
+            "contractLabel": "PCS USDC/USDV",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T23:00:00.000Z",
+      "planned": {
+        "changes": "We continue with the epoch 1 incentives as we see positive growth in Pool TVL across all pools due to the joint incentives provided by USDV and the DEX partners",
+        "expectations": "We expect all pool TVL increase by another 20% on average.",
+        "arbToBeDistributed": 38311,
+        "contractsIncentivized": [
+          {
+            "contractId": "14e6a7df-ed65-43ac-97a6-0181122ecd07",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "e100c7c6-0a0a-4793-875a-749881385ec5",
+            "contractLabel": "UniswapV3 USDV-USDT",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8ea05eea-757a-4947-a670-90025f4d864d",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "762e6549-71c6-47b1-b2c7-166315f0341d",
+            "contractLabel": "PCS USDT/USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "c8959a6a-8d75-47aa-b09d-a95c23062309",
+            "contractLabel": "PCS USDC/USDV",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "86df54ac-c62c-4ce8-958d-25d52fd80baf",
+            "contractLabel": "TraderJoe USDV/USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "We see meaningful increase in both average daily transactions and average daily unique users over the this epoch.",
+        "lessons": "The pool emissions should be aligned with market sentiments to effectively increase tx vol and TVL.",
+        "avgDailyTVL": 2332914,
+        "avgDailyTXNS": 917559,
+        "avgDailyUniqueUsers": 145901
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "6 pools will be incentivised as per the last epoch.",
+        "incentives": "",
+        "arbReceived": 86668,
+        "arbUtilized": 37820,
+        "disclosures": "We will continue to incentivise the pools to attract more liquidity providers.",
+        "arbRemaining": 359940,
+        "contractsIncentivized": [
+          {
+            "contractId": "8630e217-e28e-4117-9fb2-d9a45d99f4fa",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "033c871e-c48c-42c7-8d46-95ddf471c9e4",
+            "contractLabel": "PancakeSwap USDC/USDV:",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "e983100d-8ad8-4f35-aa1e-bd0580c928a0",
+            "contractLabel": "PancakeSwap USDT-USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "0c6058d3-6f3a-4dd6-b526-8ecce79a32a7",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "f5ec2e58-d2c0-4da8-9fe9-7ea3b102e85a",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8cd63ed5-3a34-41e8-bac0-80fe80a90f02",
+            "contractLabel": "TraderJoe USDV-USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T23:00:00.000Z",
+      "planned": {
+        "changes": "We will use the same incentive amounts for the pools",
+        "expectations": "More payment transaction volume on arbitrum network and more unique user addresses.",
+        "arbToBeDistributed": 38311,
+        "contractsIncentivized": [
+          {
+            "contractId": "ac1d3a6a-5442-4bd6-bdde-6617825ab1df",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "778d7268-bdc5-4b6d-b75c-67309be6491d",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "a768ddd9-34f9-4c7b-8648-b00ac0343f86",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "87b63ab7-1b0c-48a2-9a12-b9e3dcb48958",
+            "contractLabel": "PCS USDT/USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "75fd4ff7-edc2-4410-8a5e-bc1da348829a",
+            "contractLabel": "PCS USDC/USDV",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "c1ac0778-6036-4afb-9986-2865d64fc5a5",
+            "contractLabel": "TraderJoe USDV/USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes are made",
+        "lessons": "Combining with points system may work better to attract liquidity ",
+        "avgDailyTVL": 1753301443,
+        "avgDailyTXNS": 943129,
+        "avgDailyUniqueUsers": 146407
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives have been fully injected.",
+        "incentives": "",
+        "arbReceived": 86668,
+        "arbUtilized": 37820,
+        "disclosures": "Incentives amount the same as last biweekly epoch.",
+        "arbRemaining": 186604,
+        "contractsIncentivized": [
+          {
+            "contractId": "033c871e-c48c-42c7-8d46-95ddf471c9e4",
+            "contractLabel": "PancakeSwap USDC/USDV:",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "8630e217-e28e-4117-9fb2-d9a45d99f4fa",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "e983100d-8ad8-4f35-aa1e-bd0580c928a0",
+            "contractLabel": "PancakeSwap USDT-USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "0c6058d3-6f3a-4dd6-b526-8ecce79a32a7",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "f5ec2e58-d2c0-4da8-9fe9-7ea3b102e85a",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8cd63ed5-3a34-41e8-bac0-80fe80a90f02",
+            "contractLabel": "TraderJoe USDV-USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T23:00:00.000Z",
+      "planned": {
+        "changes": "We are keeping the incentive amounts the same as last biweekly epoch.",
+        "expectations": "We expect the average TVL and average transaction volume to increase by 10% at the end of this biweekly epoch.",
+        "arbToBeDistributed": 378205,
+        "contractsIncentivized": [
+          {
+            "contractId": "033c871e-c48c-42c7-8d46-95ddf471c9e4",
+            "contractLabel": "PancakeSwap USDC/USDV:",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "8630e217-e28e-4117-9fb2-d9a45d99f4fa",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "e983100d-8ad8-4f35-aa1e-bd0580c928a0",
+            "contractLabel": "PancakeSwap USDT-USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "0c6058d3-6f3a-4dd6-b526-8ecce79a32a7",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "f5ec2e58-d2c0-4da8-9fe9-7ea3b102e85a",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8cd63ed5-3a34-41e8-bac0-80fe80a90f02",
+            "contractLabel": "TraderJoe USDV-USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "More social media engagements with the DEX partners",
+        "lessons": "Observe meaningful market trends and engage with top protocols to increase traction",
+        "avgDailyTVL": 1763301543,
+        "avgDailyTXNS": 943129,
+        "avgDailyUniqueUsers": 146407
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No significant changes made",
+        "incentives": "",
+        "arbReceived": 86668,
+        "arbUtilized": 37820,
+        "disclosures": "Same disbursement plans as last stream",
+        "arbRemaining": 99936,
+        "contractsIncentivized": [
+          {
+            "contractId": "8630e217-e28e-4117-9fb2-d9a45d99f4fa",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "033c871e-c48c-42c7-8d46-95ddf471c9e4",
+            "contractLabel": "PancakeSwap USDC/USDV:",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "e983100d-8ad8-4f35-aa1e-bd0580c928a0",
+            "contractLabel": "PancakeSwap USDT-USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "0c6058d3-6f3a-4dd6-b526-8ecce79a32a7",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "f5ec2e58-d2c0-4da8-9fe9-7ea3b102e85a",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8cd63ed5-3a34-41e8-bac0-80fe80a90f02",
+            "contractLabel": "TraderJoe USDV-USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T23:00:00.000Z",
+      "planned": {
+        "changes": "Same disbursement plan as last biweekly stream",
+        "expectations": "Improving transaction volume and users in Arbitrum ecosystem",
+        "arbToBeDistributed": 37820,
+        "contractsIncentivized": [
+          {
+            "contractId": "8630e217-e28e-4117-9fb2-d9a45d99f4fa",
+            "contractLabel": "Camelot USDV-USDC",
+            "contractAddress": "0xfa893368620a0a26eC2DA65836962768aB5BeB9a"
+          },
+          {
+            "contractId": "033c871e-c48c-42c7-8d46-95ddf471c9e4",
+            "contractLabel": "PancakeSwap USDC/USDV:",
+            "contractAddress": "0xb18ea0b56e46d4f890dc729425184fd1ef25dbff"
+          },
+          {
+            "contractId": "e983100d-8ad8-4f35-aa1e-bd0580c928a0",
+            "contractLabel": "PancakeSwap USDT-USDV",
+            "contractAddress": "0x667ed8fca4fc042b8425aa3547e3271d9e6e9bb4"
+          },
+          {
+            "contractId": "0c6058d3-6f3a-4dd6-b526-8ecce79a32a7",
+            "contractLabel": "UniswapV3 USDV-USDC",
+            "contractAddress": "0x536F4b1CbEDA8387A57b45A549ca6B250f7f1D90"
+          },
+          {
+            "contractId": "f5ec2e58-d2c0-4da8-9fe9-7ea3b102e85a",
+            "contractLabel": "UniswapV3 USDV-USDT ",
+            "contractAddress": "0x4992de010f1f1B69F7C650B13fb279AA5ee7feF3"
+          },
+          {
+            "contractId": "8cd63ed5-3a34-41e8-bac0-80fe80a90f02",
+            "contractLabel": "TraderJoe USDV-USDC",
+            "contractAddress": "0x53eccccaaa368a9431b3659a8e37ce4b411ad258"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-28T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-25T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-11T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-08T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-25T23:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T23:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T23:00:00.000Z"
+    }
+  ],
+  "grantSize": 400000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Verified USD",
+  "grantSummary": "This grant shall be used to incentivise the on-chain liquidity of USDV on Arbitrum which includes subsidising payment use cases of USDV and facilitate liquidity provisioning of USDV across various DEXes on Arbitrum.",
+  "fundingAddress": "0x58f65DDD908c64905d29AB4ce67C16f068eb9EFA",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/Verified-USD-",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x58f65DDD908c64905d29AB4ce67C16f068eb9EFA"
+}

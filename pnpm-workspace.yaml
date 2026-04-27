@@ -1,0 +1,7 @@
+packages:
+  - arbgrants
+  - arbgrants-fusion
+
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver

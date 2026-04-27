@@ -1,0 +1,408 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - We do not have TVL as an aggregator.",
+        "lessons": "N/A",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 16000,
+        "avgDailyUniqueUsers": 400
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "So far, we have only used ARB for the gas incentives in our program. Airdrop to users in our first mystery crates will be on June 28th at which time we will distribute 70K ARB to our users.",
+        "incentives": "",
+        "arbReceived": 66000,
+        "arbUtilized": 4000,
+        "disclosures": "To date, we have used about 3250 USD (about 4K ARB) of the grant for gas incentives to provide gas-free trading throughout our program. \nhttps://api.bebop.xyz/history/v2/arbitrum/info ",
+        "arbRemaining": 334000,
+        "contractsIncentivized": [
+          {
+            "contractId": "90d73125-7615-497f-8343-843f2e59baaa",
+            "contractLabel": "Disbursement Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A - We are just waiting for the second stream of ARB to initiate our first crates unlock on Friday, June 28th. ",
+        "expectations": "Trading program and leaderboard are operating as expected. As part of our program, we are distributing 70K ARB to users every 3 weeks based on their trading activity on our platform for which gas is covered by part of our grant. Therefore, we require the second stream of ARB before we unlock our first mystery boxes for users on June 28th.\n\nPhases of our program will run from:\nPhase 1: June 7 - June 28\nPhase 2: June 28 - July 19\nPhase 3: July 19 - August 9\nPhase 4: August 9 - August 30",
+        "arbToBeDistributed": 70000,
+        "contractsIncentivized": [
+          {
+            "contractId": "311c4892-94f0-4a68-9386-2df6ad30b1a1",
+            "contractLabel": "Disbursement Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Going forward, we are implementing new measures to protect against Sybil attacks and to remove wallets known to be connected with such activities. Based on the feedback from participants in our Phase 1 leaderboard, we are also implementing changes to how we distribute the pot of $ARB users can win. The changes involve moving from a volume-weighted system to a rank-based system where users who rank high with an overall lower volume could get more rewards. Additionally, we are removing the distribution of sub-1 $ARB as it\u2019s not very meaningful as a reward.",
+        "lessons": "Our next three-week trading period will end on July 19. At that point, we will distribute another 70,000 ARB to our users based on their Bebop trading activity on Arbitrum.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 32016,
+        "avgDailyUniqueUsers": 250
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We distributed our first round of 70,000 ARB to users on June 28th based on their Arbitrum trading on Bebop over the first three weeks of our program.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 83500,
+        "disclosures": "N/A - All is operating as expected.",
+        "arbRemaining": 198000,
+        "contractsIncentivized": [
+          {
+            "contractId": "478d425d-4f4c-472d-acbd-1534ee27de45",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "bd1272ea-1b44-4cd0-bd4c-a33dc324ba8a",
+            "contractLabel": "Disbursement Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A - As of today, we have received our second stream of ARB (66K ARB) giving us a current total of 132K ARB. We will use 70K of this ARB to initiate our first crates unlock on Friday, June 28th as well as some for gas-refunds for free trading during this period.",
+        "expectations": "Our trading program and leaderboard are operating as expected. By design, we are distributing 70K ARB to users every 3 weeks based on their trading activity on Bebop for which gas is covered by part of our grant. Therefore, our first mystery boxes for users on June 28th.\n\nPhases of our program will run from:\nPhase 1: June 7 - June 28 (first unlock)\nPhase 2: June 28 - July 19\nPhase 3: July 19 - August 9\nPhase 4: August 9 - August 30",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "6c13636a-111d-4e8a-83ba-c1c284605f6c",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "bf894a98-9e2f-4bdb-989e-d79ea8a9278c",
+            "contractLabel": "Disbursement Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - We are changing the prize distribution tiers for phase 3 but this was covered in our previous report.",
+        "lessons": "N/A - We will add phase 2 learnings in the next report.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 41865,
+        "avgDailyUniqueUsers": 1321
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We expect the program to continue running as planned, with our next phase ending on June 19th meaning that users will then be able to claim their ARB prizes for Phase 2. Phase 3 will then run from July 19th - August 9th. ",
+        "incentives": "",
+        "arbReceived": 66000,
+        "arbUtilized": 83500,
+        "disclosures": "N/A - There have been no changes since our last report as our next distribution of ARB to users is not until Friday, June 19th.",
+        "arbRemaining": -2000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Going forward, we are implementing new measures to protect against Sybil attacks and to remove wallets known to be connected with such activities. Based on the feedback from participants in our Phase 1 leaderboard, we are also implementing changes to how we distribute the pot of $ARB users can win. The changes involve moving from a volume-weighted system to a rank-based system where users who rank high with overall lower volume could get more rewards. Additionally, we are removing the distribution of sub-1 $ARB as it\u2019s not very meaningful as a reward.",
+        "expectations": "Our next three-week trading period will end on July 19. At that point, we will distribute another 70,000 ARB to our users based on their Bebop trading activity on Arbitrum.",
+        "arbToBeDistributed": 70000,
+        "contractsIncentivized": [
+          {
+            "contractId": "b5045851-7bbe-49da-b93b-ca25557d5438",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "bd6f0d42-f35e-410a-a8bf-7a94ebaf343e",
+            "contractLabel": "Disbursement Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - No changes were made",
+        "lessons": "No new lessons learned",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 22521,
+        "avgDailyUniqueUsers": 238
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Trading activities continued as we progressed with phase 3.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 5000,
+        "disclosures": "N/A - Our next distribution will be at the close of phase 3 on August 9th.",
+        "arbRemaining": -2000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A - We will evaluate the program after phase 2 concludes and see if any further changes are needed.",
+        "expectations": "Our next three-week trading period will end on July 19. At that point, we will distribute another 70,000 ARB to our users based on their Bebop trading activity on Arbitrum.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - No changes this phase.",
+        "lessons": "Continuing program BAU. No major updates.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 7379,
+        "avgDailyUniqueUsers": 3459
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Our last phase is currently on-going and will finish at the end of the month (Phase 4: August 9 - August 30). At this point, we will distribute all of the remaining ARB prizes to our users.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 72000,
+        "disclosures": "N/A - We distributed another 70K ARB in prizes to users beginning Friday, June 19th. Program continues as usual.",
+        "arbRemaining": -2000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A - Program is operating as expected. Next phase will conclude on August 9th and 70K ARB will be distributed to users.",
+        "expectations": "Expected to continue as planned.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - We distributed another 70K ARB in prizes to users beginning Friday, August 30th.",
+        "lessons": "N/A - August 30th is our last drop.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 3346,
+        "avgDailyUniqueUsers": 248
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "N/A",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "N/A",
+        "arbRemaining": 268000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A - No changes are expected",
+        "expectations": "Our last phase is currently on-going and will finish at the end of the month (Phase 4: August 9 - August 30). At this point, we will distribute all of the remaining ARB prizes to our users.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A - This is the end of the program.",
+        "lessons": "We wish we had allowed more time after our final drop for users to claim their ARB. We initially believed there would be additional time for claims, not realizing the entire program would conclude on September 2nd.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 2752,
+        "avgDailyUniqueUsers": 201
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Our full grant for the program was allocated as follows:\n(1) End-user incentives: 340K ARB (280K ARB for swap incentives, 60K ARB for gas compensation).\n(2) Incentives for Solvers and PMMs on Arbitrum: 60K ARB.\n\nAt the end of the program:\n(1) End-user incentives: A total of 293,958.02 ARB was used for swap incentives and gas compensation, with the remaining 46,042 ARB returned to the ARB Foundation.\n(2) Incentives for Solvers and PMMs on Arbitrum: 60K ARB is still being distributed.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 70000,
+        "disclosures": "Here is Bebop returning unused funds. Please find the transaction hash below.\nhttps://arbiscan.io/tx/0x23bc4c5f20303aa3423689eb03b978871dabb65a40f6b8dcaef9759cd406772a",
+        "arbRemaining": 268000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes were made to the program. This was the last phase of our program.",
+        "expectations": "We will distribute the remaining ARB to the winners in this phase. However, since this phase offers limited time for users to claim their ARB before the program ends, some users may not be able to claim their ARB before the program concludes.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+          },
+          {
+            "contractId": "69cf3f41-3288-4bab-81f9-c53eba6d8a18",
+            "contractLabel": "Prize Distribution",
+            "contractAddress": "0xdA623868516a3c39B5441c0b0E4Dad147f6f7D91"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 400000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Bebop",
+  "grantSummary": "",
+  "fundingAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992",
+  "editorAddresses": [],
+  "matchingGrantSize": 400000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xD59743314ba847c21E50cA90Bd56EB6d9F518992"
+}

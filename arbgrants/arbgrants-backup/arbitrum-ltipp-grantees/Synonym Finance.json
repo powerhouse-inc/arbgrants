@@ -1,0 +1,325 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Incentives begin June 26th, no major changes for now.",
+        "lessons": "Incentives begin June 26th, no major changes for now.",
+        "avgDailyTVL": 3756000,
+        "avgDailyTXNS": 70,
+        "avgDailyUniqueUsers": 33
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Rewards will start June 26th. No changes for now.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Rewards will start June 26th. No changes for now.",
+        "arbRemaining": 400000,
+        "contractsIncentivized": [
+          {
+            "contractId": "3f01c397-4364-463f-ac68-1ceba376f280",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Rewards will start June 26th. No changes for now.",
+        "expectations": "Rewards will start June 26th. No changes for now.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "a74c3a04-6a0e-4e3e-94b1-fa40789d2987",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop",
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes in this period - this was the last period prior to our SYNO Summer kickoff.",
+        "lessons": "No meaningful changes in this period - this was the last period prior to our SYNO Summer kickoff.",
+        "avgDailyTVL": 3600000,
+        "avgDailyTXNS": 139,
+        "avgDailyUniqueUsers": 84
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "SYNO Summer initial release - will flow into smaller weekly distributions after.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "SYNO Summer initial release - will flow into smaller weekly distributions after.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "7915f05b-2e03-487a-a080-29bd0ef7ea92",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "We'll be releasing our first tranche of BIPS Season One rewards on June 26th. We plan on releasing rewards on a weekly basis that will be tied to the guide we're releasing on June 24th.",
+        "expectations": "We expect to release 120K ARB to kick off SYNO Summer.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "91608560-6efb-46cc-afe1-ed0472e35a16",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Our TVL has nearly tripled to date with significant growth in both ARB collateral usage and deployment of stablecoins on the Arbitrum network. ",
+        "lessons": "We've learned that stablecoin loan originations are highly incentivized by the combination of attractive incentives rates and the availability of collateral assets like ARB.",
+        "avgDailyTVL": 10350000,
+        "avgDailyTXNS": 191,
+        "avgDailyUniqueUsers": 132
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "During this phase we have kicked off SYNO Summer. We used a large chunk of our initial deposits to reward users who have been depositing on Synonym and making Arbitrum their home base, even if they are interested in other chains (true stickiness).",
+        "incentives": "",
+        "arbReceived": 133334,
+        "arbUtilized": 133334,
+        "disclosures": "We used the majority of our incentives during this period to kick off our SYNO Summer rewards program. ",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b276df23-28e7-4f1a-9ff7-4c5622ed1237",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "SYNO Summer rewards campaign, fuelled mainly by our LTIPP rewards, just kicked off! We expect to see significant growth this period forward.",
+        "expectations": "We're expecting significant TVL growth across our incentivized Arbitrum markets, especially ARB and USDC.",
+        "arbToBeDistributed": 66667,
+        "contractsIncentivized": [
+          {
+            "contractId": "5e94a338-6945-4b08-ac1a-84098b8a375c",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Meaningful increases in protocol and Arbitrum TVL.",
+        "lessons": "USDC remains the most popular LTIPP-incentivized market.",
+        "avgDailyTVL": 13500000,
+        "avgDailyTXNS": 256,
+        "avgDailyUniqueUsers": 201
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "SYNO Summer x LTIPP Campaign ongoing during this period. No additional disclosures.",
+        "incentives": "",
+        "arbReceived": 66666,
+        "arbUtilized": 66666,
+        "disclosures": "SYNO Summer x LTIPP Campaign ongoing during this period. No additional disclosures.",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ced142dd-2575-4eba-9645-00b27a7d30bc",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "We officially started our SYNO Summer incentives program during this period. We started with the largest rewards and will be balancing them downward over time. The start of this program, which is mainly fuelled by LTIPP, has nearly tripled our TVL in less than 2 weeks.",
+        "expectations": "We expect to see continued growth in Arbitrum stablecoin loan origination and increased utilization of ARB as collateral. ",
+        "arbToBeDistributed": 66666,
+        "contractsIncentivized": [
+          {
+            "contractId": "ced142dd-2575-4eba-9645-00b27a7d30bc",
+            "contractLabel": "Multisig",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes, growth continuing in key markets.",
+        "lessons": "As soon as markets become heavily incentivized, users demand a wider variety of collateral (mainly ETH derivatives) almost immediately.",
+        "avgDailyTVL": 13912000,
+        "avgDailyTXNS": 204,
+        "avgDailyUniqueUsers": 176
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grant program is moving forward well. We're fortunate to have been able to combine W (Wormhole) emissions with ARB to make a large impact. Users demanding more Arbitrum LSTs.",
+        "incentives": "",
+        "arbReceived": 66666,
+        "arbUtilized": 66666,
+        "disclosures": "No additional disclosures.",
+        "arbRemaining": 133334,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "SYNO Summer continued through this period with the addition of multiple new assets, including new ones on Arbitrum, that have driven more attention to our LTIPP Program. We have seen steady growth that has started to taper off after our initial push, but Arbitrum markets are still growing.",
+        "expectations": "We expect continued growth in our primary Arbitrum USDC market as well as more interest in using Arbitrum LRTs/LSTs as prime collateral. Many Arbitrum-native users have requested this and we have delivered on their requests.",
+        "arbToBeDistributed": 66666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Emissions rate adjusted.",
+        "lessons": "Learned that TVL will adjust downward even within an emissions period as users start to plan their next earning strategy (ex shifting to STIP LP options).",
+        "avgDailyTVL": 10250281,
+        "avgDailyTXNS": 201,
+        "avgDailyUniqueUsers": 322
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "This period was marked by a slowdown in deposit growth and no net-new Arbitrum asset additions.",
+        "incentives": "",
+        "arbReceived": 66666,
+        "arbUtilized": 66666,
+        "disclosures": "No additional disclosures.",
+        "arbRemaining": 66668,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No net new ARB asset additions in this period. Maintained ARB emissions rate.",
+        "expectations": "We expect a general slowdown as emission eligibility draws to a close for LTIPP.",
+        "arbToBeDistributed": 66666,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Expected decline in money market activity occurred as incentives came to an end. We did see some more sticky liquidity remaining in our ARB USDC markets however.",
+        "lessons": "In future rounds of incentives, we need to create more effective retention mechanisms that can delay the flow of incentives to users with stickier liq/activity. ",
+        "avgDailyTVL": 6782212,
+        "avgDailyTXNS": 98,
+        "avgDailyUniqueUsers": 103
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "SYNO Summer (LTIPP period) ended in this stage.",
+        "incentives": "",
+        "arbReceived": 66668,
+        "arbUtilized": 0,
+        "disclosures": "SYNO Summer (LTIPP period) ended in this stage.",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "Our TVL dropped significantly as ARB incentives came to a close in this period. ",
+        "expectations": "We expected this drop as farmers/LPs seek new opportunities or the extended eligibility of STIP through to late September.",
+        "arbToBeDistributed": 66668,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 400000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Synonym Finance",
+  "grantSummary": "Synonym Finance received a 400K ARB grant to kickstart increased lending activity on its next-generation multi-chain lending markets. The goal of the grant was to draw in users from other chains and incentivize to make Arbitrum their home for DeFi, regardless of what other chains they may be interested in.",
+  "fundingAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A",
+  "editorAddresses": [],
+  "matchingGrantSize": 400000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xAa999c8Eb59661e719dc317b10F5672D6D35B45A"
+}

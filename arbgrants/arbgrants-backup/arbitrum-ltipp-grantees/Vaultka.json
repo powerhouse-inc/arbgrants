@@ -1,0 +1,342 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Number of new users and number of daily unique users increased",
+        "lessons": "Additional incentives to attract new users might be useful to boost DAU and new capital, but not significant boost in terms of tvl. ",
+        "avgDailyTVL": 24000000,
+        "avgDailyTXNS": 250,
+        "avgDailyUniqueUsers": 172
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Additional incentives for new users have successfully attracted some new users from other chains, and added some new users to Vaultka and the Arbitrum ecosystem.",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 166666,
+        "disclosures": "No disclosure to add",
+        "arbRemaining": 833334,
+        "contractsIncentivized": [
+          {
+            "contractId": "534e53a6-dcd8-4595-8c3e-1107d9c50201",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "The First bi-week ARB distribution follows the overall proposed structure from the proposal, with a 65%:35% distribution between lending and strategic vaults. Here's a more detailed plan for the first bi-week:\n\n1. Incentives to Attract New Depositors: 46% of the grant is reserved for one-off incentives to new users:\n\n- 6% is allocated to boost new deposits into vaults. Each new deposit will share a pool of 6% of ARB tokens or receive 100 ARB, whichever is lower, as a bi-weekly one-off incentive. We've set a minimum deposit threshold to prevent sybil attacks, making it less profitable to exploit by using multiple wallets. We'll monitor addresses closely and adjust policies bi-weekly as needed.\n\n- 40% is targeted at incentivizing new deposits from lenders:\n        - 24% will be used to reward new addresses making new deposits bi-weekly with a one-off incentive. A minimum deposit threshold will be enforced here as well, discouraging the creation of multiple wallets as it may not be profitable.\n        - 16% is dedicated to encouraging existing users to make new deposits into lending pools. Similar to the above, new deposits can claim a one-off bi-weekly incentive, amounting to either a share of the pool or 100 ARB, whichever is lower.\n\n2. Maintaining Existing Depositors:\n\n- 30% will go to existing vaults. We're implementing a tier system to ensure that smaller vaults also receive a fair share of the yield, promoting a balanced and diverse ecosystem. The allocation is based on:\n\u2022    A base of 4000 ARB allocated bi-weekly for each vault.\n\u2022    An additional 4000 ARB for vaults with TVL exceeding $2 million.\n\u2022    We're particularly focused on promoting the GM Delta-Neutral, given that alt-coin lending pools are underutilized. Increasing borrowings here could significantly boost revenue for alt-coin lenders.\nExample allocations:\n\u2022    GLM: 4000 ARB\n\u2022    GM Delta Neutral: 18000 ARB\n\u2022    GM Leverage: 8000 ARB\n\u2022    VLP: 8000 ARB\n\u2022    HLP: 8000 ARB\n\u2022    KLP: 4000 ARB\n\n- 24% will be directed to USDC lending pool, particularly as we anticipate a shift to USDC usage due to changes from Vela. With the upcoming switch in VLP to USDC and expected freeing up of USDC.e liquidity, there will be an increased demand for the USDC pool.",
+        "expectations": "Expect to bring in around 500 new users to our lending and vaults, with the extra incentives for new users. ",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "f21b896d-804e-49e3-9f3a-78b1ce9c03ad",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The utilization rate cap of lending pools are loosened, to allow more users to close and reopen their positions before the force closing date.",
+        "lessons": "The community's response to the newly introduced Maturity Date feature has been positive, even in the face of a modest reduction in TVL. Our priority remains steadfastly on the long-term health and development of Vaultka, rather than on transient fluctuations.",
+        "avgDailyTVL": 19735468,
+        "avgDailyTXNS": 764,
+        "avgDailyUniqueUsers": 453
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Together with the arrangement on introducing the maturity date feature, the LTIPP successfully attracted more transactions and dau, with users closing and reopening their positions. This brings up the revenue of the protocol with higher turnover rate of positions, transitioning to higher redistribution of yield to VKA token stakers. ",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 166666,
+        "disclosures": "No disclosures to add.",
+        "arbRemaining": 166670,
+        "contractsIncentivized": [
+          {
+            "contractId": "ffaed1c7-7771-4143-9e0d-033ea2c5adb4",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Together with the launch of the \"Maturity Date\" feature of Vaultka, the emission for LTIPP this week will be focusing on encouraging redeposits of strategic vaults positions. To incentivize such action, following will be done:\n\n- All new positions opened in vaults will receive a one-off incentive with a minimum threshold in place to prevent Sybil attacks and ensure fair distribution.\n- This incentive is designed to promote active use of vaults during this transition, ensuring a seamless shift.\n- Incentives for Lending pools will be maintained to keep the lending APR robust and attractive, to continue grow our lending liquidity\n- With old positions closing and new ones opening under the new terms, expect higher turnover rates and enhanced lending capital efficiency.",
+        "expectations": "A smooth transition in migrating users, to redeposit and reopen new positions with the new Vaultka feature - Maturity Date. ",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "2a2d7759-f936-4039-9627-8330685ffa15",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The Maturity date feature has launched, and positions that are not closed by users itself, is forced to close during the week of 8th July. Users funds are sent back to their wallet. Most users have reopened their positions with the returned funds, keeping the utilization rate of lending pools high.",
+        "lessons": "Tier-based and one off incentives for new deposits have been showing effective to attract new capital and users. There is a inflow of new users, together with some larger deposit size, showing that Vaultka's lending pool has remain its attractiveness. ",
+        "avgDailyTVL": 17800000,
+        "avgDailyTXNS": 412,
+        "avgDailyUniqueUsers": 242
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Saw a positive inflow of deposits onto our USDC lending pools, with a few large deposits, showing that our incentives might be effective to reach and attract larger depositors and users. The USDC lending pool TVL grew ~$1mil over the two weeks, with a smooth transition throughout the force-close of positions during the week of 8th July.\n\nThere is a rise of DAU, and fees, due to the close of positions with the maturity date feature introduced, generating more revenue for the protocol, and its token holders. ",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 166666,
+        "disclosures": "No disclosures to add.",
+        "arbRemaining": 333336,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "3rd Bi-week distribution will have the same aim of boosting usage and TVL for vaults and lending pools. \n\nWe're introducing a tier-weighted system for ARB allocations that spans both lending pools and vaults. This system is designed to encourage depositing and maintaining larger deposits. A minimum threshold for the lowest tier ensures that splitting assets across multiple wallets won't be beneficial. \nWe've also noticed a surge in demand for USDC.e lending pools, so we're rolling out one-off incentives to fuel new deposits into these pools. Measures are in place to safeguard against Sybil attacks, promoting fair and substantial contributions.\n",
+        "expectations": "This approach will balance and enhance activity across more vaults beyond just the GMX vaults, such as the HMX vault, which has also demonstrated high demand. Our goal is to stabilize or increase TVL in the short term despite recent market downturns.",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "79b2773c-8ab1-4497-9f01-9a106bf553a4",
+            "contractLabel": "Airdrop Contract",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changees applied during the biweek period.",
+        "lessons": "The USDC lending pool TVL is steadily growing, with a utilization rate consistently around 90%. This balance leaves room for demand to grow while allowing lenders to withdraw freely. The tiered base incentives have successfully attracted users with larger deposits, resulting in an average lending deposit size of approximately $1,500 during the week. This trend supports Vaultka's long-term growth by attracting larger depositors.",
+        "avgDailyTVL": 18000000,
+        "avgDailyTXNS": 83,
+        "avgDailyUniqueUsers": 51
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives were distributed to vault and lending pool users, with additional one-time incentives provided to those depositing more than $1,000 to prevent sybil farming. Daily unique users have decreased to levels slightly above those before the LTIPP, which is expected. The previous peak in DAU was primarily due to the forced closing of positions with the new maturity date feature. The slightly higher DAU now indicates a moderate success of the grant in attracting new users, with approximately 200 new users during the bi-week period.",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 166666,
+        "disclosures": "No further disclosures.",
+        "arbRemaining": 500002,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "The USDC Lending pool supply is growing, supporting the demand for our leverage vaults. We will continue the one-off incentive and tiered base approach for our lending pools to keep incentivizing lenders. More focus will be put on USDC.e pools due to their rapid demand and high utilization rate.",
+        "expectations": "Maintain the supply of USDC lending pool, while pumping up deposits in USDC.e Lending pool, as the utilization rate of its remain >95% most of the time.",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "3000 ARB is allocated to incentivize wrapped SOL lending pool on Arbitrum, to incentivize the initial deposits of wrapped SOL lending pool, and support the leverage activities from GM Leverage, and GM Leverage (Neutral) vault, for GM-SOL pair. ",
+        "lessons": "Using incentives to support the launch of new demanding vaults have been proven successful as an initial suppport and attraction of liquidity. This help to enhance and support the leverage activities in strategic vault, supporting new pairs for trading. ",
+        "avgDailyTVL": 15000000,
+        "avgDailyTXNS": 68,
+        "avgDailyUniqueUsers": 45
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The Wrapped SOL Lending Pool was successfully launched on Vaultka Arbitrum, along with the GM-SOL Leverage and Leverage (Neutral) vaults. This launch contributed an additional ~$700k to Vaultka\u2019s TVL, driven by the growing popularity of SOL. To incentivize initial deposits in the Wrapped SOL pool, 3,000 ARB was allocated to the lending pool, which effectively attracted new capital. The pool\u2019s utilization rate consistently remained above 90%, indicating strong demand for leveraged Wrapped SOL products. This performance demonstrates that the ARB allocation effectively helped Vaultka meet user demand.\n\nA signficant amount of positsions are liquidated during the sudden market downturn during the biweek, leading to many leveraged positions being liquidateed. Borrowed funds are successfully returned to lending pool. Some lenders have then withdrawn their funds during the market downturn, probably as a protective gesture to finance his other positions. Thus, Vaultka's TVL dropped by $3-4 million.",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 166666,
+        "disclosures": "Snapshots for the incentives are taken on Wednesday 14th August. But since our multi-sig signer was away of office during the week, the distribution of ARB token for this Bi-week is postponed to 19th August. An announcement was released to the community, informing our users in advance that the distribution will be done on 19th. ",
+        "arbRemaining": 4,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "The demand for our leverage vaults is strong, with USDC lending pool utilization hovering around 95% in the past weeks. To maintain a healthy balance, we aim to keep the utilization rate at ~90%. Thus, incentives will continue for USDC and USDC.e vaults, keeping the healthiness of lending pools. Incentives will also be allocated to the wrapped SOL lending pool on Arbitrum, which will be launching next week, to incentivize initial deposits in the pool.",
+        "expectations": "Due to the initial lower tvl of wrapped SOL lending pool, the ARB APR for this pool is expected to spike, attracting more SOL holders to bridge or wrap their assets onto Solana to receive more yields.",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes applied to the grant framework during the week.",
+        "lessons": "ARB incentives continue to demonstrate their appeal by attracting TVL to our lending pools, albeit with slower growth. To retain users once the ARB incentives conclude, Vaultka will adjust the lending rates to maintain competitiveness. Balancing the interests of lenders and borrowers may present challenges, especially as Perp DEX LP yields on Arbitrum trend downward. This decline in borrower rewards will impact the reward sharing with our lenders under our reward split mechanism.",
+        "avgDailyTVL": 15000000,
+        "avgDailyTXNS": 86,
+        "avgDailyUniqueUsers": 53
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "TVL on Arbitrum slowly grows, after the market drop and liquidations from last biweek. The incentivized USDC Lending pool grows gradually from $4m to $5.2m, while USDC.e Lending pool maintains at around $3m pool size. The demand from leverage strategies remain high, with Utilization rate maintaining at >95% most of the time. 3000 ARB is continued to incentivize the wrapped SOL lending pool on Arbitrum, maintaining its pool size at roughly $500k. ",
+        "incentives": "",
+        "arbReceived": 166666,
+        "arbUtilized": 166666,
+        "disclosures": "No further disclosures.",
+        "arbRemaining": 4,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "The next bi-week marks the end of the LTIPP campaign. The final ARB allocations will continue to incentivize deposits into the USDC and USDC.e lending pools, with a small portion going to vault users to support demand.",
+        "expectations": "The demand for leverage strategic vaults should continue to grow. The utilization rate of USDC lending pool has been staying for ~88%. These idle lending capacity is expected to be used up soon with the continuous rise of demand from leverage vaults.",
+        "arbToBeDistributed": 166666,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "USDC and USDC.e lending pool size is kept at around ~$4.5m and $3m, keeping the level of TVL before LTIPP ends",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosure needed",
+        "arbRemaining": 4,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No ARB tokens are distributed this biweek.",
+        "expectations": "Vaultka's Lending pool size to maintain at LTIPP level. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 1000000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Vaultka",
+  "grantSummary": "Vaultka's LTIPP distributes ARB rewards to both vaults and lending pool depositors.\n\nFor vault users, a portion of the ARB allocation will be provided as one-time incentives. New users can earn these incentives by depositing into our vaults above the minimum threshold. The incentives will be distributed bi-weekly and can be claimed on our airdrop page.\n\nIn addition to attracting new users, a portion of ARB has been reserved to provide one-time incentives to attract new and existing lenders and to encourage depositors to make new deposits in our lending pools. This will open up more leverage opportunities for our vault users.\n\nFurthermore, a portion of the ARB will be allocated as rewards to our existing vaults to maintain our users and allow them to earn a share of the yield. Each vault has a base allocation, and the allocation will change according to market demand.\n\nFinally, ARB rewards have been allocated to USDC lending directly, anticipating the change in USDC usage and the potential increase in demand for the USDC pool. Users can earn ARB rewards by depositing into the USDC pool directly and claim ARB rewards bi-weekly.\n\nThe ARB reward distribution will be subject to adjustment bi-weekly to adapt the market conditions",
+  "fundingAddress": "0xc91AdFeE7Da16f9F6e0017229DdA725EC585bC85",
+  "editorAddresses": [],
+  "matchingGrantSize": 1000000,
+  "metricsDashboardLink": "https://www.openblocklabs.com/app/arbitrum-ltipp/protocols/Vaultka",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6CF1974e1f2C36bdE9F63071b0D5503194F0Da37"
+}

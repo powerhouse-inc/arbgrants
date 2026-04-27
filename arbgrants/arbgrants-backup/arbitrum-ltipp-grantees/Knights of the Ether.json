@@ -1,0 +1,276 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no changes.",
+        "lessons": "Nothing learned yet, since the campaign started in the middle of this period.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "arb will be airdropped to wallets that have recieved arb in loot boxes.",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 0,
+        "disclosures": "Nothing to disclose",
+        "arbRemaining": 40000,
+        "contractsIncentivized": [
+          {
+            "contractId": "e72f2da0-609e-4116-9f6d-1216139d39be",
+            "contractLabel": "incentivized contract",
+            "contractAddress": "0xD152f549545093347A162Dce210e7293f1452150"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Campaign not starter yet",
+        "expectations": "Campaign not starter yet",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes happened in the last 2 weeks.\n",
+        "lessons": "The amount of lootboxes opened in the first days of the season is really high compared to the following days.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": " Dispersed in future weeks through the planned verticals, loot boxes, leaderboards, battle pass rewards, and marketplace rebates.",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 33885,
+        "disclosures": "Nothing to disclose.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "e72f2da0-609e-4116-9f6d-1216139d39be",
+            "contractLabel": "incentivized contract",
+            "contractAddress": "0xD152f549545093347A162Dce210e7293f1452150"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes yet.",
+        "expectations": "arb will be airdropped to wallets that have received arb in loot boxes",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The only changes made from the initial application were a slight reorganization of ARB to lessen leaderboard rewards and increase Loot Box/Battle Pass rewards to help onboard more new and unique users instead of rewarding OG users who tend to dominate daily leaderboards.",
+        "lessons": "Rewarding arb in a more random way via lootboxes may bring more new users, versus competitive leaderboards that usually are dominated via OG players",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives have been dispersed through the planned verticals, loot boxes, leaderboards, battle pass rewards, and marketplace rebates during the final week of Season 1 of our Play to Rip campaign. This dispersal also includes Season 1 marketplace rebates and Leaderboard rewards. These aforementioned verticals are dispersed only at the end of each of the three seasons.",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 33164,
+        "disclosures": "Nothing exceptional to disclose",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "The only changes made from the initial application were a slight reorganization of ARB to lessen leaderboard rewards and increase Loot Box/Battle Pass rewards to help onboard more new and unique users instead of rewarding OG users who tend to dominate daily leaderboards.",
+        "expectations": "Dependent upon RNG conditions in loot boxes but we are expecting to see a lesser amount as only 1.5 weeks will be incentivized to line up with the end of Play to Rip Season 1. Season 2 will begin in the two weeks following.",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There were no big changes in this period.",
+        "lessons": "The game achieved a good maturity level, so the stability was the keyword of this period.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Normal weeks of leaderboards and battlepass opening.",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 26678,
+        "disclosures": "Nothing to disclose.",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes planned for this period.",
+        "expectations": "Normal couple of weeks, with rewards to players mainly through lootboxes",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No big changes happened.",
+        "lessons": "Every time a new season begin there is also a great increase in players, that will decrease along the season.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Everything worked as planned and with the change from season 2 to season 3 we so a new increase in players, playing.",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 32075,
+        "disclosures": "nothing to disclose",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes for the next two weeks.",
+        "expectations": "With the end of Season 2 and the begin of the season 3, there will be a decrease in the playing time for the end of the season and a peak of new users in the begginning of season 3.",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes in this period.",
+        "lessons": "Everything went as supposed, during the leaderboards some players, tried to exploid the game mechanics but were caught and removed from the leaderboards.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Normal mid season weeks that had the start of the leaderboards in it.",
+        "incentives": "",
+        "arbReceived": 40000,
+        "arbUtilized": 29294,
+        "disclosures": "nothing to disclose.",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes planned. This will be a mid season period, so normal weekly distributions based on the lootboxes opened",
+        "expectations": "That most of the lootboxes of the season will be opened in this period.",
+        "arbToBeDistributed": 40000,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "In this phase we finalized the season 3 of our campaign and we wrapped up all the arb that we were able to give.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 58416,
+        "disclosures": "Nothing special to disclose, unfortunatly we were not able to distribute all the arb.",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "There won't be changes to the plan.",
+        "expectations": "Finish the third and last season, and distribute all the arb possible.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 240000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Knights of the Ether",
+  "grantSummary": "",
+  "fundingAddress": "0x3Cba613CE27ef3c52fF4c3d641fe248FCDDD0c06",
+  "editorAddresses": [],
+  "matchingGrantSize": 240000,
+  "metricsDashboardLink": "https://dune.com/queries/3731026/6275017",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x3Cba613CE27ef3c52fF4c3d641fe248FCDDD0c06"
+}

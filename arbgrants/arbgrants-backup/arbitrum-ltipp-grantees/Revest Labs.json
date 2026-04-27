@@ -1,0 +1,332 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None, expecting to go live in the next two week period. ",
+        "lessons": "None, expecting to go live in the next two week period. ",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Expecting to see an increase in TVL, and DAU. ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "Pool that we are incentivizing user deposits into for $TBILL holders. Snapshotting this for pre-incentive activity as we will begin the week of 6/24.",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "ab6e6956-5931-4faf-b21f-a0118fab1fe6",
+            "contractLabel": "Pre-Incentives",
+            "contractAddress": "0x9e34e27f124c7ac99c1442582169adf47b6ea869"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Test",
+        "expectations": "Test",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "642f154b-24f3-4733-a943-e98ee945e689",
+            "contractLabel": "Test",
+            "contractAddress": "0x96AA7E4BA857087cf3b529012eDfe5a96F0412D6"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None expected during this epoch",
+        "lessons": "Kick started our marketing with Open Eden and finished familiarizing them with the UI.",
+        "avgDailyTVL": 320000,
+        "avgDailyTXNS": 4,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "None expected during this epoch",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No arb being distributed this epoch.",
+        "arbRemaining": 75000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Deposits of ~$320k into the incentivized pool at this time",
+        "expectations": "None expected during this epoch, air drop will occur to eligible wallets on 7/16 for our first epoch.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL increase from $320K to 1.3 million.",
+        "lessons": "Effective marketing with Open Eden to their clients. ",
+        "avgDailyTVL": 1051000,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No air drop until 7/16 for the first disbursement of $ARB.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No air drop until 7/16 for the first disbursement of $ARB.",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "515e51d5-d249-44fb-a05d-b3a9ebfc1480",
+            "contractLabel": "Depositor 2",
+            "contractAddress": "0xe833c21c9d9bbbc2552bb34c042df210bb4f0103"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "We saw deposits of ~$1M into the incentivized pool during this period.",
+        "expectations": "We expect to increase TVL into the pool and disburse our first air drop to eligible wallets on 7/16",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None to report, no new deposits",
+        "lessons": "working to further promote offering with open eden",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No distribution of ARB until 7/16",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No distribution of ARB until 7/16",
+        "arbRemaining": 75000,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No distribution of ARB until 7/16",
+        "expectations": "No distribution of ARB until 7/16",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None, TVL remained the same from the initial deposits from earlier in the 28 day lock up period",
+        "lessons": "NA",
+        "avgDailyTVL": 1050000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "NA",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 25000,
+        "disclosures": "25,000 ARB air dropped to eligible depositors",
+        "arbRemaining": 75000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          },
+          {
+            "contractId": "e8d9e861-1934-4adc-ae89-f1c07de1f963",
+            "contractLabel": "Depositor 1",
+            "contractAddress": "0xe833c21c9d9bbbc2552bb34c042df210bb4f0103"
+          },
+          {
+            "contractId": "b1a6284d-ec2d-4807-a8ad-abddfbfccb9d",
+            "contractLabel": "Depositor 2",
+            "contractAddress": "0xa6bb2b22f1fd36f25fca5e37fa810ba0883376d3"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Air dropping 25000 ARB to eligible depositors.",
+        "expectations": "TVL will remain locked up in the system and on Arbitrum as governed by the smart contracts",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 250000,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Implimenting new boosted LPs in collaboration with Mountain Protocol where both Revest and Mountain will be providing dual incentives on Mountain USD pools on Curve. ",
+        "expectations": "Expecting to attract additional TVL and locked liquidity through these incentives on Resonate and into the Curve LPs. ",
+        "arbToBeDistributed": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 75000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Revest Labs",
+  "grantSummary": "",
+  "fundingAddress": "0x397002E9E957990fe39E84FD55095f998a953e81",
+  "editorAddresses": [],
+  "matchingGrantSize": 75000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x397002E9E957990fe39E84FD55095f998a953e81"
+}

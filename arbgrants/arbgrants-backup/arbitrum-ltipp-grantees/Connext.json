@@ -1,0 +1,334 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "Daily volume heavily decreased from our previous months as the market has slowed down.",
+        "avgDailyTVL": 5500000,
+        "avgDailyTXNS": 627,
+        "avgDailyUniqueUsers": 530
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We have completed our UI fixes and the program will be officially announced on the 18th",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "-",
+        "arbRemaining": 446472,
+        "contractsIncentivized": [
+          {
+            "contractId": "e2873a68-5237-4b4d-a3c4-cf272a4f7b7a",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We haven't been able to start running the program yet as we wanted to improve the bridge reliability for a great user experience.",
+        "expectations": "Next period, we will announce the program to our users",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 5500000,
+        "avgDailyTXNS": 910,
+        "avgDailyUniqueUsers": 800
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Initiative announced",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "-",
+        "arbRemaining": 446472,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "We hope to see increased inflow of ETH towards Arbitrum",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "bfebfb7e-1685-4dd1-b576-8fbe4c97f3ca",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 5300000,
+        "avgDailyTXNS": 520,
+        "avgDailyUniqueUsers": 331
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "A lot of hurdles to properly distributing the airdrop.\nFirst, Dune doesn't include Metis and Mode so we had to source that data independently.\nThen distributing an airdrop with several thousands users is difficult because Safe doesn't have a proper app to do that - all batches need to be divided into max 500 wallets, so that's a lot of txs to prepare, confirm, execute.\n\nVery painful as a process in general, we are evaluating if it's worth it.",
+        "incentives": "",
+        "arbReceived": 223238,
+        "arbUtilized": 30988,
+        "disclosures": "-",
+        "arbRemaining": 223234,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "-",
+        "expectations": "Distribution started. Slower market.",
+        "arbToBeDistributed": 30988,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None",
+        "lessons": "Drastic drop in number of users - reason to be investigated",
+        "avgDailyTVL": 5500000,
+        "avgDailyTXNS": 151,
+        "avgDailyUniqueUsers": 113
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution completed.\nSome users funnily returned their tokens",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 6314,
+        "disclosures": "-",
+        "arbRemaining": 223234,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "-",
+        "expectations": "We'll start the 2nd distributition of Arb on Monday 22nd. LRT market has slowed down so expecting lower amount.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 1588000,
+        "avgDailyTXNS": 315,
+        "avgDailyUniqueUsers": 258
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "-",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "team's OOO",
+        "arbRemaining": 223234,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "same process. No distribution will happen for this period (we'll have a final one at the end of august).\nA bunch of the big LPs have withdrawn their liquidity as restaking market is slowing down",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "This program has not been very effective for us.\nAfter our rebrand and pivot, and a stronger focus on B2B rather than B2B, incentivizing users has provided very few benefits for us.\nWe wrongly decided to just airdrop ARB to users, who do not realize why they are getting more tokens.",
+        "avgDailyTVL": 1588700,
+        "avgDailyTXNS": 145,
+        "avgDailyUniqueUsers": 135
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "18439 being distributed ",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 18439,
+        "disclosures": "Last week!",
+        "arbRemaining": 223234,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "none",
+        "expectations": "Last round of airdrop",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "b58642fa-8f6d-4d58-8509-1d3c7aa8f675",
+            "contractLabel": "Connext Bridge Arbitrum",
+            "contractAddress": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 446472,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Connext",
+  "grantSummary": "",
+  "fundingAddress": "0xC7BeebB0C52121e17b3bfdf60f47e4e0715a0AA2",
+  "editorAddresses": [],
+  "matchingGrantSize": 446472,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xC7BeebB0C52121e17b3bfdf60f47e4e0715a0AA2"
+}

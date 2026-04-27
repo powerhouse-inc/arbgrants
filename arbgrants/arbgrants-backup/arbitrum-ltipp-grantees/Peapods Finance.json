@@ -1,0 +1,703 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3752682,
+        "avgDailyTXNS": 96,
+        "avgDailyUniqueUsers": 23
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK1 Snapshot voting\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0xb753351e34bad7e6032442608f892f028c8b8f5f99962c2ab7fca5701e31bd03",
+        "incentives": "",
+        "arbReceived": 60000,
+        "arbUtilized": 30000,
+        "disclosures": "None",
+        "arbRemaining": 300000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "af06c89f-39b0-4806-952e-f032e99e1c81",
+            "contractLabel": "apPENDLE rewards",
+            "contractAddress": "0xc472394ad5232f34d4082a1886649f98091186cd"
+          },
+          {
+            "contractId": "dc55756a-dd58-4a13-8a16-fd6db60f1580",
+            "contractLabel": "apPEAS rewards",
+            "contractAddress": "0x93f186ac7d0e76a26cc2de93bb282f548c284fd5"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ]
+      },
+      "endDate": "2024-06-16T22:00:00.000Z",
+      "planned": {
+        "changes": "Due to the integral role of Snapshot voting in our distribution process, we have postponed the rewards schedule by one week. This extension ensures that all users have sufficient time to cast their votes and support the pods they wish to incentivize.",
+        "expectations": "Moving forward, we will have a steady schedule where voting for rewards will occur weekly. This means that each week, the distribution of rewards for the previous week will coincide with the voting process for the upcoming week's incentives. This adjustment aims to streamline the process and ensure timely and consistent reward distribution.",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x6dcD4AF4bAa75924929b2F13cFDA7f5c48bB04cB"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-02T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3468437,
+        "avgDailyTXNS": 108,
+        "avgDailyUniqueUsers": 24
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK2 and WK3 Snapshot voting\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x3bb920713e430cd6262c7f873e30db8d5d76c2110d0f94daf61a933ff394449a\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x2e1a2d9b6343728002af226076ec918259d9599e6afece1093062815ec8d7af9",
+        "incentives": "",
+        "arbReceived": 60000,
+        "arbUtilized": 60000,
+        "disclosures": "None",
+        "arbRemaining": 240000,
+        "contractsIncentivized": [
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "e41fb01b-195b-42dd-bcae-4986f343e31b",
+            "contractLabel": "apOHM rewards",
+            "contractAddress": "0x465d32ed397f189bdf8e622f9d2f86884ba19aa9"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ]
+      },
+      "endDate": "2024-06-30T22:00:00.000Z",
+      "planned": {
+        "changes": "Since reporting happens in bi-weekly periods, we can't provide all planned incentivized contracts since the snapshot voting is still ongoing for the second week of this period.",
+        "expectations": "None",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "e41fb01b-195b-42dd-bcae-4986f343e31b",
+            "contractLabel": "apOHM rewards",
+            "contractAddress": "0x465d32ed397f189bdf8e622f9d2f86884ba19aa9"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-16T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3241178,
+        "avgDailyTXNS": 118,
+        "avgDailyUniqueUsers": 24
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK4 and WK5 Snapshot voting\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x319d0f142d979a5c37d3d3d791192149ba8dc884569160b721c4ffb22bd45b7a\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x227c42bdac8ad2f156220f8b2bce3230e0fd78b47899c777d0a3694c35ca598c",
+        "incentives": "",
+        "arbReceived": 60000,
+        "arbUtilized": 60000,
+        "disclosures": "None",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          },
+          {
+            "contractId": "88911c9e-f979-4369-b501-0eed3f27caee",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          }
+        ]
+      },
+      "endDate": "2024-07-14T22:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-30T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3776641,
+        "avgDailyTXNS": 143,
+        "avgDailyUniqueUsers": 33
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK6 and WK7 Snapshot voting\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x23d25e3e2bd4d62c1a4a38be983617d3735d80902d07f3fb8b57f9fb55d0e2cd\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0xfa482ab1c7b248acd803ceee865b847183db7c9cf6018b994eed6ea0d2a99939",
+        "incentives": "",
+        "arbReceived": 60000,
+        "arbUtilized": 60000,
+        "disclosures": "None",
+        "arbRemaining": 120000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          },
+          {
+            "contractId": "af06c89f-39b0-4806-952e-f032e99e1c81",
+            "contractLabel": "apPENDLE rewards",
+            "contractAddress": "0xc472394ad5232f34d4082a1886649f98091186cd"
+          }
+        ]
+      },
+      "endDate": "2024-07-28T22:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-14T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3792420,
+        "avgDailyTXNS": 186,
+        "avgDailyUniqueUsers": 30
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK8 and WK9 Snapshot\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0xbbb7cb768a5ed4a823a5808fcc36bb534c9066bacc9d21ef66d51d3c83294745\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0xdaeff61828854fcfecf8a9f74095a13eccd54f23d9170112deea4aae911849ba",
+        "incentives": "",
+        "arbReceived": 60000,
+        "arbUtilized": 60000,
+        "disclosures": "None",
+        "arbRemaining": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          },
+          {
+            "contractId": "e41fb01b-195b-42dd-bcae-4986f343e31b",
+            "contractLabel": "apOHM rewards",
+            "contractAddress": "0x465d32ed397f189bdf8e622f9d2f86884ba19aa9"
+          },
+          {
+            "contractId": "af06c89f-39b0-4806-952e-f032e99e1c81",
+            "contractLabel": "apPENDLE rewards",
+            "contractAddress": "0xc472394ad5232f34d4082a1886649f98091186cd"
+          }
+        ]
+      },
+      "endDate": "2024-08-11T22:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-28T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3759287,
+        "avgDailyTXNS": 112,
+        "avgDailyUniqueUsers": 23
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK10 and WK11 Snapshot\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x20e3dc6bca8557dc4b72cd29c4b9e144221f97e0fc1158a39d42ff6a47e1248c\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x3804c32e6fd92caf6ad2a37e0022bb8e1f9bf34d61bf052d1ea510165891485a",
+        "incentives": "",
+        "arbReceived": 60000,
+        "arbUtilized": 60000,
+        "disclosures": "The pod named 'apPEASsUSDC' in the Snapshot vote was renamed to apUSD.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "8cd2234f-0aa5-4b18-b46b-3dc8a627d5ca",
+            "contractLabel": "apUSD rewards",
+            "contractAddress": "0xa8aafa62d6ccc3e8bd340107f8e23f35aba321c7"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "af06c89f-39b0-4806-952e-f032e99e1c81",
+            "contractLabel": "apPENDLE rewards",
+            "contractAddress": "0xc472394ad5232f34d4082a1886649f98091186cd"
+          },
+          {
+            "contractId": "dc55756a-dd58-4a13-8a16-fd6db60f1580",
+            "contractLabel": "apPEAS rewards",
+            "contractAddress": "0x93f186ac7d0e76a26cc2de93bb282f548c284fd5"
+          }
+        ]
+      },
+      "endDate": "2024-08-25T22:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 60000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "8cd2234f-0aa5-4b18-b46b-3dc8a627d5ca",
+            "contractLabel": "apUSD rewards",
+            "contractAddress": "0xa8aafa62d6ccc3e8bd340107f8e23f35aba321c7"
+          },
+          {
+            "contractId": "58b7ce1f-7684-4cfa-9686-aeed44d00038",
+            "contractLabel": "apPEASUSDC rewards",
+            "contractAddress": "0x77c4be632aec45c8a87c5499ac69dd24e49027ee"
+          },
+          {
+            "contractId": "888cbce0-f6b8-4d5b-934e-1aee05d73d74",
+            "contractLabel": "apNUMA rewards",
+            "contractAddress": "0x3c7cbb11c873d48fe2e2e3b7fe537cc51e32d66a"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-11T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "-",
+        "lessons": "-",
+        "avgDailyTVL": 3147344,
+        "avgDailyTXNS": 149,
+        "avgDailyUniqueUsers": 26
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distribution based on WK12 Snapshot\nhttps://snapshot.org/#/peapodssnapshot.eth/proposal/0x173f9c204ae6802eb272cce63c5181d432d0b601c39aa5b532f3c0c1948711a6",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 30000,
+        "disclosures": "None",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "8cd2234f-0aa5-4b18-b46b-3dc8a627d5ca",
+            "contractLabel": "apUSD rewards",
+            "contractAddress": "0xa8aafa62d6ccc3e8bd340107f8e23f35aba321c7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "209898d2-eb3d-4afc-b08d-2597ef29f2fe",
+            "contractLabel": "aprETH rewards",
+            "contractAddress": "0x5f603725f8f3e43a86c9c0ff5d6ef229f5320e03"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ]
+      },
+      "endDate": "2024-09-08T22:00:00.000Z",
+      "planned": {
+        "changes": "None",
+        "expectations": "None",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "8cd2234f-0aa5-4b18-b46b-3dc8a627d5ca",
+            "contractLabel": "apUSD rewards",
+            "contractAddress": "0xa8aafa62d6ccc3e8bd340107f8e23f35aba321c7"
+          },
+          {
+            "contractId": "c8a720a9-9e06-4e7e-83b3-077a8bc4935c",
+            "contractLabel": "apMOZ rewards",
+            "contractAddress": "0x8168df34e5d90658ae0aafb2b5dd256f0c0ac4a1"
+          },
+          {
+            "contractId": "4afc2cc8-07d0-4082-a36f-1a49f18969a3",
+            "contractLabel": "apEMPxPEAS rewards",
+            "contractAddress": "0xc4961381d465ee7d6ff69f71cab8d72d0748f2b7"
+          },
+          {
+            "contractId": "209898d2-eb3d-4afc-b08d-2597ef29f2fe",
+            "contractLabel": "aprETH rewards",
+            "contractAddress": "0x5f603725f8f3e43a86c9c0ff5d6ef229f5320e03"
+          },
+          {
+            "contractId": "b336ca55-b573-4833-a2f2-9566b2193893",
+            "contractLabel": "apETHPEAS rewards",
+            "contractAddress": "0x6799c815f515eb8cb737371ccc52c78c172b1810"
+          },
+          {
+            "contractId": "6caef18c-118a-4d05-9103-d96db508db5b",
+            "contractLabel": "apARBETH rewards",
+            "contractAddress": "0xa6b07d07f12252ba6cdefea6c032fb202fcbb19e"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-25T22:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-22T22:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-08T22:00:00.000Z"
+    }
+  ],
+  "grantSize": 360000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Peapods Finance",
+  "grantSummary": "",
+  "fundingAddress": "0x6dcD4AF4bAa75924929b2F13cFDA7f5c48bB04cB",
+  "editorAddresses": [],
+  "matchingGrantSize": 0,
+  "metricsDashboardLink": "https://dune.com/centerpeas/peasltipp",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x6dcD4AF4bAa75924929b2F13cFDA7f5c48bB04cB"
+}

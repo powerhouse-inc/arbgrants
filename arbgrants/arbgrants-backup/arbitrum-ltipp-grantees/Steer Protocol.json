@@ -1,0 +1,339 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes made from planned deployment of incentives. ",
+        "lessons": "Planning to increase the # of pools incentivized along with the # of bluechips and stable pairs.",
+        "avgDailyTVL": 1316222,
+        "avgDailyTXNS": 24,
+        "avgDailyUniqueUsers": 12
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Incentives have been deployed via merkl, we have seen new wallets engaging with Steer, growth in TVL, and new highs in contract interactions. ",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 33600,
+        "disclosures": "First day of incentives distribution was June 10th, 2024.",
+        "arbRemaining": -2,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Our proposal provided a high level plan for incentives deployment, we will share the full list of incentivized pools for each reporting period as they will change. If the same asset pair is incentivized across multiple pools (i.e., WBTC/USDC on Uniswap and WBTC/USDC on Camelot) we will list the pair once in reporting here. For the first reporting period, we deployed ~1 week of incentives across Camelot, Sushi, and Uniswap.\n\nUSDe/USDC\nwstETH/WETH\nWETH/USDC\nWBTC/USDC\nARB/USDC\nMAGIC/WETH\n",
+        "expectations": "Begin growing TVL and bring new users into Steer Smart Pools",
+        "arbToBeDistributed": 24000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes from what was planned",
+        "lessons": "We incentivized some new pools (outlined in the plan) that drove significant value in fees generated for users. \n\nSome new pools that were incentivized did not garner the traction expected, as we move forward we will continue to assess if the incentive deployment is driving value for users, arbitrum, and/or steer protocol -- if the value does not seem to be there we will adjust how we are deploying incentives accordingly. ",
+        "avgDailyTVL": 2817115,
+        "avgDailyTXNS": 52,
+        "avgDailyUniqueUsers": 24
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We did see a decline in TVL correlated with broader decline in asset prices and TVL on Arbitrum.",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 42100,
+        "disclosures": "Encountered a few issues with Merkl rewards distribution, including a 48hr pause in rewards and APR miscalculations. We were able to resolve with the Merkl team. ",
+        "arbRemaining": -2,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No major changes - plans are to incentivize the following pools:\n\nARB/USDC\nWETH/USDC\nWETH/USDT\nSX/WETH\nZRO/WETH\nGMX/WETH\nWETH/USDC\nwBTC/USDC\nwETH/USDC\nwETH/USDC\nwBTC/USDC\nPENDLE/WETH\nUSDe/USDT\nUSDe/USDC\nwstETH/wETH\nwstETH/wETH\nwstETH/USDC\nLINK/ETH",
+        "expectations": "Growth in TVL, txns, and unique users",
+        "arbToBeDistributed": 40500,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "There were no changes from the plan, we ran into some issues with rewards distribution through merkl that led to some delays, but we were able to work with their team to work through this to deploy LP incentives.  ",
+        "lessons": "Incentivized stable pools saw the greatest growth during this period. While speculative, this may be driven by users migrating funds to stable assets during times of higher volatility or when downwards price movement is anticipated or occurring. We had some users report confusion around APRs of the $ARB boosted pools - we have reported to Merkl and hope to work towards a resolution to ensure users feel confident that the numbers displayed align closely with what they can earn. ",
+        "avgDailyTVL": 2555328,
+        "avgDailyTXNS": 47,
+        "avgDailyUniqueUsers": 22
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "The last couple of weeks saw a decline in asset prices along with some drop in total volume. Similarly, Steer Protocol has seen a decline in the US dollar value of assets managed. Overall, we have maintained our TVL well above where it was at the start of the LTIP program -- showcasing the impact of incentives on capital flight during periods of heightened volatility or declining asset prices. ",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 40700,
+        "disclosures": "We have partnered with SX to help incentivize LPs to deepen liquidity during the trading competition SX is running on Sushi.",
+        "arbRemaining": 126166,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes expected, please see overview of pools incentivized for the period below:\n\nARB/USDC\nfUSDC-USDC\nUSDe/USDC\nSX/WETH\nZRO/WETH\nWETH/USDC\nZRO/WETH\nWETH/W\nGMX/WETH\nWBTC/USDC\nWETH/USDT\nPENDLE/WETH\nAPTR/WETH\nWETH/SUSHI",
+        "expectations": "We hope to drive continued growth in TVL, txns, fees for users, and new users to the protocol and Arbitrum.",
+        "arbToBeDistributed": 41667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes made by Steer during this phase. ",
+        "lessons": "Some assets may not have sufficient liquidity to meet the needs of traders - these present a strategic opportunity to deploy incentives to drive LPs to participate and build liquidity for healthier markets. Driving LPs to pools with high volume and higher fee tiers allows for LPs and Steer Protocol to benefit from the high trading volume, and allows traders to have a smooth experience with trading these asset pairs. ",
+        "avgDailyTVL": 3790612,
+        "avgDailyTXNS": 61,
+        "avgDailyUniqueUsers": 32
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Stable pools, followed by bluechip/stable pairs have continued to be the greatest drivers of increases in TVL. Large cap assets pairs like ZRO/WETH that have seen significant amounts of trading volume, requiring deeper liquidity to ensure positive experience for traders and in turn benefitting the most from concentrated and automated active liquidity management -- the increased volume of trading has driven significant fees for users that LP into these pools.",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 40300,
+        "disclosures": "No disclosures to report",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No meaningful changes expected, please see overview of pools incentivized for the period below:\nfUSDC-USDC\nUSDe/USDC\nUSDC/USDC\nWETH/USDC\nWETH/LINK\nWETH/ARB\nWETH/USDC\nUSDT/USDC\nPENDLE/WETH\nZRO/WETH\nWBTC/USDC\nARB/USDC",
+        "expectations": "We hope to drive continued growth in TVL, txns, fees for users, and new users to the protocol and Arbitrum. In the previous period we saw some decline but finished the period with higher TVL, new users, and only a marginal decrease in avg daily txns. \n",
+        "arbToBeDistributed": 41667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Significant growth in TVL measured in ARB: ~6,500,000\nDrop from previous period in daily txns and unique users to 44 and 23 respectively, both well above starting values",
+        "lessons": "As expected, slight downturn in unique user engagement and transactions that were inline with broader market changes. ",
+        "avgDailyTVL": 6503228,
+        "avgDailyTXNS": 44,
+        "avgDailyUniqueUsers": 23
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Significant growth in TVL measured in ARB: ~6,500,000\nDrop from previous period in daily txns and unique users to 44 and 23 respectively, both well above starting values",
+        "incentives": "",
+        "arbReceived": 41667,
+        "arbUtilized": 49700,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "Planned incentivized pools over the coming period:\nUSDe/USDT\nwstETH/wETH \nWBTC / tBTC \nWBTC / WETH\nfUSDC-USDC\nUSDe/USDC\nUSDC/USDC\nWETH/USDC\nUSDT/USDC\nZRO/WETH\nWBTC/USDC\n",
+        "expectations": "Maintaining and ideally growing the TVL and user engagement with Steer Smart Pools across Uniswap, Camelot, and Sushi. ",
+        "arbToBeDistributed": 41667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "Nothing differed this period significantly from previous ones",
+        "avgDailyTVL": 6196146,
+        "avgDailyTXNS": 44,
+        "avgDailyUniqueUsers": 25
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Overall we have seen wonderful success with our liquidity mining program. We've nearly tripled the number of unique users that have LP'd on Smart Pools on Arbitrum and grown the the fees generated for users significantly.",
+        "incentives": "",
+        "arbReceived": 41665,
+        "arbUtilized": 43600,
+        "disclosures": "N/A",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Pools to be incentivized:\nUSDC/USDC\nUSDe/USDC\nARB/USDC\nWETH/USDC \nWBTC/USDC\nUSDT/USDC\nZRO/WETH\nWBTC/USDC\nUSDe/USDT\nwstETH/wETH \nWBTC / WETH ",
+        "expectations": "Continued maintenance of TVL and user engagement",
+        "arbToBeDistributed": 41667,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 250000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Steer Protocol",
+  "grantSummary": "",
+  "fundingAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+  "editorAddresses": [
+    "0x90bfc6581319565BD4bc5a6c9fAbE0479c876460",
+    "0xFD2786A8928A155d8f9f2f0E0bfdA016827b78D5",
+    "0x307ba5c26AF98658000deBb07fa4DF2564bDb1d9",
+    "0xf9dab1a189acEEa8d1Fe2F653e6C328C0DbC08c7"
+  ],
+  "matchingGrantSize": 250000,
+  "metricsDashboardLink": "https://dune.com/steerprotocol/steer-arb-ltip",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0x3E15E78109525444F7c521bA34c623A96cA38653"
+}

@@ -1,0 +1,528 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Since the proposal, we have concentrated our incentives on one DEX pool within the Balancer ecosystem, aiming for growth through focused efforts. We plan to continue pursuing money market integrations to provide multiple options for wOETH utilization.",
+        "lessons": "### Insights from the Bi-Weekly Period\n\nUsers have faced challenges in bridging wOETH and prefer depositing native ETH directly into our pools. Our focus will be on encouraging users to bridge more funds from the mainnet.\n\n### Additional Notes and Findings\n\nThere was a higher than expected demand for our pool. The next challenge is ensuring this demand translates into growth for our protocol.",
+        "avgDailyTVL": 100,
+        "avgDailyTXNS": 15,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "### Plans for the Next Bi-Weekly Period\n\nWe intend to:\n\n- Increase the spend on the Silo market if it shows growth.\n- Maintain the current spend on the E-CLP pool.\n\n### Insights from the Bi-Weekly Period\n\nUsers have faced challenges in bridging wOETH and prefer depositing native ETH directly into our pools. Our focus will be on encouraging users to bridge more funds from the mainnet.\n\n### Additional Notes and Findings\n\nThere was a higher than expected demand for our pool. The next challenge is ensuring this demand translates into growth for our protocol.",
+        "incentives": "",
+        "arbReceived": 30834,
+        "arbUtilized": 22080,
+        "disclosures": "No disclosures ",
+        "arbRemaining": 185000,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a6512ea-6c1c-476c-afbe-6ac0dba8c79b",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "7766066e-6417-4109-81b1-fe6b84433da4",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "c023e3c8-169f-4a63-8b6e-b56da0e87285",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "### Changes to Incentives Plan\n\nSince the proposal, we have concentrated our incentives on one DEX pool within the Balancer ecosystem, aiming for growth through focused efforts. We plan to continue pursuing money market integrations to provide multiple options for wOETH utilization.",
+        "expectations": "### Summary of Incentives Plan\n\nOur primary focus has been to build wOETH liquidity by allocating a significant amount of ARB on Aura, which has successfully increased the liquidity for the wOETH-ETH E-CLP pool to over $1 million. Additionally, we are pursuing money market integration to enable users to loop funds on Silo and have allocated incentives to those markets as well.",
+        "arbToBeDistributed": 30834,
+        "contractsIncentivized": [
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "### Changes to Incentives Plan\n\nInstead of spending the intended 10,792 ARB allocated to Silo immediately, we calibrated it until demand was visible as spending the full amount when the liquidity pools were empty wasn\u2019t necessary. Now when we can see clear demand for the market, we will reach the full allocation. We will also increase our allocation to the Gyroscope liquidity pool to grow the DEX TVL to match the demand of the borrowers. \n\n### Plans for the Next Bi-Weekly Period\n\nWe intend to:\n\n- Increase the spend on the Silo market\n- Increase the spend on the Gyroscope E-CLP pool.",
+        "lessons": "### Insights from the Bi-Weekly Period\n\nPeople are willing to bridge wOETH from mainnet but it\u2019s a double-edged sword due to the demand from Silo because people on Arbitrum are directly taking the bridged funds that have been supplied to the liquidity pools and taking it to Silo which continuously imbalances the pool which needs more bridging. Although it is a good problem to have that has been manageable so far. \n\n### Additional Notes and Findings\n\nClear borrow demand for wOETH which we expect to grow alongside the DEX TVL on Arbitrum.",
+        "avgDailyTVL": 322,
+        "avgDailyTXNS": 22,
+        "avgDailyUniqueUsers": 12
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "After getting the wOETH-ETH E-CLP pool on Balancer to $1M in liquidity we have been focusing on building out demand for the money market integration which has been successful so far. We have seen $2.5M ETH supplied into the wOETH market on Silo and $1.2M wOETH deposited into the market to be borrowed against. We just finished calibrating this market and we plan on increasing the incentives gradually to match the demand we see for this money market to enable looping of wOETH. ",
+        "incentives": "",
+        "arbReceived": 30834,
+        "arbUtilized": 23160,
+        "disclosures": "No Disclosures ",
+        "arbRemaining": 154166,
+        "contractsIncentivized": [
+          {
+            "contractId": "812f1481-850f-4206-84df-2f53a1b35460",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "aa31f9d6-ad7e-4d67-bcf8-18bcb44ce5f8",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "### Changes to Incentives Plan\n\nInstead of spending the intended 10,792 ARB allocated to Silo immediately, we calibrated it until demand was visible as spending the full amount when the liquidity pools were empty wasn\u2019t necessary. Now when we can see clear demand for the market, we will reach the full allocation. We will also increase our allocation to the Gyroscope liquidity pool to grow the DEX TVL to match the demand of the borrowers.",
+        "expectations": "After getting the wOETH-ETH E-CLP pool on Balancer to $1M in liquidity we have been focusing on building out demand for the money market integration which has been successful so far. We have seen $2.5M ETH supplied into the wOETH market on Silo and $1.2M wOETH deposited into the market to be borrowed against. We just finished calibrating this market and we plan on increasing the incentives gradually to match the demand we see for this money market to enable looping of wOETH. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "22b0d796-ef42-4685-8673-f07d9a3eb78f",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "f0634511-8d77-4f14-a308-24f00d1325c0",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "The main changes have been to include Dolomite within our incentives plan. ",
+        "lessons": "We saw a TVL drop when the the market dropped but this has now recovered to it\u2019s previous levels and is growing sporadically. Pool APY remains good but still need to get more people to bridge wOETH from Ethereum to Arbitrum as we see when there is high demand for wOETH on Arbitrum the Gyroscope pool gets imbalanced. ",
+        "avgDailyTVL": 500,
+        "avgDailyTXNS": 17,
+        "avgDailyUniqueUsers": 13
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "### Summary of Incentives Plan\n\nThe Silo money market and Gyroscope pool is plugging away while we have been focusing on getting wOETH integrated across different protocols on Arbitrum which is why it can now be used on Dolomite as well which is the latest developments. Thus, we will now also distribute 8000 ARB bi-weekly to Dolomite on top of what we have done with Silo and Gyroscope previously.",
+        "incentives": "",
+        "arbReceived": 30834,
+        "arbUtilized": 31160,
+        "disclosures": "No disclosures ",
+        "arbRemaining": 92498,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "### Changes to Incentives Plan\n\nThe main changes have been to include Dolomite within our incentives plan.",
+        "expectations": "The supply and borrow demand for wOETH on Silo has remained constant throughout the period. It will be interesting to track whether Dolomite follows the same pattern as it could play a big part in our continuous growth as we try to establish ourselves on Arbitrum. We\u2019re still waiting for the Dolomite team to activate incentives on the market before we start to push it through our marketing channels. ",
+        "arbToBeDistributed": 30834,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "### Changes to Incentives Plan\n\nSlight increase in Gyroscope incentives from 3663 ARB per week to 5000 ARB per week instead while increasing our bribes on Aura as well. \n\nWe have focused on incentivizing ETH liquidity for our money market on Silo, we will tweak it a bit and test demand for borrowing USDC as well.",
+        "lessons": "### Plans for the Next Bi-Weekly Period\n\nWe intend to:\n\n- Continue spending on Silo, Dolomite and Gyroscope\n- Continue push on the marketing to bring more attention to our pools that have been popular among users.\n- Re-calibrate Silo incentives to test USDC borrow demand.\n\n### Insights from the Bi-Weekly Period\n\nDolomite was very successful and has grown to over $1m TVL over the past week which has been good considering ETH price has fallen significantly over the past week which saw TVL drop across many other pools.",
+        "avgDailyTVL": 835,
+        "avgDailyTXNS": 36,
+        "avgDailyUniqueUsers": 19
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Silo and Dolomite incentives have remained constant while we have increased the incentives on Gyroscope slightly as more liquidity is required to facilitate the integrations on other platforms. When our DEX pools grows the TVL directly grows on other platforms as well. And we have seen our TVL double on Silo since the last period which has been pleasing. ",
+        "incentives": "",
+        "arbReceived": 30834,
+        "arbUtilized": 41160,
+        "disclosures": "No disclosures ",
+        "arbRemaining": 61664,
+        "contractsIncentivized": [
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "### Changes to Incentives Plan\n\nSlight increase in Gyroscope incentives from 3663 ARB per week to 5000 ARB per week instead while increasing our bribes on Aura as well. \n\nWe have focused on incentivizing ETH liquidity for our money market on Silo, we will tweak it a bit and test demand for borrowing USDC as well.",
+        "expectations": "By looking into other LST related money markets on Silo we noticed that there has been recent demand for USDC lending on top of ETH looping which is why we\u2019re going to start incorporating it into the wOETH money market as well and see if the case would be similar for our pool as well.",
+        "arbToBeDistributed": 30834,
+        "contractsIncentivized": [
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes has been made to the incentives plan. ",
+        "lessons": "### Plans for the Next Bi-Weekly Period\n\nWe intend to:\n\n- Continue the spending on Silo, Dolomite, and Gyroscope\n- Disregard tweaking Silo incentives to incentivize USDC lending as ETH has been the one that people are the most interested in.\n\n### Insights from the Bi-Weekly Period\n\nThe Dolomite and Silo pools have fully rebounded since people de-risked after the sell-off. The Gyroscope pool is lagging a bit but hopefully, it catches up soon. \n\n### Additional Notes and Findings\n\nMore of the same at this stage as the liquidity providers in respective platforms seem to be happy so far.",
+        "avgDailyTVL": 1420,
+        "avgDailyTXNS": 40,
+        "avgDailyUniqueUsers": 29
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve stuck to the same strategy that have been working so far and choose to not fix something that isn\u2019t broken. We\u2019ve incentivized the silo pool, gyroscope pool and the dolomite pools with the same amounts as previous rounds and will continue to do so most likely until the end of the LTIPP campaign. ",
+        "incentives": "",
+        "arbReceived": 30834,
+        "arbUtilized": 31280,
+        "disclosures": "No disclosures ",
+        "arbRemaining": 30830,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfD1383fb4eE74ED9D83F2cbC67507bA6Eac2896a"
+          },
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes has been made to the incentives plan. ",
+        "expectations": "We\u2019ve stuck to the same strategy that have been working so far and choose to not fix something that isn\u2019t broken. We\u2019ve incentivized the silo pool, gyroscope pool and the dolomite pools with the same amounts as previous rounds and will continue to do so most likely until the end of the LTIPP campaign. ",
+        "arbToBeDistributed": 30834,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfD1383fb4eE74ED9D83F2cbC67507bA6Eac2896a"
+          },
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Distributed 3.1K ARB to DHedge.",
+        "lessons": "### Plans for the Next Bi-Weekly Period\n\nThis was our last distribution of ARB incentives and we now plan to re-assess and decide how to move forward after the program ends. \n\n### Insights from the Bi-Weekly Period\n\nThere tends to be an increased appetite for leverage as our Dolomite and Silo markets continue to grow at a good rate. \n\n### Additional Notes and Findings\n\nIt is a period of evaluation coming up as we have been happy with how things have gone within the Arbitrum ecosystem.",
+        "avgDailyTVL": 1757,
+        "avgDailyTXNS": 45,
+        "avgDailyUniqueUsers": 35
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We\u2019ve mostly stuck to the same strategy and but have added DHedge to our distribution to set up a vault on their platform. Apart from that wOETH has continued to grow across other platforms within the Arbitrum ecosystem with over $3m deposited on Silo and over $2m on Dolomite. ",
+        "incentives": "",
+        "arbReceived": 30830,
+        "arbUtilized": 36160,
+        "disclosures": "No disclosures ",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfD1383fb4eE74ED9D83F2cbC67507bA6Eac2896a"
+          },
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "e0db72f2-917d-44ac-aee3-438f4910890b",
+            "contractLabel": "DHedge multi-sig",
+            "contractAddress": "0x26f7cbd49A4DC3321780AE8e7e0cb460f55a7511"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "Distributed 3.1K ARB to DHedge",
+        "expectations": "We\u2019ve mostly stuck to the same strategy and but have added DHedge to our distribution to set up a vault on their platform. Apart from that wOETH has continued to grow across other platforms within the Arbitrum ecosystem with over $3m deposited on Silo and over $2m on Dolomite. ",
+        "arbToBeDistributed": 30830,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xfD1383fb4eE74ED9D83F2cbC67507bA6Eac2896a"
+          },
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          },
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "3bc3d7fa-2ff3-4243-a92a-aa07d7d512df",
+            "contractLabel": "Aura Finance reward distro",
+            "contractAddress": "0xca85e2ce206b48ee28a87b0a06f9519abe627451"
+          },
+          {
+            "contractId": "905217a0-4040-42d1-a8d1-e49c1debc3b6",
+            "contractLabel": "Dolomite reward distro",
+            "contractAddress": "0xa75c21C5BE284122a87A37a76cc6C4DD3E55a1D4"
+          },
+          {
+            "contractId": "e0db72f2-917d-44ac-aee3-438f4910890b",
+            "contractLabel": "DHedge multi-sig",
+            "contractAddress": "0x26f7cbd49A4DC3321780AE8e7e0cb460f55a7511"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "### Changes to Incentives Plan\n\nNo changes as no additional distributions have taken place.",
+        "lessons": "### Plans for the Next Bi-Weekly Period\n\nNo new plans except for the evaluation of the performance of the LTIPP campaign to determine which integration partners we want to double down on. \n\n### Insights from the Bi-Weekly Period\n\nThere is a demand for LST farming on Arbitrum as using leverage to get higher yield is more efficient on Arbitrum due to the scalability through cheap transactions and the transaction speed. The only bottleneck is that yield tends to become compressed after some time, but when opportunities are available, people are willing to bridge their capital to Arbitrum and capitalize on them. \n\n### Additional Notes and Findings\n\nBeing apart of the LTIPP program has been a great experience and we are grateful for having been given the opportunity.",
+        "avgDailyTVL": 1921,
+        "avgDailyTXNS": 33,
+        "avgDailyUniqueUsers": 30
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "As this is towards the end of the period we haven\u2019t been doing much since we haven\u2019t received any new ARB incentives. Our last ARB was spent on the 21st of August to incentivize our wOETH pool on Gyroscope and continue to incentivize our money market on Silo.",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "No disclosures ",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes as no additional distributions have taken place. ",
+        "expectations": "No new plans except for the evaluation of the performance of the LTIPP campaign to determine which integration partners we want to double down on. ",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "fe27c19c-8fc8-4124-a95a-77338fba1110",
+            "contractLabel": "Silo multi-sig",
+            "contractAddress": "0x80071b39aa896aa12240c5194e42661d671bdfb2"
+          },
+          {
+            "contractId": "d17094bc-3f0f-4aee-8870-74c0ee0a68d2",
+            "contractLabel": "Aura Finance pool 64 rewards stash",
+            "contractAddress": "0x96b75f64f2962b539e725a645fc0288726ebe181"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 185000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Origin Protocol",
+  "grantSummary": "https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x138d4e2110a7dbe61a293361ee57a1ea0893af4664a940a6e91db43a8b6286a5",
+  "fundingAddress": "0xfD1383fb4eE74ED9D83F2cbC67507bA6Eac2896a",
+  "editorAddresses": [],
+  "matchingGrantSize": 185000,
+  "metricsDashboardLink": "We do not, but may make one soon",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xfD1383fb4eE74ED9D83F2cbC67507bA6Eac2896a"
+}

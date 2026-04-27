@@ -1,0 +1,423 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes since we didn't start the program yet.",
+        "lessons": "Next biweek will get all details finished for the first rewards distribution for LPs.",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Jun11: First 50k ARB were claimed.\nLP incentives: \n- progressed on planning sessions on pool incentives\n- changes in TVL and the incentives overall value -> we had rework pools and objectives.\nLending protocols:\n- working on tBTC integration into GMX, they will coincentivize with Threshold\nMinting Dashboard:\nJune15: Development work kickoff",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 0,
+        "disclosures": "- New 2BTC Curve Pool was deployed from Curve Team which will get incentivized by Threshold.\n- Uniswap V3 pools (TBTC/ETH and TBTC/WBTC) will get incentivized by Threshold.",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "8f635abf-5624-46b3-866a-e092a9c9f739",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "Liquidity Pools:\t\n- still working on incentives distribution mechanics\n- switched Balancer pools to UniV3 for better liquidity deployment\n- Dune dashboard work in progress (https://dune.com/lrsaturnino/tbtc-on-arbitrum)\n\nLending Protocols:\t- working on tBTC integration into GMX, they will coincentivize with Threshold\nMinting Dashboard:\t- Development work started\nLong term LP:\t- working on the implementation of this program (rules and marketing)\n",
+        "expectations": "We're planning to start rewards distribution for LP before next biweek.",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "As stated on the In-progress Disclosure, we plan following Grant ARB distribution :\nTotal Voted Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> are being distributed each period to the Curve/Merkl contracts\n\n20,000 ARB for Lending Protocols incentives\n-> will be distributed once GMX onboards tBTC\n\n30,000 ARB -> Minting Portal Dev\n-> will be sent to the Threshold Integrations Guild Multisig, which handles development payments (we'll disclose multisig address next week)\n\n50,000 ARB -> will be kept here (Threshold LTIPP multisig) until the long term loyalty program finishes, then will be airdropped to users.\n\n\n",
+        "lessons": "Comments on Statistics:\nAvg Daily TVL: sum of the three incentivized pools (Curve 2BTC-ng, UniV3 tBTC-ETH and UniV3 tBTC-WBTC)\nAvg Daily Tx: this statistic will reflect Avg daily Volume, which is a much more meaningful statistic to evaluate tBTC performance.\nAvg Daily Unique Users: n/a yet.\n\nLessons learned:\n- We'll adjust execution plans accounting for operational times (multisig signing).\n- GMX onboarding takes longer than expected, but snapshot is planned for next week.",
+        "avgDailyTVL": 653409,
+        "avgDailyTXNS": 112423,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "\"Jun26: \nFirst ARB distribution on Curve + Merkl was executed: \nCurve gauge 8031 ARB  (for Curve tBTC/WBTC pool)  \nhttps://arbiscan.io/tx/0x44523cb1ef53090a4cc1a059cecbfbb4d4481df0e622fd9e1f24ccaa24d0cb04\nMerkl 4963 ARB (843 for UniV3 tBTC/ETH pool, 4129 for UniV3 tBTC/WBTC pool)        \nhttps://arbiscan.io/tx/0x6d89ddc49b956f23f11190f2c61f999446dcbea756e4ad30fa0ead56a44bf1ae\n\ntBTC coincentives distributed on Merkl\nMerkl 0.0219 tBTC for tBTC/ETH\nhttps://arbiscan.io/tx/0x255d3f7026dec59be4f3700ca1fd1d4ea27aa769bff0b6e81b1b8e8fec02ae71",
+        "incentives": "",
+        "arbReceived": 50000,
+        "arbUtilized": 12994,
+        "disclosures": "Total assigned Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> are being distributed each period to the Curve/Merkl contracts\n\n20,000 ARB for Lending Protocols incentives :\n-> will be distributed once GMX onboards tBTC\n\n30,000 ARB -> Minting Portal Dev\n-> will be sent to the Integrations Guild Multisig, which handles development payments (we'll disclose IG MS on Arbitrum next week).\n\n50,000 ARB -> will be kept here (Threshold LTIPP multisig)  until the long term loyalty program finishes, then will be airdropped to users.\n\n\n",
+        "arbRemaining": 250000,
+        "contractsIncentivized": [
+          {
+            "contractId": "68ecbba2-03ac-44cc-80f9-0c9a50f5111e",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "c560a80e-6207-478b-be3d-4ccae622ac6a",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Liquidity Pools:\n- switched Balancer pools to UniV3 for better liquidity deployment\n- new Curve pool that will get incentives was deployed",
+        "expectations": "Liquidity Pools:\n- first round of rewards distributed via Curve Gauge and Merkl Distributor contracts\n- Dune dashboard work completed\nLending Protocols:\t- tBTC integration on GMX, up to vote\nMinting Dashboard:\t- Development work started\nLong term LP:\t- working on the implementation of this program (rules and marketing)",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "147c7b24-6264-4766-a4e7-3500681f16ab",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "c0ef15b5-5154-4107-ba1b-33f9715d3fbb",
+            "contractLabel": "Merkl Angel Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Comments on Statistics:\n\"Avg Daily TVL: sum of the three incentivized pools (Curve 2BTC-ng, UniV3 tBTC-ETH and UniV3 tBTC-WBTC)\n501% increase vs last period.\"\n\"Avg Daily Tx: this statistic will reflect Avg daily Volume, which is a much more meaningful statistic to evaluate tBTC performance.\nAvg daily Volume had an 251% increase vs last period.\"\nAvg Daily Unique Users: n/a.",
+        "lessons": "LP: Good increase in TVL (501%) and Volume (254%) after first full period with incentives.\nLending Protocols:GMX tBTC onboarding process advances,  recommendations for launch parameters was provided by Chaos Labs..\nLong Term loyalty program: work on implementation in progress.\nMinting Portal: milestones progress is firm.",
+        "avgDailyTVL": 3275575,
+        "avgDailyTXNS": 285891,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Jul9: \nSecond ARB distribution on Curve + Merkl was executed: \nCurve gauge 10119 ARB \nMerkl 6897 ARB (1058 for tBTC/ETH, 5839 for tBTC/WBTC) https://arbiscan.io/tx/0xc3e45b7c08d10d63faf2612c01e1c1c8bfdaa3e0d7f73ff7ee011cb544d6997d\ntBTC coincentives distributed on Merkl 0.0351 tBTC for tBTC/ETH \nhttps://arbiscan.io/tx/0x930105965b62ea217770e1fa99f212e9c00128dc8ee29638c76a683ecf1ee9e4",
+        "incentives": "",
+        "arbReceived": 200000,
+        "arbUtilized": 30459,
+        "disclosures": "\"Total Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> are being distributed each period to the Curve/Merkl contracts\n\n20,000 ARB for Lending Protocols incentives\n-> will be distributed once GMX onboards tBTC\n\n30,000 ARB -> Minting Portal Dev\n-> will be sent to the Integrations Guild Multisig, which handles development payments\n\n50,000 ARB -> will be kept here until the long term loyalty program finishes, then will be airdropped to users.\"\n\n\n",
+        "arbRemaining": 200000,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No.",
+        "expectations": "LP: We expect to see an increase in TVL after first round of incentives got distributed few days ago.\nLending Protocols: Hopefully we get GMX tBTC onboarding vote passed in this period and ready to get incentives deployed.\nLong Term loyalty program: work on implementation gets finished.\nMinting Portal: milestones defined, UX/UI mockups ready",
+        "arbToBeDistributed": 17425,
+        "contractsIncentivized": [
+          {
+            "contractId": "ddba2d9c-8263-43c1-afca-25ed6cb786cc",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          },
+          {
+            "contractId": "df981f74-8c68-4a49-8140-ca022a2333dc",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "In order to have an even distribution on Curve Pools we switched to weekly deposits of ARB incentives.\nOn Merkl we deposit all remaining ARB incentives with programming even disbursement throughout the rest of the 12week periods.",
+        "lessons": "LP: Very good increase in TVL (193% - for a total avg TVL of $6.3m)  and Volume (411% - total avg daily Volume of $1.1m). \nLending Protocols:GMX tBTC onboarding process advances,  voting was completed.\nLong Term loyalty program: work on implementation advanced\nMinting Portal: milestones progress is firm",
+        "avgDailyTVL": 6309624,
+        "avgDailyTXNS": 1175923,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Jul24: \nThird ARB distribution on Curve + Merkl was executed: \nCurve gauge 6374ARB \nMerkl 92980 ARB (All remaining weeks for both tBTC/ETH and tBTC/WBTC Uniswap pools https://arbiscan.io/tx/0x75452ed2a01ff902ee21432bc4818cc6a1f3956658cace2fd4f119b753f02107 ) \ntBTC coincentives distributed on Merkl 0.0443 tBTC for tBTC/ETH \nhttps://arbiscan.io/tx/0xa3b3631b212ac78b1b0ee8ca31db7f3b2e52d1011ec6fbaa0b7333d94e2797b0\n",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 129363,
+        "disclosures": "Total Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> are being distributed each period to the Curve/Merkl contracts\n20,000 ARB for Lending Protocols incentives\n-> will be distributed once GMX onboards tBTC\n30,000 ARB -> Minting Portal Dev\n-> will be sent to the Integrations Guild Multisig, which handles development payments\n50,000 ARB -> will be kept here until the long term loyalty program finishes, then will be airdropped to users.\"",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No",
+        "expectations": "LP: We expect to see a steady increase in TVL and volume in sync with the increase in rewards.\nLending Protocols: Hopefully we get GMX tBTC onboarding vote passed in this period and ready to get incentives deployed.\nLong Term loyalty program: work on implementation gets finished.\nMinting Portal: milestones partially finished.",
+        "arbToBeDistributed": 24183,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No",
+        "lessons": "LP: Steady increase in TVL (141% - avg daily TVL $8.9m) and Volume (123% - avg daily Volume $1.45m).\nLending Protocols:GMX tBTC onboarding process is now on a technical final step. Planning a big marketing push with the launch of the Portal and the LT loyalty program.\nLong Term loyalty program: work on implementation in the last instances.\nMinting Portal: milestones progress is in the last instances. RTM/Launch is being fleshed out.",
+        "avgDailyTVL": 8918822,
+        "avgDailyTXNS": 1450312,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "ARB distributions on Curve were executed: \nCurve gauge 6374 ARB Jul31 \nhttps://arbiscan.io/tx/0x73202c27bf1f239b0442daa24d3dad1c46225979de80bddffbeee0df780ae92a\nand 8031 ARB Aug08 \nhttps://arbiscan.io/tx/0x39065ccba874a204530e8d3a54cbcbf12638beef1b93f93bf2efaab974b819cc\nMerkl Distribution happend Jul24 for all remaining weeks.\n\nAug06: tBTC coincentives distributed on Merkl 0.0849 tBTC for tBTC/ETH \nhttps://arbiscan.io/tx/0x2e95c2c2437d038ea6c2d07607b69f854bc83807e8da9f561eb8e921c7f9732e",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 143768,
+        "disclosures": "Total Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> are being distributed each period to the Curve/Merkl contracts\n\n20,000 ARB for Lending Protocols incentives\n-> will be distributed once GMX onboards tBTC\n\n30,000 ARB -> Minting Portal Dev\n-> will be sent to the Integrations Guild Multisig, which handles development payments\n\n50,000 ARB -> will be kept here until the long term loyalty program finishes, then will be airdropped to users.",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "No",
+        "expectations": "LP: We expect to see a steady increase in TVL and volume in sync with the increase in rewards.\nLending Protocols: Expect to get GMX tBTC ready to get incentives deployed.\nLong Term loyalty program: work on implementation gets finished.\nMinting Portal: milestones well advanced. Work on RTM and Launch.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Comments on Statistics:\nAvg Daily TVL: sum of the three incentivized pools (Curve 2BTC-ng, UniV3 tBTC-ETH and UniV3 tBTC-WBTC).\nAvg Daily Tx: this statistic will reflect Avg daily Volume, which is a much more meaningful statistic to evaluate tBTC performance.\nAvg Daily Unique Users: n/a yet.",
+        "lessons": "LP:  TVL flat (100%) this period with a decrease in Volume (72%).\nLending Protocols:GMX tBTC onboarding is finalized. Big marketing push with the launch of the Portal and the LT loyalty program is worked on for 9/9.-\nLong Term loyalty program: Development finished. Executing on Front End.\nMinting Portal: milestones progress is in testing phase. RTM/Launch is defined. Launch set for 9/9.-",
+        "avgDailyTVL": 8908482,
+        "avgDailyTXNS": 1050210,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8/15/2024        https://arbiscan.io/tx/0x6ab0639e850c7e63dbe7e4b6480ab0499d3fce8467691a5b44c91ff49d1d15a6        \n8031 ARB for Curve pools\n8/21/2024        https://arbiscan.io/tx/0xab1750cbdc717158d093207e242ebf9ff2d81e2a6fdc403097b21987ae26ce28        \n10118 ARB for Curve pools\n\nDistributions to Merkl/Uniswap pools were deployed Jul24",
+        "incentives": "",
+        "arbReceived": 100000,
+        "arbUtilized": 0,
+        "disclosures": "\"Total Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> are being distributed each period to the Curve/Merkl contracts\n\n20,000 ARB for Lending Protocols incentives\n-> will be distributed once GMX onboards tBTC\n\n30,000 ARB -> Minting Portal Dev\n-> will be sent to the Integrations Guild Multisig, which handles development payments\n\n50,000 ARB -> will be kept here until the long term loyalty program finishes, then will be airdropped to users.\"",
+        "arbRemaining": -100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x755d6688ad74661add2fb29212ef9153d40fca46, 0xCb198a55e2a88841E855bE4EAcaad99422416b33, 0x542F16DA0efB162D20bF4358EfA095B70A100f9E, 0xc9f52540976385a84bf416903e1ca3983c539e34, 0xe9e6b9aaafaf6816c3364345f6ef745ccfc8660a"
+          },
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No",
+        "expectations": "LP: We expect to see a steady increase in TVL and volume in sync with the increase in rewards.\nLending Protocols: Expect to get GMX tBTC ready to get incentives deployed. Deploying a joined Launch Marketing Campaign\nLong Term loyalty program: Tests and Production ready\nMinting Portal: Tests and Production ready. Finish on RTM and Launch",
+        "arbToBeDistributed": 100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0x755d6688ad74661add2fb29212ef9153d40fca46, 0xCb198a55e2a88841E855bE4EAcaad99422416b33, 0x542F16DA0efB162D20bF4358EfA095B70A100f9E, 0xc9f52540976385a84bf416903e1ca3983c539e34, 0xe9e6b9aaafaf6816c3364345f6ef745ccfc8660a"
+          },
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Comments on Statistics:\nAvg Daily TVL: sum of the three incentivized pools (Curve 2BTC-ng, UniV3 tBTC-ETH and UniV3 tBTC-WBTC).\nAvg Daily Tx: this statistic will reflect Avg daily Volume, which is a much more meaningful statistic to evaluate tBTC performance.\nAvg Daily Unique Users: n/a yet.",
+        "lessons": "LP: Good increase in TVL (121%) and Volume (102%).\nLending Protocols:GMX tBTC, incentives ready to distribute through FE. Big marketing push with the launch of the Portal and the LT loyalty program is worked on for 9/9.-\nLong Term loyalty program: Development finished. Front End finished.\nMinting Portal: final tests in prod. RTM/Launch is defined. Launch set for 9/9.-",
+        "avgDailyTVL": 10911492,
+        "avgDailyTXNS": 1076379,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "8/29/2024        https://arbiscan.io/tx/0x2cfb185242701f5adaf9c293dcc30805fbb6099ba5e5d08ff7f2acaf55e7c365        10118 ARB for Curve Pool\n9/3/2024        https://arbiscan.io/tx/0x281b538917696acdbcbf6f3c1d89fa45b010a8cafa50801cff9fea425a42b428        12748  ARB for Curve Pool\n\nDistributions to Merkl/Uniswap pools were deployed Jul24",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 62360,
+        "disclosures": "\"Total Grant: 300,000 ARB\n\nDistribution as per proposal: \n200,000 ARB for Liquidity Pools incentives\n -> 15217 unused, will be returned to Arbitrum.\n\n20,000 ARB for Lending Protocols incentives\n-> already distributed to GMX frontend for tBTC users.\n-> $45k in T will also be deployed for this 3 mth campaign.\n\n30,000 ARB -> Minting Portal Dev\n-> sent to Integrations Guild Multisig, and final payments executed.\n\n50,000 ARB -> will be kept here until the long term loyalty program finishes, then will be airdropped to users.\"",
+        "arbRemaining": -100000,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "No",
+        "expectations": "LP: We expect to see a steady increase in TVL and volume in sync with the increase in rewards.\nLending Protocols: GMX tBTC integration finalized incentives deployed. Deploying a joined Launch Marketing Campaign for September.\nLong Term loyalty program: In Production\n\"Minting Portal: Tests and Production ready\nFinish on RTM and Launch\"",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "74dd4e66-4347-468f-ac52-d05650442707",
+            "contractLabel": "Curve 2BTC-ng Gauge",
+            "contractAddress": "0xB7e23A438C9cad2575d3C048248A943a7a03f3fA"
+          },
+          {
+            "contractId": "a5f2bf49-94fe-49b1-bef9-29a0bb8b4cd9",
+            "contractLabel": "Merkl Angle Distributor",
+            "contractAddress": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 300000,
+  "fundingType": [
+    "Multisig"
+  ],
+  "granteeName": "Threshold Network",
+  "grantSummary": "Threshold DAO will launch a \u201cBitcoin on Arbitrum Season\u201d campaign with the launch of grant incentives deployment. The campaign will have 4 parts :\n\n- Liquidity incentives with the grant for liquidity providers and tBTC users \n- Incentives for tBTC use on Lending Protocols\n- Direct tBTC Minting on Arbitrum Dashboard: Bitcoin to Arbitrum\n- Long term incentives : A loyalty program to incentivize both long-term participation and substantial liquidity contribution ",
+  "fundingAddress": "0x755d6688ad74661add2fb29212ef9153d40fca46, 0xCb198a55e2a88841E855bE4EAcaad99422416b33, 0x542F16DA0efB162D20bF4358EfA095B70A100f9E, 0xc9f52540976385a84bf416903e1ca3983c539e34, 0xe9e6b9aaafaf6816c3364345f6ef745ccfc8660a",
+  "editorAddresses": [],
+  "matchingGrantSize": 300000,
+  "metricsDashboardLink": "https://dune.com/lrsaturnino/tbtc-on-arbitrum",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xbA287B57015B87B0E8e6Dd93ff3c92AF51ac60b7"
+}

@@ -1,0 +1,539 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Distribution program has begun",
+        "lessons": "It took some configuring to set up the daily auto-compounding at the right amount, so it works out that we only have one vault with notable TVL. As we plan to add more, our setting up this week has prepared us for any upcoming complexity in the distribution.",
+        "avgDailyTVL": 130000,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 5
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "500 ARB has been distributed via auto-compounding rewards through the HopWeth contract in the first week.",
+        "incentives": "",
+        "arbReceived": 6500,
+        "arbUtilized": 500,
+        "disclosures": "Nothing to disclose.",
+        "arbRemaining": -6500,
+        "contractsIncentivized": [
+          {
+            "contractId": "e6b0ba6a-049e-4286-a146-995f2ea6fd04",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "We are distributing based on the schedule we posted as the latest comment in our LTIPP proposal, modifying the original schedule after a discussion with our advisors per the changes in ARB & gas prices.",
+        "expectations": "For the next period, we are expecting an increase in TVL and more vaults to go up, and therefore, an increase in vaults we are incentivizing. So far, 97% of our TVL is in our ETH vault which has the highest APY on a bluechip asset without IL, but we will have similar such offerings soon.",
+        "arbToBeDistributed": 500,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "More TVL has come in, but from a few users.",
+        "lessons": "We are not getting the number of users just by advertising LTIPP on our own socials. We need to work with partner projects to do so. ",
+        "avgDailyTVL": 20000,
+        "avgDailyTXNS": 1,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Token dispersals continue as planned.",
+        "incentives": "",
+        "arbReceived": 6500,
+        "arbUtilized": 1350,
+        "disclosures": "Nothing to disclose.",
+        "arbRemaining": -6500,
+        "contractsIncentivized": [
+          {
+            "contractId": "73bd81e3-3436-4e30-98f3-61e811079625",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Increased ARB in period 2 to 850. The reporting period is one week off from our distribution period, so our planned (and hopefully actual) will always be one week from this period and the previous (so this week is 500 + 850 = 1350).",
+        "expectations": "We are past the TVL thresholds we provided for full distribution, so it full fully distribute to HopWeth stakers.",
+        "arbToBeDistributed": 1350,
+        "contractsIncentivized": [
+          {
+            "contractId": "59f1812b-eed1-4ba5-a877-51353761cfeb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "TVL continues to steadily grow.",
+        "lessons": "There is an art to when you decide to incentivize a low TVL vault. Any amount will boost the TVL unrealistically high. Less is more accurate and can be adjusted as TVL comes in, but may not bring the same excitement. There's a middle ground to be sought.",
+        "avgDailyTVL": 249880,
+        "avgDailyTXNS": 5,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributions going according to schedule and plan.",
+        "incentives": "",
+        "arbReceived": 26000,
+        "arbUtilized": 2250,
+        "disclosures": "DAU and transactions are broken on Dune, so estimates are being provided until we can fix.",
+        "arbRemaining": -25750,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "Steer vaults are now being incentivized as well, with a lot of TVL coming in now into their high APY USDC vault which is further boosted .",
+        "expectations": "We expect more users to deposit into the Steer USDC vaults. Perhaps we will have PeaPod vaults up by next week as well.",
+        "arbToBeDistributed": 2250,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "None.",
+        "lessons": "None.",
+        "avgDailyTVL": 392000,
+        "avgDailyTXNS": 10,
+        "avgDailyUniqueUsers": 7
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Distributions are going as planned.",
+        "incentives": "",
+        "arbReceived": 6500,
+        "arbUtilized": 3800,
+        "disclosures": "We are still having trouble with Dune dashboard and are communicating with Openback regarding our issues",
+        "arbRemaining": -6500,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes",
+        "expectations": "Similar couse, with no meaningful changes expected.",
+        "arbToBeDistributed": 3800,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes to note.",
+        "lessons": "The grant continues to attract a few bigger users rather than many small ones, but it has successfully brought it in a lot more TVL.",
+        "avgDailyTVL": 315000,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Grant distributing as expected.",
+        "incentives": "",
+        "arbReceived": 6250,
+        "arbUtilized": 6250,
+        "disclosures": "Nothing to disclose",
+        "arbRemaining": -19250,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "None to report.",
+        "expectations": "Distibursments will continue as scheduled.",
+        "arbToBeDistributed": 6250,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes to note.",
+        "lessons": "The grant continues to attract a few bigger users rather than many small ones, but it has successfully brought it in a lot more TVL.",
+        "avgDailyTVL": 315000,
+        "avgDailyTXNS": 3,
+        "avgDailyUniqueUsers": 1
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "No issues so far besides the reporting ones that we have already spoken to powerhouse about, and still are unfortunately ongoing.",
+        "incentives": "",
+        "arbReceived": 6500,
+        "arbUtilized": 10350,
+        "disclosures": "We are on track to distirbute all LP as calculated in our latest post on our DAO forum and to our advisors.",
+        "arbRemaining": -25750,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes, still sticking to the schedule.",
+        "expectations": "We expect to utilize all ARB as we did in previous weeks, per the schedule.",
+        "arbToBeDistributed": 10350,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "InProgress",
+      "actuals": {
+        "summary": "We really appreciate being chosen for the grant and happy to report that the grant achieveed its goal of helping us bootstrap users for Contrax. We were at about ~$10k in TVL in when we applied and we currently have more than $500k.",
+        "incentives": "",
+        "arbReceived": 6500,
+        "arbUtilized": 14500,
+        "disclosures": "Nothing to disclose.",
+        "arbRemaining": -25750,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "For the final period, we are airdropping 8,000 ARB to those stayed staked on Contrax for the duration of the grant, alongside the usual LP rewards to be distirbuted.",
+        "expectations": "We are above our target for TVL and should distirbute all remaining ARB.",
+        "arbToBeDistributed": 14500,
+        "contractsIncentivized": [
+          {
+            "contractId": "eabd852a-7e18-40d1-8eee-c5356a2266cb",
+            "contractLabel": "StrategyHopWeth",
+            "contractAddress": "0xbE1bD09Ed3d03C16f560a8C51b78480AC75247a9"
+          },
+          {
+            "contractId": "7221e470-8854-478f-8c7e-51379e8cd89f",
+            "contractLabel": "SteerSushiUsdtUsdc",
+            "contractAddress": "0x297006F9E1A6d0e7EEf3514aC10d5684D7b9A454"
+          },
+          {
+            "contractId": "12529f8e-a116-4b8d-9956-932a6957df7f",
+            "contractLabel": "SteerSushiWethSushi",
+            "contractAddress": "0x86f1c89514f72D8e73B13D5BAC2CC4A1C4Dc9F8c"
+          },
+          {
+            "contractId": "dec4333e-d12b-4212-ae45-94baea7efadb",
+            "contractLabel": "   \t    SteerSushiWethUsdc",
+            "contractAddress": "0xC44Bed0Aa68f12AD2D3Eb0da9D119B95f0BD02ca"
+          },
+          {
+            "contractId": "2be1a6de-9445-4740-80c1-b5794af816e4",
+            "contractLabel": "SteerSushiUsdcUsdce",
+            "contractAddress": "0x21B0e4B9B1C1738eCB2F99d66B8E1E903E44F005"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives",
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 39000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Contrax",
+  "grantSummary": "The grant is for two purposes: increasing APYs via auto-compounding, and also providing additional ARB for stakers who stay within the vaults for the entire grant. See details in our LTIPP proposal.",
+  "fundingAddress": "0xD516B69611B0DC2744f7d2A384592ABeB8C8e956",
+  "editorAddresses": [],
+  "matchingGrantSize": 39000,
+  "metricsDashboardLink": "https://dune.com/abdulrafaycontrax/contrax-finance",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xCb410A689A03E06de0a6247b13C13D14237DecC8"
+}

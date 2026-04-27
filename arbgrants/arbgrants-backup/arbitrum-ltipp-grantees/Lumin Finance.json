@@ -1,0 +1,348 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No changes in the period",
+        "lessons": "New protocols, as us, need to find ways to get noticed. We will improve the marketing efforts.",
+        "avgDailyTVL": 60000,
+        "avgDailyTXNS": 2,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "These 2 first weeks saw a smaller capital inflow than expected. We will improve the marketing efforts to get up to speed, advertising the current high APYs provided by the grant",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We will distribute the first tranche total at the end of the period (6 weeks). More info here:\n\nhttps://medium.com/@lumin.finance/lumin-finance-arbitrum-ltipp-grant-program-3948d213d488",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "c0e586a6-2c06-4217-9222-a5f3cb54cd3b",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "The distribution will be done after 6 weeks. We will publish a weekly report with the amount due to each address per week. This is happening this way, following the instructions we gave on our rules for this program: https://medium.com/@lumin.finance/lumin-finance-arbitrum-ltipp-grant-program-3948d213d488",
+        "expectations": "With the high APY presented on this first 2 weeks, we expect an higher inflow of capital.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "7",
+        "lessons": "Coordination between several protocols to engage on co-marketing initiatives is complicated. Maybe this could be facilitated by the DAO.",
+        "avgDailyTVL": 50000,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "More marketing initiatives (mostly twitter introducing the protocol to new users and increase TVL)",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We will distribute the first tranche total at the end of the period (6 weeks). More info here: https://medium.com/@lumin.finance/lumin-finance-arbitrum-ltipp-grant-program-3948d213d488",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes from the previous period",
+        "expectations": "Increased TVL",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "11014aa3-dd7c-48ee-bd57-5e19c9fac6dd",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "Increased spending on ads",
+        "lessons": "It is mandatory to have support from more stablish protocols to capture TVL for a newer protocol that is not launching and trying to generate hype.",
+        "avgDailyTVL": 60000,
+        "avgDailyTXNS": 6,
+        "avgDailyUniqueUsers": 2
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "New marketing initiatives (paid ads on twitter) to increase engagement",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "We will distribute the first tranche total at the end of the period (6 weeks). More info here: https://medium.com/@lumin.finance/lumin-finance-arbitrum-ltipp-grant-program-3948d213d488",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes from the previous period",
+        "expectations": "New marketing initiatives (paid ads on twitter) to increase engagement",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "we distributed the rewards for the initial 6 weeks. more information: https://medium.com/@lumin.finance/ltipp-rewards-distribution-b60962025f8f",
+        "lessons": "we distributed the rewards for the initial 6 weeks. more information: https://medium.com/@lumin.finance/ltipp-rewards-distribution-b60962025f8f",
+        "avgDailyTVL": 70000,
+        "avgDailyTXNS": 5,
+        "avgDailyUniqueUsers": 3
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "we distributed the rewards for the initial 6 weeks. more information: https://medium.com/@lumin.finance/ltipp-rewards-distribution-b60962025f8f",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "we distributed the rewards for the initial 6 weeks. more information: https://medium.com/@lumin.finance/ltipp-rewards-distribution-b60962025f8f",
+        "arbRemaining": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes from the previous period",
+        "expectations": "Increased TVL",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "no news",
+        "lessons": "no news",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "no news",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 0,
+        "disclosures": "no news",
+        "arbRemaining": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa489B76786AE756691744A240c1bB1349810773C"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "we distributed the rewards for the initial 6 weeks. more information: https://medium.com/@lumin.finance/ltipp-rewards-distribution-b60962025f8f",
+        "arbToBeDistributed": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa489B76786AE756691744A240c1bB1349810773C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "none",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "distribution is over",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "none",
+        "arbRemaining": 25000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa489B76786AE756691744A240c1bB1349810773C"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "no expectations. the distribution is over",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "664f8bfb-92a9-4917-9623-8337fbb96f2e",
+            "contractLabel": "Deployer",
+            "contractAddress": "0x1F000018a105467DBda1C73FE194306adB997200"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "none",
+        "lessons": "https://medium.com/@lumin.finance/ltipp-rewards-distribution-b60962025f8f",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "we returned the remaining funds: https://arbiscan.io/tx/0x6408677d959cfb9c096621e1217e4ef49b0fe8026aac57ec9122eec01989c2e3",
+        "incentives": "",
+        "arbReceived": 25000,
+        "arbUtilized": 25000,
+        "disclosures": "none",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa489B76786AE756691744A240c1bB1349810773C"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "no changes",
+        "expectations": "none",
+        "arbToBeDistributed": 50000,
+        "contractsIncentivized": [
+          {
+            "contractId": "Funding Address",
+            "contractLabel": "Funding Address",
+            "contractAddress": "0xa489B76786AE756691744A240c1bB1349810773C"
+          }
+        ],
+        "distributionMechanism": [
+          "Airdrop"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 50000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Lumin Finance",
+  "grantSummary": "",
+  "fundingAddress": "0xa489B76786AE756691744A240c1bB1349810773C",
+  "editorAddresses": [],
+  "matchingGrantSize": 50000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xa489B76786AE756691744A240c1bB1349810773C"
+}

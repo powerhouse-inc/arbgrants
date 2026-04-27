@@ -1,0 +1,577 @@
+{
+  "id": "",
+  "meta": [],
+  "phases": [
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "N/A",
+        "lessons": "N/A",
+        "avgDailyTVL": 68316,
+        "avgDailyTXNS": 585,
+        "avgDailyUniqueUsers": 11
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": " As of June 17th, a total of 12954 out of 20831 ARB has been claimed by LPs. 2 out of 4 pools' TVL have achieved the goals previously set in the proposals: WETH-USDC: 131k (expected: 90k), WETH-wstETH: 125k (expected: 90k).",
+        "incentives": "",
+        "arbReceived": 37500,
+        "arbUtilized": 12954,
+        "disclosures": "We received 37500 ARB on June 5th, and started the farming program on June 6th. A total of 20831 ARB was sent to the Masterchef contract which will distribute token rewards to the LP. The rest ARB are retained as grant rewards for projects that'll integrate Integral's liquidity.",
+        "arbRemaining": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "373e9937-0bc2-4a28-a10a-ce713b6fe717",
+            "contractLabel": "Masterchef",
+            "contractAddress": "0xDB8c9BcC43c71e07415BC90904e2BE289b65d46c"
+          }
+        ]
+      },
+      "endDate": "2024-06-17T07:00:00.000Z",
+      "planned": {
+        "changes": "No changes as this is the first installment of incentive. We will monitor the metrics closely and carry out changes based on the performance.",
+        "expectations": "We expect the same amount of ARB disbursement will be distributed in the next bi-weekly reporting period, which will still be 1487 ARB per day. ",
+        "arbToBeDistributed": 20831,
+        "contractsIncentivized": [
+          {
+            "contractId": "644b5916-3712-4be7-9df4-25a53d138935",
+            "contractLabel": "Masterchef",
+            "contractAddress": "0xDB8c9BcC43c71e07415BC90904e2BE289b65d46c"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-03T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 96967,
+        "avgDailyTXNS": 1809,
+        "avgDailyUniqueUsers": 16
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "We received 37500 ARB on June 5th, and started the farming program on June 6th. A total of 20831 ARB was sent to the Masterchef contract which will distribute token rewards to the LP. The rest ARB are retained as grant rewards for projects that'll integrate Integral's liquidity.\n\nSummary\nFor the period June 17th - July 1st, a total of 19373 out of 20831 ARB has been claimed by LPs. The WETH-ARB pool has reached an astounding 30 d average apr of 346%, not taking into account the additional Arbitrum token incentives.",
+        "incentives": "",
+        "arbReceived": 37500,
+        "arbUtilized": 19373,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "917120e8-e64b-4838-8647-b0462058ac38",
+            "contractLabel": "Pair (wETH-USDC)",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "1419cd9c-2a87-433a-9c3e-7e7c15cdbf5f",
+            "contractLabel": "Pair (wETH-USDC.e)",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "4e9f19fc-ff4d-4b15-8757-abf7ece547a0",
+            "contractLabel": "Pair (wETH-wstETH)",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "081d70df-0703-4c43-96c3-2557c6e1f064",
+            "contractLabel": "Pair (wETH-USDT)",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "320738b3-9cd3-4c3f-80c9-91c810d4dd4b",
+            "contractLabel": "Pair (wETH-ARB)",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          },
+          {
+            "contractId": "2337ca7a-c254-4d88-ab91-5e7292bcc5c5",
+            "contractLabel": "Pair (wETH-GMX)",
+            "contractAddress": "0xFA5AA52f6b5BAF76bD095504aD097E7d5bB9A88a"
+          }
+        ]
+      },
+      "endDate": "2024-07-01T07:00:00.000Z",
+      "planned": {
+        "changes": "Our Dune Query for tracking TVL + LP's now includes an daily_avg_tvl column so this can properly be reflected on the dashboard.\nhttps://dune.com/queries/3718313/6255865",
+        "expectations": "We expect the same amount of ARB disbursement will be distributed in the next bi-weekly reporting period, which will still be 1487 ARB per day.",
+        "arbToBeDistributed": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-06-17T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "No meaningful changes applied.",
+        "lessons": "N/A",
+        "avgDailyTVL": 112075,
+        "avgDailyTXNS": 12,
+        "avgDailyUniqueUsers": 12
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 37500,
+        "arbUtilized": 20349,
+        "disclosures": "All data tracking queries have been updated to match the expected formats",
+        "arbRemaining": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "e6778ddb-d431-48f7-8ca5-8e14bcec64e7",
+            "contractLabel": "Pair (wETH-USDC)",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "3593d88d-1ad6-4b65-94a9-dd9abff80304",
+            "contractLabel": "Pair (wETH-USDC.e)",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "269d30d5-c694-442b-afa2-ab32edee6eeb",
+            "contractLabel": "Pair (wETH-wstETH)",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "929cd873-99f9-441e-bc78-d99c2c96d0a0",
+            "contractLabel": "Pair (wETH-USDT)",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "4c286f92-2a38-4b2d-90a6-81e1d4f4797f",
+            "contractLabel": "Pair (wETH-ARB)",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          },
+          {
+            "contractId": "8520b130-dc92-497a-8852-259adf5d88df",
+            "contractLabel": "Pair (wETH-GMX)",
+            "contractAddress": "0xFA5AA52f6b5BAF76bD095504aD097E7d5bB9A88a"
+          }
+        ]
+      },
+      "endDate": "2024-07-15T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "We expect the same amount of ARB disbursement will be distributed in the next bi-weekly reporting period, which will still be 1487 ARB per day.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "30625b66-3ce7-4eef-bde8-926ce032b2ad",
+            "contractLabel": "Pair (wETH-USDC)",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "91474368-3ced-4709-9f6d-f2ea1bf62d74",
+            "contractLabel": "Pair (wETH-USDC.e)",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "c2a2412f-946d-4cc0-aec3-e1aa8b0d3244",
+            "contractLabel": "Pair (wETH-wstETH)",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "8dfcd7a1-37f7-4ad7-b674-fd6da69347b4",
+            "contractLabel": "Pair (wETH-USDT)",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "8d7c8860-1a6e-4d9f-8e05-dec00be56481",
+            "contractLabel": "Pair (wETH-ARB)",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          },
+          {
+            "contractId": "63ae49eb-109f-40d0-8c51-5fa3f81f1aa3",
+            "contractLabel": "Pair (wETH-GMX)",
+            "contractAddress": "0xFA5AA52f6b5BAF76bD095504aD097E7d5bB9A88a"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-01T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 142211,
+        "avgDailyTXNS": 1080,
+        "avgDailyUniqueUsers": 12
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "Providing liquidity incentives to Integral's Arbitrum Deployment.",
+        "incentives": "",
+        "arbReceived": 37500,
+        "arbUtilized": 22216,
+        "disclosures": "N/A",
+        "arbRemaining": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          }
+        ]
+      },
+      "endDate": "2024-07-29T07:00:00.000Z",
+      "planned": {
+        "changes": "N/A",
+        "expectations": "We expect to see continued TVL + Volume increase among the incentivized pools.",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-15T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 145812,
+        "avgDailyTXNS": 1365,
+        "avgDailyUniqueUsers": 15
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 37500,
+        "arbUtilized": 17956,
+        "disclosures": "n/a",
+        "arbRemaining": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          }
+        ]
+      },
+      "endDate": "2024-08-12T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-07-29T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "n/a",
+        "avgDailyTVL": 136998,
+        "avgDailyTXNS": 868,
+        "avgDailyUniqueUsers": 6
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 37500,
+        "arbUtilized": 21781,
+        "disclosures": "n/a",
+        "arbRemaining": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          }
+        ]
+      },
+      "endDate": "2024-08-26T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 37500,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          }
+        ],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-12T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "n/a",
+        "lessons": "All un used ARB has been returned to the foundation.\nhttps://arbiscan.io/tx/0x1ca2404693acb0e2f58a9ee5cb367378e92cd76ab28c9f9209a96c14f59410d5\n",
+        "avgDailyTVL": 95743,
+        "avgDailyTXNS": 759,
+        "avgDailyUniqueUsers": 6
+      },
+      "status": "Finalized",
+      "actuals": {
+        "summary": "n/a",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 14516,
+        "disclosures": "n/a",
+        "arbRemaining": 0,
+        "contractsIncentivized": [
+          {
+            "contractId": "4a3655cb-8bcd-4226-b19c-20575e72de44",
+            "contractLabel": "wETH-USDC",
+            "contractAddress": "0x4bca34ad27df83566016b55c60dd80a9eb14913b"
+          },
+          {
+            "contractId": "912fb630-8332-4417-bc26-6a90be45e90e",
+            "contractLabel": "wETH-USDC.e",
+            "contractAddress": "0x4BCa34ad27Df83566016B55c60Dd80a9eB14913b"
+          },
+          {
+            "contractId": "e8002cdd-4c3f-4a40-bb05-ef306a7700ba",
+            "contractLabel": "wETH-wstETH",
+            "contractAddress": "0x7A0f899EF730FE178E0574B8DAb4440cA336e415"
+          },
+          {
+            "contractId": "ac40208d-f32f-4ba0-ac55-0e96b561faae",
+            "contractLabel": "wETH-ARB",
+            "contractAddress": "0x24E24Acd861642B4244bb1297D8944D84c2E9625"
+          },
+          {
+            "contractId": "facaea2a-5472-47e6-9239-513821db031b",
+            "contractLabel": "wETH-USDT",
+            "contractAddress": "0xf31778748B3364fC43d6ab6AAc4f52E2C29B6353"
+          }
+        ]
+      },
+      "endDate": "2024-09-09T07:00:00.000Z",
+      "planned": {
+        "changes": "n/a",
+        "expectations": "n/a",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": [
+          "LPIncentives"
+        ]
+      },
+      "startDate": "2024-08-26T07:00:00.000Z"
+    },
+    {
+      "stats": {
+        "kpis": [],
+        "changes": "",
+        "lessons": "",
+        "avgDailyTVL": 0,
+        "avgDailyTXNS": 0,
+        "avgDailyUniqueUsers": 0
+      },
+      "status": "NotStarted",
+      "actuals": {
+        "summary": "",
+        "incentives": "",
+        "arbReceived": 0,
+        "arbUtilized": 0,
+        "disclosures": "",
+        "arbRemaining": 0,
+        "contractsIncentivized": []
+      },
+      "endDate": "2024-09-23T07:00:00.000Z",
+      "planned": {
+        "changes": "",
+        "expectations": "",
+        "arbToBeDistributed": 0,
+        "contractsIncentivized": [],
+        "distributionMechanism": []
+      },
+      "startDate": "2024-09-09T07:00:00.000Z"
+    }
+  ],
+  "grantSize": 225000,
+  "fundingType": [
+    "EOA"
+  ],
+  "granteeName": "Integral",
+  "grantSummary": "",
+  "fundingAddress": "0xDB8c9BcC43c71e07415BC90904e2BE289b65d46c",
+  "editorAddresses": [],
+  "matchingGrantSize": 225000,
+  "metricsDashboardLink": "",
+  "authorizedSignerAddress": "0xeDA03FbC91bf77339b9387a8Aebe55524bB96Add",
+  "disbursementContractAddress": "0xaE38cF8157b7A7CFb6Cf47CFc82bE0A19F9145dB"
+}
