@@ -12,6 +12,22 @@ export default async function StipGranteePage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const document = await getStipDocument(id);
-  return <GranteeDetail program="stip" state={document.state} />;
+  const [document, list] = await Promise.all([
+    getStipDocument(id),
+    getStipDocuments({ limit: 500 }),
+  ]);
+  const grantees = list.items
+    .map((item) => ({
+      id: item.id,
+      name: item.state.granteeName?.trim() || "Untitled grantee",
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+  return (
+    <GranteeDetail
+      program="stip"
+      id={id}
+      state={document.state}
+      grantees={grantees}
+    />
+  );
 }

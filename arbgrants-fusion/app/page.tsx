@@ -1,5 +1,7 @@
+import { Suspense } from "react";
 import { getLtipDocuments, getStipDocuments } from "@/services/powerhouse";
-import { GranteeSection } from "@/components/GranteeSection";
+import { ProgramTabs } from "@/components/ProgramTabs";
+import { MainScrollRestorer } from "@/components/MainScrollRestorer";
 
 export default async function Home() {
   const [ltip, stip] = await Promise.all([
@@ -9,6 +11,7 @@ export default async function Home() {
 
   return (
     <div>
+      <MainScrollRestorer />
       <section className="relative overflow-hidden border-b border-zinc-200 dark:border-arb-border">
         <div
           aria-hidden="true"
@@ -39,7 +42,7 @@ export default async function Home() {
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href="#ltip"
+              href="?program=ltip#programs"
               className="group inline-flex items-center gap-3 rounded-lg border border-arb-blue/30 bg-white/70 dark:bg-arb-navy-tint/60 backdrop-blur px-4 py-2.5 text-sm font-medium hover:border-arb-blue dark:hover:border-arb-teal transition-colors"
             >
               <span className="font-mono text-xs uppercase tracking-wider text-arb-blue dark:text-arb-teal">
@@ -48,7 +51,7 @@ export default async function Home() {
               <span>{ltip.totalCount} grantees</span>
             </a>
             <a
-              href="#stip"
+              href="?program=stip#programs"
               className="group inline-flex items-center gap-3 rounded-lg border border-arb-blue/30 bg-white/70 dark:bg-arb-navy-tint/60 backdrop-blur px-4 py-2.5 text-sm font-medium hover:border-arb-blue dark:hover:border-arb-teal transition-colors"
             >
               <span className="font-mono text-xs uppercase tracking-wider text-arb-blue dark:text-arb-teal">
@@ -60,24 +63,13 @@ export default async function Home() {
         </div>
       </section>
 
-      <div className="mx-auto max-w-6xl px-6 py-14 space-y-16">
-        <GranteeSection
-          id="ltip"
-          program="ltip"
-          title="LTIP Grantees"
-          subtitle="Long-Term Incentives Program"
-          items={ltip.items}
-          totalCount={ltip.totalCount}
-        />
-
-        <GranteeSection
-          id="stip"
-          program="stip"
-          title="STIP Grantees"
-          subtitle="Short-Term Incentives Program"
-          items={stip.items}
-          totalCount={stip.totalCount}
-        />
+      <div className="mx-auto max-w-6xl px-6 py-14">
+        <Suspense fallback={null}>
+          <ProgramTabs
+            ltip={{ items: ltip.items, totalCount: ltip.totalCount }}
+            stip={{ items: stip.items, totalCount: stip.totalCount }}
+          />
+        </Suspense>
       </div>
     </div>
   );

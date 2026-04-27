@@ -5,16 +5,19 @@ import type {
 } from "@arbitrum/arbgrants/document-models/arbitrum-ltip-grantee";
 import type { ArbitrumStipGranteeState } from "@arbitrum/arbgrants/document-models/arbitrum-stip-grantee";
 import { AddressRow } from "./AddressRow";
+import { GranteeJumpSelector } from "./GranteeJumpSelector";
 import { PhaseCard } from "./PhaseCard";
 import { Stat } from "./Stat";
 import { formatArb } from "@/lib/format";
 
 type Props = {
   program: "ltip" | "stip";
+  id: string;
   state: ArbitrumLtipGranteeState | ArbitrumStipGranteeState;
+  grantees: ReadonlyArray<{ id: string; name: string }>;
 };
 
-export function GranteeDetail({ program, state }: Props) {
+export function GranteeDetail({ program, id, state, grantees }: Props) {
   const name = state.granteeName?.trim() || "Untitled grantee";
   const phases = (state.phases ?? []).filter(
     (p): p is Phase => p !== null && p !== undefined,
@@ -25,13 +28,19 @@ export function GranteeDetail({ program, state }: Props) {
 
   return (
     <div className="mx-auto max-w-5xl px-6 py-10 space-y-10">
-      <div>
+      <div className="flex flex-wrap items-center justify-between gap-3">
         <Link
-          href="/"
+          href={`/?program=${program}`}
+          scroll={false}
           className="inline-flex items-center gap-1 text-sm font-mono uppercase tracking-wider text-zinc-500 dark:text-arb-muted hover:text-arb-blue dark:hover:text-arb-blue transition-colors"
         >
           ← Back to grantees
         </Link>
+        <GranteeJumpSelector
+          program={program}
+          currentId={id}
+          grantees={grantees}
+        />
       </div>
 
       <header className="flex flex-wrap items-start justify-between gap-6 border-b border-zinc-200 dark:border-arb-border pb-8">

@@ -68,13 +68,13 @@ export default function RootLayout({
             </Link>
             <nav className="flex items-center gap-6 text-sm font-medium">
               <Link
-                href="/#ltip"
+                href="/?program=ltip#programs"
                 className="text-zinc-600 dark:text-zinc-400 hover:text-arb-blue dark:hover:text-arb-teal transition-colors"
               >
                 LTIP
               </Link>
               <Link
-                href="/#stip"
+                href="/?program=stip#programs"
                 className="text-zinc-600 dark:text-zinc-400 hover:text-arb-blue dark:hover:text-arb-teal transition-colors"
               >
                 STIP
