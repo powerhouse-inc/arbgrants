@@ -8,37 +8,37 @@
   ],
   "exports": {
     ".": {
-      "types": "./dist/index.d.ts",
+      "types": "./dist/browser/index.d.ts",
       "browser": "./dist/browser/index.js",
       "node": "./dist/node/index.mjs"
     },
     "./document-models": {
-      "types": "./dist/document-models/index.d.ts",
+      "types": "./dist/browser/document-models/index.d.ts",
       "browser": "./dist/browser/document-models/index.js",
       "node": "./dist/node/document-models/index.mjs"
     },
     "./document-models/*": {
-      "types": "./dist/document-models/*/index.d.ts",
+      "types": "./dist/browser/document-models/*/index.d.ts",
       "browser": "./dist/browser/document-models/*/index.js",
       "node": "./dist/node/document-models/*/index.mjs"
     },
     "./editors": {
-      "types": "./dist/editors/index.d.ts",
+      "types": "./dist/browser/editors/index.d.ts",
       "browser": "./dist/browser/editors/index.js",
       "node": "./dist/node/editors/index.mjs"
     },
     "./editors/*": {
-      "types": "./dist/editors/*/index.d.ts",
-      "browser": "./dist/browser/editors/*/index.js",
-      "node": "./dist/node/editors/*/index.mjs"
+      "types": "./dist/browser/editors/*/module.d.ts",
+      "browser": "./dist/browser/editors/*/module.js",
+      "node": "./dist/node/editors/*/module.mjs"
     },
     "./subgraphs": {
-      "types": "./dist/subgraphs/index.d.ts",
+      "types": "./dist/browser/subgraphs/index.d.ts",
       "browser": "./dist/browser/subgraphs/index.js",
       "node": "./dist/node/subgraphs/index.mjs"
     },
     "./processors": {
-      "types": "./dist/processors/index.d.ts",
+      "types": "./dist/browser/processors/index.d.ts",
       "browser": "./dist/browser/processors/index.js",
       "node": "./dist/node/processors/index.mjs"
     },
@@ -64,15 +64,15 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.2.10",
-    "@powerhousedao/analytics-engine-core": "6.0.0-dev.192",
-    "@powerhousedao/connect": "6.0.0-dev.192",
-    "@powerhousedao/design-system": "6.0.0-dev.192",
+    "@powerhousedao/analytics-engine-core": "6.0.0-dev.200",
+    "@powerhousedao/connect": "6.0.0-dev.200",
+    "@powerhousedao/design-system": "6.0.0-dev.200",
     "@powerhousedao/document-engineering": "1.40.1",
-    "@powerhousedao/reactor-api": "6.0.0-dev.192",
-    "@powerhousedao/reactor-browser": "6.0.0-dev.192",
+    "@powerhousedao/reactor-api": "6.0.0-dev.200",
+    "@powerhousedao/reactor-browser": "6.0.0-dev.200",
     "@types/uuid": "^11.0.0",
     "change-case": "^5.4.4",
-    "document-model": "6.0.0-dev.192",
+    "document-model": "6.0.0-dev.200",
     "graphql": "^16.10.0",
     "graphql-tag": "^2.12.6",
     "react": "^19.2.3",
@@ -86,8 +86,8 @@
     "@electric-sql/pglite": "0.3.15",
     "@electric-sql/pglite-tools": "0.2.20",
     "@eslint/js": "^9.38.0",
-    "@powerhousedao/ph-cli": "6.0.0-dev.192",
-    "@powerhousedao/reactor": "6.0.0-dev.192",
+    "@powerhousedao/ph-cli": "6.0.0-dev.200",
+    "@powerhousedao/reactor": "6.0.0-dev.200",
     "@tailwindcss/cli": "^4.1.18",
     "@types/node": "^24.9.2",
     "@types/react": "^19.2.3",

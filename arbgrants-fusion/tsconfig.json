@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "composite": true,
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
@@ -22,6 +23,11 @@
       "@/*": ["./src/*"]
     }
   },
+  "references": [
+    {
+      "path": "../arbgrants"
+    }
+  ],
   "include": [
     "next-env.d.ts",
     "**/*.ts",

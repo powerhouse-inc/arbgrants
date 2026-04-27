@@ -2,6 +2,7 @@
   "compilerOptions": {
     "outDir": "./dist",
     "rootDir": ".",
+    "composite": true,
     // paths for easy access to project modules
     "paths": {
       "document-models": ["./document-models/index.ts"],

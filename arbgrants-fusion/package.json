@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@arbitrum/arbgrants": "workspace:*",
-    "@powerhousedao/reactor-browser": "6.0.0-dev.192",
-    "document-model": "6.0.0-dev.192",
+    "@powerhousedao/reactor-browser": "6.0.0-dev.200",
+    "document-model": "6.0.0-dev.200",
     "next": "16.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4"

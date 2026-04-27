@@ -20,3 +20,6 @@ next-env.d.ts
 .vercel
 .ph
 projects-import.js
+
+.claude/settings.local.json
+.playwright-cli/
